@@ -135,7 +135,7 @@ if (mode === 'daily') {
   try {
     body = await chat(
       '你是一位中文科技编辑，为「AI 热点日报」撰写当天汇总。输出 Markdown 正文（不要用代码块包裹、不要另起 frontmatter），结构：\n' +
-        '## 今日要点\n精选 8-12 条，每条格式：**标题**（来源平台）：一句话中文摘要 [原文](URL)，链接 URL 必须来自输入条目，不要添加其他链接。\n' +
+        '## 今日要点\n精选 8-12 条，必须是列表项，每条以 "- " 开头，格式：- **标题**（来源平台）：一句话中文摘要 [原文](URL)，链接 URL 必须来自输入条目，不要添加其他链接。\n' +
         '## 趋势观察\n2-3 段，指出今天值得关注的主线、信号。\n' +
         GUARD,
       feed
@@ -153,8 +153,8 @@ if (mode === 'daily') {
   for (const it of refItems) writeItemPage(it, details.get(it.url), date);
   // 要点结构化：标题即链接（有详述页→详情，否则→原文），点击整个要点区域跳转
   body = body.replace(
-    /^(\d+\.|-)\s\*\*(.+?)\*\*（(.+?)）：\s*(.+?)\s*\[原文\]\(([^)]+)\)\s*$/gm,
-    (m, _b, t, s, sum, u) => {
+    /^(?:[-*]\s+|\d+\.\s+|)\*\*(.+?)\*\*（(.+?)）：\s*(.+?)\s*\[原文\]\(([^)]+)\)\s*$/gm,
+    (m, t, s, sum, u) => {
       const href = refItems.some((i) => i.url === u) ? `${SITE_BASE}/items/${hash12(u)}/` : u;
       return `- **[${t}](${href})**（${s}）\n\n  ${sum.trim().replace(/\s*·\s*$/, '')}`;
     }
