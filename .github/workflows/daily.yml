@@ -52,12 +52,12 @@ jobs:
           AI_MODEL: ${{ secrets.AI_MODEL }}
           SENSITIVE_KEYWORDS: ${{ secrets.SENSITIVE_KEYWORDS }}
 
-      - name: 提交数据与汇总
+      - name: Commit data and digests
         run: |
-          git config user.name "ai-digest[bot]"
-          git config user.email "bot@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data src/content
-          git diff --cached --quiet || git commit -m "[bot] $(date -u +%F) 抓取与汇总"
+          git diff --cached --quiet || git commit -m "daily: fetch and summarize $(date -u +%F)"
           git push
 
       - name: 构建站点
