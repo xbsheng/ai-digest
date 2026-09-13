@@ -4,6 +4,7 @@
 //          AI_API_KEY、AI_MODEL（可选，默认 gpt-4o-mini）
 // 每条要点同时生成独立详述页（src/content/items/），AI 不可用时降级为原始条目，流水线不中断。
 import { existsSync, readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { randomUUID } from 'node:crypto';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { isSensitive, normalizeTaiwan, hash12 } from './text.mjs';
@@ -39,7 +40,7 @@ async function chat(system, user, { json = false } = {}) {
   };
   const r = await fetch(`${base}/chat/completions`, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${key}` },
+    headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${key}`, 'x-opencode-session': randomUUID() },
     body: JSON.stringify(body),
   });
   if (!r.ok && json) {
@@ -47,7 +48,7 @@ async function chat(system, user, { json = false } = {}) {
     delete body.response_format;
     const r2 = await fetch(`${base}/chat/completions`, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${key}` },
+      headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${key}`, 'x-opencode-session': randomUUID() },
       body: JSON.stringify(body),
     });
     if (!r2.ok) throw new Error(`AI API ${r2.status}: ${(await r2.text()).slice(0, 300)}`);

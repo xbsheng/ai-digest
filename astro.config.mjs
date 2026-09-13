@@ -17,7 +17,7 @@ function externalLinks() {
 // 部署到 GitHub 项目页 (username.github.io/ai-digest) 时需同时设置 site 和 base；
 // 部署到自定义域名或 Vercel 时留空即可。
 export default defineConfig({
-  site: 'https://YOUR_USERNAME.github.io',
+  site: 'https://xbsheng.github.io',
   base: '/ai-digest',
   markdown: { rehypePlugins: [externalLinks] },
 });

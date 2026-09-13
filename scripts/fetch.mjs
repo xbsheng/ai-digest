@@ -138,20 +138,30 @@ const all = [...r, ...h, ...a, ...g]
   .filter((i) => !isSensitive(i.title))
   .map((i) => ({ ...i, title: normalizeTaiwan(i.title) }));
 
+const [ty, tm, td] = today.split('-');
+const outPath = join(dataDir, ty, tm, `${td}.json`);
+// 同日重抓幂等：今日自身已见条目不算重复，并与旧数据合并，避免当天重复运行清空数据
+const prev = existsSync(outPath) ? JSON.parse(readFileSync(outPath, 'utf8')).items : [];
+const prevSet = new Set(prev.map((i) => hash(normTitle(i.title))));
+
 const items = all.filter((i) => {
   const h1 = hash(normTitle(i.title));
-  if (seen.has(h1)) return false;
+  if (seen.has(h1) && !prevSet.has(h1)) return false;
   seen.add(h1);
+  prevSet.add(h1);
   return true;
 });
+const merged = [...prev, ...items].filter(
+  (i, idx, arr) => arr.findIndex((j) => hash(normTitle(j.title)) === hash(normTitle(i.title))) === idx
+);
 
 let seenArr = [...seen];
 if (seenArr.length > SEEN_CAP) seenArr = seenArr.slice(-SEEN_CAP);
 writeFileSync(seenPath, JSON.stringify(seenArr));
 
-const out = { date: today, fetchedAt: new Date().toISOString(), total: all.length, items };
+const out = { date: today, fetchedAt: new Date().toISOString(), total: all.length, items: merged };
 const [y, m, d] = today.split('-');
 const dayDir = join(dataDir, y, m);
 mkdirSync(dayDir, { recursive: true });
 writeFileSync(join(dayDir, `${d}.json`), JSON.stringify(out, null, 2));
-console.log(`已保存 ${items.length}/${all.length} 条 → data/${y}/${m}/${d}.json（去重剔除 ${all.length - items.length} 条）`);
+console.log(`已保存 ${merged.length}/${all.length} 条 → data/${y}/${m}/${d}.json（本次新增 ${items.length} 条）`);
