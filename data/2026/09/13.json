@@ -1,0 +1,427 @@
+{
+  "date": "2026-09-13",
+  "fetchedAt": "2026-09-13T08:10:48.838Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "score": 406,
+      "comments": 247,
+      "discuss": "https://news.ycombinator.com/item?id=49678683"
+    },
+    {
+      "source": "hackernews",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "score": 231,
+      "comments": 133,
+      "discuss": "https://news.ycombinator.com/item?id=49676820"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "score": 149,
+      "comments": 163,
+      "discuss": "https://news.ycombinator.com/item?id=49678969"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic CEO Says It's Time to Slow AI Model Advances",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "score": 48,
+      "comments": 76,
+      "discuss": "https://news.ycombinator.com/item?id=49675247"
+    },
+    {
+      "source": "hackernews",
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "url": "https://agentsdock.net/",
+      "score": 45,
+      "comments": 21,
+      "discuss": "https://news.ycombinator.com/item?id=49678435"
+    },
+    {
+      "source": "hackernews",
+      "title": "Align AI and Mathematics–To Something Else",
+      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+      "score": 32,
+      "comments": 24,
+      "discuss": "https://news.ycombinator.com/item?id=49678783"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic CEO says AI swarm could 'take over the Internet' in 6-12 months",
+      "url": "https://venturebeat.com/security/anthropic-ceo-says-ai-swarm-could-take-over-the-entire-internet-in-6-12-months-commits-to-ai-slowdown-plan",
+      "score": 25,
+      "comments": 14,
+      "discuss": "https://news.ycombinator.com/item?id=49679685"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple wants to train AI on your private personal data",
+      "url": "https://machinelearning.apple.com/research/introducing-third-generation-of-apple-foundation-models",
+      "score": 24,
+      "comments": 18,
+      "discuss": "https://news.ycombinator.com/item?id=49678878"
+    },
+    {
+      "source": "hackernews",
+      "title": "Void Linux Maintainer Orphans 100 Packages over AI Policy Dispute",
+      "url": "https://www.phoronix.com/news/Void-Linux-AI-Policy-Orphan",
+      "score": 19,
+      "comments": 15,
+      "discuss": "https://news.ycombinator.com/item?id=49676506"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nobody wrote the Matrix and AI code-writing will be dead by 2036",
+      "url": "https://lufzle.dev/write/nobody-wrote-the-matrix/",
+      "score": 15,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=49678510"
+    },
+    {
+      "source": "hackernews",
+      "title": "A.I. Slopware Is Everywhere Now. Nobody Is Using It",
+      "url": "https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html",
+      "score": 14,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49678961"
+    },
+    {
+      "source": "hackernews",
+      "title": "Terrence Tao: AI Is Teaching Us Something Uncomfortable About Our Own Minds [video]",
+      "url": "https://www.youtube.com/watch?v=DRDoABHToEo",
+      "score": 12,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49680084"
+    },
+    {
+      "source": "hackernews",
+      "title": "Claude AIs tricked into unescapable conversation [beginning: Ctrl^F to \"AI 1\"]",
+      "url": "https://www.thisamericanlife.org/896/transcript",
+      "score": 9,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49680142"
+    },
+    {
+      "source": "hackernews",
+      "title": "Dario Just Said Pump the Brakes on AI",
+      "url": "https://captaincompliance.com/education/dario-just-proposed-slowing-ai-development-on-purpose/",
+      "score": 9,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49675489"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
+      "url": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
+      "score": 8,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49680858"
+    },
+    {
+      "source": "arxiv",
+      "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
+      "url": "http://arxiv.org/abs/2609.11923v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Boning Li, Longbo Huang",
+      "discuss": "http://arxiv.org/abs/2609.11923v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "General Quantification of Covariate and Concept Shifts",
+      "url": "http://arxiv.org/abs/2609.11918v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Hongbo Chen, Li Charlie Xia",
+      "discuss": "http://arxiv.org/abs/2609.11918v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
+      "url": "http://arxiv.org/abs/2609.11917v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Atindra Jha, Margaret Li, Jure Leskovec",
+      "discuss": "http://arxiv.org/abs/2609.11917v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
+      "url": "http://arxiv.org/abs/2609.11916v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "William Zhou, Mayukha Siripuram, Xiao Yan",
+      "discuss": "http://arxiv.org/abs/2609.11916v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
+      "url": "http://arxiv.org/abs/2609.11915v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Masahiro Kato, Daiki Honma, Taka Kato",
+      "discuss": "http://arxiv.org/abs/2609.11915v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Distance generalization in transformers: why bother with positional encoding?",
+      "url": "http://arxiv.org/abs/2609.11913v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Daniel Henrik Nevermann, Claudius Gros",
+      "discuss": "http://arxiv.org/abs/2609.11913v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
+      "url": "http://arxiv.org/abs/2609.11911v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yakov Pyotr Shkolnikov",
+      "discuss": "http://arxiv.org/abs/2609.11911v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good",
+      "url": "http://arxiv.org/abs/2609.11910v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Nitesh V. Chawla, Paulo Benanti",
+      "discuss": "http://arxiv.org/abs/2609.11910v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription",
+      "url": "http://arxiv.org/abs/2609.11904v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Akshaj Gupta, Hwi Joo Park, Andrea Guzman",
+      "discuss": "http://arxiv.org/abs/2609.11904v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "MindTopo: Can Foundation Models Reason in Topological Space?",
+      "url": "http://arxiv.org/abs/2609.11900v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yunfei Ge, Anbang Liu, Qineng Wang",
+      "discuss": "http://arxiv.org/abs/2609.11900v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era",
+      "url": "http://arxiv.org/abs/2609.11897v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Zi-Rong Li, Si-Yang Liu, Tian-Zuo Wang",
+      "discuss": "http://arxiv.org/abs/2609.11897v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "3D Point Splatting for mmWave Radar Novel View Synthesis",
+      "url": "http://arxiv.org/abs/2609.11894v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Adnan Armouti, Yixuan Gao, Rajalakshmi Nandakumar",
+      "discuss": "http://arxiv.org/abs/2609.11894v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Nuha-Speech: Building General-Purpose Arabic Speech-LLMs",
+      "url": "http://arxiv.org/abs/2609.11892v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yingzhi Wang, Reem Alhazzani, Muhammad Alqurishi",
+      "discuss": "http://arxiv.org/abs/2609.11892v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "CoRA-NAS: Coarse Ranking and Anchor-Residual Refinement for Neural Architecture Search",
+      "url": "http://arxiv.org/abs/2609.11884v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yifan Yang, Zhaoyan Wang, Zheng Gao",
+      "discuss": "http://arxiv.org/abs/2609.11884v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Domain-Specific Hallucination Detection in Large Language Models",
+      "url": "http://arxiv.org/abs/2609.11878v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Varun Teja Chundru, Debasmita Biswas",
+      "discuss": "http://arxiv.org/abs/2609.11878v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens",
+      "url": "http://arxiv.org/abs/2609.11877v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Carl Edwards, Edward De Brouwer, Xiner Li",
+      "discuss": "http://arxiv.org/abs/2609.11877v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "On the Regularization Landscape for the Linear Recommendation Models",
+      "url": "http://arxiv.org/abs/2609.11876v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Dong Li, Zhenming Liu, Ruoming Jin",
+      "discuss": "http://arxiv.org/abs/2609.11876v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement",
+      "url": "http://arxiv.org/abs/2609.11873v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yi Duan, Ying Liu, Zirui Tang",
+      "discuss": "http://arxiv.org/abs/2609.11873v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Evaluating Time-Series Foundation Models and Multimodal Dietary Context for CGM Forecasting",
+      "url": "http://arxiv.org/abs/2609.11872v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Bowen Zhang, Hsiu-Wen Cheng, Hongyu Yang",
+      "discuss": "http://arxiv.org/abs/2609.11872v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Augustinian BabyLM: What Ostensive Definition Can and Cannot Teach a Small Language Model",
+      "url": "http://arxiv.org/abs/2609.11870v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Lisa Bylinina",
+      "discuss": "http://arxiv.org/abs/2609.11870v1"
+    },
+    {
+      "source": "google-news",
+      "title": "Anthropic 前雇员：同业“真诚恐惧”人类遭 AI 灭绝，西方必须与中国协调 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qdHU1MkJEYzBibnV3Nm5YWTJBR21XY2ozM0Zybmktc0xPT2s1U1M3Y3lCbXVrdGNHZ0hxdllSMWl6NTFmNUp2Yk9IaFhadE5rRDNhaHZuSkVTeWFDSEMyWlRIRko3Z9IBa0FVX3lxTE0yWHd0NVRYOS1jSkdybWsxTGZvbDFiMnVla1pyYjRCa0JDRS1XSEFoYWw4V19fYXl2RXRUN2NZVG5xblZBNUVlRUpqY3V2V3NCcXJyNkhLckY5Y19xbXNkblpZWnJiVk1RN2tZ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5qdHU1MkJEYzBibnV3Nm5YWTJBR21XY2ozM0Zybmktc0xPT2s1U1M3Y3lCbXVrdGNHZ0hxdllSMWl6NTFmNUp2Yk9IaFhadE5rRDNhaHZuSkVTeWFDSEMyWlRIRko3Z9IBa0FVX3lxTE0yWHd0NVRYOS1jSkdybWsxTGZvbDFiMnVla1pyYjRCa0JDRS1XSEFoYWw4V19fYXl2RXRUN2NZVG5xblZBNUVlRUpqY3V2V3NCcXJyNkhLckY5Y19xbXNkblpZWnJiVk1RN2tZ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "开源模型正重塑全球AI竞争格局 2026-09-13 15:32:48 - 经济形势报告网",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlVzlGanZsQjBSRUQxN3FMY2lOVUlIbDdvMk1PNzRaaWY1QjNqblZyTzVxY0Q2RzJNeFNOLVVLcnZQdEwtUWswWXBZcFN0LTFZcVgyeE1QLW01R2hUcW5vQw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlVzlGanZsQjBSRUQxN3FMY2lOVUlIbDdvMk1PNzRaaWY1QjNqblZyTzVxY0Q2RzJNeFNOLVVLcnZQdEwtUWswWXBZcFN0LTFZcVgyeE1QLW01R2hUcW5vQw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "工信部答中青报：AI与工业软件融合正沿两条路径展开 - 中青在线",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Qelg0TU5QZEpGeGhtWGJSTHdPZ3NyTmFkQUFGYUVRSkZ1UEFFNFl4dHNyQjJQbk5JeXZDTXpObjB4ajRZU3FnR3dXc3RKeDJ2dGtTVEJVS1FFUlRXSGRXWDBac2RIQm1BNUpWZEFrbERCZW1JWjI4dg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Qelg0TU5QZEpGeGhtWGJSTHdPZ3NyTmFkQUFGYUVRSkZ1UEFFNFl4dHNyQjJQbk5JeXZDTXpObjB4ajRZU3FnR3dXc3RKeDJ2dGtTVEJVS1FFUlRXSGRXWDBac2RIQm1BNUpWZEFrbERCZW1JWjI4dg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "数智先锋 联通未来丨与AI同行 开启人机协同新篇 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWNlhLTDBRdmh0bmI5ZDlCNGxJd0FFQU10Tk1jSFR3azVSZGVUbDNSYkdsQlBpdUdiVVY1OGp6QUoxNGZnVTlJa05ZQjljTVFvVkJPYXpFalEyUVo5MWJsRGd2R2pvc0o3UEo5cFVVZ3VYR0VoeTNJ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWNlhLTDBRdmh0bmI5ZDlCNGxJd0FFQU10Tk1jSFR3azVSZGVUbDNSYkdsQlBpdUdiVVY1OGp6QUoxNGZnVTlJa05ZQjljTVFvVkJPYXpFalEyUVo5MWJsRGd2R2pvc0o3UEo5cFVVZ3VYR0VoeTNJ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "顶尖数学家联名疾呼：AI正在摧毁数学的根基 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZUFacjhIenV5VlZxSnJnY296SEVsbHhIdm9JZVp5UzMzUEJVazhlcnhOS0l4WGF4cFJYb3BfVTlPalUyNlNVVHNCdWMyN2tjcm1XbDRRcHhqN3U0NW1vWVMtNDFxdGwyR2hZWmtpOGNuTlZMTGNvZEx0bjVTWGs1a0JjSXJfNS1tUklpMm0yclFUZmI0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZUFacjhIenV5VlZxSnJnY296SEVsbHhIdm9JZVp5UzMzUEJVazhlcnhOS0l4WGF4cFJYb3BfVTlPalUyNlNVVHNCdWMyN2tjcm1XbDRRcHhqN3U0NW1vWVMtNDFxdGwyR2hZWmtpOGNuTlZMTGNvZEx0bjVTWGs1a0JjSXJfNS1tUklpMm0yclFUZmI0?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "信通院人工智能所所长一行到亚信安全参观交流 - eastmoney.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92aUZqOFRGTWh1dm5PSThHT3B6MHcxNW9obUNsZ1ZuY2dEVXczR1BqYzhYUGt6Y01WLVRlMXNuQVZGdmdXM2NLNU1CaDh4cHE0OVlBSDV3Vm5OTjRtalR1dg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92aUZqOFRGTWh1dm5PSThHT3B6MHcxNW9obUNsZ1ZuY2dEVXczR1BqYzhYUGt6Y01WLVRlMXNuQVZGdmdXM2NLNU1CaDh4cHE0OVlBSDV3Vm5OTjRtalR1dg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FOGE3M0FSb0dTSTM4RjNPdDJEVG9ZV0UwLWd6bTRhZlJKRWFNcFFWQ1RfQVJCYW5VWjUxQ2U5MXE4dUtlMDhraw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FOGE3M0FSb0dTSTM4RjNPdDJEVG9ZV0UwLWd6bTRhZlJKRWFNcFFWQ1RfQVJCYW5VWjUxQ2U5MXE4dUtlMDhraw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "联合国人权高专警告AI可能构成“生存威胁” - DW.com",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWE9xMHpJaGk1V1ZlVXh3SXBLbHJKVms3a2s3MVo5bTBhZDFCcjZmdXZsdENpWTlfZUE1Uk9IbUxfandjMlBCYmRfOWY0Q2x4cTFpNnFta01VRWJxcm92ZkY1N0NLaFZVcmpkRk1FSVlMSjlrbUJUYUtoVm9jSlNzXzVrX09fUVhiVHMwOGxPM1p0T2xNR2VIeFFCUVc2bE5jdUVZVVpzZlU1YTdDZGJrWDMxRWM2aUdZdnR6a0daRDB6aXVybENHTDBSbXMxSVRTbWdTQnBqeEFNSFdOU0plMlNERTVpTE1MeDh2bEl2VG1LaWZlUGlxamwxZGtmRHBRVEVydHJjTktnNzNqX0l4MGJURXEwOEXSAZcCQVVfeXFMUGZmWEJQbmxJbDJTc1oxQ25DUFNNUWxNQmkyUGUtMjhqeGMtZXQ3WGNlb2ItLVZFYkpkdW9HSU1EYVBWRDIwYTJRRWVnOHp2T19UT1pRbjdOTXhVZUhZWUktWjBRRVdJbFJPWjFjTlJubUJyWmlTRUFIbFM1S1R5TU9PNzRRNHJtVlFoNlk2SVdzRUtJVjJxV096dk1WRG1VN3lWTUxNVDg0RklvWEN5UDFISXJWeU1IbjdvNVhPdmg0UmJwTGR5a3dYN1NFaXI4cTZrQ012ckFFakE1RDVTblRmcWo3SnFTbEJUZmVYVWlVQmtGRDRMU1BNZVlleWJoSDVyVWNEcWJJSGJFejZSaW5PeU85dkNv?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWE9xMHpJaGk1V1ZlVXh3SXBLbHJKVms3a2s3MVo5bTBhZDFCcjZmdXZsdENpWTlfZUE1Uk9IbUxfandjMlBCYmRfOWY0Q2x4cTFpNnFta01VRWJxcm92ZkY1N0NLaFZVcmpkRk1FSVlMSjlrbUJUYUtoVm9jSlNzXzVrX09fUVhiVHMwOGxPM1p0T2xNR2VIeFFCUVc2bE5jdUVZVVpzZlU1YTdDZGJrWDMxRWM2aUdZdnR6a0daRDB6aXVybENHTDBSbXMxSVRTbWdTQnBqeEFNSFdOU0plMlNERTVpTE1MeDh2bEl2VG1LaWZlUGlxamwxZGtmRHBRVEVydHJjTktnNzNqX0l4MGJURXEwOEXSAZcCQVVfeXFMUGZmWEJQbmxJbDJTc1oxQ25DUFNNUWxNQmkyUGUtMjhqeGMtZXQ3WGNlb2ItLVZFYkpkdW9HSU1EYVBWRDIwYTJRRWVnOHp2T19UT1pRbjdOTXhVZUhZWUktWjBRRVdJbFJPWjFjTlJubUJyWmlTRUFIbFM1S1R5TU9PNzRRNHJtVlFoNlk2SVdzRUtJVjJxV096dk1WRG1VN3lWTUxNVDg0RklvWEN5UDFISXJWeU1IbjdvNVhPdmg0UmJwTGR5a3dYN1NFaXI4cTZrQ012ckFFakE1RDVTblRmcWo3SnFTbEJUZmVYVWlVQmtGRDRMU1BNZVlleWJoSDVyVWNEcWJJSGJFejZSaW5PeU85dkNv?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Anthropic CEO呼吁放缓前沿AI模型开发，引入常驻独立评估人员 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0J0Ql84OFcxbFJKc3dDM0ZRcHBWQ3RsRFFxcUR6NTNIYU9oZzFEWmMtVG0ycVNSTUQ0M3RxYzN5YmlGU0YyS3pkekJQbTR5b2lsU0JNeldwYV9Hb2x1U0xXNEhRZkJrZkI2MFJ1M2JTZ2VUSlh2YXNFR2p2MW5UYlBSa2UxbDA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0J0Ql84OFcxbFJKc3dDM0ZRcHBWQ3RsRFFxcUR6NTNIYU9oZzFEWmMtVG0ycVNSTUQ0M3RxYzN5YmlGU0YyS3pkekJQbTR5b2lsU0JNeldwYV9Hb2x1U0xXNEhRZkJrZkI2MFJ1M2JTZ2VUSlh2YXNFR2p2MW5UYlBSa2UxbDA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "2026久久公益节收官，AI已参与多个环节 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yUU14YkNjcWJwRDdCdXFYczN6TWFCU09LSHp1U09pcGRhR292bFZ2NWpiN0puaTFObGF3ano2bUEtakhieUpfcm1NS2VxUkhSVVVUeG9oTVlrdGkyUXJNaTJZbDVhZ1hvVkhGVDdmQXo?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yUU14YkNjcWJwRDdCdXFYczN6TWFCU09LSHp1U09pcGRhR292bFZ2NWpiN0puaTFObGF3ano2bUEtakhieUpfcm1NS2VxUkhSVVVUeG9oTVlrdGkyUXJNaTJZbDVhZ1hvVkhGVDdmQXo?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "未来从这里开始 | AI时代如何释放人才与组织的新价值 | 德勤中国 - Deloitte",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeWg5RGFZX0tJSFUwRW1meDBtdkFZVXI5bThacl9MUC1PcEEtZzZUX0xwWjVGSkZuanlzMU93QVhoQ3k3X08wWUtfbGxIanMxTmlpU3FIZXdGT3U1YzlBcUNHNmVMN3J1Y0hpU1A0elNFRGcycnYxMl93cXRtTGtMZmJ3Z3FfZVFkZ2xMeVNJWkhxQklCTDRNU1pMWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeWg5RGFZX0tJSFUwRW1meDBtdkFZVXI5bThacl9MUC1PcEEtZzZUX0xwWjVGSkZuanlzMU93QVhoQ3k3X08wWUtfbGxIanMxTmlpU3FIZXdGT3U1YzlBcUNHNmVMN3J1Y0hpU1A0elNFRGcycnYxMl93cXRtTGtMZmJ3Z3FfZVFkZ2xMeVNJWkhxQklCTDRNU1pMWQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84dFE3Mmc3WS1jQVJmNUNBdkZ2UlhJUTAtaHdIZVB5NnNCQ1lmaGg5U0FGSXNGTUFnVG14eDFiYUh0d2ZoVUh4Yw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84dFE3Mmc3WS1jQVJmNUNBdkZ2UlhJUTAtaHdIZVB5NnNCQ1lmaGg5U0FGSXNGTUFnVG14eDFiYUh0d2ZoVUh4Yw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI正重写电商？京东、淘天加速AI业务闭环，货架与智能体购物模式或长期并存 - eastmoney.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nUlAwRld3RjZCcmMxcE1xNW5DanZqVzRTTTJEVXJYYnpBQ0FUSEpkLTFILXlEY0hLenEyNE1XbzJaTVFfRmpzY0tYVEVuMnliUUdlNVVLNWJ5TGhkeW96TQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nUlAwRld3RjZCcmMxcE1xNW5DanZqVzRTTTJEVXJYYnpBQ0FUSEpkLTFILXlEY0hLenEyNE1XbzJaTVFfRmpzY0tYVEVuMnliUUdlNVVLNWJ5TGhkeW96TQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“万事不决问AI”成常态？多位大学校长提醒→ - news.cnr.cn",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LN1BDdnJUQ3pNZWxMdDFDVlZoTEY1cEQ5V1ZGaHVpU0Z6ZzY3RVpIMnpLX1gyRGdZZjVfaEx6a3dXN2xMV2pUV09udjNsQjdmcU1vRXhXdlFQeVJhTU53QkNFcnlGNkpWOUZQSG5n?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1LN1BDdnJUQ3pNZWxMdDFDVlZoTEY1cEQ5V1ZGaHVpU0Z6ZzY3RVpIMnpLX1gyRGdZZjVfaEx6a3dXN2xMV2pUV09udjNsQjdmcU1vRXhXdlFQeVJhTU53QkNFcnlGNkpWOUZQSG5n?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "2026年服贸会｜AI重塑服务贸易的形态与边界 - 中青在线",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qd0FGZU01a3UtTnlxM2Vvc0ZldmVROTZnbl9zdTdDQ19nVi1PQmp0ZlVCZlVBTnJLT2tTU0dVSFFhSm9TaDJaVWhFT0tYSWRhMlBXVF82UVFuc1JGM0JrZkIxV1g1UGRaNW40T2ZiczV1REc1WDQyUg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qd0FGZU01a3UtTnlxM2Vvc0ZldmVROTZnbl9zdTdDQ19nVi1PQmp0ZlVCZlVBTnJLT2tTU0dVSFFhSm9TaDJaVWhFT0tYSWRhMlBXVF82UVFuc1JGM0JrZkIxV1g1UGRaNW40T2ZiczV1REc1WDQyUg?oc=5"
+    }
+  ]
+}

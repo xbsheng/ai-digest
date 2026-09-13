@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-03",
+  "fetchedAt": "2026-09-13T14:11:02.114Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "score": 691,
+      "comments": 228,
+      "discuss": "https://news.ycombinator.com/item?id=49554520"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "score": 278,
+      "comments": 253,
+      "discuss": "https://news.ycombinator.com/item?id=49554273"
+    },
+    {
+      "source": "hackernews",
+      "title": "Sanders introduces bill to ban artificial superintelligence and pause AI",
+      "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+      "score": 61,
+      "comments": 83,
+      "discuss": "https://news.ycombinator.com/item?id=49553463"
+    },
+    {
+      "source": "hackernews",
+      "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+      "score": 47,
+      "comments": 11,
+      "discuss": "https://news.ycombinator.com/item?id=49558433"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI's new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "score": 40,
+      "comments": 19,
+      "discuss": "https://news.ycombinator.com/item?id=49552395"
+    },
+    {
+      "source": "hackernews",
+      "title": "Protecting Engineers' Skills in the AI Era",
+      "url": "https://spectrum.ieee.org/ai-engineer-skills",
+      "score": 38,
+      "comments": 23,
+      "discuss": "https://news.ycombinator.com/item?id=49558302"
+    },
+    {
+      "source": "hackernews",
+      "title": "Yes, no (built-in) AI is now a feature – LibreOffice blog",
+      "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
+      "score": 37,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=49553350"
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+      "url": "https://news.ycombinator.com/item?id=49552616",
+      "score": 28,
+      "comments": 8,
+      "discuss": "https://news.ycombinator.com/item?id=49552616"
+    },
+    {
+      "source": "hackernews",
+      "title": "GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index",
+      "url": "https://artificialanalysis.ai/articles/benchmarking-gpt-6-astra",
+      "score": 27,
+      "comments": 17,
+      "discuss": "https://news.ycombinator.com/item?id=49556147"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why office workers are turning against AI",
+      "url": "https://www.bloodinthemachine.com/p/why-office-workers-are-turning-against",
+      "score": 27,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49553414"
+    },
+    {
+      "source": "hackernews",
+      "title": "Judge Tells RFK Jr. To Stop Using Fake AI Studies on Teen Pregnancy",
+      "url": "https://newrepublic.com/post/215001/judge-rfk-jr-hhs-fake-ai-studies-teen-pregnancy",
+      "score": 21,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49553653"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Double Matthew Walker Knot by Fable 5.1",
+      "url": "https://claude.ai/public/artifacts/06fd26a5-403c-47c8-af49-dcf6c35ec55c",
+      "score": 20,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=49554154"
+    },
+    {
+      "source": "hackernews",
+      "title": "Prediction: AI Will Collapse",
+      "url": "https://twitter.com/wordgrammer/status/2095263188153401712",
+      "score": 19,
+      "comments": 14,
+      "discuss": "https://news.ycombinator.com/item?id=49552347"
+    },
+    {
+      "source": "hackernews",
+      "title": "The paradox of diffusion distillation (2024)",
+      "url": "https://sander.ai/2024/02/28/paradox.html",
+      "score": 18,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49553830"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI says it has overtaken Anthropic with its latest AI model",
+      "url": "https://giftarticle.ft.com/giftarticle/actions/redeem/1054f4f0-cac7-479c-a4a7-f95b3906ca4b",
+      "score": 16,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=49554060"
+    }
+  ]
+}

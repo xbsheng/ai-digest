@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-04",
+  "fetchedAt": "2026-09-13T14:10:58.508Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "url": "https://opentrailpaper.com",
+      "score": 423,
+      "comments": 133,
+      "discuss": "https://news.ycombinator.com/item?id=49567437"
+    },
+    {
+      "source": "hackernews",
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "score": 422,
+      "comments": 241,
+      "discuss": "https://news.ycombinator.com/item?id=49569366"
+    },
+    {
+      "source": "hackernews",
+      "title": "Corporate America is getting hooked on open-source AI",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "score": 334,
+      "comments": 310,
+      "discuss": "https://news.ycombinator.com/item?id=49566137"
+    },
+    {
+      "source": "hackernews",
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "score": 320,
+      "comments": 234,
+      "discuss": "https://news.ycombinator.com/item?id=49570545"
+    },
+    {
+      "source": "hackernews",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "score": 79,
+      "comments": 35,
+      "discuss": "https://news.ycombinator.com/item?id=49566788"
+    },
+    {
+      "source": "hackernews",
+      "title": "Thinking in Code",
+      "url": "https://aishwaryagoel.com/thinking-in-code/",
+      "score": 25,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49570063"
+    },
+    {
+      "source": "hackernews",
+      "title": "Gimlet's Series B",
+      "url": "https://gimletlabs.ai/blog/announcing-series-b",
+      "score": 10,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49571255"
+    },
+    {
+      "source": "hackernews",
+      "title": "Chinese businesses giving away AI tokens with coffee, credit cards, dumplings",
+      "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/",
+      "score": 8,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49569949"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+      "url": "https://sageling.ai/",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49569136"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lords call for AI 'kill switch' powers in UK",
+      "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o",
+      "score": 7,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49566126"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tell HN: Check your Claude settings, it may have silently enabled remote access",
+      "url": "https://news.ycombinator.com/item?id=49565799",
+      "score": 7,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=49565799"
+    },
+    {
+      "source": "hackernews",
+      "title": "Los Angeles District Bans Most A.I. For Students",
+      "url": "https://www.nytimes.com/2026/09/03/us/lausd-schools-ban-ai-artificial-intelligence.html",
+      "score": 6,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49570875"
+    },
+    {
+      "source": "hackernews",
+      "title": "Will Greed Destroy AI?",
+      "url": "https://auxiliarymemory.com/2026/09/04/will-greed-destroy-ai/",
+      "score": 6,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49568477"
+    },
+    {
+      "source": "hackernews",
+      "title": "AMD unveils Threadripper Halo Station, an AI workstation with 96 cores, 2 MI350P",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-unveils-threadripper-halo-station-an-ai-workstation-packing-96-cores-and-dual-liquid-cooled-mi350p-accelerators-the-most-powerful-workstation-in-the-world-can-run-trillion-parameter-models-says-amd",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49566116"
+    },
+    {
+      "source": "hackernews",
+      "title": "The 33-Year-Old AI Hotshot Taking Silicon Valley Swagger Back to Beijing",
+      "url": "https://www.wsj.com/tech/ai/moonshot-ai-yang-ceo-china-6f12ddbf",
+      "score": 5,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49571306"
+    }
+  ]
+}

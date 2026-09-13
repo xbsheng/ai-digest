@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-31",
+  "fetchedAt": "2026-09-13T14:11:43.757Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "The safest job from AI may be writing",
+      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
+      "score": 153,
+      "comments": 211,
+      "discuss": "https://news.ycombinator.com/item?id=49512856"
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+      "url": "https://usealmanac.com/",
+      "score": 59,
+      "comments": 48,
+      "discuss": "https://news.ycombinator.com/item?id=49511007"
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+      "url": "https://github.com/Hebbian-Robotics/hflow",
+      "score": 46,
+      "comments": 12,
+      "discuss": "https://news.ycombinator.com/item?id=49510632"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs",
+      "url": "https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/",
+      "score": 41,
+      "comments": 24,
+      "discuss": "https://news.ycombinator.com/item?id=49511824"
+    },
+    {
+      "source": "hackernews",
+      "title": "Agentic Trust Controls",
+      "url": "https://trustcontrols.ai/",
+      "score": 18,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49510612"
+    },
+    {
+      "source": "hackernews",
+      "title": "Claude Code now appends a link to a Claude session in every commit",
+      "url": "https://news.ycombinator.com/item?id=49515667",
+      "score": 13,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49515667"
+    },
+    {
+      "source": "hackernews",
+      "title": "How much of a problem is AI's water use?",
+      "url": "https://knowablemagazine.org/content/article/technology/2026/how-much-water-do-ai-data-centers-use",
+      "score": 13,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49512228"
+    },
+    {
+      "source": "hackernews",
+      "title": "SpaceX designed an orbital Vera Rubin. Radiation comes next",
+      "url": "https://thenewstack.io/spacex-nvidia-orbital-ai/",
+      "score": 10,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49514285"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI ruined some of my most precious accessibility tools",
+      "url": "https://straye.dgirl.gay/blog/2026/ai-ruined-accessibility/",
+      "score": 10,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49510570"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: What Happens When You Give Your AI Agents a Voice and an Attitude",
+      "url": "https://fellowgeek.github.io/mcp-speak/",
+      "score": 10,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49510547"
+    },
+    {
+      "source": "hackernews",
+      "title": "When Japan Tried to Create Artificial Intelligence in the 1980s",
+      "url": "https://www.tokyoweekender.com/entertainment/tech-trends/japan-fifth-generation-computer-project-ai/",
+      "score": 9,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49513761"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic legal fight with Pentagon shows shifting politics of AI",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-31/anthropic-legal-fight-with-pentagon-shows-shifting-politics-of-ai",
+      "score": 9,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49511912"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic signs $35B cloud deal backed by Nvidia",
+      "url": "https://www.wsj.com/tech/ai/anthropic-signs-35-billion-cloud-deal-backed-by-nvidia-f12622f1",
+      "score": 8,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49516154"
+    },
+    {
+      "source": "hackernews",
+      "title": "Americans Hate Data Centers. Why?",
+      "url": "https://www.nytimes.com/2026/08/31/opinion/data-centers-ai-populism.html",
+      "score": 8,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49511117"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Guess the AI model from its web design",
+      "url": "https://raq.com/blog/can-you-spot-ai-web-design/quiz",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49514013"
+    }
+  ]
+}

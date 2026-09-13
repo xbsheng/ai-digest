@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-18",
+  "fetchedAt": "2026-09-13T14:16:04.914Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Field measurements of neighborhood-scale air temperature impacts of data centers",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "score": 313,
+      "comments": 502,
+      "discuss": "https://news.ycombinator.com/item?id=49349147"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI usage patterns in software teams",
+      "url": "https://linear.app/data",
+      "score": 199,
+      "comments": 115,
+      "discuss": "https://news.ycombinator.com/item?id=49353432"
+    },
+    {
+      "source": "hackernews",
+      "title": "GLM-5.3 Artificial Analysis Benchmarks",
+      "url": "https://artificialanalysis.ai/models/glm-5-3",
+      "score": 153,
+      "comments": 55,
+      "discuss": "https://news.ycombinator.com/item?id=49353407"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "score": 78,
+      "comments": 30,
+      "discuss": "https://news.ycombinator.com/item?id=49348627"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mythic's analog compute-in-memory architecture",
+      "url": "https://www.mythic.ai",
+      "score": 65,
+      "comments": 35,
+      "discuss": "https://news.ycombinator.com/item?id=49352470"
+    },
+    {
+      "source": "hackernews",
+      "title": "Palantir Leads AI Data Deal with USA Today Sparking a Newsroom Revolt",
+      "url": "https://www.forbes.com/sites/sandycarter/2026/08/15/palantir-leads-ai-data-deal-with-usa-today-sparking-a-newsroom-revolt/",
+      "score": 21,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49351223"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI's Second-Quarter Sales Show Tepid Growth Compared with Anthropic",
+      "url": "https://www.wsj.com/tech/ai/openais-second-quarter-sales-show-tepid-growth-compared-with-anthropic-5cb42998",
+      "score": 20,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49353874"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Capital Cycle Theory",
+      "url": "https://s-1.vercel.app/posts/the-capital-cycle-theory/",
+      "score": 19,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49351066"
+    },
+    {
+      "source": "hackernews",
+      "title": "200B Tokens Later: A Month of Letting AI Agents Decompile MW2",
+      "url": "https://momo5502.com/posts/2026-08-17-mw2-decompilation/",
+      "score": 18,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49351299"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI Is Slowing Down Its AI Training",
+      "url": "https://time.com/article/2026/08/18/openai-slowing-training/",
+      "score": 14,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49351580"
+    },
+    {
+      "source": "hackernews",
+      "title": "U.S. to tell partners they must pick sides in AI race with China",
+      "url": "https://www.cnbc.com/2026/08/15/us-to-tell-allies-they-must-pick-sides-in-ai-race-with-china-reuters.html",
+      "score": 13,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49351005"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+      "url": "https://pantheongpu.com/",
+      "score": 13,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49350637"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Is Upending One of Finance's Cushiest Jobs",
+      "url": "https://www.bloomberg.com/news/features/2026-06-05/ai-is-upending-traditional-financial-advisor-jobs",
+      "score": 11,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49350858"
+    },
+    {
+      "source": "hackernews",
+      "title": "To Build a Data Center – Intro to Diesel Generation",
+      "url": "https://power2026.ai/diesel",
+      "score": 9,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49354012"
+    },
+    {
+      "source": "hackernews",
+      "title": "Automating quality support at scale: AI and human in the loop",
+      "url": "https://www.windmill.dev/blog/support-automation",
+      "score": 9,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49347822"
+    }
+  ]
+}

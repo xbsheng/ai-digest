@@ -1,0 +1,31 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Masthead from '../../components/Masthead.astro';
+import { withBase } from '../../lib/util';
+
+export async function getStaticPaths() {
+  const posts = (await getCollection('daily')).sort((a, b) => b.id.localeCompare(a.id));
+  return posts.map((p, i) => ({
+    params: { slug: p.id },
+    props: { post: p, prev: posts[i + 1] ?? null, next: posts[i - 1] ?? null },
+  }));
+}
+const { post, prev, next } = Astro.props;
+const { Content } = await render(post);
+---
+<Base title={post.data.title} description={post.data.description}>
+  <Masthead date={post.data.date} stamp="早版" variant="compact" />
+  <article class="edition">
+    <h1>{post.data.title}</h1>
+    {post.data.description && <p class="standfirst">{post.data.description}</p>}
+    <div class="article-body">
+      <Content />
+    </div>
+    <nav class="edition-nav">
+      <span>{prev && <a href={withBase(`/daily/${prev.id}`)}>← 前一日</a>}</span>
+      <a href={withBase('/')}>回头版</a>
+      <span>{next && <a href={withBase(`/daily/${next.id}`)}>后一日 →</a>}</span>
+    </nav>
+  </article>
+</Base>

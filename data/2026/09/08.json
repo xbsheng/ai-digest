@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-08",
+  "fetchedAt": "2026-09-13T14:09:10.182Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "score": 658,
+      "comments": 738,
+      "discuss": "https://news.ycombinator.com/item?id=49615537"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "score": 491,
+      "comments": 420,
+      "discuss": "https://news.ycombinator.com/item?id=49616968"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mercury 2.5",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "score": 247,
+      "comments": 54,
+      "discuss": "https://news.ycombinator.com/item?id=49616354"
+    },
+    {
+      "source": "hackernews",
+      "title": "Flights cancelled at UK airports due to ATC issue",
+      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+      "score": 126,
+      "comments": 127,
+      "discuss": "https://news.ycombinator.com/item?id=49614557"
+    },
+    {
+      "source": "hackernews",
+      "title": "Kenyans Did College Students' Homework for Years. Then A.I. Arrived",
+      "url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+      "score": 79,
+      "comments": 109,
+      "discuss": "https://news.ycombinator.com/item?id=49613642"
+    },
+    {
+      "source": "hackernews",
+      "title": "What happens when a GPU writes memory",
+      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
+      "score": 76,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49615922"
+    },
+    {
+      "source": "hackernews",
+      "title": "GrapheneOS on AI Usage",
+      "url": "https://grapheneos.social/@GrapheneOS/117236529351603001",
+      "score": 54,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49614101"
+    },
+    {
+      "source": "hackernews",
+      "title": "Meta Failed to Catch Hundreds of AI Child Abuse Ads",
+      "url": "https://www.wired.com/story/meta-failed-to-catch-hundreds-of-ai-child-abuse-ads-some-included-images-of-real-kids/",
+      "score": 44,
+      "comments": 8,
+      "discuss": "https://news.ycombinator.com/item?id=49615888"
+    },
+    {
+      "source": "hackernews",
+      "title": "Chinese AI Companies Conducting Distillation Campaigns Against U.S. AI Companies [pdf]",
+      "url": "https://media.defense.gov/2026/Sep/08/2003992823/-1/-1/1/CSA_CHINA_BASED_AI_COMPANIES_MALICIOUS_DISTILLATION_AGAINST_US.PDF",
+      "score": 19,
+      "comments": 20,
+      "discuss": "https://news.ycombinator.com/item?id=49618622"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mamdani: Officials 'lied' to New Yorkers about still-toxic after 9/11",
+      "url": "https://www.independent.co.uk/news/world/americas/911-air-quality-report-mamdani-ground-zero-b3046630.html",
+      "score": 15,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49616615"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Sparrow-2 – Noise cancellation isn't designed for conversational AI",
+      "url": "https://sparrow2.tavuslabs.org/",
+      "score": 11,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49612459"
+    },
+    {
+      "source": "hackernews",
+      "title": "Feds accuse China of 'systematic' distillation of U.S. AI models",
+      "url": "https://cyberscoop.com/us-accuses-chinese-ai-companies-distillation/",
+      "score": 9,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=49618459"
+    },
+    {
+      "source": "hackernews",
+      "title": "Navier-Stokes and the Future AI Acceleration in Science",
+      "url": "https://blog.valency.io/posts/navier-stokes-ai-science",
+      "score": 9,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49613469"
+    },
+    {
+      "source": "hackernews",
+      "title": "NYC opens 9-11 records portal, revealing new information about toxic conditions",
+      "url": "https://abc7.com/story/mamdani-administration-releasing-170000-pages-post-911-air-quality-documents/19805098/",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49615804"
+    },
+    {
+      "source": "hackernews",
+      "title": "Muse, your personal AI agent.",
+      "url": "https://auth.muse.ai/aymh/?origin=https%3A%2F%2Fmuse.ai",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49615087"
+    }
+  ]
+}

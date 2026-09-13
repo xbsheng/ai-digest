@@ -1,0 +1,120 @@
+{
+  "date": "2026-09-06",
+  "fetchedAt": "2026-09-13T14:09:47.977Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "A/I shuts down",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "score": 642,
+      "comments": 565,
+      "discuss": "https://news.ycombinator.com/item?id=49586898"
+    },
+    {
+      "source": "hackernews",
+      "title": "How I feel about AI",
+      "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+      "score": 165,
+      "comments": 266,
+      "discuss": "https://news.ycombinator.com/item?id=49587128"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
+      "url": "https://getvodforge.com/",
+      "score": 39,
+      "comments": 13,
+      "discuss": "https://news.ycombinator.com/item?id=49590354"
+    },
+    {
+      "source": "hackernews",
+      "title": "GOP issues stark warning to AI companies",
+      "url": "https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election",
+      "score": 25,
+      "comments": 17,
+      "discuss": "https://news.ycombinator.com/item?id=49591782"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Any Software Engineers here who enjoy their AI-native dev workflow?",
+      "url": "https://news.ycombinator.com/item?id=49586386",
+      "score": 17,
+      "comments": 16,
+      "discuss": "https://news.ycombinator.com/item?id=49586386"
+    },
+    {
+      "source": "hackernews",
+      "title": "Amazon cargo plane crashes at Miami airport after it overshoots runway",
+      "url": "https://www.theguardian.com/us-news/2026/sep/06/amazon-cargo-plane-crashes-miami-airport",
+      "score": 15,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49590289"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Slop",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5870742&utm_source=substack&utm_medium=email",
+      "score": 15,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49586011"
+    },
+    {
+      "source": "hackernews",
+      "title": "Pivot to AI safety, I beg you",
+      "url": "https://ceselder.substack.com/p/pivot-to-ai-safety-i-beg-you",
+      "score": 12,
+      "comments": 14,
+      "discuss": "https://news.ycombinator.com/item?id=49592035"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cory Doctorow on the Big AI Lie [video]",
+      "url": "https://www.youtube.com/watch?v=nTqCVJFr7XM",
+      "score": 11,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49589754"
+    },
+    {
+      "source": "hackernews",
+      "title": "Americans are vibe-coding trading algorithms",
+      "url": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f",
+      "score": 10,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49586961"
+    },
+    {
+      "source": "hackernews",
+      "title": "Five dead after Amazon-branded cargo plane overruns runway at Miami airport",
+      "url": "https://www.nbcnews.com/news/us-news/amazon-plane-crash-miami-rcna596369",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49592150"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Is Making Us Less Human",
+      "url": "https://www.theatlantic.com/ideas/2026/09/open-ai-consciousness-morality/688535/",
+      "score": 7,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49588106"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI made it worth building games for our game nights",
+      "url": "https://mmazzarolo.com/blog/2026-09-05-ai-has-completely-changed-our-game-nights/",
+      "score": 6,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49587110"
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm a father who studies the impact of AI: this is what parents need to know",
+      "url": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
+      "score": 5,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49591930"
+    }
+  ]
+}

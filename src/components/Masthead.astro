@@ -1,0 +1,26 @@
+---
+import { withBase, issueOf, fmtDate } from '../lib/util';
+
+interface Props { date: string; stamp?: string; variant?: 'full' | 'compact'; published?: string }
+const { date, stamp = '早版', variant = 'full', published } = Astro.props;
+const issue = issueOf(date);
+---
+<div class="masthead sheet" class:list={[{ compact: variant === 'compact' }]}>
+  <p class="masthead-meta">
+    {variant === 'full'
+      ? <>
+          <span>第 {issue} 期</span>
+          <span>{published ? `出刊时间：${published}` : '每日早间自动出刊'}</span>
+        </>
+      : <>
+          <span>{fmtDate(date)}</span>
+          <span>第 {issue} 期</span>
+        </>
+    }
+  </p>
+  <h1 class="masthead-title">
+    <a href={withBase('/')}>AI 晨报</a>
+    <span class="stamp">{stamp}</span>
+  </h1>
+  {variant === 'full' && <p class="masthead-date">{fmtDate(date)}</p>}
+</div>

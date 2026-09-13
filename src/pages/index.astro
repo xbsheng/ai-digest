@@ -1,0 +1,124 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Masthead from '../components/Masthead.astro';
+import { withBase, issueOf, fmtDate } from '../lib/util';
+
+const dailies = (await getCollection('daily')).sort((a, b) => b.id.localeCompare(a.id));
+const weeklies = (await getCollection('weekly')).sort((a, b) => b.id.localeCompare(a.id));
+const today = dailies[0];
+const todayHref = today ? withBase(`/daily/${today.id}`) : withBase('/');
+
+// 从当日 MD 正文提取要点：'- **标题**：摘要 [原文](url)'
+const raw = today ? today.body.split('\n') : [];
+const isExt = (h: string) => /^https?:/i.test(h);
+const extAttrs = (h: string) => (isExt(h) ? { target: '_blank', rel: 'noopener noreferrer' } : {});
+const briefs: { title: string; source: string; summary: string; href: string }[] = [];
+for (let i = 0; i < raw.length; i++) {
+  let m = raw[i].match(/^- \*\*\[(.+?)\]\((.+?)\)\*\*（(.+?)）\s*$/);
+  let href = '';
+  let source = '';
+  let title = '';
+  if (m) {
+    [title, href, source] = [m[1], m[2], m[3]];
+  } else if ((m = raw[i].match(/^- \*\*(.+?)\*\*（(.+?)）\s*$/))) {
+    [title, source] = [m[1], m[2]];
+  }
+  if (!title) continue;
+  const cont: string[] = [];
+  for (let j = i + 1; j < raw.length; j++) {
+    if (!raw[j].trim()) continue;
+    if (/^ {2,}/.test(raw[j])) { cont.push(raw[j].trim()); continue; }
+    break;
+  }
+  briefs.push({ title, source, summary: cont.filter((l) => !l.startsWith('[原文]')).join(''), href });
+}
+---
+<Base title="AI 晨报">
+  {today && (
+    <>
+      <Masthead date={today.data.date} stamp="早版" published={today.data.published} />
+
+      {briefs.length > 0 && (
+        <div class="sheet">
+          <div class="ticker" aria-label="今日电讯">
+            <span class="ticker-label">电讯</span>
+            <div class="ticker-viewport">
+              <div class="ticker-strip">
+              {[0, 1].map(() => briefs.slice(0, 6).map((b) => <a class="ticker-item" href={b.href || todayHref} {...(extAttrs(b.href || todayHref) as any)}>{b.title}</a>))}
+              </div>
+            </div>
+          </div>
+        </div>
+      )}
+
+      <article class="sheet front">
+        <div class="headline-block">
+          <h2 class="today-title"><a href={withBase(`/daily/${today.id}`)}>{today.data.title}</a></h2>
+          {today.data.description && <p class="standfirst">{today.data.description}</p>}
+          <a class="read-today" href={withBase(`/daily/${today.id}`)}>阅读今日版 →</a>
+          <ul class="headline-list">
+            {briefs.slice(0, 3).map((b) => <li><a href={b.href || todayHref} {...(extAttrs(b.href || todayHref) as any)}>{b.title}</a></li>)}
+          </ul>
+        </div>
+        <aside class="side" id="weekend">
+          <h2>周末特刊</h2>
+          {weeklies.length > 0 ? (
+            <>
+              <a class="weekend-title" href={withBase(`/weekly/${weeklies[0].id}`)}>{weeklies[0].data.title}</a>
+              {weeklies.length > 1 && (
+                <ul>
+                  {weeklies.slice(1, 5).map((w) => (
+                    <li><a href={withBase(`/weekly/${w.id}`)}>{w.data.title}</a></li>
+                  ))}
+                </ul>
+              )}
+            </>
+          ) : (
+            <p class="colophon">首期周末特刊将于本周日随周报出刊。</p>
+          )}
+          <h2>出刊说明</h2>
+          <p class="colophon">
+            本报由 GitHub Actions 每日早间自动出刊（定时任务可能延迟数分钟）：抓取 Reddit、Hacker News、arXiv 与中文新闻源当日热点，AI 编辑汇总成中文版面。所有条目链接原文，摘要仅供参考。
+          </p>
+        </aside>
+      </article>
+
+      {briefs.length > 3 && (
+        <section class="sheet briefs" aria-label="今日简讯">
+          <h2>今日要点</h2>
+          <div class="brief-columns">
+            {briefs.slice(0, 9).map((b) => (
+              <a class="brief" href={b.href || todayHref} {...(extAttrs(b.href || todayHref) as any)}>
+                <strong>{b.title}</strong>（{b.source}）
+                {b.summary && <span class="brief-text">{b.summary}</span>}
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+    </>
+  )}
+
+  {!today && (
+    <div class="empty-press">
+      <h1>首期未出刊</h1>
+      <p>本报将于明早出刊；请先运行抓取流水线生成第一期。</p>
+    </div>
+  )}
+
+  {dailies.length > 1 && (
+    <section class="sheet morgue" id="morgue" aria-label="过刊架">
+      <h2>过刊架</h2>
+      <ul class="morgue-list">
+        {dailies.slice(1, 7).map((d) => (
+          <li>
+            <span class="issue-no">第 {issueOf(d.data.date)} 期</span>
+            <a href={withBase(`/daily/${d.id}`)}>{fmtDate(d.data.date)}</a>
+          </li>
+        ))}
+      </ul>
+      <p class="morgue-more"><a href={withBase('/archive')}>全部往期 →</a></p>
+    </section>
+  )}
+</Base>

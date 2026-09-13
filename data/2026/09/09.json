@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-09",
+  "fetchedAt": "2026-09-13T14:08:36.138Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "score": 508,
+      "comments": 451,
+      "discuss": "https://news.ycombinator.com/item?id=49630253"
+    },
+    {
+      "source": "hackernews",
+      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+      "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+      "score": 184,
+      "comments": 8,
+      "discuss": "https://news.ycombinator.com/item?id=49636345"
+    },
+    {
+      "source": "hackernews",
+      "title": "Rock band Muse lose social media handles to Meta’s new AI tool",
+      "url": "https://www.the-independent.com/arts-entertainment/music/news/muse-band-meta-ai-tool-handle-b3047291.html",
+      "score": 60,
+      "comments": 105,
+      "discuss": "https://news.ycombinator.com/item?id=49629382"
+    },
+    {
+      "source": "hackernews",
+      "title": "Defining AI Psychosis. Part 2: \"Prolific AI Psychosis\"",
+      "url": "https://jeffs.blog/p/defining-ai-psychosis-part-2-prolific",
+      "score": 60,
+      "comments": 55,
+      "discuss": "https://news.ycombinator.com/item?id=49628880"
+    },
+    {
+      "source": "hackernews",
+      "title": "I Don't Want to Interact with Stochastic Parrots",
+      "url": "https://ploum.net/2026-09-09-ai_policy.html",
+      "score": 58,
+      "comments": 65,
+      "discuss": "https://news.ycombinator.com/item?id=49631476"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+      "url": "https://github.com/OtoDock/oto-dock",
+      "score": 50,
+      "comments": 15,
+      "discuss": "https://news.ycombinator.com/item?id=49630606"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\"",
+      "url": "https://www.cbsnews.com/news/ai-kill-humans-anthropic-researcher-more-than-ten-percent-chance/",
+      "score": 47,
+      "comments": 109,
+      "discuss": "https://news.ycombinator.com/item?id=49627887"
+    },
+    {
+      "source": "hackernews",
+      "title": "Better AI code comment detector",
+      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+      "score": 42,
+      "comments": 23,
+      "discuss": "https://news.ycombinator.com/item?id=49628454"
+    },
+    {
+      "source": "hackernews",
+      "title": "My Mental Model of AI Broke on September 8",
+      "url": "https://rough-ideas.bearblog.dev/my-mental-model-of-ai-broke-on-september-8/",
+      "score": 32,
+      "comments": 70,
+      "discuss": "https://news.ycombinator.com/item?id=49629935"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI could kill all humans in next decade, warn experts",
+      "url": "https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians",
+      "score": 31,
+      "comments": 41,
+      "discuss": "https://news.ycombinator.com/item?id=49628580"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jacob Coxon resignation appears to be a PR stunt for AI regulation",
+      "url": "https://twitter.com/ParkerThayer/status/2097759699626328575",
+      "score": 28,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49633440"
+    },
+    {
+      "source": "hackernews",
+      "title": "Good Taste Can't Be Taught, Bought or Learned, Sorry AI",
+      "url": "https://emilyoberg.substack.com/p/good-taste-cant-be-taught-bought",
+      "score": 23,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=49628888"
+    },
+    {
+      "source": "hackernews",
+      "title": "Teaching an AI My Taste",
+      "url": "https://lonriesberg.com/posts/teaching-an-ai-my-taste/",
+      "score": 15,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49629118"
+    },
+    {
+      "source": "hackernews",
+      "title": "United States Ships War Material to Israel Aboard Passenger Flights",
+      "url": "https://theintercept.com/2026/09/09/united-airlines-flights-israel-weapons-hardware-transport/",
+      "score": 13,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49635637"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic Researcher Quits over 'Out-of-Control' AI Fears",
+      "url": "https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628",
+      "score": 13,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49628725"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-29",
+  "fetchedAt": "2026-09-13T14:11:51.012Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "url": "https://lwn.net/Articles/1091231/",
+      "score": 517,
+      "comments": 486,
+      "discuss": "https://news.ycombinator.com/item?id=49489982"
+    },
+    {
+      "source": "hackernews",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "score": 483,
+      "comments": 123,
+      "discuss": "https://news.ycombinator.com/item?id=49491568"
+    },
+    {
+      "source": "hackernews",
+      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "score": 385,
+      "comments": 163,
+      "discuss": "https://news.ycombinator.com/item?id=49493468"
+    },
+    {
+      "source": "hackernews",
+      "title": "The growing divide between AI hype and software engineering reality",
+      "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai/",
+      "score": 67,
+      "comments": 92,
+      "discuss": "https://news.ycombinator.com/item?id=49491113"
+    },
+    {
+      "source": "hackernews",
+      "title": "LLMs are making me lose my savviness",
+      "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
+      "score": 60,
+      "comments": 82,
+      "discuss": "https://news.ycombinator.com/item?id=49492184"
+    },
+    {
+      "source": "hackernews",
+      "title": "The elementary school pickup incident and the road ahead",
+      "url": "https://shitposting.ai/pickup-incident/",
+      "score": 24,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=49492554"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: AI Agents for Osint/Sigint",
+      "url": "https://www.makralabs.org/about",
+      "score": 13,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49493576"
+    },
+    {
+      "source": "hackernews",
+      "title": "Sony Music and Warner Chappell Are Suing Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "score": 10,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49492119"
+    },
+    {
+      "source": "hackernews",
+      "title": "I hate AI images and music",
+      "url": "https://mat.leaflet.pub/3mu35coarbs2o",
+      "score": 8,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49491447"
+    },
+    {
+      "source": "hackernews",
+      "title": "Backlash Against AI Data Centers Is Real, Organic, Widespread",
+      "url": "https://www.yahoo.com/news/politics/articles/backlash-against-ai-data-centers-115222320.html",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49489920"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI surveillance in schools raises safety and equity concerns",
+      "url": "https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns/",
+      "score": 5,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49493775"
+    },
+    {
+      "source": "hackernews",
+      "title": "An infinite and interactive AI generated live stream of slop",
+      "url": "https://skunkworks.levels.io/infinite-slop/",
+      "score": 5,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49492243"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Is OpenClaw Still Worth Exploring or Is It “So Last Year”?",
+      "url": "https://news.ycombinator.com/item?id=49491979",
+      "score": 5,
+      "comments": 8,
+      "discuss": "https://news.ycombinator.com/item?id=49491979"
+    },
+    {
+      "source": "hackernews",
+      "title": "The first AI use case that genuinely saves me time (outside of programming)",
+      "url": "https://ducret.dev/grocery-shopping-with-ai/",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49490849"
+    },
+    {
+      "source": "hackernews",
+      "title": "Calibre eBook manager lets you generate AI book covers",
+      "url": "https://www.omgubuntu.co.uk/2026/08/calibre-ebook-ai-covers",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49490115"
+    }
+  ]
+}

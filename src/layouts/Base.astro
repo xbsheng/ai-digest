@@ -1,0 +1,43 @@
+---
+import '../styles/global.css';
+import { withBase } from '../lib/util';
+interface Props { title: string; description?: string }
+const { title, description } = Astro.props;
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description ?? 'AI 晨报：每日早间自动出刊的 AI 热点中文汇总'} />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700;900&display=swap" />
+    <link rel="icon" href={withBase('/favicon.svg')} type="image/svg+xml" />
+    <link rel="icon" href={withBase('/favicon.ico')} sizes="32x32" />
+    <link rel="apple-touch-icon" href={withBase('/apple-touch-icon.png')} />
+    <title>{title}</title>
+  </head>
+  <body>
+    <!--
+      DIRECTION CONTRACT — 「AI 晨报」新闻早班电报/报社晨版（用户 pin）
+      THESIS: 日报就是报纸——每天早间准点出刊的头版；拒绝资讯站的卡片流与渐变霓虹默认。
+      OWN-WORLD: 纸白底、墨黑正文、印章红只做报头戳与强调；思源宋体报头与标题，hairline 栏线组织多栏版式；期号与日期用 mono 排印。
+      STORY: 读者 30 秒扫完头条与简讯栏便知今天 AI 圈的大事，并能在过刊架按期号翻到任意往期；每条简讯可溯源原文。
+      FIRST VIEWPORT: 期号栏 + 居中大报名「AI 晨报」+ 印章戳 + 电讯条；其下头条区（今日版标题与三条要闻）占左三分之二，右栏为周末特刊与出刊说明。
+      FORM: 用户指定「新闻早班电报/报社晨版」。动效仅电讯条一处。
+      FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, and DESIGN.md.
+    -->
+    <slot />
+    <footer class="sheet">
+      <div class="colophon-footer">
+        <span>AI 晨报 · GitHub Actions 每日早间自动出刊 · 摘要由 AI 生成，以原文为准</span>
+        <nav>
+          <a href={withBase('/')}>头版</a>
+          <a href={withBase('/archive')}>过刊架</a>
+          <a href={withBase('/#weekend')}>周末特刊</a>
+        </nav>
+      </div>
+    </footer>
+  </body>
+</html>

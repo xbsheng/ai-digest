@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-26",
+  "fetchedAt": "2026-09-13T14:12:31.736Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "url": "https://acceptmarkdown.com/",
+      "score": 176,
+      "comments": 108,
+      "discuss": "https://news.ycombinator.com/item?id=49454764"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: We built the smallest dual-band aircraft tracker",
+      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+      "score": 95,
+      "comments": 23,
+      "discuss": "https://news.ycombinator.com/item?id=49455557"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Build your own theme park",
+      "url": "https://www.magicpatterns.com/theme-park",
+      "score": 58,
+      "comments": 26,
+      "discuss": "https://news.ycombinator.com/item?id=49452037"
+    },
+    {
+      "source": "hackernews",
+      "title": "The risks of AI are real but manageable (2023)",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/the-risks-of-ai-are-real-but-manageable",
+      "score": 42,
+      "comments": 35,
+      "discuss": "https://news.ycombinator.com/item?id=49454742"
+    },
+    {
+      "source": "hackernews",
+      "title": "CDs vs. NIMBY",
+      "url": "https://www.betonit.ai/p/cds-vs-nimby",
+      "score": 41,
+      "comments": 72,
+      "discuss": "https://news.ycombinator.com/item?id=49452822"
+    },
+    {
+      "source": "hackernews",
+      "title": "Disenchantment with the Post-AI Internet",
+      "url": "https://lukesmith.xyz/articles/disenchantment-with-the-post-ai-internet/",
+      "score": 40,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=49454175"
+    },
+    {
+      "source": "hackernews",
+      "title": "America's immigration policy is driving away future AI leaders",
+      "url": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/",
+      "score": 21,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=49453108"
+    },
+    {
+      "source": "hackernews",
+      "title": "The turbulent AI era is here. The choices we make now are critical",
+      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
+      "score": 16,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49454606"
+    },
+    {
+      "source": "hackernews",
+      "title": "The sperm whale 'phonetic alphabet' revealed by AI",
+      "url": "https://www.bbc.com/future/article/20240709-the-sperm-whale-phonetic-alphabet-revealed-by-ai",
+      "score": 16,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49452551"
+    },
+    {
+      "source": "hackernews",
+      "title": "Patience Is Required for Local AI",
+      "url": "https://kylemcgough.com/blogs/patience-is-required-for-local-ai",
+      "score": 16,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49451972"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Lessons from Driving 200M Autonomous Miles",
+      "url": "https://waymo.com/blog/2026/08/10ailessons/",
+      "score": 15,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49452135"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mark Zuckerberg Wanted AI to Replace Meta Workers- Plan Collapsed Within Months",
+      "url": "https://www.ibtimes.com/mark-zuckerberg-reportedly-wanted-ai-replace-meta-workers-plan-collapsed-within-months-3806823",
+      "score": 13,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49456942"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Devx – Autonomous AI coding agent built for Android Termux and desktop",
+      "url": "https://github.com/apvcode/Termux-Dev",
+      "score": 13,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49455537"
+    },
+    {
+      "source": "hackernews",
+      "title": "Programming as a Hobby in the Age of AI",
+      "url": "https://www.bennadel.com/blog/4908-programming-as-a-hobby-in-the-age-of-ai.htm",
+      "score": 12,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49455672"
+    }
+  ]
+}

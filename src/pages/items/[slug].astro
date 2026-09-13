@@ -1,0 +1,34 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Masthead from '../../components/Masthead.astro';
+import { withBase, fmtDate, datePath } from '../../lib/util';
+
+export async function getStaticPaths() {
+  const items = await getCollection('items');
+  return items.map((i) => ({ params: { slug: i.id }, props: { item: i } }));
+}
+const { item } = Astro.props;
+const { Content } = await render(item);
+---
+<Base title={item.data.title} description={item.data.description}>
+  <Masthead date={item.data.date} stamp="早版" variant="compact" />
+  <article class="edition">
+    <p class="item-meta">
+      {item.data.source} · {fmtDate(item.data.date)}{item.data.score ? ` · 热度 ${item.data.score}` : ''}
+    </p>
+    <h1>{item.data.title}</h1>
+    <div class="article-body">
+      <Content />
+    </div>
+    <div class="source-box">
+      <p class="source-label">原文链接</p>
+      <a href={item.data.url} target="_blank" rel="noopener">{item.data.url}</a>
+    </div>
+    <nav class="edition-nav">
+      <a href={withBase(`/daily/${datePath(item.data.date)}`)}>← 回当日版</a>
+      <a href={withBase('/')}>回头版</a>
+      <span></span>
+    </nav>
+  </article>
+</Base>

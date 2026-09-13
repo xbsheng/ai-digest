@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-10",
+  "fetchedAt": "2026-09-13T14:07:46.324Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "score": 182,
+      "comments": 239,
+      "discuss": "https://news.ycombinator.com/item?id=49647300"
+    },
+    {
+      "source": "hackernews",
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "score": 121,
+      "comments": 130,
+      "discuss": "https://news.ycombinator.com/item?id=49651372"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic says it blocked possible efforts to build biological weapons",
+      "url": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+      "score": 68,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49646988"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+      "url": "https://tokenstead.ai/models/swe-2",
+      "score": 67,
+      "comments": 27,
+      "discuss": "https://news.ycombinator.com/item?id=49646778"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic CEOs wife once asked Epstein to fund porn venture – now steers Claude",
+      "url": "https://nypost.com/2026/08/14/business/anthropic-ceos-wife-once-asked-jeffrey-epstein-to-fund-porn-venture-now-she-helps-steer-the-claude-ai-empire/",
+      "score": 39,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49651084"
+    },
+    {
+      "source": "hackernews",
+      "title": "Stop externalizing the cost of your AI use to me",
+      "url": "https://thelastsoftwareengineer.substack.com/p/stop-externalizing-the-cost-of-your",
+      "score": 17,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49651467"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI researchers leave Anthropic and Google: 'There are no adults in the room'",
+      "url": "https://www.nbcnews.com/tech/security/two-ai-researchers-leave-anthropic-google-safety-concerns-rcna597086",
+      "score": 16,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49651492"
+    },
+    {
+      "source": "hackernews",
+      "title": "Meta tried to shrink engineering teams around AI",
+      "url": "https://leaddev.com/ai/meta-tried-to-shrink-engineering-teams-around-ai",
+      "score": 16,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=49646182"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Open-source simulation testing infra for voice agents",
+      "url": "https://github.com/egma-ai/egma",
+      "score": 15,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=49646928"
+    },
+    {
+      "source": "hackernews",
+      "title": "ChatGPT Pro 20x plan is now unavailable for purchase",
+      "url": "https://twitter.com/aimaddie/status/2098128761388716353",
+      "score": 13,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=49648957"
+    },
+    {
+      "source": "hackernews",
+      "title": "What Happened at the White House That Marc Andreessen Says Sent Him to Trump",
+      "url": "https://www.politico.com/news/magazine/2026/09/10/marc-andreessen-trump-biden-ai-opinion-01045516",
+      "score": 12,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49647744"
+    },
+    {
+      "source": "hackernews",
+      "title": "We wanted to use Baseten for inference, we got admin access to their GitHub",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "score": 9,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49646752"
+    },
+    {
+      "source": "hackernews",
+      "title": "More Anthropic researchers warn of AI's perils as Musk terms fears a 'psyop'",
+      "url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
+      "score": 8,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49651392"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Is Not Going to Kill My Love of Math",
+      "url": "https://chillphysicsenjoyer.substack.com/p/ai-is-not-going-to-kill-my-love-of",
+      "score": 7,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49651454"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49650135"
+    }
+  ]
+}

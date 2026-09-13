@@ -1,0 +1,75 @@
+name: 每日抓取与部署
+
+on:
+  schedule:
+    - cron: "10 22 * * *"    # 每天 UTC 22:10（北京时间早 6:10）抓取 + 日报；避开整点以减少 GitHub 调度延迟
+    - cron: "10 22 * * 6"    # 每周六 UTC 22:10（北京时间周日早 6:10）额外生成周报
+  workflow_dispatch:        # 手动触发，用于调试和补数据
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 抓取数据
+        run: npm run fetch
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          SENSITIVE_KEYWORDS: ${{ secrets.SENSITIVE_KEYWORDS }}
+
+      - name: 生成日报
+        run: node scripts/summarize.mjs daily
+        env:
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+          SENSITIVE_KEYWORDS: ${{ secrets.SENSITIVE_KEYWORDS }}
+
+      - name: 生成周报（仅周日）
+        if: github.event.schedule == '10 22 * * 6'
+        run: node scripts/summarize.mjs weekly
+        env:
+          AI_BASE_URL: ${{ secrets.AI_BASE_URL }}
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          AI_MODEL: ${{ secrets.AI_MODEL }}
+          SENSITIVE_KEYWORDS: ${{ secrets.SENSITIVE_KEYWORDS }}
+
+      - name: 提交数据与汇总
+        run: |
+          git config user.name "ai-digest[bot]"
+          git config user.email "bot@users.noreply.github.com"
+          git add data src/content
+          git diff --cached --quiet || git commit -m "[bot] $(date -u +%F) 抓取与汇总"
+          git push
+
+      - name: 构建站点
+        run: |
+          npm ci
+          npx astro build
+
+      - name: 上传 Pages 产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      - id: deployment
+        name: 部署到 GitHub Pages
+        uses: actions/deploy-pages@v4

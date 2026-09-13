@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-15",
+  "fetchedAt": "2026-09-13T14:18:04.614Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "AI isn’t outthinking mathematicians, it’s out-remembering them",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "score": 634,
+      "comments": 522,
+      "discuss": "https://news.ycombinator.com/item?id=49312845"
+    },
+    {
+      "source": "hackernews",
+      "title": "Working with AI feels more like leadership than coding",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "score": 338,
+      "comments": 203,
+      "discuss": "https://news.ycombinator.com/item?id=49309451"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "score": 188,
+      "comments": 94,
+      "discuss": "https://news.ycombinator.com/item?id=49313367"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cloudflare's AI Psychosis",
+      "url": "https://opensauce.it/cloudflare-ai-psychosis/",
+      "score": 120,
+      "comments": 101,
+      "discuss": "https://news.ycombinator.com/item?id=49310719"
+    },
+    {
+      "source": "hackernews",
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "score": 82,
+      "comments": 60,
+      "discuss": "https://news.ycombinator.com/item?id=49308553"
+    },
+    {
+      "source": "hackernews",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "score": 69,
+      "comments": 73,
+      "discuss": "https://news.ycombinator.com/item?id=49310725"
+    },
+    {
+      "source": "hackernews",
+      "title": "Debian has begun voting on the future of AI/LLM contributions",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+      "score": 67,
+      "comments": 54,
+      "discuss": "https://news.ycombinator.com/item?id=49309050"
+    },
+    {
+      "source": "hackernews",
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "score": 66,
+      "comments": 28,
+      "discuss": "https://news.ycombinator.com/item?id=49310495"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+      "url": "https://spectrum.ieee.org/ai-designed-virus",
+      "score": 61,
+      "comments": 143,
+      "discuss": "https://news.ycombinator.com/item?id=49311445"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "url": "https://arxiv.org/abs/2608.13122",
+      "score": 57,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=49314967"
+    },
+    {
+      "source": "hackernews",
+      "title": "The AI Situation in Software Development",
+      "url": "https://srikanth.ch/posts/the-ai-situation/",
+      "score": 46,
+      "comments": 69,
+      "discuss": "https://news.ycombinator.com/item?id=49310755"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+      "url": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+      "score": 28,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49311379"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Agent-shell – vendor-neutral chat with AI agents in Emacs",
+      "url": "https://xenodium.com/agent-shell-0-73-updates#agent-shell-enters-the-chat",
+      "score": 28,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49309755"
+    },
+    {
+      "source": "hackernews",
+      "title": "Meta will train its AI on Newsmax, a far-right media outlet",
+      "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+      "score": 26,
+      "comments": 14,
+      "discuss": "https://news.ycombinator.com/item?id=49313778"
+    },
+    {
+      "source": "hackernews",
+      "title": "US to tell partners they must pick sides in AI race with China",
+      "url": "https://www.reuters.com/world/china/us-tell-partners-they-must-pick-sides-ai-race-with-china-2026-08-14/",
+      "score": 25,
+      "comments": 8,
+      "discuss": "https://news.ycombinator.com/item?id=49311888"
+    }
+  ]
+}

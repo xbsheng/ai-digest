@@ -1,0 +1,112 @@
+{
+  "date": "2026-08-14",
+  "fetchedAt": "2026-09-13T14:18:08.123Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "score": 498,
+      "comments": 290,
+      "discuss": "https://news.ycombinator.com/item?id=49300314"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "score": 367,
+      "comments": 31,
+      "discuss": "https://news.ycombinator.com/item?id=49300568"
+    },
+    {
+      "source": "hackernews",
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "score": 176,
+      "comments": 203,
+      "discuss": "https://news.ycombinator.com/item?id=49299282"
+    },
+    {
+      "source": "hackernews",
+      "title": "Z.ai Security Disclosure",
+      "url": "https://cvd.z.ai",
+      "score": 33,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49303433"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Mocktail – Free, open-source mock API server with a built-in dashboard",
+      "url": "https://getmocktail.com/",
+      "score": 25,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49304062"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Mininote: Instant, plain-text note taking without tracking or lock-in",
+      "url": "https://mininote.ink/",
+      "score": 23,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49300129"
+    },
+    {
+      "source": "hackernews",
+      "title": "Discrete Fourier Transform by Hand",
+      "url": "https://www.byhand.ai/p/28-discrete-fourier-transform",
+      "score": 22,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49301342"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Plane Ran Out of Fuel over the Atlantic. The Pilots Saved 306 Lives",
+      "url": "https://www.popularmechanics.com/flight/a73413706/air-transat-flight-fuel-glider/",
+      "score": 13,
+      "comments": 8,
+      "discuss": "https://news.ycombinator.com/item?id=49300368"
+    },
+    {
+      "source": "hackernews",
+      "title": "Satellite Will Breathe Air to Stay in Orbit",
+      "url": "https://gizmodo.com/this-satellite-will-literally-breathe-air-to-stay-in-orbit-2000796713",
+      "score": 10,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49303645"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Open-source and AI native web analytics",
+      "url": "https://github.com/OpenLabs-so/openanalytics",
+      "score": 10,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49302597"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why Open Source Matters for AI",
+      "url": "https://www.oreilly.com/radar/why-open-source-matters-for-ai/",
+      "score": 10,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49301569"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Pestle-27B-Ternary",
+      "url": "https://huggingface.co/Doses-AI/Pestle-27B-Ternary-GGUF",
+      "score": 9,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49304188"
+    },
+    {
+      "source": "hackernews",
+      "title": "My Dad Is in Prison. Here's Why I Built an AI Chatbot for His Electronic Tablet",
+      "url": "https://www.themarshallproject.org/2026/08/14/prison-ai-chatbot-nova-cj-jones",
+      "score": 8,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49301056"
+    }
+  ]
+}

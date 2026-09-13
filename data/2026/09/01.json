@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-01",
+  "fetchedAt": "2026-09-13T14:11:40.271Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "score": 878,
+      "comments": 1056,
+      "discuss": "https://news.ycombinator.com/item?id=49526069"
+    },
+    {
+      "source": "hackernews",
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "score": 471,
+      "comments": 380,
+      "discuss": "https://news.ycombinator.com/item?id=49526453"
+    },
+    {
+      "source": "hackernews",
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "score": 271,
+      "comments": 59,
+      "discuss": "https://news.ycombinator.com/item?id=49525160"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "score": 185,
+      "comments": 84,
+      "discuss": "https://news.ycombinator.com/item?id=49528895"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+      "url": "https://hnmatchmaker.com/",
+      "score": 125,
+      "comments": 46,
+      "discuss": "https://news.ycombinator.com/item?id=49528057"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Coding Agent Skills for Real Engineers",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 43,
+      "comments": 14,
+      "discuss": "https://news.ycombinator.com/item?id=49529329"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI is making back-office work extinct",
+      "url": "https://www.whitecollardream.com/",
+      "score": 34,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49528663"
+    },
+    {
+      "source": "hackernews",
+      "title": "A docs page is a search query to find AI agents and route them to your company",
+      "url": "https://blog.val.town/aeo",
+      "score": 27,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49528174"
+    },
+    {
+      "source": "hackernews",
+      "title": "There is no AI",
+      "url": "https://wadler.blogspot.com/2026/08/there-is-no-ai.html",
+      "score": 23,
+      "comments": 10,
+      "discuss": "https://news.ycombinator.com/item?id=49525791"
+    },
+    {
+      "source": "hackernews",
+      "title": "The war with Iran will not be won through airstrikes, so what's left?",
+      "url": "https://www.jpost.com/defense-and-tech/article-906985",
+      "score": 23,
+      "comments": 30,
+      "discuss": "https://news.ycombinator.com/item?id=49524886"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Supafork – Share and Fork Sessions Across Harnesses",
+      "url": "https://www.supafork.com",
+      "score": 15,
+      "comments": 10,
+      "discuss": "https://news.ycombinator.com/item?id=49524608"
+    },
+    {
+      "source": "hackernews",
+      "title": "Welcome to the 'You Can't Trust Your Own Eyes' Election",
+      "url": "https://www.bloomberg.com/graphics/2026-opinion-ai-campaign-ads-need-more-safeguards/",
+      "score": 11,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49528684"
+    },
+    {
+      "source": "hackernews",
+      "title": "Don't allow Gemini AI access to your Gmail",
+      "url": "https://tuta.com/blog/google-gemini-ai-email",
+      "score": 10,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49529336"
+    },
+    {
+      "source": "hackernews",
+      "title": "Fable 5.1 Solves the Cyphral Distich",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "score": 10,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49527695"
+    },
+    {
+      "source": "hackernews",
+      "title": "Faiss vs. Turbovec vs. Infino: Comparing 4-bit vector quantization",
+      "url": "https://infino.ai/blog/fixed-grid-quantization/",
+      "score": 9,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49525760"
+    }
+  ]
+}

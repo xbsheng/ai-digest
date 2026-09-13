@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-24",
+  "fetchedAt": "2026-09-13T14:14:11.885Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "score": 566,
+      "comments": 545,
+      "discuss": "https://news.ycombinator.com/item?id=49421554"
+    },
+    {
+      "source": "hackernews",
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "score": 190,
+      "comments": 106,
+      "discuss": "https://news.ycombinator.com/item?id=49415893"
+    },
+    {
+      "source": "hackernews",
+      "title": "What my dad taught me about AI coding in the 90s",
+      "url": "https://askmike.org/articles/ai-coding-lessons-in-the-90s-from-my-dad/",
+      "score": 147,
+      "comments": 83,
+      "discuss": "https://news.ycombinator.com/item?id=49419381"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Why do corporate failures always seem to punish the wrong people?",
+      "url": "https://news.ycombinator.com/item?id=49418675",
+      "score": 124,
+      "comments": 128,
+      "discuss": "https://news.ycombinator.com/item?id=49418675"
+    },
+    {
+      "source": "hackernews",
+      "title": "Fences, Not Sandboxes",
+      "url": "https://yegge.ai/essays/fences-not-sandboxes/",
+      "score": 97,
+      "comments": 99,
+      "discuss": "https://news.ycombinator.com/item?id=49423146"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ox-Alpha Is GLM?",
+      "url": "https://dejan.ai/blog/ox-alpha/",
+      "score": 89,
+      "comments": 71,
+      "discuss": "https://news.ycombinator.com/item?id=49422226"
+    },
+    {
+      "source": "hackernews",
+      "title": "We never use AI. For anything",
+      "url": "https://corkmac.app/our-ai-stance/",
+      "score": 86,
+      "comments": 100,
+      "discuss": "https://news.ycombinator.com/item?id=49417313"
+    },
+    {
+      "source": "hackernews",
+      "title": "Your Open Source Model Could Have a Hidden Time-Release Backdoor",
+      "url": "https://morgin.ai/articles/your-open-source-model-could-have-a-hidden-time-release-backdoor.html",
+      "score": 62,
+      "comments": 79,
+      "discuss": "https://news.ycombinator.com/item?id=49415854"
+    },
+    {
+      "source": "hackernews",
+      "title": "Most AI Work Can Wait",
+      "url": "https://tomtunguz.com/ai-execution-routing/",
+      "score": 35,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49416553"
+    },
+    {
+      "source": "hackernews",
+      "title": "Em Dash Is Fine – It Is AI That Sucks",
+      "url": "https://blog.torh.net/2026/08/24/em-dash-is-fine-it-is-ai-that-sucks/",
+      "score": 27,
+      "comments": 11,
+      "discuss": "https://news.ycombinator.com/item?id=49423792"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: See how much your AI knows about you",
+      "url": "https://www.withcorpus.com/knows",
+      "score": 22,
+      "comments": 16,
+      "discuss": "https://news.ycombinator.com/item?id=49423371"
+    },
+    {
+      "source": "hackernews",
+      "title": "Deno team releases Dactyl, an AI app builder that runs on your ChatGPT plan",
+      "url": "https://dactyl.dev/",
+      "score": 21,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49425599"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: I built a lite LPU that can do inference on Karpathy's MicroGPT",
+      "url": "https://www.lpulite.com",
+      "score": 18,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49423735"
+    },
+    {
+      "source": "hackernews",
+      "title": "Some of Russia's A.I. Drones Are Powered by Nvidia",
+      "url": "https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html",
+      "score": 18,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49417669"
+    },
+    {
+      "source": "hackernews",
+      "title": "Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust",
+      "url": "https://bughunters.google.com/blog/scaling-memory-safety",
+      "score": 16,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49422826"
+    }
+  ]
+}

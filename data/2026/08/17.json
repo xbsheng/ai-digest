@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-17",
+  "fetchedAt": "2026-09-13T14:16:23.588Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "score": 1119,
+      "comments": 692,
+      "discuss": "https://news.ycombinator.com/item?id=49336573"
+    },
+    {
+      "source": "hackernews",
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "score": 1071,
+      "comments": 883,
+      "discuss": "https://news.ycombinator.com/item?id=49337392"
+    },
+    {
+      "source": "hackernews",
+      "title": "GPT-5.6 Sol Pricing Cut by 50% on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "score": 636,
+      "comments": 449,
+      "discuss": "https://news.ycombinator.com/item?id=49337602"
+    },
+    {
+      "source": "hackernews",
+      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
+      "score": 381,
+      "comments": 180,
+      "discuss": "https://news.ycombinator.com/item?id=49334544"
+    },
+    {
+      "source": "hackernews",
+      "title": "AirTag reveals Amazon is trashing rare books to train AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "score": 131,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=49336050"
+    },
+    {
+      "source": "hackernews",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "score": 94,
+      "comments": 17,
+      "discuss": "https://news.ycombinator.com/item?id=49335216"
+    },
+    {
+      "source": "hackernews",
+      "title": "My friends all hate AI; I just joined an AI startup",
+      "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
+      "score": 58,
+      "comments": 210,
+      "discuss": "https://news.ycombinator.com/item?id=49338139"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple AirTag reveals how Amazon destroys rare books for AI training",
+      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training/",
+      "score": 42,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49335009"
+    },
+    {
+      "source": "hackernews",
+      "title": "Google to buy Spirit Airlines business data for $10M",
+      "url": "https://www.reuters.com/legal/litigation/google-buy-spirit-airlines-business-data-10-million-2026-08-17/",
+      "score": 40,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49338973"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tim O'Reilly – Why Open Source Matters for AI",
+      "url": "https://oreillyradar.substack.com/p/why-open-source-matters-for-ai",
+      "score": 23,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49335468"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Visimer – open-source visual editor for Mermaid diagrams",
+      "url": "https://github.com/inkeep/visimer",
+      "score": 17,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49335470"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Tesana – An AI game engine that builds quality games end-to-end",
+      "url": "https://tesana.ai/en",
+      "score": 16,
+      "comments": 12,
+      "discuss": "https://news.ycombinator.com/item?id=49334754"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI writes dead code – the Go team's deadcode tool finds it in one command",
+      "url": "https://towardsdev.com/how-to-find-and-remove-the-dead-code-your-agent-wrote-752eb1e738d0?sk=283d17fe49cb51c9936d99371e7a9d2a",
+      "score": 14,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49338608"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cloudflare: Machine Traffic Could Hit 1,000x Human Traffic in 5 Years",
+      "url": "https://www.searchenginejournal.com/the-biggest-ai-crawler-on-my-website-was-hunting-for-credentials/585159/",
+      "score": 14,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49335343"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Who wants to fund DB research?",
+      "url": "https://news.ycombinator.com/item?id=49336147",
+      "score": 13,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49336147"
+    }
+  ]
+}

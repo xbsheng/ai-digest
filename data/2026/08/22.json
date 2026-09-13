@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-22",
+  "fetchedAt": "2026-09-13T14:14:34.126Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "score": 140,
+      "comments": 39,
+      "discuss": "https://news.ycombinator.com/item?id=49404380"
+    },
+    {
+      "source": "hackernews",
+      "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "score": 57,
+      "comments": 70,
+      "discuss": "https://news.ycombinator.com/item?id=49399941"
+    },
+    {
+      "source": "hackernews",
+      "title": "Embedded AI",
+      "url": "https://nostarch.com/embedded-ai",
+      "score": 39,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=49397947"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+      "score": 37,
+      "comments": 86,
+      "discuss": "https://news.ycombinator.com/item?id=49401229"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI has failed to win people's trust. Its makers? less trusted",
+      "url": "https://www.euronews.com/next/2026/08/20/ai-has-failed-to-win-peoples-trust-its-makers-even-less-trusted",
+      "score": 29,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=49404869"
+    },
+    {
+      "source": "hackernews",
+      "title": "Dutch regulator fines Uber €825M for letting AI deactivate driver accounts",
+      "url": "https://nltimes.nl/2026/08/21/dutch-regulator-fines-uber-eu825-mil-letting-algorithm-deactivate-drivers-accounts",
+      "score": 21,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49398609"
+    },
+    {
+      "source": "hackernews",
+      "title": "80% of developers find AI coding more addictive than helpful",
+      "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/",
+      "score": 13,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49399954"
+    },
+    {
+      "source": "hackernews",
+      "title": "Linus Torvalds Endures a Debug Session from Hell, \"Enormously Helped\" by AI",
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-Debug-AI",
+      "score": 11,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49402816"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: What is the evidence for a stock market bubble in AI?",
+      "url": "https://news.ycombinator.com/item?id=49397022",
+      "score": 11,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=49397022"
+    },
+    {
+      "source": "hackernews",
+      "title": "The crisis of AI-generated mathematics",
+      "url": "https://arxiv.org/abs/2608.02859",
+      "score": 10,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49404317"
+    },
+    {
+      "source": "hackernews",
+      "title": "The importance of teaching students what AI can't do",
+      "url": "https://theconversation.com/the-importance-of-teaching-students-what-ai-cant-do-286100",
+      "score": 8,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49403885"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Real AI Crash Will Start This Year",
+      "url": "https://quoththeraven.substack.com/p/the-real-ai-crash-will-start-this",
+      "score": 6,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49404815"
+    },
+    {
+      "source": "hackernews",
+      "title": "Older Americans leaving workforce poses challenges for AI plans",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/8/older-americans-leaving-workforce-poses-challenges-for-ai-plans-105150367",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49397749"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Made Me Faster. I'm Not Sure It Made Me Better",
+      "url": "https://medium.com/freedomofthought/ai-made-me-faster-im-not-sure-it-made-me-better-b7f78db7fc66",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49404320"
+    },
+    {
+      "source": "hackernews",
+      "title": "Linus Torvalds uses AI to debug an Intel GPU driver bug",
+      "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49401592"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ai-digest",
+  "type": "module",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "fetch": "NODE_USE_ENV_PROXY=1 node scripts/fetch.mjs",
+    "summarize:daily": "NODE_USE_ENV_PROXY=1 node scripts/summarize.mjs daily",
+    "summarize:weekly": "NODE_USE_ENV_PROXY=1 node scripts/summarize.mjs weekly",
+    "backfill": "NODE_USE_ENV_PROXY=1 node scripts/backfill.mjs"
+  },
+  "dependencies": {
+    "astro": "^5.7.0"
+  }
+}

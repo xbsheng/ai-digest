@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-19",
+  "fetchedAt": "2026-09-13T14:16:01.459Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "score": 964,
+      "comments": 500,
+      "discuss": "https://news.ycombinator.com/item?id=49364559"
+    },
+    {
+      "source": "hackernews",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "score": 322,
+      "comments": 119,
+      "discuss": "https://news.ycombinator.com/item?id=49365443"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mathematics in the age of AI",
+      "url": "https://arxiv.org/abs/2608.16753",
+      "score": 212,
+      "comments": 269,
+      "discuss": "https://news.ycombinator.com/item?id=49362728"
+    },
+    {
+      "source": "hackernews",
+      "title": "DFlash 2: Keep Drafting Parallel",
+      "url": "https://inco.ai/blog/dflash2/",
+      "score": 99,
+      "comments": 18,
+      "discuss": "https://news.ycombinator.com/item?id=49366792"
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: OneCLI (YC S26) – OSS sandboxed agent harness for teams",
+      "url": "https://github.com/onecli/onecli",
+      "score": 88,
+      "comments": 37,
+      "discuss": "https://news.ycombinator.com/item?id=49363710"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
+      "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+      "score": 20,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49366252"
+    },
+    {
+      "source": "hackernews",
+      "title": "Japan to require AI firms to disclose training data",
+      "url": "https://www.japantimes.co.jp/news/2026/08/19/japan/ai-training-data-disclosure/",
+      "score": 17,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49367870"
+    },
+    {
+      "source": "hackernews",
+      "title": "PINE64 halts their open-source hardware manufacturing until the AI bubble bursts",
+      "url": "https://www.hackster.io/news/pine64-calls-time-on-the-linux-hardware-market-ceases-production-until-the-ai-bubble-bursts-a865c8345041",
+      "score": 15,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49367929"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI was supposed to win people over by now – it hasn't",
+      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "score": 14,
+      "comments": 10,
+      "discuss": "https://news.ycombinator.com/item?id=49366416"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI is less likely to launch a nuclear strike when it reasons in Japanese",
+      "url": "https://www.unite.ai/ai-is-less-likely-to-launch-a-nuclear-strike-when-it-reasons-in-japanese/",
+      "score": 13,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=49367180"
+    },
+    {
+      "source": "hackernews",
+      "title": "Semantica, the Open Source Palantir for AI Agents",
+      "url": "https://github.com/semantica-agi/semantica",
+      "score": 12,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49367995"
+    },
+    {
+      "source": "hackernews",
+      "title": "\"Two 2030 AMD racks are expected to deliver same compute as 570 racks in 2024\"",
+      "url": "https://newsroom.amd.com/news/amd-tracks-ahead-of-rack-scale-ai-energy-efficiency-goal/",
+      "score": 12,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49366670"
+    },
+    {
+      "source": "hackernews",
+      "title": "Daily Reminder to Not Listen to Google's AI Overview",
+      "url": "https://whatever.scalzi.com/2026/08/19/daily-reminder-to-not-listen-to-googles-ai-overview/",
+      "score": 11,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49366075"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia's new financial strategy does not compute",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "score": 11,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49363173"
+    }
+  ]
+}

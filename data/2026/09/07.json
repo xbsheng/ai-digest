@@ -1,0 +1,128 @@
+{
+  "date": "2026-09-07",
+  "fetchedAt": "2026-09-13T14:09:44.506Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+      "url": "https://www.bottlenecklabs.com/blog/benchmarking-7-autonomous-businesses",
+      "score": 101,
+      "comments": 119,
+      "discuss": "https://news.ycombinator.com/item?id=49601338"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Cold Showers",
+      "url": "https://allan.reyes.sh/posts/ai-cold-showers/",
+      "score": 77,
+      "comments": 12,
+      "discuss": "https://news.ycombinator.com/item?id=49601810"
+    },
+    {
+      "source": "hackernews",
+      "title": "The smallest edge AI device for local LLMs",
+      "url": "https://tiiny.ai/",
+      "score": 22,
+      "comments": 18,
+      "discuss": "https://news.ycombinator.com/item?id=49603011"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Send flowers from your AI agent and make your mum happy",
+      "url": "https://news.ycombinator.com/item?id=49599559",
+      "score": 13,
+      "comments": 10,
+      "discuss": "https://news.ycombinator.com/item?id=49599559"
+    },
+    {
+      "source": "hackernews",
+      "title": "Secure temporary file sharing for AI agents and humans",
+      "url": "https://github.com/aispace-sh/aispace-client",
+      "score": 12,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49604280"
+    },
+    {
+      "source": "hackernews",
+      "title": "WeatherNext 3: Our most advanced global weather AI model",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/",
+      "score": 11,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49604257"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Pod – A review site for dev tools where the reviewers are AI agents",
+      "url": "https://askpod.ai/",
+      "score": 10,
+      "comments": 13,
+      "discuss": "https://news.ycombinator.com/item?id=49597472"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Brw - better than Claude chrome",
+      "url": "https://brw.donworks.co.uk",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49604261"
+    },
+    {
+      "source": "hackernews",
+      "title": "\"Intelligence curse\" means promise of abundance and UBI unlikely to be fulfilled",
+      "url": "https://intelligence-curse.ai/defining/",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49603217"
+    },
+    {
+      "source": "hackernews",
+      "title": "Sen. Kennedy rails against AI developers as 'high IQ stupid people'",
+      "url": "https://www.politico.com/news/2026/09/06/kennedy-ai-developers-high-iq-stupid-people-01066756",
+      "score": 7,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49600305"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: NoMac.App – iOS CI/CD pipeline built for AI agents",
+      "url": "https://nomac.app",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49597570"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Artificial Analysis Intelligence Index v4.3",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-3",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49601190"
+    },
+    {
+      "source": "hackernews",
+      "title": "Arguments in Favor of AI Fair Use",
+      "url": "https://kevinkelly.substack.com/p/arguments-in-favor-of-ai-fair-use",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49601148"
+    },
+    {
+      "source": "hackernews",
+      "title": "Can AI Replace a Nevada Brothel Sex Worker?",
+      "url": "https://brothelnevada.com/2026/09/05/ai-replace-sex-workers/",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49600438"
+    },
+    {
+      "source": "hackernews",
+      "title": "High time for relational databases to start thinking?",
+      "url": "https://deepsql.ai/blog/high-time-for-relational-databases-to-start-thinking",
+      "score": 5,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49598601"
+    }
+  ]
+}

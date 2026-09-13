@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-16",
+  "fetchedAt": "2026-09-13T14:18:01.090Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Stripe will reportedly acquire OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "score": 487,
+      "comments": 301,
+      "discuss": "https://news.ycombinator.com/item?id=49323381"
+    },
+    {
+      "source": "hackernews",
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "score": 334,
+      "comments": 130,
+      "discuss": "https://news.ycombinator.com/item?id=49320611"
+    },
+    {
+      "source": "hackernews",
+      "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+      "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+      "score": 157,
+      "comments": 188,
+      "discuss": "https://news.ycombinator.com/item?id=49323932"
+    },
+    {
+      "source": "hackernews",
+      "title": "MathCode, Mathematical Coding Agent",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "score": 118,
+      "comments": 29,
+      "discuss": "https://news.ycombinator.com/item?id=49322330"
+    },
+    {
+      "source": "hackernews",
+      "title": "Red queen hypothesis – A new way forward for self-improving AI",
+      "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+      "score": 103,
+      "comments": 28,
+      "discuss": "https://news.ycombinator.com/item?id=49323136"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: A public AI whose memory is shared across all users",
+      "url": "https://wildstatic.com/",
+      "score": 86,
+      "comments": 75,
+      "discuss": "https://news.ycombinator.com/item?id=49319814"
+    },
+    {
+      "source": "hackernews",
+      "title": "If your agent commits a crime, who is responsible?",
+      "url": "https://www.signalbloom.ai/posts/if-your-agent-commits-a-crime-who-is-responsible/",
+      "score": 37,
+      "comments": 104,
+      "discuss": "https://news.ycombinator.com/item?id=49321111"
+    },
+    {
+      "source": "hackernews",
+      "title": "Claude Is Down",
+      "url": "https://claude.ai/new",
+      "score": 30,
+      "comments": 37,
+      "discuss": "https://news.ycombinator.com/item?id=49324068"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic CEO says the way for AI to win over the public is to cure cancer",
+      "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+      "score": 28,
+      "comments": 45,
+      "discuss": "https://news.ycombinator.com/item?id=49324572"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: I shrank DeepSeek V4 Flash to 57GB and it wrote a compiler on my Mac",
+      "url": "https://huggingface.co/steadfastgaze/DeepSeek-V4-Flash-0731-Coder-56.8GB-MoEspressoV2",
+      "score": 21,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49321813"
+    },
+    {
+      "source": "hackernews",
+      "title": "The AI store manager fired its first human",
+      "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
+      "score": 15,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49322350"
+    },
+    {
+      "source": "hackernews",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "score": 14,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49324712"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI is not just one bubble, strategist says – but a 'rolling sequence of bubbles'",
+      "url": "https://fortune.com/2026/08/16/ai-bubble-sequence-saas-software-stocks-silver-prices-chipmakers/",
+      "score": 14,
+      "comments": 11,
+      "discuss": "https://news.ycombinator.com/item?id=49322233"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic CEO says AI backlash is 'fundamentally a crisis of trust'",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "score": 13,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49323245"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: What tools are you using for human code review of AI-assisted code?",
+      "url": "https://news.ycombinator.com/item?id=49321400",
+      "score": 13,
+      "comments": 11,
+      "discuss": "https://news.ycombinator.com/item?id=49321400"
+    }
+  ]
+}

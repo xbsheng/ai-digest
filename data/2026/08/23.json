@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-23",
+  "fetchedAt": "2026-09-13T14:14:30.638Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "score": 821,
+      "comments": 701,
+      "discuss": "https://news.ycombinator.com/item?id=49411102"
+    },
+    {
+      "source": "hackernews",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "score": 706,
+      "comments": 293,
+      "discuss": "https://news.ycombinator.com/item?id=49409073"
+    },
+    {
+      "source": "hackernews",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://pantel.is/projects/ai-gaming-companion/",
+      "score": 399,
+      "comments": 76,
+      "discuss": "https://news.ycombinator.com/item?id=49413561"
+    },
+    {
+      "source": "hackernews",
+      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost",
+      "url": "https://reinvently.co.uk/tools/ed-o-meter/",
+      "score": 240,
+      "comments": 124,
+      "discuss": "https://news.ycombinator.com/item?id=49410097"
+    },
+    {
+      "source": "hackernews",
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "score": 230,
+      "comments": 28,
+      "discuss": "https://news.ycombinator.com/item?id=49411800"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Chip Architectures",
+      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "score": 163,
+      "comments": 50,
+      "discuss": "https://news.ycombinator.com/item?id=49405657"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI and Infrastructure Engineering",
+      "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
+      "score": 72,
+      "comments": 41,
+      "discuss": "https://news.ycombinator.com/item?id=49411024"
+    },
+    {
+      "source": "hackernews",
+      "title": "We must not grant AI agents legal personhood",
+      "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+      "score": 62,
+      "comments": 114,
+      "discuss": "https://news.ycombinator.com/item?id=49410628"
+    },
+    {
+      "source": "hackernews",
+      "title": "'AI refuser' quit her dream job, and hopes others follow",
+      "url": "https://www.smh.com.au/technology/this-ai-refuser-quit-her-dream-job-and-hopes-others-follow-20260818-p60pdu.html",
+      "score": 49,
+      "comments": 54,
+      "discuss": "https://news.ycombinator.com/item?id=49407785"
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm Done Coding with AI",
+      "url": "https://www.youtube.com/watch?v=2ZU3j4GQ4K8",
+      "score": 42,
+      "comments": 11,
+      "discuss": "https://news.ycombinator.com/item?id=49412003"
+    },
+    {
+      "source": "hackernews",
+      "title": "Erik Brynjolfsson says an AI \"job apocalypse\" is unlikely",
+      "url": "https://wpintelligence.washingtonpost.com/topics/ai-tech/2026/08/19/wpi-conversation-why-an-ai-job-apocalypse-is-unlikely/",
+      "score": 38,
+      "comments": 58,
+      "discuss": "https://news.ycombinator.com/item?id=49410480"
+    },
+    {
+      "source": "hackernews",
+      "title": "I turned Unix talk from 1983 into the interface for my AI",
+      "url": "https://en.andros.dev/blog/09a21bdd/i-turned-unix-talk-from-1983-into-the-interface-for-my-ai/",
+      "score": 32,
+      "comments": 14,
+      "discuss": "https://news.ycombinator.com/item?id=49410936"
+    },
+    {
+      "source": "hackernews",
+      "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
+      "url": "https://www.spheron.network/blog/etched-ai-sohu-vs-nvidia-transformer-asic-inference/",
+      "score": 23,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=49411178"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tracker in rare book ends up in Amazon facility destroying books to train AI",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secret-tracking-device-placed-in-rare-book-ends-up-in-amazon-processing-facility-destroying-books-to-train-ai-models-is-all-the-vegas-warehouse-does",
+      "score": 22,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=49413322"
+    },
+    {
+      "source": "hackernews",
+      "title": "Airbus bows to remote working demands after series of strikes",
+      "url": "https://www.theguardian.com/business/2026/aug/21/airbus-bows-remote-working-strikes",
+      "score": 22,
+      "comments": 13,
+      "discuss": "https://news.ycombinator.com/item?id=49408732"
+    }
+  ]
+}

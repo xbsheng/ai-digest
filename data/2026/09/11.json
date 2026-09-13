@@ -1,0 +1,120 @@
+{
+  "date": "2026-09-11",
+  "fetchedAt": "2026-09-13T14:07:42.877Z",
+  "backfill": true,
+  "total": 15,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "score": 1201,
+      "comments": 1184,
+      "discuss": "https://news.ycombinator.com/item?id=49662371"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "score": 940,
+      "comments": 584,
+      "discuss": "https://news.ycombinator.com/item?id=49666735"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Hacker News, Without AI",
+      "url": "https://www.unslop.news/",
+      "score": 193,
+      "comments": 80,
+      "discuss": "https://news.ycombinator.com/item?id=49660783"
+    },
+    {
+      "source": "hackernews",
+      "title": "Feeling Sad about AI",
+      "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+      "score": 177,
+      "comments": 307,
+      "discuss": "https://news.ycombinator.com/item?id=49661506"
+    },
+    {
+      "source": "hackernews",
+      "title": "Hacker News with reduced priority for AI driven content",
+      "url": "https://sprinklz.io/public/pdwt4dve5uai",
+      "score": 120,
+      "comments": 57,
+      "discuss": "https://news.ycombinator.com/item?id=49660482"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "score": 118,
+      "comments": 116,
+      "discuss": "https://news.ycombinator.com/item?id=49665711"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+      "url": "https://github.com/godot-pty/gpty",
+      "score": 93,
+      "comments": 48,
+      "discuss": "https://news.ycombinator.com/item?id=49660676"
+    },
+    {
+      "source": "hackernews",
+      "title": "Houthis used Anthropic to develop guided weapons",
+      "url": "https://www.washingtonpost.com/technology/2026/09/11/rebels-used-anthropics-ai-bot-develop-guided-weapons-report-says/",
+      "score": 59,
+      "comments": 27,
+      "discuss": "https://news.ycombinator.com/item?id=49666425"
+    },
+    {
+      "source": "hackernews",
+      "title": "How to Build an AI Software Factory: Agents That Open, Review, and Merge PRs",
+      "url": "https://www.firecrawl.dev/blog/ai-software-factory",
+      "score": 31,
+      "comments": 13,
+      "discuss": "https://news.ycombinator.com/item?id=49666960"
+    },
+    {
+      "source": "hackernews",
+      "title": "They do think AI might kill everyone",
+      "url": "https://www.seangoedecke.com/they-really-do-think-ai-might-kill-everyone/",
+      "score": 31,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49666267"
+    },
+    {
+      "source": "hackernews",
+      "title": "GPT-6 built this earth exploration site in 5 prompts",
+      "url": "https://earth.ethanplus.ai/",
+      "score": 31,
+      "comments": 44,
+      "discuss": "https://news.ycombinator.com/item?id=49665756"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Extension to filter LLM written articles",
+      "url": "https://hnslop.nilsherzig.com/",
+      "score": 16,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49661856"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI made 16 new viruses",
+      "url": "https://www.morningbrew.com/stories/ai-made-16-brand-new-viruses",
+      "score": 13,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49660907"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Software people, where are you taking your careers next?",
+      "url": "https://news.ycombinator.com/item?id=49664807",
+      "score": 12,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=49664807"
+    }
+  ]
+}

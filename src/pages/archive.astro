@@ -1,0 +1,62 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Masthead from '../components/Masthead.astro';
+import { withBase, issueOf, fmtDate, datePath } from '../lib/util';
+
+const dailies = (await getCollection('daily')).sort((a, b) => b.id.localeCompare(a.id));
+const weeklies = (await getCollection('weekly')).sort((a, b) => b.id.localeCompare(a.id));
+
+const months = new Map<string, typeof dailies>();
+for (const d of dailies) {
+  const m = d.data.date.slice(0, 7);
+  if (!months.has(m)) months.set(m, []);
+  months.get(m)!.push(d);
+}
+const latest = dailies[0]?.data.date ?? new Date().toISOString().slice(0, 10);
+---
+<Base title="过刊架 · AI 晨报" description="AI 晨报全部往期日报与周末特刊归档">
+  <Masthead date={latest} stamp="过刊架" variant="compact" />
+  <section class="edition">
+    <h1>过刊架</h1>
+    <p class="standfirst">
+      全部 {dailies.length} 期日报与 {weeklies.length} 期周末特刊，按月份归档；点击任意日期回看当日版面。
+    </p>
+
+    <div class="archive">
+      {[...months.entries()].map(([month, issues]) => (
+        <>
+          <h3 class="morgue-month">{month.replace('-', ' 年 ')} 月</h3>
+          <ul class="morgue-list">
+            {issues.map((d) => (
+              <li>
+                <span class="issue-no">第 {issueOf(d.data.date)} 期</span>
+                <a href={withBase(`/daily/${datePath(d.data.date)}`)}>{fmtDate(d.data.date)}</a>
+              </li>
+            ))}
+          </ul>
+        </>
+      ))}
+    </div>
+
+    {weeklies.length > 0 && (
+      <div class="archive-weekend">
+        <h2>周末特刊</h2>
+        <ul class="morgue-list">
+          {weeklies.map((w) => (
+            <li>
+              <span class="issue-no">第 {issueOf(w.data.date)} 期</span>
+              <a href={withBase(`/weekly/${w.id}`)}>{w.data.title}</a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+
+    <nav class="edition-nav">
+      <a href={withBase('/')}>回头版</a>
+      <span></span>
+      <span></span>
+    </nav>
+  </section>
+</Base>
