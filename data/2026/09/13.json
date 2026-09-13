@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "fetchedAt": "2026-09-13T15:00:46.355Z",
+  "fetchedAt": "2026-09-13T15:06:40.050Z",
   "total": 30,
   "items": [
     {
@@ -242,6 +242,38 @@
       "score": 0,
       "comments": 0,
       "discuss": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tMkMwUGRELUdFX3NqYXJkMVZOZHRkX3k1UkhwZTkwMTlqYUZfcllWbjZhUjdDTVBBcXJ6YVRVY0x5T3p6SGttblBtSHFNYkVQakV3Rk05UmhteEoyLVg0bkI3Zkwwc1k4ODhLRXdpOWZXY0hiTXc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "要闻解说 - 人工智能为何突然出现“减速”呼声？ - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPYUVVXzhyaHoyZ2kxeFotbm1wLWhrNlZ3YmNHSnQxcGdtd0ZWdE9ydURPdktzWkJEbk13WEZKMEVQY2JVbzdyUmN4c2h6MWdXQXE0MHlGTEE4WHlwcEV5dW1veU02WTFGR2t6VTlGVURMMGt3V1c4YkJBWTBMN3pjSUZDSzdEMzJnUU9iWXA5NlVGNEt6MTFXNG9ITy00ZEFscXZrWURXSDM2a29RTkptUG9PVHFkNFl3T0tvVU9kOXJiRUxTd3lpUXAzUHN1eUtWd3FSb0g5UFNSRXZfQ05BOERZWFhRdDFRVlotNVR0M0Q2M1lhd1pCcmhLTDNoMUhMcEdUdXc3QndCd2piZVFGTlRIN1M0QXVIa2ZMOUZ1VjJ2cG9hckN0cC16OXJFVFRNdEdpM1U5bnpKOEFCU3l5LURTUXppekN3U3lRN2ltTEk3ZTQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPYUVVXzhyaHoyZ2kxeFotbm1wLWhrNlZ3YmNHSnQxcGdtd0ZWdE9ydURPdktzWkJEbk13WEZKMEVQY2JVbzdyUmN4c2h6MWdXQXE0MHlGTEE4WHlwcEV5dW1veU02WTFGR2t6VTlGVURMMGt3V1c4YkJBWTBMN3pjSUZDSzdEMzJnUU9iWXA5NlVGNEt6MTFXNG9ITy00ZEFscXZrWURXSDM2a29RTkptUG9PVHFkNFl3T0tvVU9kOXJiRUxTd3lpUXAzUHN1eUtWd3FSb0g5UFNSRXZfQ05BOERZWFhRdDFRVlotNVR0M0Q2M1lhd1pCcmhLTDNoMUhMcEdUdXc3QndCd2piZVFGTlRIN1M0QXVIa2ZMOUZ1VjJ2cG9hckN0cC16OXJFVFRNdEdpM1U5bnpKOEFCU3l5LURTUXppekN3U3lRN2ltTEk3ZTQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "江苏省战新基金集群逾366亿元重仓人工智能，国资创投加速迈入“AI辅助决策”时代 - xhby.net",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90NFBlUm1xSk15NlRXTVh0c2hGOU1FSUFsMDI2SmV6cGo4OGItZGVsQXJXUE9zOF9qSlZHY1VTLXBuN3VGZEFELTZ0OXp6bm1pTDNnOHZGUEVZWV9aVzFVdG9WU0lHWDV1ZnBV?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90NFBlUm1xSk15NlRXTVh0c2hGOU1FSUFsMDI2SmV6cGo4OGItZGVsQXJXUE9zOF9qSlZHY1VTLXBuN3VGZEFELTZ0OXp6bm1pTDNnOHZGUEVZWV9aVzFVdG9WU0lHWDV1ZnBV?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI浪潮兴起，为影视行业带来怎样的影响？ - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yVDNaR2dCVDgzZnplTkxkWUh2dFc3UlB4U3VmNURRcTJmYnZwckRTWTBFd3I4NF9NcjRja3BLdkplU28wNW1mYXpDQ2JMam1JcVo5cnBYSmZfMEZrbUhtZXRGUlk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9yVDNaR2dCVDgzZnplTkxkWUh2dFc3UlB4U3VmNURRcTJmYnZwckRTWTBFd3I4NF9NcjRja3BLdkplU28wNW1mYXpDQ2JMam1JcVo5cnBYSmZfMEZrbUhtZXRGUlk?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "法管应急院召开智慧课程建设与AI赋能教学交流研讨会 - 南京信息工程大学",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZdVVOZzN0djU1bUZkMTJ2dmpFdmRaRk9YbTNOdktZTjZOaWZBNy1SczhkdkR5aDRlRTBXak9mZ3lHalFKZW1TX09CSmlUSGt3dVphai0zQ2JPZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZdVVOZzN0djU1bUZkMTJ2dmpFdmRaRk9YbTNOdktZTjZOaWZBNy1SczhkdkR5aDRlRTBXak9mZ3lHalFKZW1TX09CSmlUSGt3dVphai0zQ2JPZw?oc=5"
     }
   ]
 }
