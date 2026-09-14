@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
-  "fetchedAt": "2026-09-14T00:09:57.131Z",
-  "total": 50,
+  "fetchedAt": "2026-09-14T01:29:37.523Z",
+  "total": 30,
   "items": [
     {
       "source": "hackernews",
@@ -210,6 +210,78 @@
       "score": 0,
       "comments": 0,
       "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtRFVuT3JzN1AtUG1PTlJyV0tCUXQ0RXViQ1FkS0J1WUtHbnNSZ0RLNklsTjIxTHRTUU5XRzJPNTBfa3liOTV3dl9FSm4xZmZibFFaV1czT2RFb2pDVUE?oc=5"
+    },
+    {
+      "source": "hackernews",
+      "title": "Open-Source AI and Open Models Reading List",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "score": 13,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49690260"
+    },
+    {
+      "source": "hackernews",
+      "title": "It's All Fun and Games Until You Give AI Your Credit Card",
+      "url": "https://www.theatlantic.com/technology/2026/09/instinct-ai-personal-assistant-credit-card/688607/",
+      "score": 12,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49689664"
+    },
+    {
+      "source": "google-news",
+      "title": "从课堂到开发者社区 “AI根技术”人才培养探索“新通路” - 经济参考报",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbFRiczZFek5oWVJjdkR6WG9FdV96TnFkZUwxbkp1NXZyT0dXWTN3aklpUlJwNzdGd1NsSkttS0l2anhxMUN0aU02R2NocFY2ZnZZdVp3S01EdXR6eDNGUG9UNkoyQnc3MWlwTThqVS1WV3Z1S2tYX2kybU9ZMGhNZA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbFRiczZFek5oWVJjdkR6WG9FdV96TnFkZUwxbkp1NXZyT0dXWTN3aklpUlJwNzdGd1NsSkttS0l2anhxMUN0aU02R2NocFY2ZnZZdVp3S01EdXR6eDNGUG9UNkoyQnc3MWlwTThqVS1WV3Z1S2tYX2kybU9ZMGhNZA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人生样本｜盲人搓AI：看见看不见的世界 - shobserver.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBybUpuMVgtaGlTQkJLWUMyNGlGRllScWFXbXg1WjA3bU1wbWZxT0tKVmYzb3Y2VnJFV3Z0RWxjdDhDLTVOMENHdmg4M1ItV1Buc0JVQklzdzM5R0xGbVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBybUpuMVgtaGlTQkJLWUMyNGlGRllScWFXbXg1WjA3bU1wbWZxT0tKVmYzb3Y2VnJFV3Z0RWxjdDhDLTVOMENHdmg4M1ItV1Buc0JVQklzdzM5R0xGbVE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI巨头，讨论制定人工智能标准 - 凤凰网财经",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0dl9wcHZORkVIQTF0SERZMjlpcDByRlo5YWxjb3l2Q04zQ2tEY1p4bGJ3dDRFZGdHVVNLdndoejFMNk1CWFM2Yk4tSGViQUFl?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA0dl9wcHZORkVIQTF0SERZMjlpcDByRlo5YWxjb3l2Q04zQ2tEY1p4bGJ3dDRFZGdHVVNLdndoejFMNk1CWFM2Yk4tSGViQUFl?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Anthropic、OpenAI、谷歌商讨组建AI行业标准机构 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92NmV1SnhIUWc0YTJ1ZzZVUV90eTVIUEZod2xMWHZBRFBXTF80WXMtLU5TQ3dRMjZUcF9YeVQ1V1lwOHNCaUx0cHRTSU5hSUxoQmdMN2paT2NFQTRDdlZNbV93?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92NmV1SnhIUWc0YTJ1ZzZVUV90eTVIUEZod2xMWHZBRFBXTF80WXMtLU5TQ3dRMjZUcF9YeVQ1V1lwOHNCaUx0cHRTSU5hSUxoQmdMN2paT2NFQTRDdlZNbV93?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "物理AI：AI进入现实世界的关键跃迁 - 国际电子商情",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kNEJLcEtfUVpTR1YzUEczT3RmRnFISHVCZFJVM2M0aC1JcmNkM0NMYnJGek5XcEg1dWhycllZekJLeFY4Wl9tU2lXTjZlRlQ1NEt3MTl6VWhmdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kNEJLcEtfUVpTR1YzUEczT3RmRnFISHVCZFJVM2M0aC1JcmNkM0NMYnJGek5XcEg1dWhycllZekJLeFY4Wl9tU2lXTjZlRlQ1NEt3MTl6VWhmdw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "2026网安周｜读懂AI决策逻辑，莫让算法推荐“牵着走” - 光明网",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sWmRrSXFkYktfQkg3TVdqeXduVFhkQmxZZzdWcXpfcmdkMzVSUXR0SHE4ODZlWkZxWEZHRF9DV3lPcTU0YUg4WjV5MWx1bnZ5U2J3Z2F6TEMzbkhmT1FQRA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sWmRrSXFkYktfQkg3TVdqeXduVFhkQmxZZzdWcXpfcmdkMzVSUXR0SHE4ODZlWkZxWEZHRF9DV3lPcTU0YUg4WjV5MWx1bnZ5U2J3Z2F6TEMzbkhmT1FQRA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "15999元 绿联AI NAS私有云iDX6011 Pro开售：Ultra 7处理器+64GB内存 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15Rm1VY1pSVmVrSF9weWl1Y254ZDNzUjlVa0p2YUdLUmtwNUZLMVJwQ3h2R18yX3E1ZlRPYWs3SHZTOVFhV01jZDRSUGctZEpnbWlzY3lCYVk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE15Rm1VY1pSVmVrSF9weWl1Y254ZDNzUjlVa0p2YUdLUmtwNUZLMVJwQ3h2R18yX3E1ZlRPYWs3SHZTOVFhV01jZDRSUGctZEpnbWlzY3lCYVk?oc=5"
     }
   ]
 }
