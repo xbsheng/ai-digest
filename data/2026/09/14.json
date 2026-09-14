@@ -1,0 +1,215 @@
+{
+  "date": "2026-09-14",
+  "fetchedAt": "2026-09-14T00:09:57.131Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "score": 347,
+      "comments": 138,
+      "discuss": "https://news.ycombinator.com/item?id=49688695"
+    },
+    {
+      "source": "hackernews",
+      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "score": 330,
+      "comments": 168,
+      "discuss": "https://news.ycombinator.com/item?id=49685253"
+    },
+    {
+      "source": "hackernews",
+      "title": "There Is No AI (It's Just People) with Jaron Lanier",
+      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+      "score": 62,
+      "comments": 79,
+      "discuss": "https://news.ycombinator.com/item?id=49687869"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI recursive self-improvement might not come so quickly after all",
+      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "score": 60,
+      "comments": 56,
+      "discuss": "https://news.ycombinator.com/item?id=49687334"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Is Destroying the World",
+      "url": "https://gornak40.org/blog/ai-is-destroying-the-world.html",
+      "score": 23,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49688681"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Are we losing our engineering literacy?",
+      "url": "https://news.ycombinator.com/item?id=49685036",
+      "score": 21,
+      "comments": 18,
+      "discuss": "https://news.ycombinator.com/item?id=49685036"
+    },
+    {
+      "source": "hackernews",
+      "title": "Suicidal Compassion: Utilitarianism at AI Companies Endangers Humanity",
+      "url": "https://ai-frontiers.org/articles/suicidal-compassion-how-utilitarianism-at-ai-companies-endangers-humanity",
+      "score": 18,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49687150"
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump rejects call by CEOs of Anthropic, OpenAI and xAI to slow AI down",
+      "url": "https://www.yahoo.com/news/us/article/trump-rejects-call-by-ceos-of-anthropic-openai-and-xai-to-slow-ai-down-whoever-wins-with-ai-wins-182008851.html",
+      "score": 16,
+      "comments": 19,
+      "discuss": "https://news.ycombinator.com/item?id=49687013"
+    },
+    {
+      "source": "hackernews",
+      "title": "Security through obscurity is dead, and AI delivered the fatal blow",
+      "url": "https://www.theregister.com/security/2026/09/13/security-through-obscurity-is-dead-and-ai-delivered-the-fatal-blow/",
+      "score": 14,
+      "comments": 12,
+      "discuss": "https://news.ycombinator.com/item?id=49684180"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Tools Accelerates Coding, but Not Overall Software Delivery – GitLab Research",
+      "url": "https://www.infoq.com/news/2026/06/ai-coding-outpaces-governance/",
+      "score": 9,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49685495"
+    },
+    {
+      "source": "hackernews",
+      "title": "Donald Trump rejects calls from tech bosses for AI slowdown",
+      "url": "https://www.ft.com/content/cae60732-f929-4735-a627-db8c14e7c7ed",
+      "score": 8,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49689413"
+    },
+    {
+      "source": "hackernews",
+      "title": "Dario Amodei says China presents 'toughest dilemma' for his proposed AI slowdown",
+      "url": "https://www.cnbc.com/2026/09/13/china-dilemma-ai-slowdown-anthropic.html",
+      "score": 8,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49687566"
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump says 'negative forces' raising exaggerated concerns over AI",
+      "url": "https://www.reuters.com/world/europe/trump-says-very-negative-forces-raising-exaggerated-concerns-over-ai-2026-09-13/",
+      "score": 8,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49686794"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI job cuts fell short of forecasts, with 32% expected but only 14% reported",
+      "url": "https://www.mckinsey.com/featured-insights/charts/ai-job-losses-fall-short-of-forecasts",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49686882"
+    },
+    {
+      "source": "google-news",
+      "title": "AI重塑文化产业生产方式——2026浦江创新论坛文化科技融合专题论坛综述 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MGpfeXg5S2VMYTl1UXZaeXZWMnI4V2dlbDVYbDdXd1RlRlZlRUlaWTY4ckJsTjBYZ1hjMTRIZ2FGbEdCcnRPWm10TWJPekRZakI2YWtJQUMxUmhLN0pjdW5VWjE4M1F0bHkzdnBUYnE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MGpfeXg5S2VMYTl1UXZaeXZWMnI4V2dlbDVYbDdXd1RlRlZlRUlaWTY4ckJsTjBYZ1hjMTRIZ2FGbEdCcnRPWm10TWJPekRZakI2YWtJQUMxUmhLN0pjdW5VWjE4M1F0bHkzdnBUYnE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "上半年AI热钱涌动，国资基金抢滩人工智能｜2026张江AI小镇生态日现场侧记 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rTE5hdFRhVEI1V3RPSkVHQ2MwTl91WUNWQV9RMUJ5YmE2S0R3bEFJc3g2c18wakVuU1ZHWjNFSUczaVFiMWo2dQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rTE5hdFRhVEI1V3RPSkVHQ2MwTl91WUNWQV9RMUJ5YmE2S0R3bEFJc3g2c18wakVuU1ZHWjNFSUczaVFiMWo2dQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "中国AI走向世界，能否与美国AI分工？ - 日经中文网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWc0c2FsZHBOYlBmZ3c0ZEtMcTJnMDlIQnJ5cU4zdks2QnZaQUxHd25TcWRnVDZnb2h3bE1qbmY2WGlyOWY0NGVFTTB6REtTWDRiNFlDVTVpcHp2Z0xzVFkwbHBacE83eUxLcXpuZTZGNFBHN0ZKX0JtT2xjMEVYaA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRWc0c2FsZHBOYlBmZ3c0ZEtMcTJnMDlIQnJ5cU4zdks2QnZaQUxHd25TcWRnVDZnb2h3bE1qbmY2WGlyOWY0NGVFTTB6REtTWDRiNFlDVTVpcHp2Z0xzVFkwbHBacE83eUxLcXpuZTZGNFBHN0ZKX0JtT2xjMEVYaA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "生成越多，失败越多？AI制药如何实现闭环 - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50aWd3aW5pU0Y0SGZXRFlwTkc2NXZYQkRRS1NqSlYza0NXUElJeHVqZi1veTVQQTdCanEwYzJjN051RVoxdldMdWVuT1J6ek1GeGpwVllJUlA0dw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50aWd3aW5pU0Y0SGZXRFlwTkc2NXZYQkRRS1NqSlYza0NXUElJeHVqZi1veTVQQTdCanEwYzJjN051RVoxdldMdWVuT1J6ek1GeGpwVllJUlA0dw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能行业部分领军人物呼吁放缓AI发展特朗普怒斥“消极力量”-欧时大参–欧时网 - oushinet.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGVuNGp3d0ZISXBUUFNuMkVINWUxVEpsUzBtN3paX0RZWTFZdmN0MUJaaGU3N3pDaGZZMGozRU5nRWI1VWxOTWxYVUZfQm5VeVFQWWhVaU1LZ2dTbXpMUmY1cnFuRloxZjRYTDBIQTItQ0JJM0VjcXByVHoyR0dkVjF5Sl9OVnQyVDRmaFlFaF9EYTRneWNFMTFQN2hzcnJH?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGVuNGp3d0ZISXBUUFNuMkVINWUxVEpsUzBtN3paX0RZWTFZdmN0MUJaaGU3N3pDaGZZMGozRU5nRWI1VWxOTWxYVUZfQm5VeVFQWWhVaU1LZ2dTbXpMUmY1cnFuRloxZjRYTDBIQTItQ0JJM0VjcXByVHoyR0dkVjF5Sl9OVnQyVDRmaFlFaF9EYTRneWNFMTFQN2hzcnJH?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "当AI拥有“大脑”，谁来守护它？看山东企业布局智能安全 - 凤凰网山东",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIdm1VN1hSdlYwVHlhRWdsUXpyeUZ0eEYxVC1GNGF6RHhDRlBGemVMN0RQWWx4TlR3ZWZ1Nmw5MWM0R1ZHM2VtQWx3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBIdm1VN1hSdlYwVHlhRWdsUXpyeUZ0eEYxVC1GNGF6RHhDRlBGemVMN0RQWWx4TlR3ZWZ1Nmw5MWM0R1ZHM2VtQWx3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI啥时候能进厂“打螺丝”？ - 湖北日报传媒集团",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ealp4NmhYSW01MUh6NXFzamZzdW5DU1hjZjAtcDNadnNhV2VScVVRT1hMaTJHcHFzNjYxRkM4VkhvN0tESzlzbExLSlUzU2RBRXFIQjE5eFE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Ealp4NmhYSW01MUh6NXFzamZzdW5DU1hjZjAtcDNadnNhV2VScVVRT1hMaTJHcHFzNjYxRkM4VkhvN0tESzlzbExLSlUzU2RBRXFIQjE5eFE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "健康160：境内附属完成1220万元医疗AI算力融合订单交付 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xQm84U1kzbVhfQjl0Mld5NlpIalpCU3N4SEVpbVJ3WV9IalR2VXdOTjIyN0tQV0dMaDFqNkZvOEF5RDNfSEU5WmRwUE9kcHFmZUZfMTFxZGZPUWhVYkJmQ0lB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xQm84U1kzbVhfQjl0Mld5NlpIalpCU3N4SEVpbVJ3WV9IalR2VXdOTjIyN0tQV0dMaDFqNkZvOEF5RDNfSEU5WmRwUE9kcHFmZUZfMTFxZGZPUWhVYkJmQ0lB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "健康160：开展医疗健康与AI算力融合新业务 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lcTZabUpuWDFkVTRSSnBxeF96QzZCb1cxZmZGVmJfbEhBYmNnZ0pmSV9sMElhX1Y1dFlTZEFQNVl5b0RwRmVuZHRURVhPOGpkbnpQOHhCcVIwaUZ4SG1Oaw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lcTZabUpuWDFkVTRSSnBxeF96QzZCb1cxZmZGVmJfbEhBYmNnZ0pmSV9sMElhX1Y1dFlTZEFQNVl5b0RwRmVuZHRURVhPOGpkbnpQOHhCcVIwaUZ4SG1Oaw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“算力资源借我一用”…拖中国AI后腿的芯片 - 朝鮮日報中文版",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcFd4c2Vwc1JvOVlvRlhlTV9LY3dRZGhFUl9lRVNsOXRYRDYxYnJpR01nWURqRFI3T1FERHdPZGN6SWZPTmJFdm92OElFVktaT1VpZkV1V1VIMzd0X19kSmZ0RUF2b25NN0lta0F6b0RySFl0SVlWN250SHkzRzJMRHZWR19xYWF1UUg1Y29yVkE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcFd4c2Vwc1JvOVlvRlhlTV9LY3dRZGhFUl9lRVNsOXRYRDYxYnJpR01nWURqRFI3T1FERHdPZGN6SWZPTmJFdm92OElFVktaT1VpZkV1V1VIMzd0X19kSmZ0RUF2b25NN0lta0F6b0RySFl0SVlWN250SHkzRzJMRHZWR19xYWF1UUg1Y29yVkE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "2026外滩大会｜7.8万人感受AI“在身边” - cnr.cn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WekM4ejVBTFZOX0x6clZmWTk1ZVJfT0l6dF80b0RhVzdpRmRGQmxqYk9NV1REM0l0VzNFTnBOcDJYX01RVzk2bEpQRHZ6RzFRNVZjd1E2eXoxQ2ZWT1FzUVlLOUs5dkw0S0VORDBmR3JSY2RRRHBv?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WekM4ejVBTFZOX0x6clZmWTk1ZVJfT0l6dF80b0RhVzdpRmRGQmxqYk9NV1REM0l0VzNFTnBOcDJYX01RVzk2bEpQRHZ6RzFRNVZjd1E2eXoxQ2ZWT1FzUVlLOUs5dkw0S0VORDBmR3JSY2RRRHBv?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人生样本｜盲人搓AI：看见看不见的世界 - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtRFVuT3JzN1AtUG1PTlJyV0tCUXQ0RXViQ1FkS0J1WUtHbnNSZ0RLNklsTjIxTHRTUU5XRzJPNTBfa3liOTV3dl9FSm4xZmZibFFaV1czT2RFb2pDVUE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtRFVuT3JzN1AtUG1PTlJyV0tCUXQ0RXViQ1FkS0J1WUtHbnNSZ0RLNklsTjIxTHRTUU5XRzJPNTBfa3liOTV3dl9FSm4xZmZibFFaV1czT2RFb2pDVUE?oc=5"
+    }
+  ]
+}
