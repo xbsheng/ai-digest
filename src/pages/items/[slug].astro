@@ -18,6 +18,9 @@ const { Content } = await render(item);
       {item.data.source} · {fmtDate(item.data.date)}{item.data.score ? ` · 热度 ${item.data.score}` : ''}
     </p>
     <h1>{item.data.title}</h1>
+    {item.data.orig_title && item.data.orig_title !== item.data.title && (
+      <p class="orig-title">原文标题：{item.data.orig_title}</p>
+    )}
     <div class="article-body">
       <Content />
     </div>

@@ -29,6 +29,7 @@ const items = defineCollection({
     source: z.string().optional(),
     url: z.string(),
     score: z.coerce.number().optional(),
+    orig_title: z.string().optional(),
   }),
 });
 

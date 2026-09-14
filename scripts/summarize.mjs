@@ -86,7 +86,8 @@ async function generateDetails(refItems) {
     const out = await chat(
       '你是中文科技编辑，为「AI 晨报」的每条热点撰写详述。' + GUARD + '\n' +
         '对每条输入生成 400-600 字中文详述，分 2-4 段：①背景与上下文（事件发生在什么脉络中）②核心内容（具体到数字、名称、对比）③影响与后续关注点。\n' +
-        '输出 JSON 对象：{"details":[{"url":"输入中的url","summary":"详述正文"}]}，不要输出 JSON 以外的内容。',
+        '同时为每条生成中文标题 title_zh（信达雅，保留专有名词/模型名英文，30 字以内）。\n' +
+        '输出 JSON 对象：{"details":[{"url":"输入中的url","title_zh":"中文标题","summary":"详述正文"}]}，不要输出 JSON 以外的内容。',
       JSON.stringify(list),
       { json: true }
     );
@@ -95,18 +96,18 @@ async function generateDetails(refItems) {
     console.error(`详述生成失败（详情页降级为原始条目）：${e.message}`);
   }
   const map = new Map();
-  for (const d of parsed?.details ?? []) if (d?.url && d?.summary) map.set(d.url, d.summary);
+  for (const d of parsed?.details ?? []) if (d?.url && d?.summary) map.set(d.url, d);
   return map;
 }
 
-function writeItemPage(item, summary, date) {
-  const title = normalizeTaiwan(item.title);
+function writeItemPage(item, detail, date) {
+  const title = (detail?.title_zh && normalizeTaiwan(detail.title_zh)) || normalizeTaiwan(item.title);
   const slug = hash12(item.url);
   const body =
-    (summary ? `${summary}\n\n` : `（AI 详述未生成，以下为原始条目信息。${item.score ? `热度 ${item.score}。` : ''}）\n\n`) +
+    (detail?.summary ? `${detail.summary}\n\n` : `（AI 详述未生成，以下为原始条目信息。${item.score ? `热度 ${item.score}。` : ''}）\n\n`) +
     `> 本页摘要由 AI 自动生成，仅供参考，请以原文为准。`;
   const md =
-    frontmatter({ title, date, description: `${item.source} 的 AI 热点详述`, source: item.source, url: item.url, score: item.score == null ? undefined : Number(item.score) }) +
+    frontmatter({ title, date, description: `${item.source} 的 AI 热点详述`, source: item.source, url: item.url, score: item.score == null ? undefined : Number(item.score), orig_title: item.title }) +
     body +
     '\n';
   const outPath = join(ROOT, 'src', 'content', 'items', `${slug}.md`);
@@ -151,6 +152,7 @@ if (mode === 'daily') {
   const refItems = [...new Set(refUrls)].map((u) => safeItems.find((i) => i.url === u)).filter(Boolean);
   const details = await generateDetails(refItems);
   for (const it of refItems) writeItemPage(it, details.get(it.url), date);
+  console.log(`title_zh 命中：${[...details.values()].filter((d) => d.title_zh).length}/${refItems.length}`);
   // 要点结构化：标题即链接（有详述页→详情，否则→原文），点击整个要点区域跳转
   body = body.replace(
     /^(?:[-*]\s+|\d+\.\s+|)\*\*(.+?)\*\*（(.+?)）：\s*(.+?)\s*\[原文\]\(([^)]+)\)\s*$/gm,
