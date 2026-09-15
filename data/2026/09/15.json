@@ -1,0 +1,411 @@
+{
+  "date": "2026-09-15",
+  "fetchedAt": "2026-09-15T00:36:51.809Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "score": 96,
+      "comments": 106,
+      "discuss": "https://news.ycombinator.com/item?id=49703003"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tell HN: iOS 27 does not allow Apple Intelligence to be disabled",
+      "url": "https://news.ycombinator.com/item?id=49704226",
+      "score": 43,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=49704226"
+    },
+    {
+      "source": "hackernews",
+      "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+      "url": "https://pub.sakana.ai/pc-alm/",
+      "score": 33,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=49701182"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple Releases iOS 27 and iPadOS 27 with Siri AI and Liquid Glass Update",
+      "url": "https://www.macrumors.com/2026/09/14/apple-releases-ios-27/",
+      "score": 17,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49700357"
+    },
+    {
+      "source": "hackernews",
+      "title": "AirBaltic files for Chapter 11 bankruptcy as Iran war costs bite",
+      "url": "https://www.reuters.com/world/airbaltic-files-chapter-11-bankruptcy-new-york-2026-09-14/",
+      "score": 12,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49703455"
+    },
+    {
+      "source": "hackernews",
+      "title": "U.S. Health Officials Move Quickly to Deploy Medical A.I. Despite Concerns",
+      "url": "https://www.nytimes.com/2026/09/14/health/ai-doctors-medicare-fda.html",
+      "score": 10,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49702813"
+    },
+    {
+      "source": "hackernews",
+      "title": "Donald Trump claims 'sick conspiracy' against AI, rejects calls for regulation",
+      "url": "https://www.rnz.co.nz/news/world/1380559/donald-trump-claims-sick-conspiracy-against-ai-helping-china-rejects-calls-for-regulation",
+      "score": 8,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49702104"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia CEO Jensen Huang tells Trump we're not going to let an AI slowdown happen",
+      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "score": 7,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49705286"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Doomer Hypeloop Suspiciously Serves to Support OpenAI and Anthropic's Agenda",
+      "url": "https://www.nakedcapitalism.com/2026/09/openai-anthropic-ai-freeze-doomers-trump-bannon-sanders.html",
+      "score": 7,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49704560"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple releases OS 27 updates with Siri AI",
+      "url": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49701027"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49700236"
+    },
+    {
+      "source": "hackernews",
+      "title": "China says AI CEOs' call for a slowdown is 'fear mongering'",
+      "url": "https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49705877"
+    },
+    {
+      "source": "hackernews",
+      "title": "Amodei's proposal would effectively outlaw competitive open weight models",
+      "url": "https://venturebeat.com/technology/amodeis-ai-slowdown-plan-never-says-open-weights-it-doesnt-have-to",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49704852"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia Launches RTX 5500 Pro Blackwell Desktop Edition with 84GB GDDR7 RAM",
+      "url": "https://www.tomshardware.com/pc-components/gpus/gaming-takes-a-backseat-as-nvidia-overhauls-the-rtx-5090-for-maximum-ai-margins-rtx-pro-5500-delivers-2-6x-vram-at-matching-specs",
+      "score": 5,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49702319"
+    },
+    {
+      "source": "arxiv",
+      "title": "Type Diversity Enables Transformers to Generalise Compositionally",
+      "url": "http://arxiv.org/abs/2609.13144v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Anssi Moisio, Mathias Creutz, Mikko Kurimo",
+      "discuss": "http://arxiv.org/abs/2609.13144v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
+      "url": "http://arxiv.org/abs/2609.13141v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Zhiwei Li, Lei Zhu, Hao Gu",
+      "discuss": "http://arxiv.org/abs/2609.13141v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Rethinking Heterogeneous System Disaggregation for Subquadratic Attention",
+      "url": "http://arxiv.org/abs/2609.13134v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Arya Tschand, Yaosheng Fu, Vikram Sharma Mailthody",
+      "discuss": "http://arxiv.org/abs/2609.13134v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios",
+      "url": "http://arxiv.org/abs/2609.13125v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Seif ElDein Mostafa, Yahia Ahmed, Farah Datwish",
+      "discuss": "http://arxiv.org/abs/2609.13125v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "CMA-OT: Hierarchical Expert Supervision for Dance-to-Music Generation",
+      "url": "http://arxiv.org/abs/2609.13118v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jinting Wang, Chenxing Li, Dong Yu",
+      "discuss": "http://arxiv.org/abs/2609.13118v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Continue, Adapt, or Yield: In-Turn Adaptation to Overlapping Speech in Full-Duplex Agents",
+      "url": "http://arxiv.org/abs/2609.13117v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yunqi Lu, Tyler Baumgartner, Nikhil Johri",
+      "discuss": "http://arxiv.org/abs/2609.13117v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "A Ranking Approach for Measuring Calibration",
+      "url": "http://arxiv.org/abs/2609.13100v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Anirban Chatterjee, Rina Foygel Barber",
+      "discuss": "http://arxiv.org/abs/2609.13100v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "ASTRIL-MPC: Autonomous Traversal Framework of Articulated Tracked Robots with Language-Guided Neural-Kinematic MPC",
+      "url": "http://arxiv.org/abs/2609.13083v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Zhenfeng Gan, Yanbo Chen, Lirong Che",
+      "discuss": "http://arxiv.org/abs/2609.13083v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction",
+      "url": "http://arxiv.org/abs/2609.13082v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Baoyang Jiang, Fengchun Zhang, Leyuan Wang",
+      "discuss": "http://arxiv.org/abs/2609.13082v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "MP-Bench: Evaluating Voice Agents as a Multiparty Conversation Participant",
+      "url": "http://arxiv.org/abs/2609.13076v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yi-Jen Shih, Shih-Yun Shan Kuan, Guan-Ting Lin",
+      "discuss": "http://arxiv.org/abs/2609.13076v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Autonomous Research for Open-Ended Problems: A Case Study on Telecom Ticket Retrieval",
+      "url": "http://arxiv.org/abs/2609.13073v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Junghyun Min, Huseyin Uzunalioglu, Mohamed Trabelsi",
+      "discuss": "http://arxiv.org/abs/2609.13073v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "MAxBench: A Multinomial Concept Recovery Benchmark",
+      "url": "http://arxiv.org/abs/2609.13072v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Divya Appapogu, Freya Behrens, Yonatan Belinkov",
+      "discuss": "http://arxiv.org/abs/2609.13072v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Involving before Evolving: A Vision for Trustworthy Enterprise Digital Twin Engineering",
+      "url": "http://arxiv.org/abs/2609.13071v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Kérian Fiter, Adil Lagrou, Franck Dervault",
+      "discuss": "http://arxiv.org/abs/2609.13071v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Anchoring Clinical Events in Time: UID-Preserving Multimodal Reconstruction and Source-Grounded Adjudication",
+      "url": "http://arxiv.org/abs/2609.13062v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Sayantan Kumar, Nicolas Grimaldi, Jack Cummins",
+      "discuss": "http://arxiv.org/abs/2609.13062v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "CanvasAnneal: Curriculum Reinforcement Learning for Diffusion Language Models",
+      "url": "http://arxiv.org/abs/2609.13060v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Blake Olson, Yuhang Song, Emmett McQuinn",
+      "discuss": "http://arxiv.org/abs/2609.13060v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Expert-Space Exploration in MoE Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2609.13058v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Hongyi He, Zhenghao Lin, Xiao Liu",
+      "discuss": "http://arxiv.org/abs/2609.13058v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Benign Loss Landscapes Can Coexist with Worst-Case Hardness",
+      "url": "http://arxiv.org/abs/2609.13057v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Zach Furman, Stephan Wäldchen, Yangda Bei",
+      "discuss": "http://arxiv.org/abs/2609.13057v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model",
+      "url": "http://arxiv.org/abs/2609.13053v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Hoeun Lee, Jaeik Kim, Jusang Oh",
+      "discuss": "http://arxiv.org/abs/2609.13053v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "A Unified and Constrained View of Regularization-Based Robust Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2609.13050v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Amine Andam, Jamal Bentahar, Mustapha Hedabou",
+      "discuss": "http://arxiv.org/abs/2609.13050v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "MCRL2: Multi-resource Cross-attention-based Representation Learning-augmented Reinforcement Learning for Cloud Microservice Scheduling",
+      "url": "http://arxiv.org/abs/2609.13048v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Tiangang Li, Shi Ying, Xiangbo Tian",
+      "discuss": "http://arxiv.org/abs/2609.13048v1"
+    },
+    {
+      "source": "google-news",
+      "title": "人权高专呼吁采取紧急行动应对前所未有的人工智能风险 - news.un.org",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uTEZCa2RvSENvTktBV3YwVk43MVQ2Vks2dXJROXAyUHNEWjU2OF9Kb1JFazZ5QjN5dURfZEZkdE9nZWFITnBsdTNDOGpqYkdodDYyMU9MTQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uTEZCa2RvSENvTktBV3YwVk43MVQ2Vks2dXJROXAyUHNEWjU2OF9Kb1JFazZ5QjN5dURfZEZkdE9nZWFITnBsdTNDOGpqYkdodDYyMU9MTQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "专访｜白磊：当所有成果都被装进AI大模型，真正的创新如何被看到 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPZ2tNNDhyR2VxX1dTdFcyOTdwNGt3QmJDQ3VfdzJsOFljcnNGRHJ1NERGQ0I2MTdkcXY2THZGU3ViUkQtcHlCeTg5cndoZS1YR1l3WGM4U1JOQVhDY1ZRYQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPZ2tNNDhyR2VxX1dTdFcyOTdwNGt3QmJDQ3VfdzJsOFljcnNGRHJ1NERGQ0I2MTdkcXY2THZGU3ViUkQtcHlCeTg5cndoZS1YR1l3WGM4U1JOQVhDY1ZRYQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？ - cls.cn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TSXJLMmxMbjRzLTByLVdBbTZVN3lWRmtPTGdHLUtZVlJLM2J3T2xCS0hGb1hpVDdzVGttWWx2emxSeS1lTVpSTw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TSXJLMmxMbjRzLTByLVdBbTZVN3lWRmtPTGdHLUtZVlJLM2J3T2xCS0hGb1hpVDdzVGttWWx2emxSeS1lTVpSTw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "苹果Siri AI终于来了！历经延期后正式开放测试 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01N2ppWHpuck45UUZKbzJsV3RmLTdLT1oyd1I2ekt5QllveWpHclZNQk9DWEZ4c0tjdDhLX20xRDdNbDRfVDhxdm5XRkE1V1FiRWtISk00QXlCUTU4YmF3Qw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01N2ppWHpuck45UUZKbzJsV3RmLTdLT1oyd1I2ekt5QllveWpHclZNQk9DWEZ4c0tjdDhLX20xRDdNbDRfVDhxdm5XRkE1V1FiRWtISk00QXlCUTU4YmF3Qw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "上海人工智能实验室主任周伯文：人类思考一道难题花了上百年，AI需要多久？ - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XQmw4Y3oxWTJmNTNYcHM2VjNwenBsQW5LRFk2cTNnNE81U0NVMGo4STROSEhNTlhpWm1JVUszdkRIaXVTNVh2VUtjUjg3azktRnRxUGZPZm9GZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XQmw4Y3oxWTJmNTNYcHM2VjNwenBsQW5LRFk2cTNnNE81U0NVMGo4STROSEhNTlhpWm1JVUszdkRIaXVTNVh2VUtjUjg3azktRnRxUGZPZm9GZw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "中国官媒批安特罗匹克放缓人工智能倡议体现针对中国的“冷战思维” - RFI",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxPU2F0dTRmbzczU2tIYjFXckJhazdXd2Jib0E4NFV4QnFWSGtqWFYzd3FrZUE2X0dUU01PNG5IYjJ3RjktX2ozV015RUtHRWZ6ZFNUcEVMb0pTRUZWTlZ4Tk5JMmNqT0JxbXZkSFl0Qkg5N0xRS1MybkFUZmFHQ2kzdlJKbmZqTkZVV0szMVc3VlBrWWU4VnhzY0dkT2xhcE9GbVNLaFc3ZG5aNlJnalNfSjVZR3BSdU84dGgyNkNRN0tmSExMRUJURGU5Q2JyMVRzckIzbjhKaFRuaDBuSEYyNE1MdDBUUWJnRXJKVFF6bFplSGtaWVdOenNmT1EtN0ZPblNFb2xSZ3JlZ0NmaHVLR19fQUpkbzlOeWlLNEdZTEh6OE9ScjZjVERGRmZZSVF0aS1FX0lYQ2hmQzNrTlB0SHN1d0NFQ1dDSUF3QXNkUTItWkV1YTA5cVJERzRyVGJtRnotSXBIdzFGbkhmaXRra1NxOGRfeGxnbTNSX20wb2ptOUFLUzNucHNwYlhsbWFjY1NDeTh0OEhScnU0NmdUbmdvTWZYSDV6bDQzdHVyWHFWclIyYmJnd29FSmY?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMivANBVV95cUxPU2F0dTRmbzczU2tIYjFXckJhazdXd2Jib0E4NFV4QnFWSGtqWFYzd3FrZUE2X0dUU01PNG5IYjJ3RjktX2ozV015RUtHRWZ6ZFNUcEVMb0pTRUZWTlZ4Tk5JMmNqT0JxbXZkSFl0Qkg5N0xRS1MybkFUZmFHQ2kzdlJKbmZqTkZVV0szMVc3VlBrWWU4VnhzY0dkT2xhcE9GbVNLaFc3ZG5aNlJnalNfSjVZR3BSdU84dGgyNkNRN0tmSExMRUJURGU5Q2JyMVRzckIzbjhKaFRuaDBuSEYyNE1MdDBUUWJnRXJKVFF6bFplSGtaWVdOenNmT1EtN0ZPblNFb2xSZ3JlZ0NmaHVLR19fQUpkbzlOeWlLNEdZTEh6OE9ScjZjVERGRmZZSVF0aS1FX0lYQ2hmQzNrTlB0SHN1d0NFQ1dDSUF3QXNkUTItWkV1YTA5cVJERzRyVGJtRnotSXBIdzFGbkhmaXRra1NxOGRfeGxnbTNSX20wb2ptOUFLUzNucHNwYlhsbWFjY1NDeTh0OEhScnU0NmdUbmdvTWZYSDV6bDQzdHVyWHFWclIyYmJnd29FSmY?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“AI降速论”，没有回答一个根本性问题 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lNkhGRTFBa1JkOEZDVTRQaXpoNnZRdjhHQkxIVVlmUFMzeG5rTnI4YWlkOVJENHhjaTNSSk13alpNVzNtY0p0ZXRXa1VkWDdGSUNEUVVscFk2Q3Y0MWlmbzBXNXd0SzM2UUE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lNkhGRTFBa1JkOEZDVTRQaXpoNnZRdjhHQkxIVVlmUFMzeG5rTnI4YWlkOVJENHhjaTNSSk13alpNVzNtY0p0ZXRXa1VkWDdGSUNEUVVscFk2Q3Y0MWlmbzBXNXd0SzM2UUE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "独家专访野村苏博文：若AI热潮降温，全球资产会迈向何方？ - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTVM4cXUwNzJCZ2taWTljVkhmUm9xN0FaRGVvclZmbEdfV2sxYTdWcUJzNVFlWm1mWGZJcEhGSVhvZHFDWDEyZTd1czFabGdadTdLWHhWdzBoODZLTndSZS1zTW12WnlqU25EaG1PREpkdUlLSk5oRTBEWDd6amJ0Wm5iWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTVM4cXUwNzJCZ2taWTljVkhmUm9xN0FaRGVvclZmbEdfV2sxYTdWcUJzNVFlWm1mWGZJcEhGSVhvZHFDWDEyZTd1czFabGdadTdLWHhWdzBoODZLTndSZS1zTW12WnlqU25EaG1PREpkdUlLSk5oRTBEWDd6amJ0Wm5iWQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能时代，新文科何以重构知识生态 - 光明网",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoUE1VSUs2MHRlNWxtaF9SakZKWngwZ0Z2N251dXFhYS1wU25KMzBIQ1haMGw4SEIzWV8xS1FpeDNxY2U2dUlGa3c1VThmR2tHWDFYSS1TXzd6MFJ6UzNzaw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoUE1VSUs2MHRlNWxtaF9SakZKWngwZ0Z2N251dXFhYS1wU25KMzBIQ1haMGw4SEIzWV8xS1FpeDNxY2U2dUlGa3c1VThmR2tHWDFYSS1TXzd6MFJ6UzNzaw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“好美珠玑”AI短视频①丨一颗珍珠·半城诸暨 - 新华网浙江",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRy05STJaZDVIYW1xOU1KMEFIQjdKVG9mVW84d01DWVBQZmRObXBYTXZZNTNReUxoTGptak81UFU4Q2Y4VDZBSFVGV2FXdzhSbVFpU3RzNUZEUWpsV3JkbXdSNTV2OEFUWk5mYXY0RkN0eF9EemFlSkVtTDBlcDV5QTZB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRy05STJaZDVIYW1xOU1KMEFIQjdKVG9mVW84d01DWVBQZmRObXBYTXZZNTNReUxoTGptak81UFU4Q2Y4VDZBSFVGV2FXdzhSbVFpU3RzNUZEUWpsV3JkbXdSNTV2OEFUWk5mYXY0RkN0eF9EemFlSkVtTDBlcDV5QTZB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "特朗普总统：美国需保持人工智能世界领导地位；行业高管则呼吁放缓发展 - 美国之音",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeUlZQnIxOXpFOTBvT2g2d1dLTXlXRmhQQmtOSkc0ZXotbUo1cjFNeEdDWDJRa3VwYWdLOXN3c3Z4c1BoVThFS0M2M0ZFOEs3R1JLLUtHM3FTN3dTdTlBYXVtcXVqTDhCOUVKMy15S2VtYV9iZzJoNWxLSlIxVHdTVndNX3NNZ09QVVZ4YVp0V2hZTFA3UlVwdUl6Z3ZQMWI4TUVLTDQ2YlVqTFc3aHVGb3FsSTVuWGNzbEtvYkZ6OXE1WFZBYk9LXzlXNWh1S1U3OHJjOWZZU0NiNnJYV1FmbWtRT3Vvc2l1b21SbmFPS1ZGenNWb0ZXTEZn0gH8AUFVX3lxTE9rdUdiYnU2R3ZNa3JmVzFxSkMwOG5xQUZyN0tRYkFESUh3NFEzdDRIeEFTcno1dFRtcUlSVkZnZUxVVkQ0Y3lLVTAwdlJST2JKcjg3SlBhQTlQOFpuZVEwZ3hoVXRybmNsT2VubWF3cEhNZTFOWWJTclVmUWVWRnYyeUYzZ1p6RV8yYUFOZlUtWG55d1VfWW5YNDg4M215T3NMTDcxWnItd05ZZ051d2x4RjJHOVNDc3hWRHJEYmxXaXd4Ym1UWTBwZUp0a09HMlZzUUl4eE43RnY4OVBCbGlST1F2a3hMN1JWUVNOUlh2YWFyRTV4M0dxQ2F1ag?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeUlZQnIxOXpFOTBvT2g2d1dLTXlXRmhQQmtOSkc0ZXotbUo1cjFNeEdDWDJRa3VwYWdLOXN3c3Z4c1BoVThFS0M2M0ZFOEs3R1JLLUtHM3FTN3dTdTlBYXVtcXVqTDhCOUVKMy15S2VtYV9iZzJoNWxLSlIxVHdTVndNX3NNZ09QVVZ4YVp0V2hZTFA3UlVwdUl6Z3ZQMWI4TUVLTDQ2YlVqTFc3aHVGb3FsSTVuWGNzbEtvYkZ6OXE1WFZBYk9LXzlXNWh1S1U3OHJjOWZZU0NiNnJYV1FmbWtRT3Vvc2l1b21SbmFPS1ZGenNWb0ZXTEZn0gH8AUFVX3lxTE9rdUdiYnU2R3ZNa3JmVzFxSkMwOG5xQUZyN0tRYkFESUh3NFEzdDRIeEFTcno1dFRtcUlSVkZnZUxVVkQ0Y3lLVTAwdlJST2JKcjg3SlBhQTlQOFpuZVEwZ3hoVXRybmNsT2VubWF3cEhNZTFOWWJTclVmUWVWRnYyeUYzZ1p6RV8yYUFOZlUtWG55d1VfWW5YNDg4M215T3NMTDcxWnItd05ZZ051d2x4RjJHOVNDc3hWRHJEYmxXaXd4Ym1UWTBwZUp0a09HMlZzUUl4eE43RnY4OVBCbGlST1F2a3hMN1JWUVNOUlh2YWFyRTV4M0dxQ2F1ag?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "这块田何时开镰 AI模型帮着算 - 四川日报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yY1hObG5kT1dYTVY3cHNFNEctYkFLTEMwMm9PQ2dOMF9iX2xySXRSMk5NRDVYUzRkRHluc3pHRU1aV2VUUFlwQy1YVy1zNm9JcE1wR2VDOGlaYXd5UjU2RURoRDhhdEtHSFE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yY1hObG5kT1dYTVY3cHNFNEctYkFLTEMwMm9PQ2dOMF9iX2xySXRSMk5NRDVYUzRkRHluc3pHRU1aV2VUUFlwQy1YVy1zNm9JcE1wR2VDOGlaYXd5UjU2RURoRDhhdEtHSFE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "【华尔街日报】三大AI企业掌门人达成共识：模型开发需要降速 - 端傳媒Initium Media",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnNOb3pGRUNHWkU2SURNM09yWTRKWEV0TWUtaWsyTldCRzJFalZxMXhBN0tfdkwxNU5zU2tNUXNTaWYxZzkwR0pvbmJHSTdoNXBJd3hiV0t3SzBsUFRIcWZ0X19tZ2JQLW5NQVdTYThnV2dFSDc3ZjVEOFFPUXlGNE84RXR1aXotWk14S05rZjE4bDJ4TzVySzFn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnNOb3pGRUNHWkU2SURNM09yWTRKWEV0TWUtaWsyTldCRzJFalZxMXhBN0tfdkwxNU5zU2tNUXNTaWYxZzkwR0pvbmJHSTdoNXBJd3hiV0t3SzBsUFRIcWZ0X19tZ2JQLW5NQVdTYThnV2dFSDc3ZjVEOFFPUXlGNE84RXR1aXotWk14S05rZjE4bDJ4TzVySzFn?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI越用越离不开 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QSzJDRm1pUkdIelVfS0k4Q1JwWDJsRlpOM0xWNk9SRFZWeE5lYnNYYVk5NThvSlE5RjhlMTdMTnVCTTZVRjVXaTQxMVNzQUlzdmJfZUZLaGpNdnY1VmZub3lFVXhuYWR0emc0UUtWcmplTWJCYnVQbk44NA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QSzJDRm1pUkdIelVfS0k4Q1JwWDJsRlpOM0xWNk9SRFZWeE5lYnNYYVk5NThvSlE5RjhlMTdMTnVCTTZVRjVXaTQxMVNzQUlzdmJfZUZLaGpNdnY1VmZub3lFVXhuYWR0emc0UUtWcmplTWJCYnVQbk44NA?oc=5"
+    }
+  ]
+}
