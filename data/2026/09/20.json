@@ -1,0 +1,239 @@
+{
+  "date": "2026-09-20",
+  "fetchedAt": "2026-09-20T00:06:15.866Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "I think you should almost never use AI to write",
+      "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+      "score": 199,
+      "comments": 114,
+      "discuss": "https://news.ycombinator.com/item?id=49767937"
+    },
+    {
+      "source": "hackernews",
+      "title": "Microsoft director: AI scraping 'the largest theft of labor in human history'",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "score": 105,
+      "comments": 31,
+      "discuss": "https://news.ycombinator.com/item?id=49768921"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Safety Is Mostly a Sex Cult",
+      "url": "https://bsky.app/profile/segyges.bsky.social/post/3mvom4b4dn22q",
+      "score": 65,
+      "comments": 39,
+      "discuss": "https://news.ycombinator.com/item?id=49766911"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lawsuit says Anthropic, OpenAI and others made illegal agreement on AI slowdown",
+      "url": "https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b",
+      "score": 42,
+      "comments": 14,
+      "discuss": "https://news.ycombinator.com/item?id=49769050"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI and Anthropic oversold AI security breaches",
+      "url": "https://nypost.com/2026/09/19/us-news/openai-anthropic-oversold-security-breaches-to-pressure-feds-into-protecting-turf-insiders/",
+      "score": 33,
+      "comments": 16,
+      "discuss": "https://news.ycombinator.com/item?id=49769668"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: How do you interview devs in a post-AI world?",
+      "url": "https://news.ycombinator.com/item?id=49768826",
+      "score": 25,
+      "comments": 17,
+      "discuss": "https://news.ycombinator.com/item?id=49768826"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lawsuit: Illegal Agreement of Anthropic, OpenAI, SpaceXAI, Google on AI Slowdown",
+      "url": "https://www.independent.co.uk/news/lawsuit-anthropic-google-openai-lawyers-b3052942.html",
+      "score": 17,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49768108"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lawsuit Accuses Anthropic, OpenAI, SpaceXAI, Google of AI Pacing 'Collusion'",
+      "url": "https://thehill.com/policy/technology/6099571-lawsuit-accuses-anthropic-openai-spacexai-google-of-ai-pacing-collusion/",
+      "score": 9,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49767558"
+    },
+    {
+      "source": "hackernews",
+      "title": "Four AI lab breaches were caused by a single underlying issue, Irregular says",
+      "url": "https://thenextweb.com/news/irregular-four-labs-one-issue-disclosure-timeline-gemini",
+      "score": 8,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49767480"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic, OpenAI, SpaceXAI, Google sued over call to 'pace' AI development",
+      "url": "https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023",
+      "score": 8,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49766722"
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump Announces an 'AI Force'",
+      "url": "https://www.wsj.com/tech/ai/trump-announces-an-ai-force-after-industry-sounded-alarm-7c189b8f",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49769086"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI-Generated Movie Star Has a Total Meltdown on TV",
+      "url": "https://www.honest-broker.com/p/ai-generated-movie-star-has-a-total",
+      "score": 5,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49770007"
+    },
+    {
+      "source": "hackernews",
+      "title": "I Built AI Agents That Ask Companies to Delete Their Data. Most Never Answered",
+      "url": "https://medium.com/@stem-education/i-built-ai-agents-that-ask-companies-to-delete-their-data-most-never-answered-7c90c3d2b6d1",
+      "score": 5,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49769723"
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump says he will create 'AI Force,' name AI czar",
+      "url": "https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49768880"
+    },
+    {
+      "source": "hackernews",
+      "title": "Regulate and Standardize AI? Nope",
+      "url": "https://www.tbray.org/ongoing/When/202x/2026/09/18/On-Regulating-AI",
+      "score": 4,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49770528"
+    },
+    {
+      "source": "google-news",
+      "title": "全球连线丨AI真的会让普通人创业更容易吗？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2FoMC13bGcxaHJ5clpkcHlzQjQtcGxndUNkWDlVZFJKdDVGMVpmemNPTU12YW9hNTlab19oOHNXbTQxMV9BMHZ1dkpiYW1Qbl9pS0JFRnBXQ0NNeFFSTkhrYjZ4RmRXM2dYUUZDX2ZOaDZJanpGZWtFa0gzTVc3dURB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS2FoMC13bGcxaHJ5clpkcHlzQjQtcGxndUNkWDlVZFJKdDVGMVpmemNPTU12YW9hNTlab19oOHNXbTQxMV9BMHZ1dkpiYW1Qbl9pS0JFRnBXQ0NNeFFSTkhrYjZ4RmRXM2dYUUZDX2ZOaDZJanpGZWtFa0gzTVc3dURB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "特朗普总统宣布将组建人工智能部队 并任命一位人工智能“沙皇” - voachinese.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXl2V0lleVZqVnpiX25kdnlUay1ZenhINDlpZko0ZVlFRTJ5RnIxdTZWMkh3TlU4TmVkdFlJa2daVUdzbEJyelZTWWdFR0liUHdxcWh4RW5KckMyR1daSzRQMFZNMVRiVElyTUxNMllVVWpaU0ZKS0xhOEZQeTV0c3hCNmtUbVFPTXNYbWVKVjRNa3dENVNHU2ZORzFuY29qM3F1ZU5wSXBCMlRub20zMdIBswFBVV95cUxOenViU0dhdTlJVWtraEh0aGtncDdFei1XREo1dWRUa0lGdjYtd1BiSG1pZ2U3d1A1bG5jS2V1dkdsRnoxTDVxaGh0dkNUOGs0dC1IOTlGYUFPM3BCWF9PbVdLa0pQV0dUZUg3Q1ctNUoybDM1ZEdSM2JtWlJXOThlRTlqeXpSZlRJaV9pMElhUll4SGJkMkhKSzU1dVFZNk1IZjFZa2tqVTNycDE3ZU10U0llaw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbXl2V0lleVZqVnpiX25kdnlUay1ZenhINDlpZko0ZVlFRTJ5RnIxdTZWMkh3TlU4TmVkdFlJa2daVUdzbEJyelZTWWdFR0liUHdxcWh4RW5KckMyR1daSzRQMFZNMVRiVElyTUxNMllVVWpaU0ZKS0xhOEZQeTV0c3hCNmtUbVFPTXNYbWVKVjRNa3dENVNHU2ZORzFuY29qM3F1ZU5wSXBCMlRub20zMdIBswFBVV95cUxOenViU0dhdTlJVWtraEh0aGtncDdFei1XREo1dWRUa0lGdjYtd1BiSG1pZ2U3d1A1bG5jS2V1dkdsRnoxTDVxaGh0dkNUOGs0dC1IOTlGYUFPM3BCWF9PbVdLa0pQV0dUZUg3Q1ctNUoybDM1ZEdSM2JtWlJXOThlRTlqeXpSZlRJaV9pMElhUll4SGJkMkhKSzU1dVFZNk1IZjFZa2tqVTNycDE3ZU10U0llaw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "东博会升级人工智能展区，突出需求牵引，共享3.0机遇——助力构建更为紧密的中国—东盟命运共同体 - China Daily",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TNV9Hc0d0dFJfVEJDRm5wVUZxdjRXT3ltX1JtSGQtTEUtWjg4djJ6Z0JkcVNwcmtmM3pieXZvcVlZMS1sM0d4Qk11LVpLYVJUbXVKSVFhX2FKdmpESW14LWhWYkpORURNT28yV1dJOEt5bkctN3A0RmcwcVBzWDg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TNV9Hc0d0dFJfVEJDRm5wVUZxdjRXT3ltX1JtSGQtTEUtWjg4djJ6Z0JkcVNwcmtmM3pieXZvcVlZMS1sM0d4Qk11LVpLYVJUbXVKSVFhX2FKdmpESW14LWhWYkpORURNT28yV1dJOEt5bkctN3A0RmcwcVBzWDg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "星界、星驭、星鉴三大AI安全解决方案发布 长三角安全人工智能安徽省实验室护航AI产业发展 - 安徽新闻联播",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLZ0daM2hVOWUydDhLQkVRWnVTeExOLVU5TGJfcU1oNXJTR2tSUFNKN0tUcjQwekNjSkNROGFvNFpMdHZhdjZYVDVnNGktSUYyUEl2bElPamExVGlyc2V4NzA1c2RUY2sxVEE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLZ0daM2hVOWUydDhLQkVRWnVTeExOLVU5TGJfcU1oNXJTR2tSUFNKN0tUcjQwekNjSkNROGFvNFpMdHZhdjZYVDVnNGktSUYyUEl2bElPamExVGlyc2V4NzA1c2RUY2sxVEE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "深观察丨AI接连“越界”入侵 失控风险引发科技业警觉 - 国际在线",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CMHJLRGNBYWxxaFV1dXVHSUJzSXhVQ0Y4TGNnYzc2U1FZMlVnOE1NcW9GQVpQa0xhY3JpVlNOcktpcWZlVWNXdE1ZMzdJSlBuSmlRb2tZT1JBSXpiOXpGWHhoSG44VVcyV1JZUGF1RlB5bWd6X19GQjJ2TzY?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CMHJLRGNBYWxxaFV1dXVHSUJzSXhVQ0Y4TGNnYzc2U1FZMlVnOE1NcW9GQVpQa0xhY3JpVlNOcktpcWZlVWNXdE1ZMzdJSlBuSmlRb2tZT1JBSXpiOXpGWHhoSG44VVcyV1JZUGF1RlB5bWd6X19GQjJ2TzY?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“好美珠玑”AI短视频⑥丨珠女 - 新华网浙江",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01bVNZa1I0cjZrZVFHTUJJN0pTanhhcWFGT3I3Yno5akphVjNLVzE5MTMxVmlPT3JULXZ5Nnl5aldJcUJncW8yMW9wWXFVTklaUGIxQ0FNREdBSlVqY1NIdEcwSFlvX3MyRGZmUlIyeG1uYVp1TlJqX2ZpbkI?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01bVNZa1I0cjZrZVFHTUJJN0pTanhhcWFGT3I3Yno5akphVjNLVzE5MTMxVmlPT3JULXZ5Nnl5aldJcUJncW8yMW9wWXFVTklaUGIxQ0FNREdBSlVqY1NIdEcwSFlvX3MyRGZmUlIyeG1uYVp1TlJqX2ZpbkI?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI专题讲座助力晋商提升AI素养 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBab1NRS3hxa2E3bk56eEktMDFqOXcxelFPSFJhMHNlWHBGdGxJVFg0X202ekRORWlMb3JjOXN0aUNSazJGRkxtMk82dV9qRnRia1FQc2t3SzJCOERBOTlxLWdsdjRrMVNmMzNZclJyeGs?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBab1NRS3hxa2E3bk56eEktMDFqOXcxelFPSFJhMHNlWHBGdGxJVFg0X202ekRORWlMb3JjOXN0aUNSazJGRkxtMk82dV9qRnRia1FQc2t3SzJCOERBOTlxLWdsdjRrMVNmMzNZclJyeGs?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "特朗普称将组建AI部队 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcWdic0d2engwaWREWWZoNEJmTHJhMFVTaUJTV0MxOUJnLU5QamhEbVBKNTZNYVJvbXkwVzBtLVpVVEZDTUdqeHc3dG1uMGh4Qi1ONWxRZEJhY0ExYkxzNkRfVEdPYkZHWFZkMWl5OGJoaDFUUDlWemxEcWhYRlVDQ2hrbFNlcWUyVFJHMEZ1VUNBcnBLZ05mdTJKUHNETnZ1eGc3VlljSFMtSXBWZFJRQmRRRFZFaUs2ZExobkMteFpkV0JueV9rU3lpQllyZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcWdic0d2engwaWREWWZoNEJmTHJhMFVTaUJTV0MxOUJnLU5QamhEbVBKNTZNYVJvbXkwVzBtLVpVVEZDTUdqeHc3dG1uMGh4Qi1ONWxRZEJhY0ExYkxzNkRfVEdPYkZHWFZkMWl5OGJoaDFUUDlWemxEcWhYRlVDQ2hrbFNlcWUyVFJHMEZ1VUNBcnBLZ05mdTJKUHNETnZ1eGc3VlljSFMtSXBWZFJRQmRRRFZFaUs2ZExobkMteFpkV0JueV9rU3lpQllyZw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI赋能职业院校教学创新与实训场景落地研讨会举行 - gd.chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zbVhnM3ZMNldYTXVaN1EwblpsRFhDVXVZaUF5OFgzNk1RaVJrR0pxVUtleGVsTGh1UXpqWUFCY0ROSTZfR3JNdjA1QUFKcXJtdVllZUxjNW5Rdlg1bnZpRXNXb2U3Q0ZYR292QQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zbVhnM3ZMNldYTXVaN1EwblpsRFhDVXVZaUF5OFgzNk1RaVJrR0pxVUtleGVsTGh1UXpqWUFCY0ROSTZfR3JNdjA1QUFKcXJtdVllZUxjNW5Rdlg1bnZpRXNXb2U3Q0ZYR292QQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Edge AI Daily 早报（9月20日） - tmtpost.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UcW1QLVV3bXo3Ymlqd2FZZXR3UTN1TzdLckdGSVpkR2xwdVh0bXVlSzlVZkJSSm5FMnI0UVE2TU90anpGT0t1RnhNSXU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1UcW1QLVV3bXo3Ymlqd2FZZXR3UTN1TzdLckdGSVpkR2xwdVh0bXVlSzlVZkJSSm5FMnI0UVE2TU90anpGT0t1RnhNSXU?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？ - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TSXJLMmxMbjRzLTByLVdBbTZVN3lWRmtPTGdHLUtZVlJLM2J3T2xCS0hGb1hpVDdzVGttWWx2emxSeS1lTVpSTw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TSXJLMmxMbjRzLTByLVdBbTZVN3lWRmtPTGdHLUtZVlJLM2J3T2xCS0hGb1hpVDdzVGttWWx2emxSeS1lTVpSTw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "共享人工智能新未来 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUklaRHVQRWhONjBVRWJBX3UxaTdhTXpiUERnT1V1M3FOTVZRN1ByRHdFekl0THh1eTNoME1yLTlZYUxNOU9DWDBUdEpmMVEtQ21oYzkyX3FXRkI2WHA4YkE3eEVYbVZyUE9EVlNrZWF1Z09VVVR3TlhCRzJDNUNpS213RXlidw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUklaRHVQRWhONjBVRWJBX3UxaTdhTXpiUERnT1V1M3FOTVZRN1ByRHdFekl0THh1eTNoME1yLTlZYUxNOU9DWDBUdEpmMVEtQ21oYzkyX3FXRkI2WHA4YkE3eEVYbVZyUE9EVlNrZWF1Z09VVVR3TlhCRzJDNUNpS213RXlidw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "广西AI短剧共创平台成果发布 打造辐射东盟AI短剧生态 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MbURGSlVJd2diRUU4aXRUcjU3MnV5Q2g3RVowV05VcjRybXFRWDZqMk9NZ2lGWHRaZ2ZfQUk3T2lHTHRxNVRLMmlIZjNhN3RJb1hlWF92R2ZTUThiZjJaS3FrZGp5M3R5SGxJMDNrMDA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MbURGSlVJd2diRUU4aXRUcjU3MnV5Q2g3RVowV05VcjRybXFRWDZqMk9NZ2lGWHRaZ2ZfQUk3T2lHTHRxNVRLMmlIZjNhN3RJb1hlWF92R2ZTUThiZjJaS3FrZGp5M3R5SGxJMDNrMDA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "科技股暴跌只是“健康回调”？美知名投行：AI主题拥有“绝对主导地位”！ - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OeFNoZS1hUWhMa2plU2ItYTFtVlpOaUhxSURvenJsMW4ydm9ISWJyaGF5YWFQS2V5MDVpSmswMFlIWXUtT2tMWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9OeFNoZS1hUWhMa2plU2ItYTFtVlpOaUhxSURvenJsMW4ydm9ISWJyaGF5YWFQS2V5MDVpSmswMFlIWXUtT2tMWQ?oc=5"
+    }
+  ]
+}
