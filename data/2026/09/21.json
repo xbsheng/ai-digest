@@ -1,0 +1,223 @@
+{
+  "date": "2026-09-21",
+  "fetchedAt": "2026-09-21T00:14:58.742Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Qwen Image 2.1",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "score": 471,
+      "comments": 150,
+      "discuss": "https://news.ycombinator.com/item?id=49775499"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI and the Destruction of the Creative Commons",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "score": 221,
+      "comments": 263,
+      "discuss": "https://news.ycombinator.com/item?id=49774329"
+    },
+    {
+      "source": "hackernews",
+      "title": "If AI coding is lowering your code quality, you're not managing quality right",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "score": 66,
+      "comments": 106,
+      "discuss": "https://news.ycombinator.com/item?id=49774795"
+    },
+    {
+      "source": "hackernews",
+      "title": "I stopped drinking the AI Kool-Aid",
+      "url": "https://joshtronic.com/2026/09/20/i-stopped-drinking-the-ai-kool-aid/",
+      "score": 44,
+      "comments": 23,
+      "discuss": "https://news.ycombinator.com/item?id=49780162"
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm Tired of the AI Tone",
+      "url": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
+      "score": 43,
+      "comments": 54,
+      "discuss": "https://news.ycombinator.com/item?id=49774665"
+    },
+    {
+      "source": "hackernews",
+      "title": "Big Tech uses guarantees to keep $300B AI exposure off balance sheets",
+      "url": "https://www.ft.com/content/7f11afae-c4e3-4054-a65b-873f3647f563",
+      "score": 36,
+      "comments": 66,
+      "discuss": "https://news.ycombinator.com/item?id=49774991"
+    },
+    {
+      "source": "hackernews",
+      "title": "Autonomous strike drone uses Nvidia Jetson Orin Nano to pick and bomb targets",
+      "url": "https://www.tomshardware.com/tech-industry/drones/autonomous-strike-drone-uses-nvidia-jetson-orin-nano-to-independently-pick-and-bomb-targets-swedish-startups-attack-drones-run-small-ai-model-require-no-human-input-and-zero-external-comms",
+      "score": 23,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=49777694"
+    },
+    {
+      "source": "hackernews",
+      "title": "Andrew Ng: AI Extinction Fears Are 'Science Fiction'",
+      "url": "https://www.youtube.com/watch?v=KnckQp-c388",
+      "score": 16,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49778367"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lego Brick Sorting Machine Uses AI to Save Millions from Landfill [video]",
+      "url": "https://www.youtube.com/watch?v=M0cWcAIeOyU",
+      "score": 11,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49778425"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jensen Huang: Those warning on AI apocalypse \"have ulterior reasons\"",
+      "url": "https://www.youtube.com/watch?v=XlY7DI5v4ZU",
+      "score": 10,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=49778341"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why China Isn't Getting Existential About A.I",
+      "url": "https://www.newyorker.com/news/q-and-a/why-china-isnt-getting-existential-about-ai",
+      "score": 8,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49778284"
+    },
+    {
+      "source": "hackernews",
+      "title": "Base Browser: A hard fork of Firefox with no AI slop",
+      "url": "https://codeberg.org/basebrowserproject",
+      "score": 7,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49779858"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Swarm, an offline family tree app for macOS",
+      "url": "https://github.com/samoilev/swarm",
+      "score": 7,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49777136"
+    },
+    {
+      "source": "hackernews",
+      "title": "Lawsuit: Anthropic, OpenAI, SpaceXAI and Google made illegal slowdown agreement",
+      "url": "https://www.pbs.org/newshour/nation/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown",
+      "score": 7,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49775817"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: jevals – replacing LLM judges with typed Jev decisions",
+      "url": "https://github.com/openlayer-ai/jevals",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49780849"
+    },
+    {
+      "source": "google-news",
+      "title": "特朗普欲建“人工智能部队” - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DQk1NeENRQkNzd05hMUFOUkR1YnZPUjI1N1hGNU5xU3EwYkZPbHVrTDhHNkw2ZGk0dnFuNUJKeC11MU9Ed0tTclQ4dkVLM1BUTEJrbDZpWExSWVpyRWRLaXlEYUFLNkRpdFJIb08zVQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DQk1NeENRQkNzd05hMUFOUkR1YnZPUjI1N1hGNU5xU3EwYkZPbHVrTDhHNkw2ZGk0dnFuNUJKeC11MU9Ed0tTclQ4dkVLM1BUTEJrbDZpWExSWVpyRWRLaXlEYUFLNkRpdFJIb08zVQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "如何解决人工智能时代的法治难题？天津大学举办首期“法·智高端对话” - stdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UQl9QWlZ2LUdvdDAxa1NCd2c1TDNpWDFtVHgyaElLRW1Fb3BlbkphTDQzQUNuanNWN3lFLXhGeEdvc3BEbEoySU5NMWNGSFlRc3B5YXFOdTg3UFp1QWdPc056SHA3ZGRUa1N3bklDZWw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UQl9QWlZ2LUdvdDAxa1NCd2c1TDNpWDFtVHgyaElLRW1Fb3BlbkphTDQzQUNuanNWN3lFLXhGeEdvc3BEbEoySU5NMWNGSFlRc3B5YXFOdTg3UFp1QWdPc056SHA3ZGRUa1N3bklDZWw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "World's first patient to undergo live AI-assisted brain surgery has tumour removed 全球首例：患者接受人工智能实时辅助脑部手术，肿瘤已被成功切除 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUN3dWhTSEdFUDAyQU0zZUQ5ek5pakFDM0Y0cmg3d2U2NVJlaWRnRGJ0anNzQ2Rtalk4UkxZYnpBdnlWUEhlak5UTVVLeTdiREswa0d3UmhDeGl3R3dXekxQbk41dlF2UzJZTjFfVHMxVTA0R1dsUHc1dkJoZTJrN0F3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUN3dWhTSEdFUDAyQU0zZUQ5ek5pakFDM0Y0cmg3d2U2NVJlaWRnRGJ0anNzQ2Rtalk4UkxZYnpBdnlWUEhlak5UTVVLeTdiREswa0d3UmhDeGl3R3dXekxQbk41dlF2UzJZTjFfVHMxVTA0R1dsUHc1dkJoZTJrN0F3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能服务“出海”动力强劲 词元服务拓展数字服务贸易新路径 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mdlFnaENiSUdRc19MTXlOVUt5enRiSktvLW84RXVVNGZlWi13ZFhVYmlQeEdVdEJaRU5MTGVIRGFJWkxwTUFhbzFVQ3h0N0xDY0dOZDItUFRXVDFTUkN3Y3BKdTdmNFVuOGVmZm1IcV9PRjcxUFE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mdlFnaENiSUdRc19MTXlOVUt5enRiSktvLW84RXVVNGZlWi13ZFhVYmlQeEdVdEJaRU5MTGVIRGFJWkxwTUFhbzFVQ3h0N0xDY0dOZDItUFRXVDFTUkN3Y3BKdTdmNFVuOGVmZm1IcV9PRjcxUFE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "山东：让AI走进更多人的烟火日常 - 凤凰网山东",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZZHM0UkxhdlBsYkFCd2FjWGtpQ3BBc0oxZ3RxNnF6bUhpWUt3OF8tVlV4eG9hRTFEaFJSN05henl5TmNTd0ZKbjV3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ZZHM0UkxhdlBsYkFCd2FjWGtpQ3BBc0oxZ3RxNnF6bUhpWUt3OF8tVlV4eG9hRTFEaFJSN05henl5TmNTd0ZKbjV3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "视频丨“AI大卖场”来了，东博会公众开放日科技感拉满 - news.bjd.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85VEs2VGlnZThzaDFHVHpXbS0tR3lXemk2M19TaEFVVEplamZlREZETjE1T0ZxSG96bWFTV0lnRjNhZ3otZXNLUUJoU1RZbUFYcTdPRDY1QUJPV2RLMnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85VEs2VGlnZThzaDFHVHpXbS0tR3lXemk2M19TaEFVVEplamZlREZETjE1T0ZxSG96bWFTV0lnRjNhZ3otZXNLUUJoU1RZbUFYcTdPRDY1QUJPV2RLMnc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "湖南空中急救进入人工智能时代 - news.sciencenet.cn",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYbklhVVJfaWV5VlA4SjZFcEEtbzdlSm8xbWdyTlZQTkw0a0QzcjVMUzF6ZDdoeno3XzZyTDBZTFdxd2JPaWZUejJ1UVdrUmZ0SWtKMUdBTmlob2Rma3NOZC1rT1k?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYbklhVVJfaWV5VlA4SjZFcEEtbzdlSm8xbWdyTlZQTkw0a0QzcjVMUzF6ZDdoeno3XzZyTDBZTFdxd2JPaWZUejJ1UVdrUmZ0SWtKMUdBTmlob2Rma3NOZC1rT1k?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "青春有为AI启未来 2026动感地带AI+高校创智计划正式启动 - news.nankai.edu.cn",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kMTJFdU1xME5ENlZrVHBkUXMtbkRQSjRUMF9FdTNZZnJfRlJkaE8yQmhGa1FUcXBBcXRfRUZPN2NEbDdmWWVFS0tuRndwMU9KQlJrTkZJekhFY1dvV3h3WFZUSllxUC04MHhOa0VvdC1qb2s?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kMTJFdU1xME5ENlZrVHBkUXMtbkRQSjRUMF9FdTNZZnJfRlJkaE8yQmhGa1FUcXBBcXRfRUZPN2NEbDdmWWVFS0tuRndwMU9KQlJrTkZJekhFY1dvV3h3WFZUSllxUC04MHhOa0VvdC1qb2s?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "特朗普抛出“AI军”，美科技巨头集体沉默 - 新浪军事",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SaTNZWE1ncEtNMkVVWGxQOEJQak43SU9Ka0NCLTBuNF92TjItQkJKbENEVVdScUZZaXpRM09tMXA3TkdYajBTVndqWXItVUY0Q2NKZUozWkFsMDhaLTF2Wk1uaExrd0xhWXpab19NTjQyRVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9SaTNZWE1ncEtNMkVVWGxQOEJQak43SU9Ka0NCLTBuNF92TjItQkJKbENEVVdScUZZaXpRM09tMXA3TkdYajBTVndqWXItVUY0Q2NKZUozWkFsMDhaLTF2Wk1uaExrd0xhWXpab19NTjQyRVE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "CENI筑底 南京锻造AI时代“算力高铁” - stdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CSnZtdUVUVDBvRjVsbUh1Y2ZzWG4tZjVCRC1tdDRyRDFhRXBDenp3Z2o3cVAzR2kxczM1M0JzdkhNMkU1NUVpLUtmMlRBWUpJc01TYUdOMEtfZGk2eVdHT09IYnFSNXdacDdQajhUWXY?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CSnZtdUVUVDBvRjVsbUh1Y2ZzWG4tZjVCRC1tdDRyRDFhRXBDenp3Z2o3cVAzR2kxczM1M0JzdkhNMkU1NUVpLUtmMlRBWUpJc01TYUdOMEtfZGk2eVdHT09IYnFSNXdacDdQajhUWXY?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "网易有道发布AI Agent全景生态 - stdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Lb0tGYUNydXFhWHE5LWdRNFZKVkQwU0hZUVp2X1Y0bXpnNHJHRTFzc3NHd3FPRmItcnk0NmhyMnBTTzlDaUZKUXNnYkRJT1MtRzJnQVhPNHR0enN5eGZ1Z01ESDdTUU93QTYxZnNIbmY?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Lb0tGYUNydXFhWHE5LWdRNFZKVkQwU0hZUVp2X1Y0bXpnNHJHRTFzc3NHd3FPRmItcnk0NmhyMnBTTzlDaUZKUXNnYkRJT1MtRzJnQVhPNHR0enN5eGZ1Z01ESDdTUU93QTYxZnNIbmY?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "用AI撬开沃什的嘴？华尔街机构推出“WarshGPT” - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KRlZVTmwxUWs5MkZaRC1fSDh2ejBvdUNNcFY1UHpYRnUxS3RPY2dteWFFQUN4OFlwN2FYdUQxQzVNc254MEhWVQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KRlZVTmwxUWs5MkZaRC1fSDh2ejBvdUNNcFY1UHpYRnUxS3RPY2dteWFFQUN4OFlwN2FYdUQxQzVNc254MEhWVQ?oc=5"
+    }
+  ]
+}
