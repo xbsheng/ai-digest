@@ -1,0 +1,223 @@
+{
+  "date": "2026-09-27",
+  "fetchedAt": "2026-09-27T00:29:33.103Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "CEO of Mistral: AI is software. It can be controlled",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+      "score": 87,
+      "comments": 153,
+      "discuss": "https://news.ycombinator.com/item?id=49856034"
+    },
+    {
+      "source": "hackernews",
+      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
+      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
+      "score": 56,
+      "comments": 70,
+      "discuss": "https://news.ycombinator.com/item?id=49856149"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI pauses training of its 'most capable models'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "score": 18,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=49860545"
+    },
+    {
+      "source": "hackernews",
+      "title": "The AI Bubble Explained",
+      "url": "https://hughhowey.com/the-ai-bubble-explained/",
+      "score": 14,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=49857723"
+    },
+    {
+      "source": "hackernews",
+      "title": "New Boeing 737 MAX Software Glitch Could Disrupt Navigation Feature",
+      "url": "https://www.wsj.com/business/airlines/new-boeing-737-max-software-glitch-could-disrupt-navigation-feature-d537b8d8",
+      "score": 11,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49860011"
+    },
+    {
+      "source": "hackernews",
+      "title": "What Happens if the A.I. Bubble Bursts",
+      "url": "https://www.nytimes.com/2026/09/26/opinion/ai-bubble-banking-crisis-too-big-to-fail.html",
+      "score": 11,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49858297"
+    },
+    {
+      "source": "hackernews",
+      "title": "Broken promises, confiscated land: the hyperscale AI datacentre being built",
+      "url": "https://www.theguardian.com/world/2026/sep/26/ai-datacentre-hyperscale-india-andhra-pradesh-village-google-confiscated-land",
+      "score": 9,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49858474"
+    },
+    {
+      "source": "hackernews",
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "score": 8,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49857656"
+    },
+    {
+      "source": "hackernews",
+      "title": "How to Freelance Now?",
+      "url": "https://news.ycombinator.com/item?id=49856000",
+      "score": 8,
+      "comments": 11,
+      "discuss": "https://news.ycombinator.com/item?id=49856000"
+    },
+    {
+      "source": "hackernews",
+      "title": "Allegations of sexual harassment and rape at Bay Area AI party houses",
+      "url": "https://www.kron4.com/news/technology-ai/report-details-allegations-of-wild-parties-sexual-harassment-and-rape-at-bay-area-ai-party-houses/",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49861356"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Case for Learning in the Era of AI",
+      "url": "https://jonbehnken.substack.com/p/the-case-for-learning",
+      "score": 6,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49859979"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Exec: We May Have Pulled Off \"The Largest Theft of Labor in Human History\"",
+      "url": "https://www.motherjones.com/politics/2026/09/openai-chatgpt-microsoft-copyright-legal-case-documents-revelations/",
+      "score": 6,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49859799"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Blender Copilot",
+      "url": "https://github.com/XEonAX/blender-copilot",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49859013"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI models have caught up with Unity dev",
+      "url": "https://www.reddit.com/r/gamedev/comments/1wo5asm/ai_models_have_caught_up_with_unity_dev_my/",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49859826"
+    },
+    {
+      "source": "hackernews",
+      "title": "Don't Worry About AI Making You Dumber, Nvidia CEO Says It Doesn't Matter",
+      "url": "https://www.thegamer.com/nvidia-making-us-dumber-ceo-jensen-huang-doesnt-care/",
+      "score": 5,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49859197"
+    },
+    {
+      "source": "google-news",
+      "title": "外交部发言人就人工智能问题答记者问 - 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52dTJOS2w0UUg5UkJfYkhNQlkzRGZ1LXppQXhLV1RSdGw4Y0VVUURrY0FIT21VcE14eEVveFJPckVIMFJHMnNpbVVVdFF0a2pIWk83ZHNhbUdjclRjRlZwTkx3eGkwS3hXUHpZSHdCSmdUM2Q4T1RFSzlSa2tKWjA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52dTJOS2w0UUg5UkJfYkhNQlkzRGZ1LXppQXhLV1RSdGw4Y0VVUURrY0FIT21VcE14eEVveFJPckVIMFJHMnNpbVVVdFF0a2pIWk83ZHNhbUdjclRjRlZwTkx3eGkwS3hXUHpZSHdCSmdUM2Q4T1RFSzlSa2tKWjA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "从杭州到纽约 国家电网AI减碳方案登上联合国舞台 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iZExmWnJNV2pWNmdmcW94Y0E2dXNFU2VSRS1Penk0TmhqNlYzTk5HMmk2cWhhNDFGRVVEeGRMa3JORzhhU1Nfb3FLMVctVnRCS245bmNwcUxLYUtDM3hacjRubll4ZDk2V1VKcVg2eS1YcjNuTnl3R04yT3RVMUU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iZExmWnJNV2pWNmdmcW94Y0E2dXNFU2VSRS1Penk0TmhqNlYzTk5HMmk2cWhhNDFGRVVEeGRMa3JORzhhU1Nfb3FLMVctVnRCS245bmNwcUxLYUtDM3hacjRubll4ZDk2V1VKcVg2eS1YcjNuTnl3R04yT3RVMUU?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI办公的下一场争夺为什么是“上下文”？ - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tYmlWUERBWkE2SHZxa3JZQXFTUDJ3S1VJbHhjak1LeFlZQThLTjZMZ0h5NmRLbWlhblpUeVhWR0RaT0lqNVpEVHVmRjljblN5M0JMbi1BMERzUFNFNlA1Qg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tYmlWUERBWkE2SHZxa3JZQXFTUDJ3S1VJbHhjak1LeFlZQThLTjZMZ0h5NmRLbWlhblpUeVhWR0RaT0lqNVpEVHVmRjljblN5M0JMbi1BMERzUFNFNlA1Qg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI 代理将如何重塑购物、支付与商业 - Mastercard",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT0dqcHdvYlZKb0ZIZVNOdEV5ekZ4bUdkelRNZUlhQnpPU2hwc0h5cTNhNHZGbDFrXzVOeFdZZGdYS2JVX2JEX1hnSnpCWUpkYWRnMlQwdFJqbGpRVTNmeklnUFhEZEsxc1Vfcl9nNDg1V0s1NE40RlA3RVRSTU5EQTFIelpBRC1QLVkxNzNaVmNZOXk0S2tYNjJqZFVUVWc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT0dqcHdvYlZKb0ZIZVNOdEV5ekZ4bUdkelRNZUlhQnpPU2hwc0h5cTNhNHZGbDFrXzVOeFdZZGdYS2JVX2JEX1hnSnpCWUpkYWRnMlQwdFJqbGpRVTNmeklnUFhEZEsxc1Vfcl9nNDg1V0s1NE40RlA3RVRSTU5EQTFIelpBRC1QLVkxNzNaVmNZOXk0S2tYNjJqZFVUVWc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "UNESCO呼吁：AI时代，教育应重塑人的主体性- 华为 - Huawei",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUgxVmZ2akhOX3ZQeFkxY3dDckgxMzRRdm9LTFhxbnBKb0xCNjFoTnBhczRDbnAzYTdZTk1aSjZ2X1NLWU9Mb0ItZ2ZtVjVROVRmc05XZExPZW1SX19nQlRHRWFUZWg2NGNMWnRReTlHY1V6MjBYb0FIa0NhOXpDSVdtRHNYM0tEODJ3Ymhkd2szMnV3X3VwVHd2dEE3Mnl1aEE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUgxVmZ2akhOX3ZQeFkxY3dDckgxMzRRdm9LTFhxbnBKb0xCNjFoTnBhczRDbnAzYTdZTk1aSjZ2X1NLWU9Mb0ItZ2ZtVjVROVRmc05XZExPZW1SX19nQlRHRWFUZWg2NGNMWnRReTlHY1V6MjBYb0FIa0NhOXpDSVdtRHNYM0tEODJ3Ymhkd2szMnV3X3VwVHd2dEE3Mnl1aEE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "FPGA在人工智能领域的应用前景分析 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KMlY1QUVyRklkZkMwZUZkd2NqMkx1VlA0OEV4dTBIOW5YdWlkS25pQmpVMS1rYksxTXo4RW5DbjNuMldXWUJuMy1Ya2tUSnZ4Z3Bj?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KMlY1QUVyRklkZkMwZUZkd2NqMkx1VlA0OEV4dTBIOW5YdWlkS25pQmpVMS1rYksxTXo4RW5DbjNuMldXWUJuMy1Ya2tUSnZ4Z3Bj?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "智能经济何以塑造中国发展新优势 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nbEF5TFRBY2h3alFfWURfTDJxV09Qb2Z1SUg5WkM4MG1iQTFKeEZwbGFVSU1DSURwRzI4QWNYWDBwdFAyYjZCLWU0aFBzYXZPdF9RbXgzR0I1aFNlcVZKajdFT0RTeGNXSXFYbWJfYmRsMmdSV1E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nbEF5TFRBY2h3alFfWURfTDJxV09Qb2Z1SUg5WkM4MG1iQTFKeEZwbGFVSU1DSURwRzI4QWNYWDBwdFAyYjZCLWU0aFBzYXZPdF9RbXgzR0I1aFNlcVZKajdFT0RTeGNXSXFYbWJfYmRsMmdSV1E?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "新闻周刊丨面对AI“越界”，各国如何携手守住边界？ - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oYml0bVB0cTFDU1VGS1FBeUZiSGo1eE45YXhLNjdVeFkxYnl3N2VmREU4bHpMR0p1LXExY2FqSHFvSEV4VnFQSFh5Znp3V1VuTEE4eUROUUF1d09KeWllQw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oYml0bVB0cTFDU1VGS1FBeUZiSGo1eE45YXhLNjdVeFkxYnl3N2VmREU4bHpMR0p1LXExY2FqSHFvSEV4VnFQSFh5Znp3V1VuTEE4eUROUUF1d09KeWllQw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI时代，为啥还要拼技能？（锐财经） - 人民网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jNzJMUjhjOHFZUndheUVFZzBqT3pzT0phSU5wUkNuNGJCU2VJVzlvMUxoSFFqNmxKTHJEVHczbzNLZGVCelVCU0JNb1R1UllFdmg0bkdxX0RjOHJtOWxHVkdSQWgwWlE3RktMU1pn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jNzJMUjhjOHFZUndheUVFZzBqT3pzT0phSU5wUkNuNGJCU2VJVzlvMUxoSFFqNmxKTHJEVHczbzNLZGVCelVCU0JNb1R1UllFdmg0bkdxX0RjOHJtOWxHVkdSQWgwWlE3RktMU1pn?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "每日互动首发基于太空AI的城市交通大模型MUMO - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qc3BtbmJ0bDNmZ1V5ZTVtUUVlLXpqWE5OaU42a2xldzVEYWhMVGxYZ3pzSHdEQzZXZ29HS1NlZWlQTy1iLVViclFYTEJKUmdHLVRTaWxoR1FNUEtIeDVzTg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qc3BtbmJ0bDNmZ1V5ZTVtUUVlLXpqWE5OaU42a2xldzVEYWhMVGxYZ3pzSHdEQzZXZ29HS1NlZWlQTy1iLVViclFYTEJKUmdHLVRTaWxoR1FNUEtIeDVzTg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "构筑“人才雁阵”：AI产教融合新范式- 华为 - Huawei",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXZYN2dyeGVQczNHcDd1VFFFY0o5ZFkzeU9JNEV2QVphS3dBTzNtd3p6MUtyWmdaNS1HeXFLTXNROXVOazROSDVGWlM4VHFRZkItekhycW1HZHpWRGRvNWR4dVdqUXp3allvUmduTTY1WmpUYm9sdEh5OW1teEdyT3dmSjFINUlzYkh5S2JSdUxQX014STExcnR2V242WTRrX1RBTDE0Zw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXZYN2dyeGVQczNHcDd1VFFFY0o5ZFkzeU9JNEV2QVphS3dBTzNtd3p6MUtyWmdaNS1HeXFLTXNROXVOazROSDVGWlM4VHFRZkItekhycW1HZHpWRGRvNWR4dVdqUXp3allvUmduTTY1WmpUYm9sdEh5OW1teEdyT3dmSjFINUlzYkh5S2JSdUxQX014STExcnR2V242WTRrX1RBTDE0Zw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "鄞州发布“带着AI上前线”12个场景清单 招募“AI合伙人”下场解真题 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FLUdDV1oyMzdlLUs0a1ZZSzFyaXZjelpxUWZWaDlNMU9scy1Vb0lUVzBwTVBtOGZCY0pBMHNNZ2pQekNaWnVHQ3dXazA3LXB1c3RZd253RERVVUMwVHFzZV9CQ1dUXzE1a1hNWHhGTUl3dVF4ckE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FLUdDV1oyMzdlLUs0a1ZZSzFyaXZjelpxUWZWaDlNMU9scy1Vb0lUVzBwTVBtOGZCY0pBMHNNZ2pQekNaWnVHQ3dXazA3LXB1c3RZd253RERVVUMwVHFzZV9CQ1dUXzE1a1hNWHhGTUl3dVF4ckE?oc=5"
+    }
+  ]
+}
