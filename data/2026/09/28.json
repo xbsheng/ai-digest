@@ -1,0 +1,223 @@
+{
+  "date": "2026-09-28",
+  "fetchedAt": "2026-09-28T00:43:20.301Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "score": 331,
+      "comments": 177,
+      "discuss": "https://news.ycombinator.com/item?id=49868830"
+    },
+    {
+      "source": "hackernews",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "score": 331,
+      "comments": 242,
+      "discuss": "https://news.ycombinator.com/item?id=49868083"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com/",
+      "score": 94,
+      "comments": 40,
+      "discuss": "https://news.ycombinator.com/item?id=49867775"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+      "score": 53,
+      "comments": 103,
+      "discuss": "https://news.ycombinator.com/item?id=49868202"
+    },
+    {
+      "source": "hackernews",
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "url": "https://github.com/deepfates/imp",
+      "score": 40,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49869995"
+    },
+    {
+      "source": "hackernews",
+      "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+      "url": "https://earnanhonestdollar.com/bench",
+      "score": 25,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49868753"
+    },
+    {
+      "source": "hackernews",
+      "title": "George Hotz’s opinion on AI coding",
+      "url": "https://twitter.com/__tinygrad__/status/2044354852663558370",
+      "score": 13,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=49871139"
+    },
+    {
+      "source": "hackernews",
+      "title": "'Pink Slime' Is Infecting AI Chatbots Ahead of the Midterms",
+      "url": "https://www.politico.com/news/magazine/2026/09/25/midterms-partisan-ai-chatbots-01092138",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49870039"
+    },
+    {
+      "source": "hackernews",
+      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots",
+      "url": "https://www.cnbc.com/2026/09/27/meta-muse-ai-personal-agent.html",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49869691"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic/OpenAI sound alarm on AI safety and seek to shape how to control it",
+      "url": "https://apnews.com/article/ai-slowdown-midterms-anthropic-openai-ipo-9a057de94eb8f30a2fdb5b938918627e",
+      "score": 7,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49869486"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
+      "url": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
+      "score": 7,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49865996"
+    },
+    {
+      "source": "hackernews",
+      "title": "DSPy – Program, don't prompt, your LLMs",
+      "url": "https://dspy.ai/current/",
+      "score": 6,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49870084"
+    },
+    {
+      "source": "hackernews",
+      "title": "Accurate AI reporting deemed 'woke'",
+      "url": "https://blog.keyvan.net/p/accurate-ai-reporting-deemed-woke",
+      "score": 6,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49866007"
+    },
+    {
+      "source": "hackernews",
+      "title": "Being a Doctor Will Never Be the Same After A.I",
+      "url": "https://www.nytimes.com/2026/09/25/opinion/ai-doctor-medical-students.html",
+      "score": 5,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49871368"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
+      "score": 5,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49870438"
+    },
+    {
+      "source": "google-news",
+      "title": "\"从ICU到KTV\"！两级摇摆的\"AI叙事\"让投资者\"心累\" - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sbmlsZHlydWJtOUxXc1U1cmE3N21sOVJ4M0JJQ1VwZkkySkg0VU5jTi1fMC11RUhxMW1ZdlgyOWVvRFlnOFNZdFFBREgyek83dUNj?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sbmlsZHlydWJtOUxXc1U1cmE3N21sOVJ4M0JJQ1VwZkkySkg0VU5jTi1fMC11RUhxMW1ZdlgyOWVvRFlnOFNZdFFBREgyek83dUNj?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "科技金融加速跟进人工智能赛道 - 中国经济网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FOGtvRmZxVWRYbDVaU3J6S1N4ZzdRakdKeC1MSnpNSWczdFdrUVV0R1NLbnQxUFVWYS02dE9JS0M2cXJWZzBILXMxakItUDVzdFUxX2tVSTluUFJCLVNwYmZLMTczYktIanpYNzNEbw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FOGtvRmZxVWRYbDVaU3J6S1N4ZzdRakdKeC1MSnpNSWczdFdrUVV0R1NLbnQxUFVWYS02dE9JS0M2cXJWZzBILXMxakItUDVzdFUxX2tVSTluUFJCLVNwYmZLMTczYktIanpYNzNEbw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI仿真人剧集井喷：演技如何“数字生成” - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yRTlaaWJxSXpmaUZsWHI5QWNQSnlyUFZOM3Fvek5ZY1pEVE05ZW80anBGeXhEcHVOTXQwU3dHVXFzNkNQVXVucGVhMXZBTDdLeDJOSElTOFZjdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yRTlaaWJxSXpmaUZsWHI5QWNQSnlyUFZOM3Fvek5ZY1pEVE05ZW80anBGeXhEcHVOTXQwU3dHVXFzNkNQVXVucGVhMXZBTDdLeDJOSElTOFZjdw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "中美，人工智能！关键转折：爆买超6万亿！五巨头，四年4.2万亿美元！ - 金融界",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFeDFxLVV4QXV2c1UzZGlhVC1VOWQ5TEpfcHJkZ29UM29LSmRnbTVQVFlZN3Z4YzBrcDZlY0NHbTRuVEpUaFlMUkpzMmN4Q3NrRzVheHBPeU9Wemx3Zm1OdlVkTQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFeDFxLVV4QXV2c1UzZGlhVC1VOWQ5TEpfcHJkZ29UM29LSmRnbTVQVFlZN3Z4YzBrcDZlY0NHbTRuVEpUaFlMUkpzMmN4Q3NrRzVheHBPeU9Wemx3Zm1OdlVkTQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "一名设计师制作的“八号”红军小战士AI短视频感动亿万网友——“这盛世因你们铸就，如你们所愿” - mod.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYb25QYmtzM2U3aTZhZEF3dzM2VkpCNlRJVDlGRlBTcnhzcXVaQ3ZiakVpRlJOb3VGVmpjSk9LTW9XZmVlWVMyYkJEaVpCRUVvbExhcEhUanFISHRxT3JNQg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYb25QYmtzM2U3aTZhZEF3dzM2VkpCNlRJVDlGRlBTcnhzcXVaQ3ZiakVpRlJOb3VGVmpjSk9LTW9XZmVlWVMyYkJEaVpCRUVvbExhcEhUanFISHRxT3JNQg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI浪潮下“烧钱”堆算力 中美科技巨头资本逻辑迥异 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rbkVTR0FwN3NSZjRHSTZsQlc3OFVIcTM3WWtNeDJOTU9BU0hNbjdHX09mdVFaZlg4eDJxRWtCZzBQejdlV292MFhOYUJFdU9yTlA4cU96UVE3dkIz?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1rbkVTR0FwN3NSZjRHSTZsQlc3OFVIcTM3WWtNeDJOTU9BU0hNbjdHX09mdVFaZlg4eDJxRWtCZzBQejdlV292MFhOYUJFdU9yTlA4cU96UVE3dkIz?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“好美珠玑”AI短视频⑭丨西施说珠 - 新华网浙江",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0bUFvSGViU2xReDFfNE5pOUJsVldoaGlxVHBvdG9PNVpvWW1Sc3VCTG5IZ182VEp3SHZLV1Z1enlMejZ6R21fV184THZoQjgtUk9SaEZPUUQ2WWRJeldDR2NOc196MC1jZzdfQm5FNExLZmdoWFlPQXVfTUg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0bUFvSGViU2xReDFfNE5pOUJsVldoaGlxVHBvdG9PNVpvWW1Sc3VCTG5IZ182VEp3SHZLV1Z1enlMejZ6R21fV184THZoQjgtUk9SaEZPUUQ2WWRJeldDR2NOc196MC1jZzdfQm5FNExLZmdoWFlPQXVfTUg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“实习生”成“新同事” AI加速嵌入基金投研全链条 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YSkxkWlRzS0llUXE4X2dJRUNxU3BmTGc2WTJqSDNFbmxyYWFTMGMtaHNhTHhZUk9GbjdneVdiTnFNTjRvTUpyTEM0eVJPOHhtNTV1MXRPZTNaSUl5bDhQZHh3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YSkxkWlRzS0llUXE4X2dJRUNxU3BmTGc2WTJqSDNFbmxyYWFTMGMtaHNhTHhZUk9GbjdneVdiTnFNTjRvTUpyTEM0eVJPOHhtNTV1MXRPZTNaSUl5bDhQZHh3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "谷歌OpenAI与Anthropic拟建“前沿AI标准局” 拟年底或2027年初启动 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TMGJLMm80ekhPOGhPLTVXSlJzUTFfVmhvVlZwZWRXemZHbnRyTjY3R1hPcTZVYmF6eHRHVjZad2Fod0l1Y2Q4TmxqdmRNUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TMGJLMm80ekhPOGhPLTVXSlJzUTFfVmhvVlZwZWRXemZHbnRyTjY3R1hPcTZVYmF6eHRHVjZad2Fod0l1Y2Q4TmxqdmRNUQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "中国在AI领域另有一套打法 - 华尔街日报中文网",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa19ZV3dlZVRZSWFNc25kRlJCeDZuUGF3d01jT1JsSWNFTDBhSThHYmxCUl9WYjFIU0JzRUpVNU5rWXpyNXV4ZXN6NEs1aWlKS2xlZS1OOVhueG95ejUxMjdXc1pNc3k5OTRJVmM0NDc2MnRKelprVXpSZVZvR1dTSmJLMFJLN21Dd2dISTIySzY3VklK?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa19ZV3dlZVRZSWFNc25kRlJCeDZuUGF3d01jT1JsSWNFTDBhSThHYmxCUl9WYjFIU0JzRUpVNU5rWXpyNXV4ZXN6NEs1aWlKS2xlZS1OOVhueG95ejUxMjdXc1pNc3k5OTRJVmM0NDc2MnRKelprVXpSZVZvR1dTSmJLMFJLN21Dd2dISTIySzY3VklK?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "我在一个全是AI的艺术节，被“人味儿”戳中了 - lifeweek.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VQ2dlUWVyTG9kaDhmZ2pfWGFObUZGdG1wblJTVVVhTnJqYm9panhaczhvSm9LZ001aFpOeFZpb21zZkRhLXBkQUIzRWswNnFuSGhnWkdHRjBHUEtXNXVnUmJndkpheXExRjVHYV93?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VQ2dlUWVyTG9kaDhmZ2pfWGFObUZGdG1wblJTVVVhTnJqYm9panhaczhvSm9LZ001aFpOeFZpb21zZkRhLXBkQUIzRWswNnFuSGhnWkdHRjBHUEtXNXVnUmJndkpheXExRjVHYV93?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "通信行业行业点评报告：AI安全对话建制化，治理范式与产业逻辑重构_行业研究_研报 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlVGtLUjJ5d29rbDdnLTg4TE5NQlY3bWNwdEl0SDIwOU9PZm13R21namxfMWtOUEVhLXNhMmFYT2Vqb3h2b05XNlZVSENkSkpXQ3ExRW5TNktGTzJtUGV0WEJ3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlVGtLUjJ5d29rbDdnLTg4TE5NQlY3bWNwdEl0SDIwOU9PZm13R21namxfMWtOUEVhLXNhMmFYT2Vqb3h2b05XNlZVSENkSkpXQ3ExRW5TNktGTzJtUGV0WEJ3?oc=5"
+    }
+  ]
+}
