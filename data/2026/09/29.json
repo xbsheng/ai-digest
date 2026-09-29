@@ -1,0 +1,427 @@
+{
+  "date": "2026-09-29",
+  "fetchedAt": "2026-09-29T01:55:23.923Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "It's Time to Investigate the AI Labs",
+      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+      "score": 292,
+      "comments": 106,
+      "discuss": "https://news.ycombinator.com/item?id=49883471"
+    },
+    {
+      "source": "hackernews",
+      "title": "World Labs Is Joining AMD",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "score": 185,
+      "comments": 73,
+      "discuss": "https://news.ycombinator.com/item?id=49883760"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+      "score": 103,
+      "comments": 102,
+      "discuss": "https://news.ycombinator.com/item?id=49881484"
+    },
+    {
+      "source": "hackernews",
+      "title": "Pacing the Frontier is not the actual goal for AI labs",
+      "url": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
+      "score": 73,
+      "comments": 78,
+      "discuss": "https://news.ycombinator.com/item?id=49884119"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
+      "url": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
+      "score": 69,
+      "comments": 63,
+      "discuss": "https://news.ycombinator.com/item?id=49886005"
+    },
+    {
+      "source": "hackernews",
+      "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
+      "url": "https://blog.greenpants.net/ai-accountability/",
+      "score": 33,
+      "comments": 66,
+      "discuss": "https://news.ycombinator.com/item?id=49885109"
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+      "url": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+      "score": 32,
+      "comments": 8,
+      "discuss": "https://news.ycombinator.com/item?id=49881505"
+    },
+    {
+      "source": "hackernews",
+      "title": "I made a visual workspace for AI Automations",
+      "url": "https://www.biom.dev/",
+      "score": 27,
+      "comments": 23,
+      "discuss": "https://news.ycombinator.com/item?id=49881777"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI Scraps Release of New AI Model over Safety Concerns",
+      "url": "https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42",
+      "score": 19,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49885133"
+    },
+    {
+      "source": "hackernews",
+      "title": "Schools are experimenting with AI with little evidence or policy to guide them",
+      "url": "https://www.npr.org/2026/09/28/nx-s1-5759718/ai-schools-experiment-research",
+      "score": 18,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=49882367"
+    },
+    {
+      "source": "hackernews",
+      "title": "Man Says Meta's Muse AI Gave His Home Address Out to Strangers",
+      "url": "https://futurism.com/artificial-intelligence/metas-muse-ai-giving-users-home-addresses",
+      "score": 10,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49884367"
+    },
+    {
+      "source": "hackernews",
+      "title": "Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust",
+      "url": "https://bughunters.google.com/blog/scaling-memory-safety",
+      "score": 10,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49884237"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI's hidden $3T bill could wreck the world economy",
+      "url": "https://www.telegraph.co.uk/business/2026/09/28/ais-hidden-3tn-bill-could-wreck-the-world-economy/",
+      "score": 10,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49883510"
+    },
+    {
+      "source": "hackernews",
+      "title": "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2B",
+      "url": "https://www.cnbc.com/2026/09/28/amd-fei-fei-li-world-labs.html",
+      "score": 8,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49883696"
+    },
+    {
+      "source": "hackernews",
+      "title": "AMD Acquires Fei-Fei Li's World Labs for $8.2B",
+      "url": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49884052"
+    },
+    {
+      "source": "arxiv",
+      "title": "Transfer Learning for Edge Classification on Dynamic Text-Attributed Graphs",
+      "url": "http://arxiv.org/abs/2609.32849v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Tyler Bonnet, Marek Rei",
+      "discuss": "http://arxiv.org/abs/2609.32849v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Sliced Orlicz-Wasserstein",
+      "url": "http://arxiv.org/abs/2609.32847v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Binh Thuan Tran, Khai Nguyen",
+      "discuss": "http://arxiv.org/abs/2609.32847v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "SynCo: Learning Cross-Modal Synergy by Contrasting Interaction Residuals",
+      "url": "http://arxiv.org/abs/2609.32846v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yavuz Yarici, Ghassan AlRegib",
+      "discuss": "http://arxiv.org/abs/2609.32846v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "VCRE-Fib: View-Conditioned Regional Evidence for Fine-Grained Ultrasound Grading of Schistosoma japonicum-Associated Liver Fibrosis",
+      "url": "http://arxiv.org/abs/2609.32840v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Ziyang Xu, Shuli An, Hao Zhou",
+      "discuss": "http://arxiv.org/abs/2609.32840v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Mend the Measurement Gap: Latent User Preference Modeling for Short-Form Video Recommendation",
+      "url": "http://arxiv.org/abs/2609.32839v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Shuo Chang, Yueqi Wang, Zihuan Diao",
+      "discuss": "http://arxiv.org/abs/2609.32839v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "HamiFormer: Dual-Expert Diffusion Fields with Affine Symplectic Maps",
+      "url": "http://arxiv.org/abs/2609.32838v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Haoxiang Huang, Xiang Liu, Shuwei Wang",
+      "discuss": "http://arxiv.org/abs/2609.32838v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Scanning While Imagining: A Scene-Graph World Model for Robotic Ultrasound Navigation",
+      "url": "http://arxiv.org/abs/2609.32837v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Xuesong Li, Shuai Chen, Feng Li",
+      "discuss": "http://arxiv.org/abs/2609.32837v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Radiomap Blind Prediction under Incomplete Observation: Error Characterization and Correctable Propagation-Prior Learning",
+      "url": "http://arxiv.org/abs/2609.32836v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Xiaojie Li, Yu Han, Han Fang",
+      "discuss": "http://arxiv.org/abs/2609.32836v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "FinancialAuditBench: Benchmark Construction under Differential Privacy Using Real-World Priors",
+      "url": "http://arxiv.org/abs/2609.32835v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jerry Huang, Sarvesh Babu, Matt Van Buren",
+      "discuss": "http://arxiv.org/abs/2609.32835v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Permutation-Equivariant Flow Matching for Alignment-Free Neural Weight Generation",
+      "url": "http://arxiv.org/abs/2609.32833v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Arkadi Piven, Yam Eitan, Guy Bar-Shalom",
+      "discuss": "http://arxiv.org/abs/2609.32833v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Over-the-Air Federated Learning in Heterogeneous Mobile Wireless Networks",
+      "url": "http://arxiv.org/abs/2609.32832v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Ming Xiang, Nicolò Michelusi, Yonina C. Eldar",
+      "discuss": "http://arxiv.org/abs/2609.32832v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "UniCache: Task- and Type-Aware KV Cache Compression for Unified Multimodal Models",
+      "url": "http://arxiv.org/abs/2609.32831v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Wanqi Yang, Yuexiao Ma, Mei Xie",
+      "discuss": "http://arxiv.org/abs/2609.32831v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Retimed Bellman Flows: Escaping the Impossible Triangle of Velocity Bootstrapping",
+      "url": "http://arxiv.org/abs/2609.32828v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Boyang Xu, Shengzhe Chen, Hao Yan",
+      "discuss": "http://arxiv.org/abs/2609.32828v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Improving LLM Collaboration via Multi-Agent Preference Learning",
+      "url": "http://arxiv.org/abs/2609.32827v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Shuo Liu, Xinzichen Li, Tianle Chen",
+      "discuss": "http://arxiv.org/abs/2609.32827v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "The Decomposition Tax: LLM Pipelines Lose Up to 40 Accuracy Points at Their Own Interfaces",
+      "url": "http://arxiv.org/abs/2609.32825v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Tianqi Bu, YuXuan Peng, Junteng Tu",
+      "discuss": "http://arxiv.org/abs/2609.32825v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Routing Drift Alone Does Not Diagnose Failure in Merged MoE LLMs",
+      "url": "http://arxiv.org/abs/2609.32821v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yuanyi Wang, Yanggan Gu, Su Lu",
+      "discuss": "http://arxiv.org/abs/2609.32821v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Learning Shuffle Ideals with Membership Queries and Contrastive Examples",
+      "url": "http://arxiv.org/abs/2609.32820v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "S. Mahmoud Mousawi, Pierluigi San Pietro, Sandra Zilles",
+      "discuss": "http://arxiv.org/abs/2609.32820v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Rank Collapse Is Recoverable, Growing $|Q|$ Is Not: Out-of-Sample Early Warning for Value Divergence in High-UTD Soft Actor-Critic",
+      "url": "http://arxiv.org/abs/2609.32819v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Tianqi Bu, YuXuan Peng, Junteng Tu",
+      "discuss": "http://arxiv.org/abs/2609.32819v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "When Can First-Order Models of Fine-Tuning Bound Forgetting?",
+      "url": "http://arxiv.org/abs/2609.32818v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jianchang Su, Wei Zhang",
+      "discuss": "http://arxiv.org/abs/2609.32818v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Right Answer, Wrong Reason: Accuracy, Consistency, and Consensus Are Misleading Indicators of LLM Faithfulness in Clinical Decision Support",
+      "url": "http://arxiv.org/abs/2609.32817v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Bharath Kumar Bolla, Bharath Kumar Bolla, Vishnu Surya Reddy Nandi",
+      "discuss": "http://arxiv.org/abs/2609.32817v1"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能末世论：为什么有人相信AI是敌基督，诱骗人类崇拜撒旦 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCZnRvcEd3R1VMLUpCa1d0Z3dldUw0SGpVdnFWN3pRYzg2cnl4azRiQTR0ZUNLV1JEdERrWFJwSnZsUUd2bU1uQ28xYURWQmtGMlgtRG1rVTBEM2RLUkE0WjlQSWl4OVHSAWxBVV95cUxOazNGZ190Y014V042OWxrQTlJajVSZnVyQVRMM0VpLTNJdXUwY2Rma0lOYjNHTWZhSmVrNnVyNTlkS0tfbVRSVFBhWGdwTTR2T3FTQThfVWFxaU9qYXVRdlNwWVNYNnQ2Rk1HQTQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCZnRvcEd3R1VMLUpCa1d0Z3dldUw0SGpVdnFWN3pRYzg2cnl4azRiQTR0ZUNLV1JEdERrWFJwSnZsUUd2bU1uQ28xYURWQmtGMlgtRG1rVTBEM2RLUkE0WjlQSWl4OVHSAWxBVV95cUxOazNGZ190Y014V042OWxrQTlJajVSZnVyQVRMM0VpLTNJdXUwY2Rma0lOYjNHTWZhSmVrNnVyNTlkS0tfbVRSVFBhWGdwTTR2T3FTQThfVWFxaU9qYXVRdlNwWVNYNnQ2Rk1HQTQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！ - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BTzVfNFVZdVFrbUdqeFlJbDZjdVN1WWFhc0pCQkFpWTAyRWNFUzZpSngyakxJRkRJVVNOYkJKYUxkSF9KWmZHWA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BTzVfNFVZdVFrbUdqeFlJbDZjdVN1WWFhc0pCQkFpWTAyRWNFUzZpSngyakxJRkRJVVNOYkJKYUxkSF9KWmZHWA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "【上观新闻】探营国内一流设计大会：一粒奶酪撬动市场，靠AI穿越千年入席文豪雅集 - news.tongji.edu.cn",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDTHpqWlJTU0pZenlFWDlhWVExOUsyVHIzR2pib0hZSEw0Sko0bHhvYXJCc2MtTjFGODhvZzRDSkRMRG4tLS1BT2VfT0RaUUpqbXJwVkxtdUV4Zw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDTHpqWlJTU0pZenlFWDlhWVExOUsyVHIzR2pib0hZSEw0Sko0bHhvYXJCc2MtTjFGODhvZzRDSkRMRG4tLS1BT2VfT0RaUUpqbXJwVkxtdUV4Zw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "在一连串黑客攻击事件后，英伟达推出工具，可在“几毫秒内”阻止恶意AI代理 - 美国之音",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbms5MG9GNXVFWmlyeFp4c183b3Ria0pYQll3VGRYd0wwLXVxaXh2X3Jfb1ZHMlRhZkxOZXpOT0I1Wlh4Z0t5YUZ1MjhSTURxQW9HNDF0MFVMQmF6TnZDYmZhYml2dDJva3d0OVJCVDFjZkEyeXNmYlVjUG83NlBSVDFNakJ1SXdVYTNLVExZME9IVFRMSGtmM1EtTGNvUVFsNWEyeFlWY1hxLXVSVWE3akZVeWdtRmtGdno2LV9kTDcxN1RVejdiMXRPN1hVSzgwc0pOOWRsWW5pVGQtYVBuVFdHQ0JfUThudVhlZnJR0gHuAUFVX3lxTE1uazkwb0Y1dUVaaXJ4WnhzXzdvdGJrSlhCWXdUZFh3TDAtdXFpeHZfcl9vVkcyVGFmTE5lek5PQjVaWHhnS3lhRnUyOFJNRHFBb0c0MXQwVUxCYXpOdkNiZmFiaXZ0Mm9rd3Q5UkJUMWNmQTJ5c2ZiVWNQbzc2UFJUMU1qQnVJd1VhM0tUTFkwT0hUVExIa2YzUS1MY29RUWw1YTJ4WVZjWHEtdVJVYTdqRlV5Z21Ga0Z2ejYtX2RMNzE3VFV6N2IxdE83WFVLODBzSk45ZGxZbmlUZC1hUG5UV0dDQl9ROG51WGVmclE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbms5MG9GNXVFWmlyeFp4c183b3Ria0pYQll3VGRYd0wwLXVxaXh2X3Jfb1ZHMlRhZkxOZXpOT0I1Wlh4Z0t5YUZ1MjhSTURxQW9HNDF0MFVMQmF6TnZDYmZhYml2dDJva3d0OVJCVDFjZkEyeXNmYlVjUG83NlBSVDFNakJ1SXdVYTNLVExZME9IVFRMSGtmM1EtTGNvUVFsNWEyeFlWY1hxLXVSVWE3akZVeWdtRmtGdno2LV9kTDcxN1RVejdiMXRPN1hVSzgwc0pOOWRsWW5pVGQtYVBuVFdHQ0JfUThudVhlZnJR0gHuAUFVX3lxTE1uazkwb0Y1dUVaaXJ4WnhzXzdvdGJrSlhCWXdUZFh3TDAtdXFpeHZfcl9vVkcyVGFmTE5lek5PQjVaWHhnS3lhRnUyOFJNRHFBb0c0MXQwVUxCYXpOdkNiZmFiaXZ0Mm9rd3Q5UkJUMWNmQTJ5c2ZiVWNQbzc2UFJUMU1qQnVJd1VhM0tUTFkwT0hUVExIa2YzUS1MY29RUWw1YTJ4WVZjWHEtdVJVYTdqRlV5Z21Ga0Z2ejYtX2RMNzE3VFV6N2IxdE83WFVLODBzSk45ZGxZbmlUZC1hUG5UV0dDQl9ROG51WGVmclE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI降低影像创作准入门槛，但核心仍是故事表达 - 中青在线",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55cmhPYkt6dDlhaUNaUzkzeHJNZU9PSzI2MkZQUERtZHg0VVRsWmJMaUcybEVXb1lLaTg2b1V2SVdKdVhYNXlBVlBuRXN4N1A0Sm5YZG02MjEzWHlQRmM0V0h0WlJzNGpuZU8xTXlqc0lpY2RMY1lxMXA4aHk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55cmhPYkt6dDlhaUNaUzkzeHJNZU9PSzI2MkZQUERtZHg0VVRsWmJMaUcybEVXb1lLaTg2b1V2SVdKdVhYNXlBVlBuRXN4N1A0Sm5YZG02MjEzWHlQRmM0V0h0WlJzNGpuZU8xTXlqc0lpY2RMY1lxMXA4aHk?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "IMF第一副总裁警告AI快速部署或构成系统性风险 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtcEtpX0Q2XzgzMVlNaUFHQWwwQkZtckdrbWYtUTZWWl9fZkxnSkl4bE5VeUZJUkt0WFB1VnU4MkV5dGZXZTFoN1FiX2V2a094MUd1d1R4YUE4emNKS1FzcjR3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBtcEtpX0Q2XzgzMVlNaUFHQWwwQkZtckdrbWYtUTZWWl9fZkxnSkl4bE5VeUZJUkt0WFB1VnU4MkV5dGZXZTFoN1FiX2V2a094MUd1d1R4YUE4emNKS1FzcjR3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI产品端专属保险首单落地，AI新型风险量化难 - 北京商报",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nN3FsV1h0SmZOdDdOX2g2a2NCcXRNZk5IYXhRNzhtZGU0V3FLOWNKWHRGYVhYRldVSFU2a3JhcGNoUmw0RXVXTWdwOVFGSk8wZXRreEZJRHpIZlhWNmc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9nN3FsV1h0SmZOdDdOX2g2a2NCcXRNZk5IYXhRNzhtZGU0V3FLOWNKWHRGYVhYRldVSFU2a3JhcGNoUmw0RXVXTWdwOVFGSk8wZXRreEZJRHpIZlhWNmc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "OpenAI将成立澳大利亚AI网络风险工作组 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzeTNaUHhLU3VMOHdWUkhDWXFjdnRYM2VudlBhcUIxalpFNWdicnpMU2ZkaDJHSXFDRE5iamtvTzFvQURxbEE5clRsRVM4NHhzUXl6UURCVGhvcjJ2alV1WEFfdFZ4dw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzeTNaUHhLU3VMOHdWUkhDWXFjdnRYM2VudlBhcUIxalpFNWdicnpMU2ZkaDJHSXFDRE5iamtvTzFvQURxbEE5clRsRVM4NHhzUXl6UURCVGhvcjJ2alV1WEFfdFZ4dw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“智能体银行挤兑”要来了？阿波罗警告：AI助手或抽走银行廉价存款，这将给金融系统带来风险 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUmtnZ0JJamNzVXhHd25QcTFvVWJmVDUwdVZQZUZEbkJpZUZmUkpCS3JzTE95alhsR2dYeU1ULV9LUVM4Z1lObDdXSHF2RmRoRzNacFpybzJrMDgxeko5QjRWM3pmdFhXT0RjbUNRNi1VVEpJczJ5cWhsUWJNVmNfTW9CN2hmaGJiUFllU0dRdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUmtnZ0JJamNzVXhHd25QcTFvVWJmVDUwdVZQZUZEbkJpZUZmUkpCS3JzTE95alhsR2dYeU1ULV9LUVM4Z1lObDdXSHF2RmRoRzNacFpybzJrMDgxeko5QjRWM3pmdFhXT0RjbUNRNi1VVEpJczJ5cWhsUWJNVmNfTW9CN2hmaGJiUFllU0dRdw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI能“感到”疼痛吗|科普园地 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yVnVmaE91MU05bDdGbW4zaWRtVFNxb0dhbjNRMkRHQUxfRnNCTlVHcVktTVRTZmJvMGRoVFdqUG5udndONHROd3d5VXlwdGx2QjRhWWdKaUlqOXZ1QTY1QnAwZ2duZHkzREdxWFRBeGQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yVnVmaE91MU05bDdGbW4zaWRtVFNxb0dhbjNRMkRHQUxfRnNCTlVHcVktTVRTZmJvMGRoVFdqUG5udndONHROd3d5VXlwdGx2QjRhWWdKaUlqOXZ1QTY1QnAwZ2duZHkzREdxWFRBeGQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Token 价格一降再降，但不会让边缘 AI 退场：企业算力账越来越细 - InfoQ-CN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZldNSGFpSElueGpGc3Z5OWpscW8tNHlNYTBQNDdyajJHNlRNakp4YlZ1Wlc5dGxvOGVRbnUzT3d5MDQwckQyTHJnLVZNZ1VEZHBEZFdjRy1pdkhBWXc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zZldNSGFpSElueGpGc3Z5OWpscW8tNHlNYTBQNDdyajJHNlRNakp4YlZ1Wlc5dGxvOGVRbnUzT3d5MDQwckQyTHJnLVZNZ1VEZHBEZFdjRy1pdkhBWXc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“好美珠玑”AI短视频⑮丨月落浣纱溪 - 新华网浙江",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdXpFLV9lbDEyZW5xY0FPUnhMX0cyaW02NlFGMlRrb1ZldDJHTWd2WEhDWFFIM0I2aENUYUpEekNNYVowY3ZFVWhBNEU0Vy1tRHJlQk9NNk5YUjVMeFFQclZIQ00tR21naE8tcURoWXhCeWo3UDU4SW10SlhfQ2lCM293?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdXpFLV9lbDEyZW5xY0FPUnhMX0cyaW02NlFGMlRrb1ZldDJHTWd2WEhDWFFIM0I2aENUYUpEekNNYVowY3ZFVWhBNEU0Vy1tRHJlQk9NNk5YUjVMeFFQclZIQ00tR21naE8tcURoWXhCeWo3UDU4SW10SlhfQ2lCM293?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "【锻造新优势】大工开启数智育人新篇章：“连小理”全场景AI学伴全面启用 - 大连理工大学新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iTHlUTENSSUZCSnk0ZEdnWlZiMWg3aGhTTzBEUy1VSHVkNVk0SmZaX2VWaDNnYkRlMFUzRjFVSV8xODVwcEE2dkp0R0kyWW12RFFmR0NBQk0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9iTHlUTENSSUZCSnk0ZEdnWlZiMWg3aGhTTzBEUy1VSHVkNVk0SmZaX2VWaDNnYkRlMFUzRjFVSV8xODVwcEE2dkp0R0kyWW12RFFmR0NBQk0?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "深读｜一边“吞电”，一边“省电”，AI如何“左右互搏”？ - 新华报业网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JYjV0MVUzdUc3T09WY1V2YXBtblNIRG83bFNaaW1xSUdkX1VHLUFQaVlkZVZQZVhldUJJTktRdk9zUWF4QXFVQkJNdzlvMEVpWEx2Y01ZdGxySWNRWUMyUTdfYjdCU1FPR29j?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JYjV0MVUzdUc3T09WY1V2YXBtblNIRG83bFNaaW1xSUdkX1VHLUFQaVlkZVZQZVhldUJJTktRdk9zUWF4QXFVQkJNdzlvMEVpWEx2Y01ZdGxySWNRWUMyUTdfYjdCU1FPR29j?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "从“守艺”到用人工智能，老手艺拥抱数字时代 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01eUl3am5KRW1MMVdyNm83UjVPdERWa2hGSUh6MDl1dGxsVktxQmdfX3dlMDh3Um5lTVJIOEZ1UGJwZ1ZMcEhvXzJEems2T0F6UXFMbVVQbkhMUW82R3c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01eUl3am5KRW1MMVdyNm83UjVPdERWa2hGSUh6MDl1dGxsVktxQmdfX3dlMDh3Um5lTVJIOEZ1UGJwZ1ZMcEhvXzJEems2T0F6UXFMbVVQbkhMUW82R3c?oc=5"
+    }
+  ]
+}
