@@ -1,0 +1,419 @@
+{
+  "date": "2026-09-30",
+  "fetchedAt": "2026-09-30T01:17:18.234Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "AI needs $6T in annual revenue to justify data centre boom",
+      "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+      "score": 191,
+      "comments": 274,
+      "discuss": "https://news.ycombinator.com/item?id=49898952"
+    },
+    {
+      "source": "hackernews",
+      "title": "McDonald's push to have AI price your Big Mac",
+      "url": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
+      "score": 41,
+      "comments": 13,
+      "discuss": "https://news.ycombinator.com/item?id=49899453"
+    },
+    {
+      "source": "hackernews",
+      "title": "McDonald's Is Using AI to Dynamically Price Its Burgers",
+      "url": "https://www.rnz.co.nz/news/world/1656965/inside-mcdonald-s-push-to-have-ai-price-your-big-mac",
+      "score": 13,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=49901900"
+    },
+    {
+      "source": "hackernews",
+      "title": "Councilmember, residents push back on AI 'blight scores' given to homes",
+      "url": "https://www.nbcdfw.com/investigations/dallas-councilmember-residents-push-back-on-ai-blight-scores-assigned-to-thousands-of-homes/4071874/",
+      "score": 10,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49902354"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI safety advocates sue OpenAI over Hugging Face hack under CA anti-hacking law",
+      "url": "https://www.politico.com/news/2026/09/29/advocates-sue-openai-over-hugging-face-hack-with-california-anti-hacking-law-01097532",
+      "score": 10,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49899270"
+    },
+    {
+      "source": "hackernews",
+      "title": "TIRx Harness: An Open Compiler Harness for Agentic GPU Programming",
+      "url": "https://blog.mlc.ai/2026/09/29/tirx-harness-an-open-compiler-harness-for-agentic-gpu-programming",
+      "score": 8,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49898896"
+    },
+    {
+      "source": "hackernews",
+      "title": "Is open-weight AI banned yet?",
+      "url": "https://isopenweightaibannedyet.com",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49899734"
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump says he'll order AI be renamed 'super intelligence' after meeting execs",
+      "url": "https://www.cnn.com/2026/09/29/business/amodei-huang-karp-trump",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49899252"
+    },
+    {
+      "source": "hackernews",
+      "title": "The AI margin collapse is gathering pace",
+      "url": "https://martinalderson.com/posts/ai-margin-collapse-gathering-pace/",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49898418"
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump orders US Government to call AI 'Super Intelligence'",
+      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "score": 6,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49901874"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenClaw Enterprise",
+      "url": "https://openclaw.ai/blog/openclaw-enterprise",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49900808"
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
+      "url": "https://www.cnbc.com/2026/09/29/tech-white-house-ai-lunch-trump.html",
+      "score": 6,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49899432"
+    },
+    {
+      "source": "hackernews",
+      "title": "'AI should assist teachers, not replace them': Union warns of AI marking risks",
+      "url": "https://www.rnz.co.nz/news/education/1656575/ai-should-assist-teachers-not-replace-them-union-warns-of-risks-of-ai-marking",
+      "score": 5,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49902320"
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump and major AI executives sign \"morally binding\" voluntary controls",
+      "url": "https://www.cbsnews.com/news/trump-ai-constitution-tech-execs-openai-anthropic-voluntary-controls/",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49901481"
+    },
+    {
+      "source": "hackernews",
+      "title": "NASA Asked Several Former SR-71A Staffers to Help Secret Restart – Aviation Week",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49901246"
+    },
+    {
+      "source": "arxiv",
+      "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+      "url": "http://arxiv.org/abs/2609.35770v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Srinjay Sarkar, Prakhar Kaushik, Soumava Paul",
+      "discuss": "http://arxiv.org/abs/2609.35770v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Telescopic Language Models",
+      "url": "http://arxiv.org/abs/2609.35769v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Zhilin Guo, Boqiao Zhang, Hakan Aktas",
+      "discuss": "http://arxiv.org/abs/2609.35769v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+      "url": "http://arxiv.org/abs/2609.35768v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Zimo Wang, Junkun Yuan, Angtian Wang",
+      "discuss": "http://arxiv.org/abs/2609.35768v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2609.35767v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yijia Fan, Ziqi Huang, Zhongang Cai",
+      "discuss": "http://arxiv.org/abs/2609.35767v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
+      "url": "http://arxiv.org/abs/2609.35765v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "András Kovács, Alexander Conroy, Daniel Hershcovich",
+      "discuss": "http://arxiv.org/abs/2609.35765v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Unifying Distributional Training for One-Step Visual Generation",
+      "url": "http://arxiv.org/abs/2609.35763v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Chi Zhang, Haoyang Shi, Yueyi Liu",
+      "discuss": "http://arxiv.org/abs/2609.35763v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Scaling Long-Form Story Generation via Narrative State Tracking",
+      "url": "http://arxiv.org/abs/2609.35759v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Zhennan Wan, Jianfei Chen",
+      "discuss": "http://arxiv.org/abs/2609.35759v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
+      "url": "http://arxiv.org/abs/2609.35760v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Chaoqian Ouyang, Ling Yue, Libin Zheng",
+      "discuss": "http://arxiv.org/abs/2609.35760v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
+      "url": "http://arxiv.org/abs/2609.35758v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Min Kim, José Leonardo Brenes, Fred Hadaegh",
+      "discuss": "http://arxiv.org/abs/2609.35758v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Neural Harmonic Measure Operator",
+      "url": "http://arxiv.org/abs/2609.35752v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jinjin He, Sinan Wang, Yuchen Sun",
+      "discuss": "http://arxiv.org/abs/2609.35752v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
+      "url": "http://arxiv.org/abs/2609.35751v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Shouren Wang, Chuang Ma, Mohsen Hariri",
+      "discuss": "http://arxiv.org/abs/2609.35751v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "KV-streams for Efficient Compaction in Agentic Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2609.35750v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Emiliano Penaloza, Dane Malenfant, Dheeraj Vattikonda",
+      "discuss": "http://arxiv.org/abs/2609.35750v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Towards Communication-Efficient Social Intelligence in Language Agents",
+      "url": "http://arxiv.org/abs/2609.35749v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Linxiao Gong, Yijie Xu, Tianfu Wang",
+      "discuss": "http://arxiv.org/abs/2609.35749v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Improving Test-Time Scaling with Adaptive Looped Transformers",
+      "url": "http://arxiv.org/abs/2609.35748v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yichen You, Tianyu Fu, Aosong Feng",
+      "discuss": "http://arxiv.org/abs/2609.35748v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Copy the Same, Distill the Difference: Initializing Linear Vision Transformers",
+      "url": "http://arxiv.org/abs/2609.35745v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Huaiyuan Qin, Muli Yang, Gabriel James Goenawan",
+      "discuss": "http://arxiv.org/abs/2609.35745v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents",
+      "url": "http://arxiv.org/abs/2609.35744v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Hoyoung Lee, Suyeol Yun, Jack Haverty",
+      "discuss": "http://arxiv.org/abs/2609.35744v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Shockingly Simple Self-retrospection Improves Agentic Models Without RL",
+      "url": "http://arxiv.org/abs/2609.35741v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jonathan Light, Christopher Zhang Cui, Jeonghye Kim",
+      "discuss": "http://arxiv.org/abs/2609.35741v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Harness Learning Enables Generalizable Test-Time Adaptation",
+      "url": "http://arxiv.org/abs/2609.35738v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Alvin Zhang, Xuecheng Liu, Zixuan Wang",
+      "discuss": "http://arxiv.org/abs/2609.35738v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models",
+      "url": "http://arxiv.org/abs/2609.35732v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Junru Zhu, Shiming Xie, Aime Lu Fan Chen",
+      "discuss": "http://arxiv.org/abs/2609.35732v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets",
+      "url": "http://arxiv.org/abs/2609.35715v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Prithwish Dan, Chenyang Ma, Wei Zhan",
+      "discuss": "http://arxiv.org/abs/2609.35715v1"
+    },
+    {
+      "source": "google-news",
+      "title": "我国生成式人工智能用户破7 亿人 - epaper.tianjinwe.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT3I2MkhYN29DVHpsM28tV1BIRUFienhRNEJCVmpfNll4QzVudjBnYTJwOWR6SWtkdW9lQVhSelVMbjRZTThRSHlFUEc4aTJKVjktZ1EtOWtwdVQwZ1VXSmlhZmpDU0ZqTmQ2UWNURkJnMU1pNjA0eXM1NDlBdV9oVEZB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT3I2MkhYN29DVHpsM28tV1BIRUFienhRNEJCVmpfNll4QzVudjBnYTJwOWR6SWtkdW9lQVhSelVMbjRZTThRSHlFUEc4aTJKVjktZ1EtOWtwdVQwZ1VXSmlhZmpDU0ZqTmQ2UWNURkJnMU1pNjA0eXM1NDlBdV9oVEZB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "特朗普总统在白宫与科技领袖会谈后，支持人工智能行业自我监管 - 美国之音",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZWlOMm8yQ2xzVFpoaVBlVVlPczhZYUNHQUdBdnNabjFPMUhDeGlmWXQta0pjWVFmTUdsTUFZT2xFc2VYMVQzVTU1Y2RQdG50NzN0UjBRR180c1FxMGxOeXhENk9jOHoyZ0VBLTNBbnpGazhnVDZzeWI1TmVxdlBHSUtHTzl4ai1VcmN1eThydl9ZTG1xZmYwN2otSmpKdnB1MU1KWWR3R3NwbDFQUFFtZUJ4OW0zb1B0S2tfRnZad2xqajVyOGRzTGNLbG9uWWNFdXppajQ2dG4tbFVsT3NNa2xB0gHkAUFVX3lxTFBDTWJEa2U1TFdXNFA4bElmRGdOcm1XWXY3Y2hVOWJiXzVnUHdCalhxUmptUU5jSkRTczhGWGdxOXNxWFlUY2xkdlNBMHpiTGNVMlhaa1cya19Zc25yMGxSTm45ZTMwQ2U0enlTVGpIa1hjSWZLZTlYSXIyaHAwb2VpaXdBTnJwYUJ6bm1UQTBRdWdmMUR2RlZrVmlhazhTOEdhMHNxVFlWVFlQTV9vXzNneUJ3OEd0OWRQZnFpeHBNTkM0MkVGNmdoR0NlS00xZ2hlVzRESjVRUGJFTkRzQWNuN1Q4Ug?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZWlOMm8yQ2xzVFpoaVBlVVlPczhZYUNHQUdBdnNabjFPMUhDeGlmWXQta0pjWVFmTUdsTUFZT2xFc2VYMVQzVTU1Y2RQdG50NzN0UjBRR180c1FxMGxOeXhENk9jOHoyZ0VBLTNBbnpGazhnVDZzeWI1TmVxdlBHSUtHTzl4ai1VcmN1eThydl9ZTG1xZmYwN2otSmpKdnB1MU1KWWR3R3NwbDFQUFFtZUJ4OW0zb1B0S2tfRnZad2xqajVyOGRzTGNLbG9uWWNFdXppajQ2dG4tbFVsT3NNa2xB0gHkAUFVX3lxTFBDTWJEa2U1TFdXNFA4bElmRGdOcm1XWXY3Y2hVOWJiXzVnUHdCalhxUmptUU5jSkRTczhGWGdxOXNxWFlUY2xkdlNBMHpiTGNVMlhaa1cya19Zc25yMGxSTm45ZTMwQ2U0enlTVGpIa1hjSWZLZTlYSXIyaHAwb2VpaXdBTnJwYUJ6bm1UQTBRdWdmMUR2RlZrVmlhazhTOEdhMHNxVFlWVFlQTV9vXzNneUJ3OEd0OWRQZnFpeHBNTkM0MkVGNmdoR0NlS00xZ2hlVzRESjVRUGJFTkRzQWNuN1Q4Ug?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "特朗普会晤科技巨头：签署AI\"道德约束\"协议，推行行业自律监管，“AI远超工业革命” - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKZkxibDBnb0wxamt2LUl3UGF5YjVmRVBJTUttY3oxcDVjQXgzc1BlS1ZWNFUybHJGUjNSSktYQ1NfN25kMFExLWVVU1M4ZXNsbEdB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKZkxibDBnb0wxamt2LUl3UGF5YjVmRVBJTUttY3oxcDVjQXgzc1BlS1ZWNFUybHJGUjNSSktYQ1NfN25kMFExLWVVU1M4ZXNsbEdB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "特朗普泼脏水：要是这样，“机密”就泄露给中国了 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xWjQwTm8yTDU5WlhSMEFPcURyc0RDNnQyS2ttZF9EbkdxbUNDRHFMbllYMnBPRnZoNnRnYzlNeEZNWmZHdGV5bnZzcGhwU1M0VVd4MGVIUFFvLXVHWlRfSkFBQy1pZWFEX3E3TjZMNmY4MEk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xWjQwTm8yTDU5WlhSMEFPcURyc0RDNnQyS2ttZF9EbkdxbUNDRHFMbllYMnBPRnZoNnRnYzlNeEZNWmZHdGV5bnZzcGhwU1M0VVd4MGVIUFFvLXVHWlRfSkFBQy1pZWFEX3E3TjZMNmY4MEk?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "当AI遇见孔子：古老智慧如何回应技术焦虑_山东新闻 - 大众网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ic29VR0hleEd2QXRlRDZfbzFkVkw4OWRXejhTSWxCcXNSekUwNVZyaG5vMDZrTENfeVlySGYyaWoxSVdHY1RNX3Q3M1ppZkdoU1hmOEE5V09UVjNHWGtPbFdJeUoxYXZj?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ic29VR0hleEd2QXRlRDZfbzFkVkw4OWRXejhTSWxCcXNSekUwNVZyaG5vMDZrTENfeVlySGYyaWoxSVdHY1RNX3Q3M1ppZkdoU1hmOEE5V09UVjNHWGtPbFdJeUoxYXZj?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "我国生成式人工智能用户规模突破7亿人 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tdUxlb3N6R1Q0QkpjSTRfWm9DdVR4YnZFejFseHRLUl9uZllpVFpySngwX01WNHFtMi00WXZkdHZhcVNYZWlMSkpTckxOdVR5UWtNRDd1Y2VXYzBaTWRGZ3dvUW9mS0J1R204eWdoUW9fVkhOWmdCWWI1V2w?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tdUxlb3N6R1Q0QkpjSTRfWm9DdVR4YnZFejFseHRLUl9uZllpVFpySngwX01WNHFtMi00WXZkdHZhcVNYZWlMSkpTckxOdVR5UWtNRDd1Y2VXYzBaTWRGZ3dvUW9mS0J1R204eWdoUW9fVkhOWmdCWWI1V2w?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "从项目集聚走向产业生态，惠阳人工智能和机器人产业体系图谱发布 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzRuWXkxcDJTbUI0elpySlhvdlhhbEllRVhwV2xIZGh3bS1HemFvTEVVdXEtN2kyRTA5RTFuN2FjeXZ4MllVLVNRd3o2RFRRd3FsY0JxcnctUk9NRFB2TlhSU1hhZExoUmtXNEowbDlPYXYxQWRwQjdXNHEzRElVU0N0Z0hNMEJmSkp5QVcyWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzRuWXkxcDJTbUI0elpySlhvdlhhbEllRVhwV2xIZGh3bS1HemFvTEVVdXEtN2kyRTA5RTFuN2FjeXZ4MllVLVNRd3o2RFRRd3FsY0JxcnctUk9NRFB2TlhSU1hhZExoUmtXNEowbDlPYXYxQWRwQjdXNHEzRElVU0N0Z0hNMEJmSkp5QVcyWQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能可以为文化遗产赋予新生命 - 光明网",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMHBTazB2VE1uQkZ2OU9IQV84RWQySjBCeFh2QnYwX0ZtQ2loTzFuaHJUTTZraDljbllXN0NSQ0FOZTE2VW4tTVBvcWlTLWN0OFNILTNKNFd4dG81dnlqYQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wMHBTazB2VE1uQkZ2OU9IQV84RWQySjBCeFh2QnYwX0ZtQ2loTzFuaHJUTTZraDljbllXN0NSQ0FOZTE2VW4tTVBvcWlTLWN0OFNILTNKNFd4dG81dnlqYQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "特朗普推出AI政府服务网站 称美国领先中国 不愿共同发展AI技术 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPX3lkM1ZuazRCOEJ2emczd0xBWkFna2R0eUV1YmRuMDNIWWpJTU9aM1hIVUhKRlF4VFVKQXRIR3pKc1BzT1RCeWdkU0hVSFBNd25CTHFtZkZfVFB1Y256X0RKdHJmMFVRNHJZS3RrZWIzSm9qckQ4QlItbUY2cXI5QVhQb1Zqc1l0QTVqUUZqSlZKa1d0T1g5NC1oekhlZ193NWN1aUVIMGN5UGQwUktURDZ2V0c0M1dZSWp6bEFHaEVWMEw0aFh6eDJhOVo5QWdPTGpFSkVwMkFsckdvN3BDMF9XVG0xTi1zbEJRX0YyMXc3UTJxaE9iOFU2QjlnX193UnFEWUVSQktMYlpSbDNFYThjblJMZnhFaUtNWHhuU29KMEJhU0pucTRPcGliRzVZMXVIajdSVVhmX3F0OTd0YTBNX3J6UVpzTm5XNUpobjllOUE2bElIcjMyUlFmNl9lRnpVODF1WHpkZS1yX0R6Nl96aDcwTzY0Zlg3aUVjbXlYRThmb1RHSVRFRjdGUWJ0ckxkOG5jRlRDM3NrUGg4?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPX3lkM1ZuazRCOEJ2emczd0xBWkFna2R0eUV1YmRuMDNIWWpJTU9aM1hIVUhKRlF4VFVKQXRIR3pKc1BzT1RCeWdkU0hVSFBNd25CTHFtZkZfVFB1Y256X0RKdHJmMFVRNHJZS3RrZWIzSm9qckQ4QlItbUY2cXI5QVhQb1Zqc1l0QTVqUUZqSlZKa1d0T1g5NC1oekhlZ193NWN1aUVIMGN5UGQwUktURDZ2V0c0M1dZSWp6bEFHaEVWMEw0aFh6eDJhOVo5QWdPTGpFSkVwMkFsckdvN3BDMF9XVG0xTi1zbEJRX0YyMXc3UTJxaE9iOFU2QjlnX193UnFEWUVSQktMYlpSbDNFYThjblJMZnhFaUtNWHhuU29KMEJhU0pucTRPcGliRzVZMXVIajdSVVhmX3F0OTd0YTBNX3J6UVpzTm5XNUpobjllOUE2bElIcjMyUlFmNl9lRnpVODF1WHpkZS1yX0R6Nl96aDcwTzY0Zlg3aUVjbXlYRThmb1RHSVRFRjdGUWJ0ckxkOG5jRlRDM3NrUGg4?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "港股配置主线浮出水面 “红利底仓+AI进攻”渐成机构共识 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MV0I1T1d4S0luMDBHbW91Zkx5dEVKc2FHcDZMLWsway0yZlVpMlo5Q3RvWWRzamtUQ0xaUFhwMVpNb1laMGM1bkcxMHlPZm1BeXRMVGtIaVg0LUMwY1dCN2g4UzBvQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9MV0I1T1d4S0luMDBHbW91Zkx5dEVKc2FHcDZMLWsway0yZlVpMlo5Q3RvWWRzamtUQ0xaUFhwMVpNb1laMGM1bkcxMHlPZm1BeXRMVGtIaVg0LUMwY1dCN2g4UzBvQQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "数说科技：从立场到文化，AI 让我们的写作越来越像 - 端傳媒Initium Media",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTkFJeDFCUUdiR0RocnBqMGxOWHZZMUg5SHhFa09rVFZhS0s5djByOUdmR3d4aVNFb3NjRGdseTJVSXBDQV9jODJvZDRzdldQeGlkYkVKU1VuaUtGbkNsWUR6ODJBSmRXd1pCZ1pmQmZ3OEpSeVJSakU5RXNSSkwzcXN2N19YMnh4bkE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTkFJeDFCUUdiR0RocnBqMGxOWHZZMUg5SHhFa09rVFZhS0s5djByOUdmR3d4aVNFb3NjRGdseTJVSXBDQV9jODJvZDRzdldQeGlkYkVKU1VuaUtGbkNsWUR6ODJBSmRXd1pCZ1pmQmZ3OEpSeVJSakU5RXNSSkwzcXN2N19YMnh4bkE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "光进铜退！AI算力扩张，光子产业加速进场 - shobserver.com",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wdHVDTlhzUTNscFFZOXdmU00xTTJteWNwbjJBTHBXZUxWek9wcERrRjU4UHVDQ2RmVmVDMGp1Z0tHUFZyM0VkVnFSUVNoY2R0TWtCM01JT2xEd2wxU0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wdHVDTlhzUTNscFFZOXdmU00xTTJteWNwbjJBTHBXZUxWek9wcERrRjU4UHVDQ2RmVmVDMGp1Z0tHUFZyM0VkVnFSUVNoY2R0TWtCM01JT2xEd2wxU0E?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "时报数说 我国生成式人工智能用户规模突破7亿人 - 证券时报网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05MDRpSExnVEd5aVUyaVExYzFTVmk5bTdkRk1lbEJ2TlFuQV94T0poYVR4Y0I5b0otVXdtRUZadkZ3NHR1R1pRQjI0TzRzYXBQT0tGVTNxRl9uempf?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE05MDRpSExnVEd5aVUyaVExYzFTVmk5bTdkRk1lbEJ2TlFuQV94T0poYVR4Y0I5b0otVXdtRUZadkZ3NHR1R1pRQjI0TzRzYXBQT0tGVTNxRl9uempf?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "浙江宣传丨“开源”为啥火 - cztv.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84bXZ6TEd0VDdXTy05XzRZdEdkcndpRkFnNGhWU1I4Z1M2XzAyME9ETWNHTmRTTE9CVHlzWWJHaURNZ2Y5cXUyWUxwNjNRQUk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE84bXZ6TEd0VDdXTy05XzRZdEdkcndpRkFnNGhWU1I4Z1M2XzAyME9ETWNHTmRTTE9CVHlzWWJHaURNZ2Y5cXUyWUxwNjNRQUk?oc=5"
+    }
+  ]
+}
