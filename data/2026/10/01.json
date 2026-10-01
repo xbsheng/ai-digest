@@ -1,0 +1,379 @@
+{
+  "date": "2026-10-01",
+  "fetchedAt": "2026-10-01T01:17:08.386Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "score": 947,
+      "comments": 646,
+      "discuss": "https://news.ycombinator.com/item?id=49913571"
+    },
+    {
+      "source": "hackernews",
+      "title": "CS240 AI Cheating Retrospective",
+      "url": "https://turkeyland.net/thoughts/ai.php",
+      "score": 87,
+      "comments": 66,
+      "discuss": "https://news.ycombinator.com/item?id=49913458"
+    },
+    {
+      "source": "hackernews",
+      "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+      "score": 79,
+      "comments": 42,
+      "discuss": "https://news.ycombinator.com/item?id=49914236"
+    },
+    {
+      "source": "hackernews",
+      "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
+      "url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
+      "score": 33,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49911520"
+    },
+    {
+      "source": "hackernews",
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "score": 23,
+      "comments": 21,
+      "discuss": "https://news.ycombinator.com/item?id=49912499"
+    },
+    {
+      "source": "hackernews",
+      "title": "Is Trump's Push to Rename AI to Super Intelligence Part of a Bigger Conspiracy?",
+      "url": "https://gizmodo.com/is-trumps-push-to-rename-ai-to-super-intelligence-part-of-some-bigger-conspiracy-2000819480",
+      "score": 11,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49913341"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAPPA: Deterministic guardrails that don't break agents",
+      "url": "https://github.com/archestra-ai/OpenAPPA",
+      "score": 10,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49913499"
+    },
+    {
+      "source": "hackernews",
+      "title": "Reddit will stop supporting RSS feeds on November 13th",
+      "url": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+      "score": 9,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=49912288"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Datastory, Data storytelling with AI and an open knowledge graph",
+      "url": "https://www.datastory.tech",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49911411"
+    },
+    {
+      "source": "hackernews",
+      "title": "192GB Framework Desktop open for pre-order",
+      "url": "https://frame.work/au/en/products/desktop-diy-amd-aimax400/configuration/new",
+      "score": 5,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49915907"
+    },
+    {
+      "source": "hackernews",
+      "title": "There Are Plenty of Laws on the Books to Check the A.I. Giants. Use Them",
+      "url": "https://www.nytimes.com/2026/09/30/opinion/ai-anthropic-amodei-self-regulation.html",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49914448"
+    },
+    {
+      "source": "hackernews",
+      "title": "CafeBench: Sol 6.1 is great value, but not quite Opus level",
+      "url": "https://www.getdot.ai/blog/cafe-bench-gpt-6-1-sol-sonnet-5-5",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49913486"
+    },
+    {
+      "source": "hackernews",
+      "title": "Factory AI vs. Cognition (Devin)",
+      "url": "https://twitter.com/ScottWu46/status/2105360290993115469",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49913382"
+    },
+    {
+      "source": "hackernews",
+      "title": "Drone startup tied to Trump sons aims to bring Ukrainian tech to US",
+      "url": "https://www.reuters.com/world/asia-pacific/drone-startup-tied-trump-sons-aims-bring-ukrainian-tech-us-2026-09-30/",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49912719"
+    },
+    {
+      "source": "hackernews",
+      "title": "Shareholders Should Pay for AI Dangers",
+      "url": "https://www.wsj.com/opinion/shareholders-should-pay-for-ai-dangers-fe78d542",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49912172"
+    },
+    {
+      "source": "arxiv",
+      "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+      "url": "http://arxiv.org/abs/2609.38178v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Zihang Rui, Renhao Wang, Haoxu Huang",
+      "discuss": "http://arxiv.org/abs/2609.38178v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+      "url": "http://arxiv.org/abs/2609.38177v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jaewoo Jung, Hyeonseo Yu, Honggyu An",
+      "discuss": "http://arxiv.org/abs/2609.38177v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Breakdown of Local Denoising as Semantic Speciation",
+      "url": "http://arxiv.org/abs/2609.38176v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Guangkuo Liu, Mert Okyay, Yifan F. Zhang",
+      "discuss": "http://arxiv.org/abs/2609.38176v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+      "url": "http://arxiv.org/abs/2609.38169v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Bingchen Yao, Haobo Xu, Haokun Lin",
+      "discuss": "http://arxiv.org/abs/2609.38169v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+      "url": "http://arxiv.org/abs/2609.38166v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yi Pan, Haocheng Xi, Kan Zhu",
+      "discuss": "http://arxiv.org/abs/2609.38166v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
+      "url": "http://arxiv.org/abs/2609.38165v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Joseph Metcalfe, Sara Sharifzadeh, Fabio Caraffini",
+      "discuss": "http://arxiv.org/abs/2609.38165v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization",
+      "url": "http://arxiv.org/abs/2609.38161v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jianru Shen",
+      "discuss": "http://arxiv.org/abs/2609.38161v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation",
+      "url": "http://arxiv.org/abs/2609.38157v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Kuan-Po Huang, Haohe Liu, Puyuan Peng",
+      "discuss": "http://arxiv.org/abs/2609.38157v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
+      "url": "http://arxiv.org/abs/2609.38155v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Hui Ren, Lei Fan, Henry Pao",
+      "discuss": "http://arxiv.org/abs/2609.38155v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Pretraining Latent Information Feedback Transformers with Teacher Supervision",
+      "url": "http://arxiv.org/abs/2609.38149v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Dor Tirosh, Ido Amos, Mor Geva",
+      "discuss": "http://arxiv.org/abs/2609.38149v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
+      "url": "http://arxiv.org/abs/2609.38147v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Paras Dahal, Anton Bakhtin, Taco Cohen",
+      "discuss": "http://arxiv.org/abs/2609.38147v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
+      "url": "http://arxiv.org/abs/2609.38143v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Cheng Qian, Kunlun Zhu, Beibin Li",
+      "discuss": "http://arxiv.org/abs/2609.38143v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation",
+      "url": "http://arxiv.org/abs/2609.38142v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Rishabh Agrawal, Hejie Cui, Shasha Li",
+      "discuss": "http://arxiv.org/abs/2609.38142v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE",
+      "url": "http://arxiv.org/abs/2609.38140v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yu Xu, Yuxin Zhang, Xiao Yang",
+      "discuss": "http://arxiv.org/abs/2609.38140v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "LongHarness Bench: Stress-Testing Language Model Harnesses for Long-Context Reasoning",
+      "url": "http://arxiv.org/abs/2609.38137v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Quang Hieu Pham, Thuy Duong Nguyen, Jocelyn Qiaochu Chen",
+      "discuss": "http://arxiv.org/abs/2609.38137v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Multi-Agent Flow Matching with Decoupled Generative Guidance",
+      "url": "http://arxiv.org/abs/2609.38133v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Ruoyu Lin, Magnus Egerstedt, Fabio Pasqualetti",
+      "discuss": "http://arxiv.org/abs/2609.38133v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Achieving an $O(1/N)$ Optimality Gap in Average-Reward Weakly-Coupled MDPs",
+      "url": "http://arxiv.org/abs/2609.38132v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yige Hong, Xiangcheng Zhang, Qiaomin Xie",
+      "discuss": "http://arxiv.org/abs/2609.38132v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "WUSH-KV: KV Cache Quantization with Data-Adaptive Transforms",
+      "url": "http://arxiv.org/abs/2609.38121v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jiale Chen, Vage Egiazarian, Eldar Kurtić",
+      "discuss": "http://arxiv.org/abs/2609.38121v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Stochastic World Models for Verifying Vision-Based Neural Feedback Systems",
+      "url": "http://arxiv.org/abs/2609.38120v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "I. Samuel Akinwande, Mykel J. Kochenderfer, Clark Barrett",
+      "discuss": "http://arxiv.org/abs/2609.38120v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "ReCIRC: Rectified Conformal Risk Control",
+      "url": "http://arxiv.org/abs/2609.38112v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Bruno Marcondes e Resende, Helton Graziadei, Thiago Rodrigo Ramos",
+      "discuss": "http://arxiv.org/abs/2609.38112v1"
+    },
+    {
+      "source": "google-news",
+      "title": "深读丨美国为何给人工智能改名？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qdTBNd0hHQW5Td1JZdjFtZjNIWkhkamdqSkpOMFlUSUdOTlRlTXRIeEZsT05GS3l6YmlvWUNvUmhUR011dVNSTmlQck9RcGdWSXUtd3dVTVNpN3lnRm1rUHlFU3FuMzVCVXo0VjhqMm92SnRtTFFXZnctRjkxUm8?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qdTBNd0hHQW5Td1JZdjFtZjNIWkhkamdqSkpOMFlUSUdOTlRlTXRIeEZsT05GS3l6YmlvWUNvUmhUR011dVNSTmlQck9RcGdWSXUtd3dVTVNpN3lnRm1rUHlFU3FuMzVCVXo0VjhqMm92SnRtTFFXZnctRjkxUm8?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "失控事件频发，AI发展需要减速吗 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZQS1yb2dnS18wcnc2SUNDSmNsVnRESGFsU3dmWVRkWk9lSk01dm5POTBQUjVxOWs1Q214bEZxSkdsVWJESDhQTldJeWVlQUlNbV9ZVEVXUVhrN1dsOXZvTjlUZXNWQnQ1VDNIelBBakU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZQS1yb2dnS18wcnc2SUNDSmNsVnRESGFsU3dmWVRkWk9lSk01dm5POTBQUjVxOWs1Q214bEZxSkdsVWJESDhQTldJeWVlQUlNbV9ZVEVXUVhrN1dsOXZvTjlUZXNWQnQ1VDNIelBBakU?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "东方有线开启“全城热AI，人工智能进万家”广电服务季|上观新闻|AI智能|上海市|Agent|民生_手机新浪网 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUjNpLUk0M01MSkRlQlVyUGhtR2lhN2IwQWhyRjQ5T0xKclhvbjFtN3hMNUlPWEFMMVFqeVpuM0NIbWpqUGJFYmFuTTdiOUlRbUxKaGM5Z25MU1BPbjllczVnaDN6QXRKSHBudXhkZG1uRnRpTjFyekRITVlLTENkWjc0YUdHZXpIWEJPaFJpMktadk9SRHNPcU05OUJpRE1sRFZVdmQtVTlSNVZieG1ySkdn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUjNpLUk0M01MSkRlQlVyUGhtR2lhN2IwQWhyRjQ5T0xKclhvbjFtN3hMNUlPWEFMMVFqeVpuM0NIbWpqUGJFYmFuTTdiOUlRbUxKaGM5Z25MU1BPbjllczVnaDN6QXRKSHBudXhkZG1uRnRpTjFyekRITVlLTENkWjc0YUdHZXpIWEJPaFJpMktadk9SRHNPcU05OUJpRE1sRFZVdmQtVTlSNVZieG1ySkdn?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "国庆AI短片：凌晨3点他们为什么出发 读懂中国人独有的浪漫 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QdGxCbGllU0YyTGpyejhMeUZiV0F3V1pfaEdyVl9CaUc4UExsSmFkTnh2R0drbmJBWmZZWWE5VjNSWkN3Z1ZObm1aTk5Ya2pSRVhPVW5yamtGSHhnOHFYZEUyeW5hNE9kbURfMWVFaFNwZUtiNUJJWnllWkQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QdGxCbGllU0YyTGpyejhMeUZiV0F3V1pfaEdyVl9CaUc4UExsSmFkTnh2R0drbmJBWmZZWWE5VjNSWkN3Z1ZObm1aTk5Ya2pSRVhPVW5yamtGSHhnOHFYZEUyeW5hNE9kbURfMWVFaFNwZUtiNUJJWnllWkQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "数学AI考卷发下来了，及格线是多少？ - 科技行者",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByVjU2YURlcVJSbnd1TXN6eFJRdm5FX2Njb2VtTWlKT3NhMDdJLTc1aGpCMmJCMUQ0ZV9OSE9iMS0yWjVtM0lrdW5SRXVsQUwwYTRyQU5LVDdWYmt2eG1V?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByVjU2YURlcVJSbnd1TXN6eFJRdm5FX2Njb2VtTWlKT3NhMDdJLTc1aGpCMmJCMUQ0ZV9OSE9iMS0yWjVtM0lrdW5SRXVsQUwwYTRyQU5LVDdWYmt2eG1V?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "从政策定音支持到产业拔节发展 深圳这一区的人工智能产业发展“双喜临门” - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13UUl2TnhDbzZTY2U1V3VSc1ctMTRaazBuU01xbVdndFE2SDJtOEp4dTUwZ2dXX3NIeFBoaUl5TFlka1RlTFh1ZFN0QXptOEVpOVV3Mlh5VW9Jb0lISDJhOC1zc21rS3lrbEo1WENPZFc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13UUl2TnhDbzZTY2U1V3VSc1ctMTRaazBuU01xbVdndFE2SDJtOEp4dTUwZ2dXX3NIeFBoaUl5TFlka1RlTFh1ZFN0QXptOEVpOVV3Mlh5VW9Jb0lISDJhOC1zc21rS3lrbEo1WENPZFc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "前瞻AI药研与长寿科学｜英矽智能10月首周亮相三大国际前沿峰会 - EurekAlert! Science News Releases",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kcFloTVpNXzB3SVZKcWphQVQwNGt2VUpRTWU1a0hhU0VuM0ctOWZ5VmtEYmt1dVR5S0hoLXZrV2dYWW5fbVA3SVN2NlFNZEl4aFFQdFgwa3RXNEdtSnBuWE1IRm9Ral8tNE5rdm9QV2NoTm8?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kcFloTVpNXzB3SVZKcWphQVQwNGt2VUpRTWU1a0hhU0VuM0ctOWZ5VmtEYmt1dVR5S0hoLXZrV2dYWW5fbVA3SVN2NlFNZEl4aFFQdFgwa3RXNEdtSnBuWE1IRm9Ral8tNE5rdm9QV2NoTm8?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "白宫与美AI巨头签协议 涉及内外部审查 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CVFgxektmb3pqRjFjY0ViNWdhOUJUZTJpckNiY2ZNY0loSjZpc25OSk5yX19TaDZmZXVxXzN3R3lLNnUzRzBVbmg3aEZ2WkM3dm1pREl1NGE2Vm9xM1VULUU2UUd5dnpMbnBrTk1sWGdlTGdMMm5fWUoyZ3dfLUk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CVFgxektmb3pqRjFjY0ViNWdhOUJUZTJpckNiY2ZNY0loSjZpc25OSk5yX19TaDZmZXVxXzN3R3lLNnUzRzBVbmg3aEZ2WkM3dm1pREl1NGE2Vm9xM1VULUU2UUd5dnpMbnBrTk1sWGdlTGdMMm5fWUoyZ3dfLUk?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI语音需求升温：ElevenLabs完成要约出售，估值升至220亿美元 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tUnd6cnlMWmo5ZDF0cXAwMk9GTGJTcHptU3hKdVRDVXYzQTFxR2IyQjhvTFBId0RlLU9NQjRnOGhkVURDcXV5Xw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tUnd6cnlMWmo5ZDF0cXAwMk9GTGJTcHptU3hKdVRDVXYzQTFxR2IyQjhvTFBId0RlLU9NQjRnOGhkVURDcXV5Xw?oc=5"
+    }
+  ]
+}
