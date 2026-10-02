@@ -1,0 +1,411 @@
+{
+  "date": "2026-10-02",
+  "fetchedAt": "2026-10-02T01:41:33.828Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "url": "https://stoppels.ch/goalposts/",
+      "score": 87,
+      "comments": 96,
+      "discuss": "https://news.ycombinator.com/item?id=49924618"
+    },
+    {
+      "source": "hackernews",
+      "title": "Don't Be Fooled by this Summer of AI Hype",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "score": 35,
+      "comments": 22,
+      "discuss": "https://news.ycombinator.com/item?id=49927331"
+    },
+    {
+      "source": "hackernews",
+      "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+      "url": "https://neow.in/NGxhb3d6",
+      "score": 31,
+      "comments": 34,
+      "discuss": "https://news.ycombinator.com/item?id=49927693"
+    },
+    {
+      "source": "hackernews",
+      "title": "Consumer AI Fatigue Is Overwhelming, Local Businesses Should Reconsider Use",
+      "url": "https://residentnewsnetwork.com/opinion-piece-consumer-ai-fatigue-is-overwhelming-and-why-local-businesses-should-re-consider-use/",
+      "score": 25,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=49924385"
+    },
+    {
+      "source": "hackernews",
+      "title": "Aweb – Communication for AI Agents",
+      "url": "https://aweb.ai",
+      "score": 20,
+      "comments": 14,
+      "discuss": "https://news.ycombinator.com/item?id=49927587"
+    },
+    {
+      "source": "hackernews",
+      "title": "US judge dismisses Chegg, Penske antitrust suits over Google AI Overviews",
+      "url": "https://reuters.com/legal/litigation/google-wins-dismissal-chegg-penske-media-lawsuits-over-ai-overviews-2026-10-01",
+      "score": 19,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49925606"
+    },
+    {
+      "source": "hackernews",
+      "title": "FLUX 3 Image",
+      "url": "https://bfl.ai/models/flux-3-image",
+      "score": 15,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49925974"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Breadcrumb, record everything on your mac + context manager for AI",
+      "url": "https://innerloop.works/breadcrumb",
+      "score": 15,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49924943"
+    },
+    {
+      "source": "hackernews",
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "url": "https://www.frogandtoad.ai/",
+      "score": 11,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49927760"
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm Calling for a Pause in the Development of the Universal Bone Dissolver",
+      "url": "https://www.theatlantic.com/newsletters/2026/10/ai-slowdown-bone-dissolver/688854/",
+      "score": 9,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=49926083"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI Parts Ways with Researchers Who Allegedly Shared Confidential Information",
+      "url": "https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528",
+      "score": 9,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49923737"
+    },
+    {
+      "source": "hackernews",
+      "title": "DoGBench: The first user-facing docs generation benchmark. No model scores >50%",
+      "url": "https://dogbench.ai/",
+      "score": 7,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=49928118"
+    },
+    {
+      "source": "hackernews",
+      "title": "People Who Drink Their Own Pee Are Obsessed with AI",
+      "url": "https://futurism.com/artificial-intelligence/urine-therapy-ai",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49925758"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Premortem – AI agents that red-team your startup idea",
+      "url": "https://premortem.site",
+      "score": 6,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=49926691"
+    },
+    {
+      "source": "hackernews",
+      "title": "We Used AI to Find Out Just How Much Americans Hate AI",
+      "url": "https://www.wsj.com/politics/elections/we-used-ai-to-find-out-just-how-much-americans-hate-ai-2ca70c5a",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49926159"
+    },
+    {
+      "source": "arxiv",
+      "title": "Gacha Decoding: Eliciting Diverse Generations Through Instruction Following",
+      "url": "http://arxiv.org/abs/2610.01382v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Scott Geng, Yufei Zhang, Joseph Lee",
+      "discuss": "http://arxiv.org/abs/2610.01382v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "SupraTITO: Transferable Generative Molecular Dynamics for Supramolecular Systems",
+      "url": "http://arxiv.org/abs/2610.01381v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Weilong Chen, Nuno Costa, Julija Zavadlav",
+      "discuss": "http://arxiv.org/abs/2610.01381v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Generation Provenance Before Behavior Attribution: Auditing Synthetic Speech Research Objects",
+      "url": "http://arxiv.org/abs/2610.01378v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Sidi Chang, Peiying Zhu",
+      "discuss": "http://arxiv.org/abs/2610.01378v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Minimax Optimal Regret for Causal Logistic Bandits with Counterfactual Fairness",
+      "url": "http://arxiv.org/abs/2610.01377v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Junhyuk Huh, Seoungbin Bae, Dabeen Lee",
+      "discuss": "http://arxiv.org/abs/2610.01377v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Action-On-Item Preference Flow: A Shared Event Schema for Predictive and Generative Personalization",
+      "url": "http://arxiv.org/abs/2610.01375v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Parthiv Chatterjee, Kashish Kanjaria, Vashisth Purani",
+      "discuss": "http://arxiv.org/abs/2610.01375v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Learning Commute-Time-Preserving World Models for Planning",
+      "url": "http://arxiv.org/abs/2610.01373v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Michael Hauri, Peter Buttaroni, Fabian A. Mikulasch",
+      "discuss": "http://arxiv.org/abs/2610.01373v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "From Redundancy to Minimality: Fixed-Point-Guided Hierarchical Reduction of Learned Piecewise-Linear Dynamics",
+      "url": "http://arxiv.org/abs/2610.01369v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Hiroto Tamura, Gouhei Tanaka",
+      "discuss": "http://arxiv.org/abs/2610.01369v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "LLM-Driven Multi-Agent Control for Skill-Based Smart Manufacturing",
+      "url": "http://arxiv.org/abs/2610.01364v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Kay Köhle, Darko Anicic, Thomas A. Runkler",
+      "discuss": "http://arxiv.org/abs/2610.01364v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Degree-Corrected Joint Matrix Factorization for Multilayer Community Detection",
+      "url": "http://arxiv.org/abs/2610.01361v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Alexandra Dache, Manon Rustin, Arnaud Vandaele",
+      "discuss": "http://arxiv.org/abs/2610.01361v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Fold'EM: Direct atomic structure inference from Cryo-EM particles",
+      "url": "http://arxiv.org/abs/2610.01358v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Advaith Maddipatla, Märt-Erik Mäeots, Marco Pegoraro",
+      "discuss": "http://arxiv.org/abs/2610.01358v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Port-Hamiltonian Neural Networks for Systems with Multiple Asymptotically Stable Equilibria",
+      "url": "http://arxiv.org/abs/2610.01356v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Simon Heilig, Jens Püttschneider, Mohammad Itani",
+      "discuss": "http://arxiv.org/abs/2610.01356v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Discrete Wasserstein Flows for One-Step Generative Modeling",
+      "url": "http://arxiv.org/abs/2610.01355v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Alessandro Micheli, Andrea Zerio, Samir Bhatt",
+      "discuss": "http://arxiv.org/abs/2610.01355v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Does AI-Generated Scientific Text Follow Human Argumentation Patterns? A CARS-Based Comparison of Research Article Introductions",
+      "url": "http://arxiv.org/abs/2610.01353v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Abdelrahman Sadallah, Narjes Sheikh Asadi, Lonneke van der Plas",
+      "discuss": "http://arxiv.org/abs/2610.01353v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "PACE: Provenance-Aware Capability Enforcement for Tool-Using LLM Agents",
+      "url": "http://arxiv.org/abs/2610.01349v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Fengpeng Li, Qizhou Wang, Yuke Hu",
+      "discuss": "http://arxiv.org/abs/2610.01349v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Verify Claims, Not Scores: Evidence-Based Verification of Modular Agents",
+      "url": "http://arxiv.org/abs/2610.01348v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Ali Atiah Alzahrani",
+      "discuss": "http://arxiv.org/abs/2610.01348v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "ARCCS: An Automated Regulatory Compliance Checking System",
+      "url": "http://arxiv.org/abs/2610.01345v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Giorgos Filandrianos, José Menezes, Chrysoula Zerva",
+      "discuss": "http://arxiv.org/abs/2610.01345v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Reachability-Informed Reinforcement Learning for Multi-Impulse Interplanetary Transfers",
+      "url": "http://arxiv.org/abs/2610.01344v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yashdeep Chaudhary, Roberto Armellin, Harry Holt",
+      "discuss": "http://arxiv.org/abs/2610.01344v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Robust Non-Clairvoyant Scheduling with Classification Models",
+      "url": "http://arxiv.org/abs/2610.01343v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Anthony Dugois, Vincent Fagnon, Giorgio Lucarelli",
+      "discuss": "http://arxiv.org/abs/2610.01343v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "An ontology for cross-sectoral crisis management: core and public health modules",
+      "url": "http://arxiv.org/abs/2610.01326v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Aldo Gangemi, Rita T. Sousa, Luigi Asprino",
+      "discuss": "http://arxiv.org/abs/2610.01326v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "PPO-HRAP: Proximal Policy Optimization with a Hybrid Regime-Aware Policy for Risk-Controlled Trading",
+      "url": "http://arxiv.org/abs/2610.01325v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Duong Hien Chi Kien, Thanh Trung Huynh",
+      "discuss": "http://arxiv.org/abs/2610.01325v1"
+    },
+    {
+      "source": "google-news",
+      "title": "综述丨前沿模型能力加速跃升 AI治理迎来新考验——9月全球人工智能发展盘点 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xYldXVzFoZG5heW1aTlJ5VEdmbk4xRURIeG42b3hFeWRvNExmMEtLcWJJakFXZW40Ml9BVzMyV3dKU3ZnMTdvN0JHeXdZLWEzV29QQzZwSGxKSEJTa2lNVy1XX240SThVUWpuN0NfdWw5VG1NRFpUejROd3Vydw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xYldXVzFoZG5heW1aTlJ5VEdmbk4xRURIeG42b3hFeWRvNExmMEtLcWJJakFXZW40Ml9BVzMyV3dKU3ZnMTdvN0JHeXdZLWEzV29QQzZwSGxKSEJTa2lNVy1XX240SThVUWpuN0NfdWw5VG1NRFpUejROd3Vydw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI“入港”，山东港口青岛港向智而行 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rWERaMW55V2FXZi0ydU5YamRQd2RtaWcxSGNNeWJHSzhaYU1yR3RkcTBYUkE3MmQ1SEgzRzRqX0pYUEFCS3BLb1V6UWtQa0VMVkpmb1l1QXJ2a09IS0FUX01WSHJxaHdyRGU5MktLeFQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rWERaMW55V2FXZi0ydU5YamRQd2RtaWcxSGNNeWJHSzhaYU1yR3RkcTBYUkE3MmQ1SEgzRzRqX0pYUEFCS3BLb1V6UWtQa0VMVkpmb1l1QXJ2a09IS0FUX01WSHJxaHdyRGU5MktLeFQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "日本计划投入1400亿美元推进人工智能数据中心建设 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sQ0dfR0NlMEVhSVFTM3ZhdDlrMUVWX3Y4bXJUTkFqSjRyV0VCWlQ3am5BZ251YzluRVE3QVJhcENpc0Ewbzd0MUE2dFliOW1MeUdBYnBFUHhDa2tQT0ZFWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sQ0dfR0NlMEVhSVFTM3ZhdDlrMUVWX3Y4bXJUTkFqSjRyV0VCWlQ3am5BZ251YzluRVE3QVJhcENpc0Ewbzd0MUE2dFliOW1MeUdBYnBFUHhDa2tQT0ZFWQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "观察｜从特朗普给AI改名说起 - 中青在线",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Xa2ZDaWRzNmxxV1pveC01NUluODRIbV9rSExOQkNwOExpV1FnUEYyWlN3RzZYaVJzSXI2eDJJU3NQUTlvTVgxZDdXdTMyRE15LW5hRVJ6YWYySEhqVzg3MVRrczdGejBQSzlTN04xaFoyeENOX0lDMzExNDA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Xa2ZDaWRzNmxxV1pveC01NUluODRIbV9rSExOQkNwOExpV1FnUEYyWlN3RzZYaVJzSXI2eDJJU3NQUTlvTVgxZDdXdTMyRE15LW5hRVJ6YWYySEhqVzg3MVRrczdGejBQSzlTN04xaFoyeENOX0lDMzExNDA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "2万亿美元估值的美股AI泡沫 - 凤凰网财经",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40blplX0VkMWFUd19PNldjSFV3RnhJRTFUOVN0a2ZIWDNiOXpyMkowdXR2a3ZTUE5PZTExMlFaWFZwaDhvZV9jbkVmWTdudGhu?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE40blplX0VkMWFUd19PNldjSFV3RnhJRTFUOVN0a2ZIWDNiOXpyMkowdXR2a3ZTUE5PZTExMlFaWFZwaDhvZV9jbkVmWTdudGhu?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "沈艳 | 创新：企业经营激活“人工智能+消费” - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kLXpjd3YwaUEzelJlTjZDb3VYalJuU0xCR2FNclZJT2lUWmNjYmxBUHhqdllzbWZNWUc5R3FjZEtpNGh3bzRnNnpfb2hsYWl6T3I3R2dZcDUxMXMwbGY5X19CSXgwVFd3eGwyNmtBS0Y4bUpoaHloV2VFak9nU0U?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kLXpjd3YwaUEzelJlTjZDb3VYalJuU0xCR2FNclZJT2lUWmNjYmxBUHhqdllzbWZNWUc5R3FjZEtpNGh3bzRnNnpfb2hsYWl6T3I3R2dZcDUxMXMwbGY5X19CSXgwVFd3eGwyNmtBS0Y4bUpoaHloV2VFak9nU0U?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "摘下中美AI合作“低垂的果实” - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSmk3RnNHSS1KNmljbU1laFV5Q0N5b3JJNlFJUUg2Q05OUGRLOWVRSlRKUFJRY0FKT1RGM3p1cElfYTNNQXdqUHZTQjkxYUh4OFVkWWtENDR5ZHpoYjVJS2dadjZLbjhxaU4wdmpxRE5fcVA0S2xZc2w3amZ3SFN3NUhZakY5RGFSOEdfM0F6TVNTVUpELVRPNS1KUlZFMW0zdEROaE96MDhmNjJSdXRhVFpNNVk0MWd0NW5tNnlfR1NuTWstLW80bW1ZWlQwZXpyRk84bENjZXZqWWF2YmNKS0lrRjA2LVZpb3ZrUWNrc2VOdUlqYkIzR09rRWstb3NtaW9DcVpUOVZpNi1LZUF0dUgyQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQSmk3RnNHSS1KNmljbU1laFV5Q0N5b3JJNlFJUUg2Q05OUGRLOWVRSlRKUFJRY0FKT1RGM3p1cElfYTNNQXdqUHZTQjkxYUh4OFVkWWtENDR5ZHpoYjVJS2dadjZLbjhxaU4wdmpxRE5fcVA0S2xZc2w3amZ3SFN3NUhZakY5RGFSOEdfM0F6TVNTVUpELVRPNS1KUlZFMW0zdEROaE96MDhmNjJSdXRhVFpNNVk0MWd0NW5tNnlfR1NuTWstLW80bW1ZWlQwZXpyRk84bENjZXZqWWF2YmNKS0lrRjA2LVZpb3ZrUWNrc2VOdUlqYkIzR09rRWstb3NtaW9DcVpUOVZpNi1LZUF0dUgyQQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "中国开始打击AI恋爱关系，是过度干预还是先见之明？ - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QMVRmdXY2TjJaTG1YMS1KM2pNS3htSzRQRWppT21JV0pNcmU5NHdDa0o5anMxNUF0TXdmZmpSMnFheVE2QWZlcnNPZUd5cHRQdlNjaFNlRGY5cDgzVGNQaDBOX0NaSUXSAWxBVV95cUxNSEFZbkdlUUszMHlnZFlQRXpTT3dWLUFpenBxeUV3MHhsNVl2aUdMV0ozNFNjQXpKRzZNV2tCX1lKcWZ4ampueFRCTDFoN2w5WjhMZjhmRThheVFRd0tUSldvMXZIcHRMUVZSaFI?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QMVRmdXY2TjJaTG1YMS1KM2pNS3htSzRQRWppT21JV0pNcmU5NHdDa0o5anMxNUF0TXdmZmpSMnFheVE2QWZlcnNPZUd5cHRQdlNjaFNlRGY5cDgzVGNQaDBOX0NaSUXSAWxBVV95cUxNSEFZbkdlUUszMHlnZFlQRXpTT3dWLUFpenBxeUV3MHhsNVl2aUdMV0ozNFNjQXpKRzZNV2tCX1lKcWZ4ampueFRCTDFoN2w5WjhMZjhmRThheVFRd0tUSldvMXZIcHRMUVZSaFI?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "超越 CVSS：AI 所生成结果时代基于证据的漏洞分类 - IBM",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSnJleW9QU3hPZDQ1cjk4bzd6S2lZSXNZdFFxRmZvMXBKMGViWmNwMF9zemZIOHVoWm1sWWo5WVl6ZkJvNlM1Q010aGdRYnYta3lfNlh1TW51T042T0VwdTlNMmZ1V3hzbTlZeWJRMFE2NUNlRUQxSDZvanJ3aU4za1d4VGw1MXhHUkRvRGJzNHp1eU81anlQQW43QmhQeE5vbTlYaVNqcVJWZTlzU2d2dlNnN2tRa0RwZlE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSnJleW9QU3hPZDQ1cjk4bzd6S2lZSXNZdFFxRmZvMXBKMGViWmNwMF9zemZIOHVoWm1sWWo5WVl6ZkJvNlM1Q010aGdRYnYta3lfNlh1TW51T042T0VwdTlNMmZ1V3hzbTlZeWJRMFE2NUNlRUQxSDZvanJ3aU4za1d4VGw1MXhHUkRvRGJzNHp1eU81anlQQW43QmhQeE5vbTlYaVNqcVJWZTlzU2d2dlNnN2tRa0RwZlE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "上半年AI热钱涌动，国资基金抢滩人工智能｜2026张江AI小镇生态日现场侧记 - cls.cn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rTE5hdFRhVEI1V3RPSkVHQ2MwTl91WUNWQV9RMUJ5YmE2S0R3bEFJc3g2c18wakVuU1ZHWjNFSUczaVFiMWo2dQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rTE5hdFRhVEI1V3RPSkVHQ2MwTl91WUNWQV9RMUJ5YmE2S0R3bEFJc3g2c18wakVuU1ZHWjNFSUczaVFiMWo2dQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "全球市场：美股三大指数小幅收涨 AI光通信板块领涨 国际油价涨近3% - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zMDNwSy10NkszMVltUlBjRGV2d3YzdWZWa1ljZG5VbzRmX1RZaGZBejdtVW03NFdjX0xYUjBjbmpBVXR5eGVsYV8xYUJocEZMU3Z6bmFic3Atc09XcnRhbw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zMDNwSy10NkszMVltUlBjRGV2d3YzdWZWa1ljZG5VbzRmX1RZaGZBejdtVW03NFdjX0xYUjBjbmpBVXR5eGVsYV8xYUJocEZMU3Z6bmFic3Atc09XcnRhbw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "职业教育拥抱AI - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsc25RSWxBMGx4dGdmSDZiVTJvUERORUQtWU14dXp2VS16Q3EtRHJqc3FCUnRQSDI5UzFWY2RuaEZrNWVudjVtZmNFbUJoLUhoZUtLWUFYSXZpRmRJM29FZm9BQWtfWDFUeU93SzhJOHJpNFEySjdGQ05oSnpIVUk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsc25RSWxBMGx4dGdmSDZiVTJvUERORUQtWU14dXp2VS16Q3EtRHJqc3FCUnRQSDI5UzFWY2RuaEZrNWVudjVtZmNFbUJoLUhoZUtLWUFYSXZpRmRJM29FZm9BQWtfWDFUeU93SzhJOHJpNFEySjdGQ05oSnpIVUk?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "华尔街一哥辣评“AI狂欢”：不抱太大希望，但看好SpaceX太空数据中心！ - cls.cn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZNXZrQlBTa2V4eGt6cXZJcTB0U3Z0SjFBWUlWX1d1dWlRVHZKc3pfazdzN1lNTTN4MzF2NUk1V1hDQ1gzVko1WQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZNXZrQlBTa2V4eGt6cXZJcTB0U3Z0SjFBWUlWX1d1dWlRVHZKc3pfazdzN1lNTTN4MzF2NUk1V1hDQ1gzVko1WQ?oc=5"
+    }
+  ]
+}
