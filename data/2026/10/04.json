@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "fetchedAt": "2026-10-04T00:32:02.216Z",
+  "fetchedAt": "2026-10-04T00:36:40.299Z",
   "total": 50,
   "items": [
     {
@@ -210,6 +210,22 @@
       "score": 0,
       "comments": 0,
       "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01TEdyNllkRXlaRVlraEwxRXI5UzNXNUJPeG9QZDBYSldoT29sanNKNFV1SGh4ZHVORmFjTGpSSVVEbjJvdjdRTlllRFdxYXVCY1A1WG5zNkd0TmdwVkI1SQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI 测试版。 - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2YkUxTlpxQWNPYVNvekpBT0hud0I5OFl2OG9rZ2F0RzgwSDR3TEdSSUFSOE9QbVJoRG1LaTg2T3dlRjlHZ3FWWjJMNDd5T29VRThhRVpHZUx6U0FnNE5iRWc1UGdQaFBja1Ftd2pvcHdwMWtCMVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2YkUxTlpxQWNPYVNvekpBT0hud0I5OFl2OG9rZ2F0RzgwSDR3TEdSSUFSOE9QbVJoRG1LaTg2T3dlRjlHZ3FWWjJMNDd5T29VRThhRVpHZUx6U0FnNE5iRWc1UGdQaFBja1Ftd2pvcHdwMWtCMVE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "贝森特批评AI风险警告是危言耸听 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vTHZvNTlQOXBaNVI2TnE5WDZRM0RqNGY5V293TUJKQ3BoNEtIaER1VzloZ1N1R0NsQlR2eG9uN0sxR0hUd3BtczBXaUw2Z3pHdG1rSHEzeHVjOGlkT0hTcFp2dG9kei1zTzFaM0lRcC1va3dCQTBmVDJB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vTHZvNTlQOXBaNVI2TnE5WDZRM0RqNGY5V293TUJKQ3BoNEtIaER1VzloZ1N1R0NsQlR2eG9uN0sxR0hUd3BtczBXaUw2Z3pHdG1rSHEzeHVjOGlkT0hTcFp2dG9kei1zTzFaM0lRcC1va3dCQTBmVDJB?oc=5"
     }
   ]
 }
