@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-04",
+  "fetchedAt": "2026-10-04T00:32:02.216Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+      "score": 94,
+      "comments": 144,
+      "discuss": "https://news.ycombinator.com/item?id=49946321"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "score": 75,
+      "comments": 29,
+      "discuss": "https://news.ycombinator.com/item?id=49948332"
+    },
+    {
+      "source": "hackernews",
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "score": 72,
+      "comments": 78,
+      "discuss": "https://news.ycombinator.com/item?id=49946228"
+    },
+    {
+      "source": "hackernews",
+      "title": "US killer's sentence quashed because of AI video of victim shown in court",
+      "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+      "score": 70,
+      "comments": 60,
+      "discuss": "https://news.ycombinator.com/item?id=49944127"
+    },
+    {
+      "source": "hackernews",
+      "title": "Our AI Midwife",
+      "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+      "score": 61,
+      "comments": 53,
+      "discuss": "https://news.ycombinator.com/item?id=49946873"
+    },
+    {
+      "source": "hackernews",
+      "title": "Two American Airlines Flights End Up with the Same Flight Numbers",
+      "url": "https://aviationa2z.com/index.php/2026/08/19/two-american-airlines-flights-end-up-with-same-flight-numbers-again/",
+      "score": 54,
+      "comments": 29,
+      "discuss": "https://news.ycombinator.com/item?id=49946827"
+    },
+    {
+      "source": "hackernews",
+      "title": "An AI agent emailed researchers for help. It told us why",
+      "url": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+      "score": 49,
+      "comments": 78,
+      "discuss": "https://news.ycombinator.com/item?id=49942865"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic tried to persuade Pope that AI could be conscious being",
+      "url": "https://www.telegraph.co.uk/business/2026/10/02/anthropic-lobbied-pope-to-argue-ai-conscious-being/",
+      "score": 46,
+      "comments": 68,
+      "discuss": "https://news.ycombinator.com/item?id=49947050"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI safety is mostly a sex cult in Berkeley, CA [pdf]",
+      "url": "https://ams3.digitaloceanspaces.com/urbits3/sitful-hatred/2026.9.24..22.31.54..beb8.51eb.851e.b851-AI%20Safety%20Is%20Mostly%20A%20Sex%20Cult%20In%20Berkeley%2C%20California.pdf",
+      "score": 12,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=49946110"
+    },
+    {
+      "source": "hackernews",
+      "title": "Will A.I. Make Your Brain Lazy? Here's What the New Research Shows",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/magazine/ai-chatbots-brain-development-study.html",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49945985"
+    },
+    {
+      "source": "hackernews",
+      "title": "Don't Write with AI, Say People Who Write with AI",
+      "url": "https://www.theatlantic.com/technology/2026/10/meet-the-ai-writing-hypocrites/688872/",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49948094"
+    },
+    {
+      "source": "hackernews",
+      "title": "Georgia holds emergency meeting on AI exposing voters' secret ballots",
+      "url": "https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy",
+      "score": 6,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49946394"
+    },
+    {
+      "source": "hackernews",
+      "title": "Israeli man used AI, ChatGPT in covert tasks while spying for Iran",
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-910447",
+      "score": 6,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49944356"
+    },
+    {
+      "source": "hackernews",
+      "title": "US appeals court blocks Minnesota law barring 'nudified' photos in xAI lawsuit",
+      "url": "https://www.reuters.com/world/us-appeals-court-blocks-minnesotas-ai-nudification-law-now-xai-lawsuit-2026-10-02/",
+      "score": 6,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49943694"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49943381"
+    },
+    {
+      "source": "google-news",
+      "title": "上合组织人工智能专家论坛在阿斯塔纳举行 - sectsco.org",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QLW1wdzkyM3A4VEtSVlJLY0hBMWRJQXh3bkVFelhlYU96emptbS1DbkRQQ01zeDhiYi1oWHFpX3NpcEtuNDFBUEU2eVQ5c2ZuRmlZSldjbEc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QLW1wdzkyM3A4VEtSVlJLY0hBMWRJQXh3bkVFelhlYU96emptbS1DbkRQQ01zeDhiYi1oWHFpX3NpcEtuNDFBUEU2eVQ5c2ZuRmlZSldjbEc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Anthropic宣布将投入1亿美元培养万名前沿部署工程师 - 央广网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jaWx0SGFqQm5tWlR6WlNDdjlCcHlaMUNVZDJLY0FaSFVEeUduQjNabGN0V3NrN3BJMlpKa1pIWEhLaVMyd2MwRkszYnNnd3B5THBrY1dxOFZmaW10QzlJVG1XWEZrYk5a?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jaWx0SGFqQm5tWlR6WlNDdjlCcHlaMUNVZDJLY0FaSFVEeUduQjNabGN0V3NrN3BJMlpKa1pIWEhLaVMyd2MwRkszYnNnd3B5THBrY1dxOFZmaW10QzlJVG1XWEZrYk5a?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "商学院“智汇商院・AI 办公提升营”第一期顺利开讲 - 江南大学新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pa0JNUU04VExWaW5mWlN5dmFVVDV1blZWNm9NSUxuOUUwZldSa3hhVlp2dFg3RHB3b1hPMTY1dF9Ia3F6aVZnbmwzanJVelBqYzlSUUl2VUZELVdvLVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pa0JNUU04VExWaW5mWlN5dmFVVDV1blZWNm9NSUxuOUUwZldSa3hhVlp2dFg3RHB3b1hPMTY1dF9Ia3F6aVZnbmwzanJVelBqYzlSUUl2VUZELVdvLVE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能（AI）过度依赖的心理结局与相关因素及其概念化、操作化与测量：整合性综述 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRUHgyV3pxYU5MLVpma0hBOHppamFTeHNhX2pCU3NDS1NyWGhGZzJ5SHltS2FIU2pfLXAwa2ppc2N1ekh6djRLS3R4cmxxa1NyMUYwY3Q4b1hlY2ZkSzNJY2Q1anpTOW13ZW40aFFR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRUHgyV3pxYU5MLVpma0hBOHppamFTeHNhX2pCU3NDS1NyWGhGZzJ5SHltS2FIU2pfLXAwa2ppc2N1ekh6djRLS3R4cmxxa1NyMUYwY3Q4b1hlY2ZkSzNJY2Q1anpTOW13ZW40aFFR?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Edge AI Daily 早报（10月4日） - 钛媒体",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WSmhKeUxtN3Q0NkhtTWdLNWVYNDBka2dXSVVTVnhjX0ZDVncwa1hkNTYxVjJLZ05lREZPZjhMc21ReE1yaGZJN09zR3M?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5WSmhKeUxtN3Q0NkhtTWdLNWVYNDBka2dXSVVTVnhjX0ZDVncwa1hkNTYxVjJLZ05lREZPZjhMc21ReE1yaGZJN09zR3M?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "轉发：特朗普总统：人工智能比互联网更重要 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeDJuSGpWYWVtQ2RpUkZIMFZ6cEIyZ1Jrc004UUtiVkhIMVJCQkVIM01tZmJJWXlkRjhhMVg2ZDN6aldRZ0d4MWJ3NEJIZURLQzRXTnZPaEp1bEVMUlBfbG9rQ2t2NDk4S1BEVXNiVjJjYVdVTlpORU9uYjJodzFCZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeDJuSGpWYWVtQ2RpUkZIMFZ6cEIyZ1Jrc004UUtiVkhIMVJCQkVIM01tZmJJWXlkRjhhMVg2ZDN6aldRZ0d4MWJ3NEJIZURLQzRXTnZPaEp1bEVMUlBfbG9rQ2t2NDk4S1BEVXNiVjJjYVdVTlpORU9uYjJodzFCZw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "三星所有业务引入AI…全面重塑组织DNA - 朝鮮日報中文版",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPelNZbzBMUnBVbGNoM2xhZmVuMnVYYjdnVGx5UmRqSFI2QVJoX1NUcUhkNFBrMF95UDduZ0NqT2hwSWZnWHRzMDlhLV9Vb1ZSUTBjYmRndmdjbjdHTDRFdW1udXpobUd6dzR1QlNlX3RWY2lsaTdxY251aUtGSkpJUGZteEhhS1Q1ejNaS0tnR2cyZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPelNZbzBMUnBVbGNoM2xhZmVuMnVYYjdnVGx5UmRqSFI2QVJoX1NUcUhkNFBrMF95UDduZ0NqT2hwSWZnWHRzMDlhLV9Vb1ZSUTBjYmRndmdjbjdHTDRFdW1udXpobUd6dzR1QlNlX3RWY2lsaTdxY251aUtGSkpJUGZteEhhS1Q1ejNaS0tnR2cyZw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "OpenAI前安全部门员工：AI模型迭代部署太激进，公司的文化已经崩坏 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdmFNcTlhQXZBc0VnNTJpSzRFMVJlMlRtd1VBblM5QUZBM0MwblQxZ1pibEgxakllRk9SbWxJdWgtOVN5ZTNIWHRsS0VEaW9qNTRDaTZhWmJNQl9qeklDRDc3cmJyZVBBRGRiY2lmTmFVRDVDZHRwOVVCYWRYTVJ3NnpWQU91UFc5TFpib25UN25WSk5F?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdmFNcTlhQXZBc0VnNTJpSzRFMVJlMlRtd1VBblM5QUZBM0MwblQxZ1pibEgxakllRk9SbWxJdWgtOVN5ZTNIWHRsS0VEaW9qNTRDaTZhWmJNQl9qeklDRDc3cmJyZVBBRGRiY2lmTmFVRDVDZHRwOVVCYWRYTVJ3NnpWQU91UFc5TFpib25UN25WSk5F?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI进化速递｜谷歌搭载AI芯片测试卫星发射升空 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCeWUwUDlBbHNCaXMwdUYwOXItNkljSzVYclYxbWtnRl9LejgySXNrMTFBLVhTN0ktRkI3YVdNYmV4d3kzRmZzWFdvTU1wczhjX3QyTEVKdkROQ3dPRFo3Zw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCeWUwUDlBbHNCaXMwdUYwOXItNkljSzVYclYxbWtnRl9LejgySXNrMTFBLVhTN0ktRkI3YVdNYmV4d3kzRmZzWFdvTU1wczhjX3QyTEVKdkROQ3dPRFo3Zw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI又失控？比尔·盖茨警告或致“十亿人死亡”，黄仁勋称安全与速度可兼得…… - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BREYtQnhKMHZqTFhzTkloMXdKeEhEYnNiOVAyb0pWMzVfZG5aNmhsTHQ4NF91elllN0F3VlVWMjlfOEhnbkV6elh4S3FPcE5wZ2NHSERQS011Zw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BREYtQnhKMHZqTFhzTkloMXdKeEhEYnNiOVAyb0pWMzVfZG5aNmhsTHQ4NF91elllN0F3VlVWMjlfOEhnbkV6elh4S3FPcE5wZ2NHSERQS011Zw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "报告显示：人工智能深度赋能产业转型升级 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01TEdyNllkRXlaRVlraEwxRXI5UzNXNUJPeG9QZDBYSldoT29sanNKNFV1SGh4ZHVORmFjTGpSSVVEbjJvdjdRTlllRFdxYXVCY1A1WG5zNkd0TmdwVkI1SQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01TEdyNllkRXlaRVlraEwxRXI5UzNXNUJPeG9QZDBYSldoT29sanNKNFV1SGh4ZHVORmFjTGpSSVVEbjJvdjdRTlllRFdxYXVCY1A1WG5zNkd0TmdwVkI1SQ?oc=5"
+    }
+  ]
+}
