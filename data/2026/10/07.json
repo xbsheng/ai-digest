@@ -1,0 +1,411 @@
+{
+  "date": "2026-10-07",
+  "fetchedAt": "2026-10-07T01:31:04.998Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "score": 395,
+      "comments": 322,
+      "discuss": "https://news.ycombinator.com/item?id=49984923"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "score": 230,
+      "comments": 294,
+      "discuss": "https://news.ycombinator.com/item?id=49980715"
+    },
+    {
+      "source": "hackernews",
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "score": 64,
+      "comments": 90,
+      "discuss": "https://news.ycombinator.com/item?id=49981197"
+    },
+    {
+      "source": "hackernews",
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "score": 61,
+      "comments": 18,
+      "discuss": "https://news.ycombinator.com/item?id=49984716"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+      "url": "https://news.ycombinator.com/item?id=49982498",
+      "score": 53,
+      "comments": 50,
+      "discuss": "https://news.ycombinator.com/item?id=49982498"
+    },
+    {
+      "source": "hackernews",
+      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+      "score": 25,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49985861"
+    },
+    {
+      "source": "hackernews",
+      "title": "LibreOffice says 'no AI' is now a software feature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "score": 20,
+      "comments": 8,
+      "discuss": "https://news.ycombinator.com/item?id=49980933"
+    },
+    {
+      "source": "hackernews",
+      "title": "Meta's Muse AI agent is building a dossier on you",
+      "url": "https://time.com/article/2026/10/06/meta-muse-ai-agent-privacy/",
+      "score": 17,
+      "comments": 13,
+      "discuss": "https://news.ycombinator.com/item?id=49983579"
+    },
+    {
+      "source": "hackernews",
+      "title": "An Open Letter to Steven Pinker on AI",
+      "url": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
+      "score": 15,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49984947"
+    },
+    {
+      "source": "hackernews",
+      "title": "What we learned from building the sandboxes our agents run in",
+      "url": "https://www.qawolf.com/blog/every-ai-agent-its-own-computer",
+      "score": 13,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=49981044"
+    },
+    {
+      "source": "hackernews",
+      "title": "Burn 0.22.0: Faster Builds, Easier Extensions, and Smarter Autotuning",
+      "url": "https://tracel.ai/blog/release-0.22.0/",
+      "score": 9,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49983055"
+    },
+    {
+      "source": "hackernews",
+      "title": "Personal Agent Protocol",
+      "url": "https://sierra.ai/blog/introducing-personal-agent-protocol",
+      "score": 8,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49981921"
+    },
+    {
+      "source": "hackernews",
+      "title": "Solving Open Research Problems Together",
+      "url": "https://research.meta.ai/blog/solving-open-research-problems-together",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49984953"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jev for Voice Agents",
+      "url": "https://veris.ai/blog/jev-turn-detection",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=49982478"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
+      "url": "https://news.ycombinator.com/item?id=49985548",
+      "score": 5,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=49985548"
+    },
+    {
+      "source": "arxiv",
+      "title": "Partially Observable Zero-shot coordination by Predicting Intention of Partner",
+      "url": "http://arxiv.org/abs/2610.08142v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jinnyeong Yang, Yuhwan Jeong, Hoyong Kwon",
+      "discuss": "http://arxiv.org/abs/2610.08142v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Test-Time Agent Evolution for Long-Horizon Legal Reasoning",
+      "url": "http://arxiv.org/abs/2610.08138v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Haotian Chen, Shuaicheng Niu, Haocong Rao",
+      "discuss": "http://arxiv.org/abs/2610.08138v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Beyond Marginal Monitoring: Distributed Joint-Distribution Testing for Data Concept Drift in Large Scale E-Commerce Operations",
+      "url": "http://arxiv.org/abs/2610.08132v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Cagdas Pullu, Mahmut Emir Arslan, Bugra Balkac",
+      "discuss": "http://arxiv.org/abs/2610.08132v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Mu-DisCoCat: A Variational Pipeline for Compositional Generalization on Quantum Processors",
+      "url": "http://arxiv.org/abs/2610.08131v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Mina Abbaszadeh, Matilda Karabina Moore, Raem Haq",
+      "discuss": "http://arxiv.org/abs/2610.08131v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Do LLMs Act on What They Know? From Partner Representations to Cooperative Actions",
+      "url": "http://arxiv.org/abs/2610.08129v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yuhwan Jeong, Jinnyeong Yang, Kuk-Jin Yoon",
+      "discuss": "http://arxiv.org/abs/2610.08129v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Supermarket Product Detection and Recognition: Utilizing Deep Learning with Rectified Imagery",
+      "url": "http://arxiv.org/abs/2610.08126v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Mayank Sah, Jimson Mathew",
+      "discuss": "http://arxiv.org/abs/2610.08126v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Conversation Is a Two-Body Problem: Dyadic Evaluation of Full-Duplex Dialogue Models",
+      "url": "http://arxiv.org/abs/2610.08125v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Sungnyun Kim, Sungwoo Cho, Jihwan Oh",
+      "discuss": "http://arxiv.org/abs/2610.08125v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Beyond Waypoint Regression: Query-Based Cost Learning over Reachable Ego Futures for End-to-End Driving",
+      "url": "http://arxiv.org/abs/2610.08123v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Ahmed Abouelazm, Rupert Polley, Qingyuan Zhang",
+      "discuss": "http://arxiv.org/abs/2610.08123v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Attenuated in-context identification in time-series foundation models: diagnosis under counterfactual inputs and repair by synthetic forced-system fine-tuning",
+      "url": "http://arxiv.org/abs/2610.08118v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Hong-In Won",
+      "discuss": "http://arxiv.org/abs/2610.08118v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Energy-Aware Path Following: Comparative Analysis of Reinforcement Learning and NMPC for Electric Vehicles",
+      "url": "http://arxiv.org/abs/2610.08112v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Mohamed Sabaa, Mostafa Emam",
+      "discuss": "http://arxiv.org/abs/2610.08112v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Enhancing Diffusion Language Models with Autoregressive Post-Training Weights",
+      "url": "http://arxiv.org/abs/2610.08108v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yiming Qin, Ke Wang, Amel Abdelraheem",
+      "discuss": "http://arxiv.org/abs/2610.08108v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Exploiting Acoustic and Content-Oriented Speaker Verification Attacks Against Multilingual Voice Anonymization",
+      "url": "http://arxiv.org/abs/2610.08107v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Ridwan Arefeen, Ze Li, Rong Tong",
+      "discuss": "http://arxiv.org/abs/2610.08107v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "ChartBmkAgent: Harness-Governed Multi-Agent Construction of Chart QA Benchmarks from Sparse Error-Taxonomy Specifications",
+      "url": "http://arxiv.org/abs/2610.08106v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Langxi Huang, Pingping Zhang, Lanyun Zhu",
+      "discuss": "http://arxiv.org/abs/2610.08106v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "DSV-Mem: Evaluating Multimodal Memory in Professional Workflows for MLLM Agents",
+      "url": "http://arxiv.org/abs/2610.08102v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jike Zhong, Ritwick Chaudhry, Xuanbai Chen",
+      "discuss": "http://arxiv.org/abs/2610.08102v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Beyond Corrected Memory: Execution Consistency in Multi-Agent Systems",
+      "url": "http://arxiv.org/abs/2610.08101v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Zhe Yu, Zixuan Wang, Peidong Wang",
+      "discuss": "http://arxiv.org/abs/2610.08101v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Surviving the Router: Optimizing Skill Injections for Retrieval and Execution",
+      "url": "http://arxiv.org/abs/2610.08098v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Haneen Najjar, Luca Scionis, Haritz Puerto",
+      "discuss": "http://arxiv.org/abs/2610.08098v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "When Tools Lie: Reliability of Mathematical Agents Under Corrupted Tool Feedback",
+      "url": "http://arxiv.org/abs/2610.08097v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Kavienan Jegatheesan, Gayathri Lihinikaduarachchi",
+      "discuss": "http://arxiv.org/abs/2610.08097v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Natural Language Questions as an Interface for Knowledge Graphs: QRAKEN Graph Distillation and Semantic Self-Healing",
+      "url": "http://arxiv.org/abs/2610.08095v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Remo Grillo, Lukas Klic, Giovanni Colavizza",
+      "discuss": "http://arxiv.org/abs/2610.08095v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "SAGE: Semantic Anchor-Guided Evolution for Grounded Medical QA Data Synthesis",
+      "url": "http://arxiv.org/abs/2610.08093v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Chuan Li, Chengyu Wang, Cen Chen",
+      "discuss": "http://arxiv.org/abs/2610.08093v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Explainable Rule Mining of IPv6 Extension-Header Presence Patterns from Paired-Vantage Captures",
+      "url": "http://arxiv.org/abs/2610.08090v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Priyanka Sinha, Nikolaos Kekatos, Stylianos Basagiannis",
+      "discuss": "http://arxiv.org/abs/2610.08090v1"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智慧模型：专家警告可能损害年轻人的身体形象 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81NVZvZVZxWDdYS3NSXzlyaDNxZWNPaXNwREZRWGd3YU5udFN6QUs0eVBnMmRmb1ZIOW8wX1k5NER6d1psRF9qNXQ0QjlUUGJ3a1ctZHlUOGhIajYyRUlCX1d2bktvZTTSAWxBVV95cUxOX0dIYWU0Wmx5NDFnb2lLVVZiZHBuV2t6M1d6S2VIWThUNE9oNU1ETDE5Z1FZQ2NzUF9WR3piV1NiLUx5bElzWjhBNVpyWlhwQ1dfcEllbE1PdWNPTWQ2NVYzSjlBTjRlbnpDcVk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81NVZvZVZxWDdYS3NSXzlyaDNxZWNPaXNwREZRWGd3YU5udFN6QUs0eVBnMmRmb1ZIOW8wX1k5NER6d1psRF9qNXQ0QjlUUGJ3a1ctZHlUOGhIajYyRUlCX1d2bktvZTTSAWxBVV95cUxOX0dIYWU0Wmx5NDFnb2lLVVZiZHBuV2t6M1d6S2VIWThUNE9oNU1ETDE5Z1FZQ2NzUF9WR3piV1NiLUx5bElzWjhBNVpyWlhwQ1dfcEllbE1PdWNPTWQ2NVYzSjlBTjRlbnpDcVk?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "法国Mistral AI推出人工智能新模型 称性能超越部分中国对手 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPTVlQT2ZrVlJEWHhEdjZDYU1hSHB6dWlGYVV0QVFFaHMyU0dMUHg0Qk5KRDRjVGJNT1VjbEhJcEhNX2hlZzdhYzU0YmVuN3ZfbXlHNXhhYVJfZGlSOVo3MjlmSlAwU0Q4VGdOeG1Dam5EZnVmcDh6bEkzaXRoalpId2xaSDMyQzZ2aUZkbVNvX1duRnVSTWtkYVYyNHcyR19tamYydTkxaXJVWkdXeEVEajRobzFyZlFRdkp3cDRHRmRkQzFESnViM015Rkt1LTFqTGY3YkhDUlBJeGpydlRWN0RBZnlhR2Z6bHd3c2VkbDRTX3FvZ1VoVmY1d0EzT1VKRkdvMjc5X3JaOUp6ZFhDNldUX25uS3N6OWotSmt6VGpDQWhRNlFJaWZpUkRoeTBqaDZ2eEotOFJzTVBCRHMzVWNnUnFKVTV4MV9Cei1nS2ZOeGJMN1E2OGFidVFTTXZwZzRrV0k0QXhhSVNUTGRjdE1GNTdzQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPTVlQT2ZrVlJEWHhEdjZDYU1hSHB6dWlGYVV0QVFFaHMyU0dMUHg0Qk5KRDRjVGJNT1VjbEhJcEhNX2hlZzdhYzU0YmVuN3ZfbXlHNXhhYVJfZGlSOVo3MjlmSlAwU0Q4VGdOeG1Dam5EZnVmcDh6bEkzaXRoalpId2xaSDMyQzZ2aUZkbVNvX1duRnVSTWtkYVYyNHcyR19tamYydTkxaXJVWkdXeEVEajRobzFyZlFRdkp3cDRHRmRkQzFESnViM015Rkt1LTFqTGY3YkhDUlBJeGpydlRWN0RBZnlhR2Z6bHd3c2VkbDRTX3FvZ1VoVmY1d0EzT1VKRkdvMjc5X3JaOUp6ZFhDNldUX25uS3N6OWotSmt6VGpDQWhRNlFJaWZpUkRoeTBqaDZ2eEotOFJzTVBCRHMzVWNnUnFKVTV4MV9Cei1nS2ZOeGJMN1E2OGFidVFTTXZwZzRrV0k0QXhhSVNUTGRjdE1GNTdzQQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "培生收购一家AI原生技能平台，“AI时代，组织技能评估与发展能力至关重要” - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xVlJGWE9WSFpDTUlheU9YNnJVR2lkMTc1QTFEVmRfQ3pfWmhNelF5R2lkdlVhUmZVR0cybVVGdlJBQWFubDlTVWpuVE5ZdloxQ1VzbHlIOUF0anNUc1c2T3BVOGQ1LURPR24tV09PbDhiQVJYNy1YczhwV0cwbnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xVlJGWE9WSFpDTUlheU9YNnJVR2lkMTc1QTFEVmRfQ3pfWmhNelF5R2lkdlVhUmZVR0cybVVGdlJBQWFubDlTVWpuVE5ZdloxQ1VzbHlIOUF0anNUc1c2T3BVOGQ1LURPR24tV09PbDhiQVJYNy1YczhwV0cwbnc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "OpenAI与Ironclad开展合作 针对复杂合同工作流开展人工智能智能体研究 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGMjFfTzRzZzkwQWxWVHU4MU9fN21lU1hJSFVCUURwamh0NHV4cnFrcU1lOHVvanNOUDlmQk9ablZQamNNYzBoYjd4dGF4TVUzb3NtVmVNOXl5Z2d3bm5qYw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGMjFfTzRzZzkwQWxWVHU4MU9fN21lU1hJSFVCUURwamh0NHV4cnFrcU1lOHVvanNOUDlmQk9ablZQamNNYzBoYjd4dGF4TVUzb3NtVmVNOXl5Z2d3bm5qYw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI进车间还需过三关|中小企业|制造业|工业|系统|数字_手机新浪网 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DLUNVcE95amhBOHpRUzBkOWRwSFhZblo0QWtMY1ZwaFAwM0dkaGwyTDJ6Y2tZcHgwX2FJSmsyd3VpOWNpTDdaZG9kSFRDekt0UVB6V3JGdUpZYWJvRFVSUlZISVdDd0lncHIyMW1LVGY5d2RBNU5HQg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DLUNVcE95amhBOHpRUzBkOWRwSFhZblo0QWtMY1ZwaFAwM0dkaGwyTDJ6Y2tZcHgwX2FJSmsyd3VpOWNpTDdaZG9kSFRDekt0UVB6V3JGdUpZYWJvRFVSUlZISVdDd0lncHIyMW1LVGY5d2RBNU5HQg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "当AI浪潮遭遇“减速”之问，回看30年前那场浪潮走向 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZV285ZjBaRUlISWw2VlFRdWRJRk15R0lnOXJnVnpPa1dfMVVDRndYRVZxWm9qc3J0MHRodHF4WDBSU3hUWkNKWTRISHFiT0R3ODlfYm9zWlZ1MmNwQ3pLRg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZV285ZjBaRUlISWw2VlFRdWRJRk15R0lnOXJnVnpPa1dfMVVDRndYRVZxWm9qc3J0MHRodHF4WDBSU3hUWkNKWTRISHFiT0R3ODlfYm9zWlZ1MmNwQ3pLRg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI辅助同行评审的双重效应：评审者效率提升与作者负担加剧——一项叙述性综述 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpVEpQQjZyRktkSXU5eElLQ3F1ckRTRFo1dWdNWW1JSUU5Qmtwc3dMZ1RPYU4xQjQxbEJPT2x3dVg5T0JLTWN3MlhxR2licHJFRVhLdnNPUE5hS0t4RGN6c0VoT3BBNnFHVk55cHJR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpVEpQQjZyRktkSXU5eElLQ3F1ckRTRFo1dWdNWW1JSUU5Qmtwc3dMZ1RPYU4xQjQxbEJPT2x3dVg5T0JLTWN3MlhxR2licHJFRVhLdnNPUE5hS0t4RGN6c0VoT3BBNnFHVk55cHJR?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI也没发现的漏洞：比特币“保险箱”Coldcard遭黑客攻击，损失超1亿美元 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BakJZclNzck9za0dNQnJwckJFaVhzSXB5TGsyY2tIWFJ6UmpiWnBCLUdGRkVZTGtRTVRRLVllclpiSE9VZFpGbw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1BakJZclNzck9za0dNQnJwckJFaVhzSXB5TGsyY2tIWFJ6UmpiWnBCLUdGRkVZTGtRTVRRLVllclpiSE9VZFpGbw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "港股小幅收涨！AI算力硬件全线爆发 PCB板块领涨 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UVFh5RVgxX3JFd2c0eFZJVEdCZGd3UVlSaFQwZWJfRmtaS1p2WGw2czFFdlhRRUE0dGxGdWk3ZEE2T1NwVjB1dVFyQmNjUHJwU25TTDFQTjJFem1XMkRxNw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UVFh5RVgxX3JFd2c0eFZJVEdCZGd3UVlSaFQwZWJfRmtaS1p2WGw2czFFdlhRRUE0dGxGdWk3ZEE2T1NwVjB1dVFyQmNjUHJwU25TTDFQTjJFem1XMkRxNw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "谷歌DeepMind首席AI“准备度”官：如何为未来做准备 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbzMtRl9uN0U0U0k3WW9SS194WUVHVlZnV2JlNWhsWXE5OUNZTFJXd2lJcTRWQkVpcG1Ha1lnWmdpT3JVME1EdkVuRUxYT3NaelhXSTQ2Nk9CWDZ6alBEcllMVmZKUlctLTZfREprWWExWUppSFE4WWt3QnJhRXJBZUF4S3NPYzQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbzMtRl9uN0U0U0k3WW9SS194WUVHVlZnV2JlNWhsWXE5OUNZTFJXd2lJcTRWQkVpcG1Ha1lnWmdpT3JVME1EdkVuRUxYT3NaelhXSTQ2Nk9CWDZ6alBEcllMVmZKUlctLTZfREprWWExWUppSFE4WWt3QnJhRXJBZUF4S3NPYzQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "OpenAI发布又一批AI数学研究成果，攻破数百个悬而未决难题|IT之家|ChatGPT|人工智能|模型|数学家 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVlZaU4yR1Q2YWhOQkgwNWk3Ylc0V1YxVG9DcTZiYnZBMTBRNHlXM2lNODM4ODVid3p3UnBDclVOcUprNUxtMVRrNFhlb0dhcGQzeHdHaEpDNVBoak1sZlFjSmRNNWw4N2ZBRnN2SmlUSnQyVzNlNDdwSm5IcWFvWWRUWE5UekxEZjloYmVBc3JHblJCU3Q3dGl0X0NkOEFITEk2RlNkVQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVlZaU4yR1Q2YWhOQkgwNWk3Ylc0V1YxVG9DcTZiYnZBMTBRNHlXM2lNODM4ODVid3p3UnBDclVOcUprNUxtMVRrNFhlb0dhcGQzeHdHaEpDNVBoak1sZlFjSmRNNWw4N2ZBRnN2SmlUSnQyVzNlNDdwSm5IcWFvWWRUWE5UekxEZjloYmVBc3JHblJCU3Q3dGl0X0NkOEFITEk2RlNkVQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "基于PMC指数模型的主要国家和地区医疗人工智能政策质量定量评估研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93NExGQXl0QVZEOHMzMGFCWjVKYjFTQnBCa0o4di1kajk1WnFfZm41Z2U2T1pWQ2VSc1hobTBpT2tfVmpCVWRac29DeWtPTmdpNmtreDVNaVpQd1VmNTVVQzd4MEpNeUFUOWVFNFR3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93NExGQXl0QVZEOHMzMGFCWjVKYjFTQnBCa0o4di1kajk1WnFfZm41Z2U2T1pWQ2VSc1hobTBpT2tfVmpCVWRac29DeWtPTmdpNmtreDVNaVpQd1VmNTVVQzd4MEpNeUFUOWVFNFR3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "《本体驱动的AI数据管理》读后感 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rVVlwbmoxQmc1cTlDS1pUQzRpVVlZR204ZE9pTzZyVjFWU3l5OEdzZ0pBTTZreVVUMGlzODFNcDJwU0tLWkRFZnRWOW1QeVFOeU15UzJ2V0pYZ242NUdrRk83ZmNYM0w4cDR6aUJkQ0ZYb2liYnlncno3R0tLOUE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rVVlwbmoxQmc1cTlDS1pUQzRpVVlZR204ZE9pTzZyVjFWU3l5OEdzZ0pBTTZreVVUMGlzODFNcDJwU0tLWkRFZnRWOW1QeVFOeU15UzJ2V0pYZ242NUdrRk83ZmNYM0w4cDR6aUJkQ0ZYb2liYnlncno3R0tLOUE?oc=5"
+    }
+  ]
+}
