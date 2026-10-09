@@ -1,0 +1,411 @@
+{
+  "date": "2026-10-09",
+  "fetchedAt": "2026-10-09T02:07:28.202Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "OpenAI annualised revenues $20B less than previously signalled",
+      "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+      "score": 353,
+      "comments": 246,
+      "discuss": "https://news.ycombinator.com/item?id=50008187"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "score": 72,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=50011999"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "score": 65,
+      "comments": 147,
+      "discuss": "https://news.ycombinator.com/item?id=50008565"
+    },
+    {
+      "source": "hackernews",
+      "title": "Vitalik Buterin backs crypto ‘bunker mode’ amid rapid AI math advances",
+      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+      "score": 60,
+      "comments": 50,
+      "discuss": "https://news.ycombinator.com/item?id=50010656"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Free open source Adobe Lightroom alternative, completely local with AI",
+      "url": "https://github.com/thesnarkitecht/rembrandt",
+      "score": 42,
+      "comments": 49,
+      "discuss": "https://news.ycombinator.com/item?id=50012199"
+    },
+    {
+      "source": "hackernews",
+      "title": "License update: AI derivation prohibited on all my art, lore, stories, comics",
+      "url": "https://www.davidrevoy.com/article1178/license-update-ai-derivation-prohibited-on-all-my-art-lore-stories-and-comics",
+      "score": 38,
+      "comments": 25,
+      "discuss": "https://news.ycombinator.com/item?id=50011028"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Jevman – AI decision models play Pac-Man",
+      "url": "https://opper.ai/jevman-benchmark/",
+      "score": 31,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=50007993"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: AI SRE Arena, an Open Benchmark for AI SRE Agents on Kubernetes",
+      "url": "https://github.com/edgedelta/project-arena",
+      "score": 22,
+      "comments": 8,
+      "discuss": "https://news.ycombinator.com/item?id=50008642"
+    },
+    {
+      "source": "hackernews",
+      "title": "Frontier AI models outperform analysts on earnings prediction",
+      "url": "https://samaya.ai/blog/frontier-ai-models-outperform-human-experts-on-earnings-prediction",
+      "score": 20,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50008977"
+    },
+    {
+      "source": "hackernews",
+      "title": "FYI: You are now an enemy of the US if you call it AI instead of SI",
+      "url": "https://www.forbes.com/sites/conormurray/2026/10/08/trump-calls-anyone-who-says-ai-instead-of-super-intelligence-an-enemy/",
+      "score": 19,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=50009617"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
+      "url": "https://github.com/edrisranjbar/lifeos",
+      "score": 17,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50014150"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI cannot make AI safe on its own [pdf]",
+      "url": "https://mikitabalesni.com/letter/letter.pdf",
+      "score": 17,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=50010569"
+    },
+    {
+      "source": "hackernews",
+      "title": "Developer uses AI to build free Adobe clones after frustration with cancellation",
+      "url": "https://www.techspot.com/news/114136-software-over-developer-uses-ai-build-free-adobe.html",
+      "score": 14,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50009925"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Gemini Agent",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026",
+      "score": 12,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50012543"
+    },
+    {
+      "source": "hackernews",
+      "title": "You're saving one minute and now I can't know if I'm talking a human",
+      "url": "https://news.ycombinator.com/item?id=50009712",
+      "score": 11,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=50009712"
+    },
+    {
+      "source": "arxiv",
+      "title": "DeltaReplay: Task-Relative Memory Reuse for Mobile GUI Agents",
+      "url": "http://arxiv.org/abs/2610.11707v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yudong Bai, Yihong Chen, Quanming Yao",
+      "discuss": "http://arxiv.org/abs/2610.11707v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Does an Illumination Prior Help Face-Swap Detection? A Controlled Study of Temporal Self-Blended Images",
+      "url": "http://arxiv.org/abs/2610.11706v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Danil Davydov, Bader Rasheed, Dmitriy Vatolin",
+      "discuss": "http://arxiv.org/abs/2610.11706v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Intervention anchors and scientific verification in synthetic vascular predictive representations",
+      "url": "http://arxiv.org/abs/2610.11704v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Lingsen You, Yujun Guo, Xinyu Zhong",
+      "discuss": "http://arxiv.org/abs/2610.11704v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "What is the goal of unsupervised machine learning?",
+      "url": "http://arxiv.org/abs/2610.11697v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Aapo Hyvärinen",
+      "discuss": "http://arxiv.org/abs/2610.11697v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "A 3D Characterization Framework for Intelligent Sequential Decision Making",
+      "url": "http://arxiv.org/abs/2610.11696v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Sadig Gojayev, Carolina Fortuna",
+      "discuss": "http://arxiv.org/abs/2610.11696v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Structured Sentiment Analysis Using Sequence Labeling as Dependency Graph Parsing",
+      "url": "http://arxiv.org/abs/2610.11695v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Muhammad Imran, Ana Ezquerro, Carlos Gómez-Rodríguez",
+      "discuss": "http://arxiv.org/abs/2610.11695v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Elucidating the Space of Enzymatic Reaction: A Unified Benchmark and Pretrained Model",
+      "url": "http://arxiv.org/abs/2610.11694v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yutong Hu, Tianming Huang, Yanbo Zhao",
+      "discuss": "http://arxiv.org/abs/2610.11694v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Can Jev be Your Q or Policy in Reinforcement Learning?",
+      "url": "http://arxiv.org/abs/2610.11692v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yi Ma, Tianpei Yang, Yaodong Yang",
+      "discuss": "http://arxiv.org/abs/2610.11692v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Epistemic Disturbance in the Graph Model for Conflict Resolution: State-Preserving Actions, Four-Valued Assessments, and the Distinction between Capability and Intention",
+      "url": "http://arxiv.org/abs/2610.11690v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yukiko Kato",
+      "discuss": "http://arxiv.org/abs/2610.11690v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "HI3D 3.0 (Twinkle3D): Object-specific 3D Asset Generation with High Resolution",
+      "url": "http://arxiv.org/abs/2610.11685v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Ziying Li, Shengchu Zhao, Huiang He",
+      "discuss": "http://arxiv.org/abs/2610.11685v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Camera-Noise Residuals for Face-Swap Detection: Redundant, Not Complementary, and Why",
+      "url": "http://arxiv.org/abs/2610.11683v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Danil Davydov, Bader Rasheed, Dmitriy Vatolin",
+      "discuss": "http://arxiv.org/abs/2610.11683v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "TRACE: Diagnosing Verifier Brittleness in Agentic Evaluation",
+      "url": "http://arxiv.org/abs/2610.11678v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Radhika Gaonkar",
+      "discuss": "http://arxiv.org/abs/2610.11678v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Early Signatures of Memorization in Diffusion Models via Basin Geometry and Cyclic Denoising",
+      "url": "http://arxiv.org/abs/2610.11670v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Nikhil Verma, Siddharthan Dileep, Anoop Singh",
+      "discuss": "http://arxiv.org/abs/2610.11670v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "$σ$Transfer: Uncertainty Transfer from Small to Large Networks under $μ\\mathrm{P}$",
+      "url": "http://arxiv.org/abs/2610.11668v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Richard Bergna, Fernando Ruiz Mazo, Nicolò Felicioni",
+      "discuss": "http://arxiv.org/abs/2610.11668v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Evi-VN: Hard Region Guided Virtual Node Evidence Injection for GNN-Based Fraud Detection",
+      "url": "http://arxiv.org/abs/2610.11665v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jiran Tao, Yifan Wu, Binyan Jiang",
+      "discuss": "http://arxiv.org/abs/2610.11665v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Constrained Command-Conditioned Reinforcement Learning with Bandit Strategy Selection in Real-Time Strategy Games",
+      "url": "http://arxiv.org/abs/2610.11663v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Nick Leenders, Roy Lindelauf, Joost van Oijen",
+      "discuss": "http://arxiv.org/abs/2610.11663v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Lamarck's Driving School: Discovering Autonomous Driving Training Strategies through Evolutionary Competition",
+      "url": "http://arxiv.org/abs/2610.11662v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yichun Ye, He Zhang, Ye Tian",
+      "discuss": "http://arxiv.org/abs/2610.11662v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "DIAL-OPD: Learning More from Fewer Tokens in On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2610.11659v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Anhao Zhao, Haoran Xin, Junlong Tong",
+      "discuss": "http://arxiv.org/abs/2610.11659v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Harness Evolution Hits a Ceiling: When Weight Training Should Begin",
+      "url": "http://arxiv.org/abs/2610.11655v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yuan Tian, Bing Hu, Hao Wang",
+      "discuss": "http://arxiv.org/abs/2610.11655v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Evidence-Traceable Dynamic Interviewer Architecture for Expertise-Adaptive Qualitative Interviews Using Local LLMs",
+      "url": "http://arxiv.org/abs/2610.11651v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Aisvarya Adeseye, Jouni Isoaho, Adeyemi Adeseye",
+      "discuss": "http://arxiv.org/abs/2610.11651v1"
+    },
+    {
+      "source": "google-news",
+      "title": "“人工智能+民航”迈向规模化落地 - 中国经济网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SdUpqWmZQMnM3RF82SG1GTDlYZFJJZkFvVEdzbVVLRTJuclc0bERXVFNsTkEybkVUUXJDNVJDSnRKOHpUaC1uSFNiTkJnNnh2Y2Z3UXRUcXNHYVNRNFdjNlZLT2VtSThJMjdjSk52QQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SdUpqWmZQMnM3RF82SG1GTDlYZFJJZkFvVEdzbVVLRTJuclc0bERXVFNsTkEybkVUUXJDNVJDSnRKOHpUaC1uSFNiTkJnNnh2Y2Z3UXRUcXNHYVNRNFdjNlZLT2VtSThJMjdjSk52QQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能“校校开课、班班覆盖、人人学习”在江苏成为常态 - 中国江苏网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYm1kdmRwbEMxWFcwMjIyMWU5bEd0R0RsU3ZqUEQ1LWpRVDItSm1yTlQyclJjdlhJc0xBb29reVFSbDlib1hJZVZvSHNwamREOExXOTBaWmtDWS1rcWNBaHMyU1c3MFBrVlJuYWItYlZBYVBmUUdvRjByenFHclBKbmswcmItUndSeE1r?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYm1kdmRwbEMxWFcwMjIyMWU5bEd0R0RsU3ZqUEQ1LWpRVDItSm1yTlQyclJjdlhJc0xBb29reVFSbDlib1hJZVZvSHNwamREOExXOTBaWmtDWS1rcWNBaHMyU1c3MFBrVlJuYWItYlZBYVBmUUdvRjByenFHclBKbmswcmItUndSeE1r?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10% - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzaVlNMnNVVFpKM0JRdkl6cWVlek90LVVUbzNxVkVGWWlIQUt6aHJyRmJVeEVFamgtdjVhYjZaQlhOSW9YYmMzM2pYRHRmTm1wN1hF?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzaVlNMnNVVFpKM0JRdkl6cWVlek90LVVUbzNxVkVGWWlIQUt6aHJyRmJVeEVFamgtdjVhYjZaQlhOSW9YYmMzM2pYRHRmTm1wN1hF?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI“语音时钟”可从声音评估衰老程度 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QbHJoUHdyWlVaZmJCbFh5SnlJSVFsXzlrcUJmaXpnSWxjTFhSR0xHTDRveWQxcERySjczcnYtOWUwTWVGakVabXVNNEZ4bm41eDc1R0QzWXB2TzBJVnlTOVNMVlM4UjdvZlpmQzEyUXI?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QbHJoUHdyWlVaZmJCbFh5SnlJSVFsXzlrcUJmaXpnSWxjTFhSR0xHTDRveWQxcERySjczcnYtOWUwTWVGakVabXVNNEZ4bm41eDc1R0QzWXB2TzBJVnlTOVNMVlM4UjdvZlpmQzEyUXI?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI成了一项私人“秘密福利”？这是为何很多员工隐瞒在工作中使用人工智能 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMizANBVV95cUxQdmxJRWVENmRnUWVfMklxVV9Nc01sX3N3dWhVX1NseTRVVFBDX1FCZmo3aHJFZXhYMzl0MVoyd2ZreVl6TEM3UkpwSjVwRlVQdWJkRGFFaWI0dmd6T0c2UUVtcFhFdzM0TXFTSzBxRlRMelpFajFKelkzMmxNZXl4NVoyQnZQaEl6ZHlleEptSDNQUDhobE5YNG8ybjF4YzRPaHUwenQxZEZfdGdrWUtnMW01M1J1NS1ySDJsUWhaWnlDQS1MYkpzdHhzVDd4ZlFnWWdiOEphSVY2ZDRBbm1ZSVJLTGVzVVB3cUdnX1hzOGdjNWtpSnVlbDhsWTEzYk5uYnF0cGVlWk02cTlPVVFuVXViNjdOVnFQZGFwWWhMbnZYMTZtSW1jQXJPRnhRMVVwWXRsbTh0XzA2Nmd2ckhnOFZGNnFxczBhZDFjcUppRWMzMU5CZTkwbkxNNHNieXNZR1RvaXpFY09fcHlYd3l2UjVReUZyVU5tTXdzYTFEQmtDcGd2V2FMZmRSS1NDNlNfaW5QdzBldDRaeENzdDh3aGl3d3U1UWtza2lZRlJfQWlRUnZfbUYyVlFGR05XME56Q3piZ1hWMThZNGFG?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMizANBVV95cUxQdmxJRWVENmRnUWVfMklxVV9Nc01sX3N3dWhVX1NseTRVVFBDX1FCZmo3aHJFZXhYMzl0MVoyd2ZreVl6TEM3UkpwSjVwRlVQdWJkRGFFaWI0dmd6T0c2UUVtcFhFdzM0TXFTSzBxRlRMelpFajFKelkzMmxNZXl4NVoyQnZQaEl6ZHlleEptSDNQUDhobE5YNG8ybjF4YzRPaHUwenQxZEZfdGdrWUtnMW01M1J1NS1ySDJsUWhaWnlDQS1MYkpzdHhzVDd4ZlFnWWdiOEphSVY2ZDRBbm1ZSVJLTGVzVVB3cUdnX1hzOGdjNWtpSnVlbDhsWTEzYk5uYnF0cGVlWk02cTlPVVFuVXViNjdOVnFQZGFwWWhMbnZYMTZtSW1jQXJPRnhRMVVwWXRsbTh0XzA2Nmd2ckhnOFZGNnFxczBhZDFjcUppRWMzMU5CZTkwbkxNNHNieXNZR1RvaXpFY09fcHlYd3l2UjVReUZyVU5tTXdzYTFEQmtDcGd2V2FMZmRSS1NDNlNfaW5QdzBldDRaeENzdDh3aGl3d3U1UWtza2lZRlJfQWlRUnZfbUYyVlFGR05XME56Q3piZ1hWMThZNGFG?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "信息科大图书馆人工智能馆员开“书方” - 北京市人民政府门户网站",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WcFRtbzhJallqc1VOZWluWHhRUzYzdmFLaTVGbzl6Tmg3TEg1Zkp4QVduQUxZVFhOOWdCcmV2M1lJb2I2MklxYjU2Nk5QNWJLdDk5N0o0NDBtQkREZnpsRHZpaHduS0d3WlF1emNxOWswNHhlSmt2WGI4cXZURkU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WcFRtbzhJallqc1VOZWluWHhRUzYzdmFLaTVGbzl6Tmg3TEg1Zkp4QVduQUxZVFhOOWdCcmV2M1lJb2I2MklxYjU2Nk5QNWJLdDk5N0o0NDBtQkREZnpsRHZpaHduS0d3WlF1emNxOWswNHhlSmt2WGI4cXZURkU?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "甘肃省“如意就业”AI求职助手正式上线 - 新华网-甘肃",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGhWU2JZM09yUjh5SEpPN0Y0WlpJS1BBUUxERFZDenB2VktNUDFpWGttelhRdDQySVlLT1ZIbUFkVmw1U3JETTBXZ0lMNzhQRUszaGhWUVlmWFk2YnExS3RnOGtSUmNXbkxEVmE0TENscnF3UnRrRnVvRXhzalJ5TDNB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGhWU2JZM09yUjh5SEpPN0Y0WlpJS1BBUUxERFZDenB2VktNUDFpWGttelhRdDQySVlLT1ZIbUFkVmw1U3JETTBXZ0lMNzhQRUszaGhWUVlmWFk2YnExS3RnOGtSUmNXbkxEVmE0TENscnF3UnRrRnVvRXhzalJ5TDNB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "缺失的触觉：为何物理AI“能看清却摸不到” - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91Mi1BUzFyUHJyRW9ZZklUeDRaZVFvTGVyR01SNkhLYTFOR3lVQ1RMdkk0a2MteVNCZFlvYUpRbzg1bUlyWW1jTEk0d25uMHJVTWVQZHFzaTVMcjBj?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91Mi1BUzFyUHJyRW9ZZklUeDRaZVFvTGVyR01SNkhLYTFOR3lVQ1RMdkk0a2MteVNCZFlvYUpRbzg1bUlyWW1jTEk0d25uMHJVTWVQZHFzaTVMcjBj?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "微电子学院2026级AI学习启航周活动顺利开展 - 武汉纺织大学",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wdHFVZGZ4NExNUGxQOVhobnNob3J2UzVGcGdNQThxcUlIU3ExbmpYTUlUV1lyVnJ2VXR1QjVMdldVUmNoalFmZVQyaWRJcjQwVmMza1RtUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wdHFVZGZ4NExNUGxQOVhobnNob3J2UzVGcGdNQThxcUlIU3ExbmpYTUlUV1lyVnJ2VXR1QjVMdldVUmNoalFmZVQyaWRJcjQwVmMza1RtUQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "把小说“喂”给AI生成漫剧？法院：侵权！ - 天津日报",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc3FlVWRKV0p1UlpOZjZaTVo0SHZ2R2Q1T1g5OUhyS0JLQUhlcTR4ckRjbDZDZjg5eDBUNnNuLTVscWNtVXZWbFprVmN6SDZBYS1aV295UXFaQm5uQllKSk9QSUg0c0lrTE5BT0tia1gwZHNPVHVzYk51Y3FaZnBRWmxn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc3FlVWRKV0p1UlpOZjZaTVo0SHZ2R2Q1T1g5OUhyS0JLQUhlcTR4ckRjbDZDZjg5eDBUNnNuLTVscWNtVXZWbFprVmN6SDZBYS1aV295UXFaQm5uQllKSk9QSUg0c0lrTE5BT0tia1gwZHNPVHVzYk51Y3FaZnBRWmxn?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "全球媒体聚焦 | 中国在人工智能应用方面或将超越美国 - 国际在线",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ULXc3akcyLVhRVHZjRFg1U1ljaE1SNGk5Qi05SmFwTmhWWTNaVXk4T1J4ak05TXFnclZQbVVadFUwWkFhT2htclRMNGxVOFZ6YXlhY3dGc2cxc2lSb1ZvOGhfbU1NT0I1ZjZRTEJnQ25nT0hHc2dzVTRsWFM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ULXc3akcyLVhRVHZjRFg1U1ljaE1SNGk5Qi05SmFwTmhWWTNaVXk4T1J4ak05TXFnclZQbVVadFUwWkFhT2htclRMNGxVOFZ6YXlhY3dGc2cxc2lSb1ZvOGhfbU1NT0I1ZjZRTEJnQ25nT0hHc2dzVTRsWFM?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI替娃写作文！语文老师不得不出招：当堂作文，谁也别想抄 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12X0gyV0FjRE90c2IzMzVURXB6MFhPNXRLdU1hV1liNFRWNTkyVHJ1Qlk5Rk11R25JNEFVWnAxaTllbDF4ZXZENGlGWGZyNkNTTWoyS1p4ZHVkVy1HQVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12X0gyV0FjRE90c2IzMzVURXB6MFhPNXRLdU1hV1liNFRWNTkyVHJ1Qlk5Rk11R25JNEFVWnAxaTllbDF4ZXZENGlGWGZyNkNTTWoyS1p4ZHVkVy1HQVE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "总编辑圈点丨首次通过“视频图灵测试”，新AI模型在视频对话中的表现几可乱真 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00aXp3bWladUF3SDRnVUs0N3c1eE5TNHNnVDVLWjh4Q3Jwa19ZYnVGQV9wSFdFdmc2RElFYmdwT29VQlZmRE53aHhmbk5lbWJSUlR4RXlSVW9ta2V3MmdrQzFCTV9qQ0Z3a0pkWDhXM0o?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00aXp3bWladUF3SDRnVUs0N3c1eE5TNHNnVDVLWjh4Q3Jwa19ZYnVGQV9wSFdFdmc2RElFYmdwT29VQlZmRE53aHhmbk5lbWJSUlR4RXlSVW9ta2V3MmdrQzFCTV9qQ0Z3a0pkWDhXM0o?oc=5"
+    }
+  ]
+}
