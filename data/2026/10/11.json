@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-11",
+  "fetchedAt": "2026-10-11T00:54:40.901Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Tom Brown used GOP ties to broker a $1.25B/month SpaceX compute deal",
+      "url": "https://wsj.com/tech/ai/tom-brown-athropic-669005ad",
+      "score": 124,
+      "comments": 53,
+      "discuss": "https://news.ycombinator.com/item?id=50033678"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "score": 113,
+      "comments": 80,
+      "discuss": "https://news.ycombinator.com/item?id=50035886"
+    },
+    {
+      "source": "hackernews",
+      "title": "My personal AI agent posted my bank details on company Slack",
+      "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+      "score": 60,
+      "comments": 64,
+      "discuss": "https://news.ycombinator.com/item?id=50033517"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Is Throwing a Roadside Picnic",
+      "url": "https://metedata.substack.com/p/ai-is-throwing-a-roadside-picnic",
+      "score": 45,
+      "comments": 45,
+      "discuss": "https://news.ycombinator.com/item?id=50034363"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+      "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
+      "score": 40,
+      "comments": 35,
+      "discuss": "https://news.ycombinator.com/item?id=50035550"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nicolas Cage Refused to Sign Amazon AI Waiver: 'I'm Not an AI-Friendly Actor'",
+      "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
+      "score": 28,
+      "comments": 11,
+      "discuss": "https://news.ycombinator.com/item?id=50036390"
+    },
+    {
+      "source": "hackernews",
+      "title": "A Stark Warning from a Former AI Doomer",
+      "url": "https://podcasts.apple.com/us/podcast/a-stark-warning-from-a-former-ai-doomer/id1515786216?i=1000793842983",
+      "score": 11,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50037767"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI found solutions to problems in 22 scientific fields hiding in plain sight",
+      "url": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them?referrer=https%3A%2F%2Fnews.google.com%2F",
+      "score": 10,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50032811"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: A functioning Celery Man computer",
+      "url": "https://celeryman.fun/",
+      "score": 9,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50035527"
+    },
+    {
+      "source": "hackernews",
+      "title": "Is AI Killing the Value of Human Writing?",
+      "url": "https://transitions.substack.com/p/is-ai-killing-the-value-of-human",
+      "score": 7,
+      "comments": 11,
+      "discuss": "https://news.ycombinator.com/item?id=50036289"
+    },
+    {
+      "source": "hackernews",
+      "title": "Microsoft CEO Nadella Calls for 'Emergency Brake' on Advanced AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-10/microsoft-ceo-nadella-calls-for-emergency-brake-on-advanced-ai",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50038376"
+    },
+    {
+      "source": "hackernews",
+      "title": "I don't trust Lean code from AI",
+      "url": "https://karagila.org/2026/lean/",
+      "score": 6,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50036397"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: OpenWants – A Simulated City Where AI Agents Handle Residents Needs",
+      "url": "https://maplehill.openwants.com/",
+      "score": 6,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50032374"
+    },
+    {
+      "source": "hackernews",
+      "title": "Phonebox – Cloud Android phones for AI agents",
+      "url": "https://phonebox.dev/",
+      "score": 5,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50035912"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Aporium – A UMAP galaxy of 5800 philosophy excerpts in conversation",
+      "url": "https://www.aporium.app/explore",
+      "score": 4,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50038215"
+    },
+    {
+      "source": "google-news",
+      "title": "【安徽经济报】我省推出“AI造物”系列赛事 - 中国科大新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOaFI4X1V3Z0FPSktlWTYtYlV6VTVUTDRVbWt0cEI3M29HUDdSSTNrenVDNS1LVkdOQzlCdVB5eWIzNWVHOWZUTGJCVndNMnpZV1RBcU1hZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBOaFI4X1V3Z0FPSktlWTYtYlV6VTVUTDRVbWt0cEI3M29HUDdSSTNrenVDNS1LVkdOQzlCdVB5eWIzNWVHOWZUTGJCVndNMnpZV1RBcU1hZw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI生成内容不受版权约束？错！AI生成内容也有版权风险！ - 新浪新闻",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DeEVvZWZrMzVTQzlfWE1yVi1lUFhEV3Q2d3dpTmJkVXFuU0k0X295T0p4ZE1vWm9ReGlMaUwxdVFJRnNKVmlQb05tU2YtY25URWtBY3hQemV1Mk9KSU5zRVRxMm9hVU04OUwya1JWM05JZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DeEVvZWZrMzVTQzlfWE1yVi1lUFhEV3Q2d3dpTmJkVXFuU0k0X295T0p4ZE1vWm9ReGlMaUwxdVFJRnNKVmlQb05tU2YtY25URWtBY3hQemV1Mk9KSU5zRVRxMm9hVU04OUwya1JWM05JZw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "分学段划定AI“红线”，如何培养孩子不被AI替代的能力|教育新观察 - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42U1FXNWdfTUZXbXNPTTBOMTlfN3FvQkJnWWhFYkpXUGZQVXRLOGZ2UGptUG9laC1ZLVFhdXNUT3F5azF0a0tvRUlfZlRnYVBvQlZfSlM0TUFNZlNnLUE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42U1FXNWdfTUZXbXNPTTBOMTlfN3FvQkJnWWhFYkpXUGZQVXRLOGZ2UGptUG9laC1ZLVFhdXNUT3F5azF0a0tvRUlfZlRnYVBvQlZfSlM0TUFNZlNnLUE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "梁惠玲：深化“人工智能＋”政务应用 更好服务经济社会高质量发展 - 黑龙江省人民政府",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GZGY5LWFhd1I3MC1XMHRCS1Q5YXZlZDB5dDlhWFhUaDZuQXlaTkVMcnpFVmE5VkY1ZTQtelFCNnZ5cjYweFVLeUh0Ri1fclhDNENRMF9JdTYyTXlPLXZtS2gyNzhVX0dRZGhCZQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GZGY5LWFhd1I3MC1XMHRCS1Q5YXZlZDB5dDlhWFhUaDZuQXlaTkVMcnpFVmE5VkY1ZTQtelFCNnZ5cjYweFVLeUh0Ri1fclhDNENRMF9JdTYyTXlPLXZtS2gyNzhVX0dRZGhCZQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI失控+1，“Claude向警方提供假线索” - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yd21Ycm1FREZCMWpFRlJ4aVRVQktyd044MWJfMmNFczJRZEwzZWF5SnRkYjJWTmdxMThTdDNoZzgwbFZjc1dUVlI2bzNUblNwRXR3MFBxcjZ5VElzUW5SR1E1WVFFNFluU1NtM0JfVDVTcVU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yd21Ycm1FREZCMWpFRlJ4aVRVQktyd044MWJfMmNFczJRZEwzZWF5SnRkYjJWTmdxMThTdDNoZzgwbFZjc1dUVlI2bzNUblNwRXR3MFBxcjZ5VElzUW5SR1E1WVFFNFluU1NtM0JfVDVTcVU?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "标普500的平静 全靠十只股票和一个AI信仰？ - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IanB4bWVWMGxwTWtCRnZXSDZaVE95d1dGaGlrM3VlalQ4RS1CTmgxTm9takxWYXNFWkhPTUlOY0V2aXZJLVpvMjRveVZNRDdCOGFqQVBiS1BUMXdWZElRYg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IanB4bWVWMGxwTWtCRnZXSDZaVE95d1dGaGlrM3VlalQ4RS1CTmgxTm9takxWYXNFWkhPTUlOY0V2aXZJLVpvMjRveVZNRDdCOGFqQVBiS1BUMXdWZElRYg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "微软首席执行官呼吁针对先进AI建立“紧急制动”机制 - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KZnY5OUJFMkF4VGxFd0cxWHNWd3NfYTl4N0xRNGlsbk1POFIwdWNYRkRmaU04cVhhc1pCakxnc2RYUTFEWXRmdUVtUVR1dExBV3E3VW5iZmpyb3B3RnFXV0wtLUhyWWIybXc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KZnY5OUJFMkF4VGxFd0cxWHNWd3NfYTl4N0xRNGlsbk1POFIwdWNYRkRmaU04cVhhc1pCakxnc2RYUTFEWXRmdUVtUVR1dExBV3E3VW5iZmpyb3B3RnFXV0wtLUhyWWIybXc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "打造北方AI 影视产业新高地 - 天津日报",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb0ZpdHBCUHRaeG5WSk9XZk1RX2NHX0RINlJ2LU5RWWU5VUxTbXdQdzBpWFdwQ3h6STRXcjFmWjVNQ3BhN2xJdjFwSXZaVHhqeVlYQnczalpBQ2UxUXYtM19LVEhzcWpaYnRFUmlibFVTYnVyd1U2ZDFfS2RUMllFd29R?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb0ZpdHBCUHRaeG5WSk9XZk1RX2NHX0RINlJ2LU5RWWU5VUxTbXdQdzBpWFdwQ3h6STRXcjFmWjVNQ3BhN2xJdjFwSXZaVHhqeVlYQnczalpBQ2UxUXYtM19LVEhzcWpaYnRFUmlibFVTYnVyd1U2ZDFfS2RUMllFd29R?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "纽约州临床医生对人工智能工具的使用现状与趋势分析 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02X3k0ZlhuMXJibm5SSjNJdVVoTzJHNVpjVzl6Tmx5Vzk4VXd3UksyOEYzMzR3RUhEMnNJT0NSQ2FMcTMxRVc2UWc0Y1NtMkZPQUpudkp5RFViaUpIMkVyVzh2TmxDUVlETUtOSTFB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibkFVX3lxTE02X3k0ZlhuMXJibm5SSjNJdVVoTzJHNVpjVzl6Tmx5Vzk4VXd3UksyOEYzMzR3RUhEMnNJT0NSQ2FMcTMxRVc2UWc0Y1NtMkZPQUpudkp5RFViaUpIMkVyVzh2TmxDUVlETUtOSTFB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "景区商场AI拍照机暗藏哪些安全风险？ - 浙江在线",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiNWZKMXZ2SmxnUThTMXZ5cFRjblNfWFRMQjVhNkhWR0hSMzNxYklPaDlUT2VMLTVlelZZemlOYXJCQzdndFFMQjAwRmhXWHdRNHM5SjloRjNGTnZ2QkF3RklFVzdDRVFPdzJEQ2dn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiNWZKMXZ2SmxnUThTMXZ5cFRjblNfWFRMQjVhNkhWR0hSMzNxYklPaDlUT2VMLTVlelZZemlOYXJCQzdndFFMQjAwRmhXWHdRNHM5SjloRjNGTnZ2QkF3RklFVzdDRVFPdzJEQ2dn?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能赋能工程管理学术研讨会 - 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NWUtFWEE4QkthRFdpbzI1UlIwcVlKc2VMTGJ5UnJZNGpkZVZtLUJNVHVPRF95ZU5Ec2g4ck5ENWlCOG8tOF8xSVNhbW5TRFZVaGNaVjdhd3I4OGNBXzRhTEhYSzFyQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NWUtFWEE4QkthRFdpbzI1UlIwcVlKc2VMTGJ5UnJZNGpkZVZtLUJNVHVPRF95ZU5Ec2g4ck5ENWlCOG8tOF8xSVNhbW5TRFZVaGNaVjdhd3I4OGNBXzRhTEhYSzFyQQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "北斗、数字孪生、AI协同，给长沙地下管网装上“千里眼” - 华声在线",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UZnFWZ3NrMmFIcEt2d3lneEprVWRDQml0VFkwcDFfeUNfUE9WcHNpUXVLaV9uWW1JQmwwRHRUbElYNkpQdzZaTUdqVXhiUjNIMFZacV80Y2hhZGt0b3lr?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UZnFWZ3NrMmFIcEt2d3lneEprVWRDQml0VFkwcDFfeUNfUE9WcHNpUXVLaV9uWW1JQmwwRHRUbElYNkpQdzZaTUdqVXhiUjNIMFZacV80Y2hhZGt0b3lr?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "真落地的AI第八期：六位实战派同台，讲透“如何落地第一单” - 龙岗政府在线",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdWFNblh3X0d6cklEazlxSVVsUmNVdHhPbkRoUlR4S0pvR2JXU0VmWnFWZUJPZG8yVlNwNWFpMUVVZ3VhTnNJYjduNUZrVFhGTE44bldXd0hTYlRfMENYSU96RkJ2Q3pWTWlZYzNFdzhPbjZXN2dPRGRNWWROYzlUWA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdWFNblh3X0d6cklEazlxSVVsUmNVdHhPbkRoUlR4S0pvR2JXU0VmWnFWZUJPZG8yVlNwNWFpMUVVZ3VhTnNJYjduNUZrVFhGTE44bldXd0hTYlRfMENYSU96RkJ2Q3pWTWlZYzNFdzhPbjZXN2dPRGRNWWROYzlUWA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "上海交大学子赴湘创业，单人勇闯AI情感陪伴赛道！ - 新浪新闻",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmWFBwX3Z6OWVOUWpjb016MVpUUkxzdUVOaXpFVlNDazZEME9IMGdZYl8tRXhaVjduS1dsc2xfMDEyemNmY3FxRHNueU94ZThwdmlSNjNfaXhSVHc1NFNUQWwzRUZYN1V3MkZjYldKTXV5U1ZGMXc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmWFBwX3Z6OWVOUWpjb016MVpUUkxzdUVOaXpFVlNDazZEME9IMGdZYl8tRXhaVjduS1dsc2xfMDEyemNmY3FxRHNueU94ZThwdmlSNjNfaXhSVHc1NFNUQWwzRUZYN1V3MkZjYldKTXV5U1ZGMXc?oc=5"
+    }
+  ]
+}
