@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "fetchedAt": "2026-10-11T00:54:40.901Z",
+  "fetchedAt": "2026-10-11T00:59:38.698Z",
   "total": 50,
   "items": [
     {
@@ -234,6 +234,14 @@
       "score": 0,
       "comments": 0,
       "discuss": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmWFBwX3Z6OWVOUWpjb016MVpUUkxzdUVOaXpFVlNDazZEME9IMGdZYl8tRXhaVjduS1dsc2xfMDEyemNmY3FxRHNueU94ZThwdmlSNjNfaXhSVHc1NFNUQWwzRUZYN1V3MkZjYldKTXV5U1ZGMXc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "【安徽日报】我省推出“AI造物”人工智能系列赛事 - 中国科大新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41Sk5rekxwVnliQ3JaMUpaSXdaVHE5UEsya2EyU3BiUkhNVUhROF9IZ2FqZXBPWkhkRy1BOHFhbGoxZG9hNTJhUHRVdTB5emJRdG02UTZ3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41Sk5rekxwVnliQ3JaMUpaSXdaVHE5UEsya2EyU3BiUkhNVUhROF9IZ2FqZXBPWkhkRy1BOHFhbGoxZG9hNTJhUHRVdTB5emJRdG02UTZ3?oc=5"
     }
   ]
 }
