@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-12",
+  "fetchedAt": "2026-10-12T01:19:02.447Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+      "score": 82,
+      "comments": 26,
+      "discuss": "https://news.ycombinator.com/item?id=50041873"
+    },
+    {
+      "source": "hackernews",
+      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+      "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+      "score": 71,
+      "comments": 80,
+      "discuss": "https://news.ycombinator.com/item?id=50041765"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI is creating a 'human premium' for art created by people",
+      "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "score": 70,
+      "comments": 114,
+      "discuss": "https://news.ycombinator.com/item?id=50042107"
+    },
+    {
+      "source": "hackernews",
+      "title": "Recursive self-improvement through collective intelligence",
+      "url": "https://pub.sakana.ai/mass/",
+      "score": 52,
+      "comments": 20,
+      "discuss": "https://news.ycombinator.com/item?id=50048522"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Mira, AI Walking Tours",
+      "url": "https://www.mira.tours/wander",
+      "score": 16,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=50045340"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+      "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
+      "score": 13,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50047557"
+    },
+    {
+      "source": "hackernews",
+      "title": "GPT-6 Astra performs unsanctioned supply-chain attacks in simulations",
+      "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
+      "score": 13,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50042051"
+    },
+    {
+      "source": "hackernews",
+      "title": "There's No \"Going Back\": On the receding horizons of the AI transition",
+      "url": "https://thelastwave.substack.com/p/theres-no-going-back",
+      "score": 11,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50047864"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia-backed data centre firm Firmus scraps IPO as AI valuation concerns deepen",
+      "url": "https://www.bbc.com/news/articles/ck9dzpw4ll8po",
+      "score": 11,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50046896"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Shpyrd – A new type of cloud for AI era",
+      "url": "https://www.shpyrd.io",
+      "score": 7,
+      "comments": 18,
+      "discuss": "https://news.ycombinator.com/item?id=50048731"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jensen Huang thinks AI is going great",
+      "url": "https://www.nytimes.com/2026/10/07/opinion/jensen-huang-ai-tech-nvidia.html",
+      "score": 7,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50048574"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: I'm a 14-year-old building my first startup, Titan",
+      "url": "https://titan-ai.co/",
+      "score": 7,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50042240"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "url": "https://github.com/plimsollmark/plimsoll",
+      "score": 6,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50049388"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
+      "score": 6,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50049014"
+    },
+    {
+      "source": "hackernews",
+      "title": "Calculate your p[DOOM], An interactive article to think critically about AI risk",
+      "url": "https://jesserichardson78.medium.com/calculate-your-probability-of-doom-6bd18de3e0e4",
+      "score": 6,
+      "comments": 8,
+      "discuss": "https://news.ycombinator.com/item?id=50048870"
+    },
+    {
+      "source": "google-news",
+      "title": "直播预告丨人工智能重塑工程与产业论坛 - 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIa3RUd1JYVk1OSnVUZTd5VGJQMkZTUzdIT2l0czBmZmlqRlY4MndULU9VWUVRdlFtelN0R3AySTZFT3lfN1FXSVp3Y0xkZTZPdHVzX2hhR1FxeXlPSmYyLXVFNXdhUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIa3RUd1JYVk1OSnVUZTd5VGJQMkZTUzdIT2l0czBmZmlqRlY4MndULU9VWUVRdlFtelN0R3AySTZFT3lfN1FXSVp3Y0xkZTZPdHVzX2hhR1FxeXlPSmYyLXVFNXdhUQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "文化中国行·科技赋能典型案例丨三层服务体系、海量数据底座、七大AI智能体……大模型“晋问AI”带您了解三晋文化 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjTW4xeU92NnU0TjZuZ2dHbWhfNzBTcXRqaUZ0dk1vMG5LNHlnTUM5bkFiSjVfRENLZG5fVFAycUMzVmVlYzVnaHVuY1d1bHdPQURfMjN3clU4QkFwbnpsU1dCQ05ndEFMYVFSalJoSEQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjTW4xeU92NnU0TjZuZ2dHbWhfNzBTcXRqaUZ0dk1vMG5LNHlnTUM5bkFiSjVfRENLZG5fVFAycUMzVmVlYzVnaHVuY1d1bHdPQURfMjN3clU4QkFwbnpsU1dCQ05ndEFMYVFSalJoSEQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能重塑现代战争指挥保障体系 - 军网",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuYldCVVV0Ql9BeVNEekhLeUZLWHJ5ek00OXM5c2JyRDE0WWc3OHo1dzJaZTZBMmlBbnlIQWE2a09GOVVxdC1GZnljU3RwRVlRdHc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuYldCVVV0Ql9BeVNEekhLeUZLWHJ5ek00OXM5c2JyRDE0WWc3OHo1dzJaZTZBMmlBbnlIQWE2a09GOVVxdC1GZnljU3RwRVlRdHc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "丘成桐数学与人工智能实验室联盟在清华大学成立让数学家在AI浪潮中冲浪前行_公告提示_首都之窗 - 北京市人民政府门户网站",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01SmNpRjd1WU91X1ZzMGlHSHFRSmw0VHN3ZXZVQ3d4dkxTdFVzNl9nOXBHLVo1Vm00TnczWlI4R09HcGxkQ2pvbW1IY0VaUThYTDlHcHI1YUc1a2lKV3JCV2Q4XzJ1XzItQUJDZWU1NHlhdjQ4ck42Y09tOA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01SmNpRjd1WU91X1ZzMGlHSHFRSmw0VHN3ZXZVQ3d4dkxTdFVzNl9nOXBHLVo1Vm00TnczWlI4R09HcGxkQ2pvbW1IY0VaUThYTDlHcHI1YUc1a2lKV3JCV2Q4XzJ1XzItQUJDZWU1NHlhdjQ4ck42Y09tOA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "重磅文件突出强调“人工智能+”，新一代智能终端场景应用加速 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUHpvYWd4ODhVbVI5cWg2eDFBWUJydUhvR1BYRlU2Q0NEOXJXMGtwVVpBUlA5LUsyWDhFbGtLM1Q5ZEJoaWtkNmFELTQwMjVaTWJJYnVtMzRjT0Z6MDBjWEo1QW16cUJ5dzNVUHliaVJzVmdXYW8tY0Q1YjQxRkI3cU40dVFZRFVnbjMwbThiNA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUHpvYWd4ODhVbVI5cWg2eDFBWUJydUhvR1BYRlU2Q0NEOXJXMGtwVVpBUlA5LUsyWDhFbGtLM1Q5ZEJoaWtkNmFELTQwMjVaTWJJYnVtMzRjT0Z6MDBjWEo1QW16cUJ5dzNVUHliaVJzVmdXYW8tY0Q1YjQxRkI3cU40dVFZRFVnbjMwbThiNA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "视频丨从“失控入侵”到“擅自行动”，人工智能为何频频“闯祸”？|OpenAI|Agent|大模型|风险|自主 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wXy1oZmhUVktNYzI4Q0NLcUxFRVVTb0RkR3VvMVF3SE00Tml3UUR2MC1tYVlxd2tYZGhyaXBpNGRwS1U3QlpXRWt5enB6b1dxcjRBMEtOZkYtcWlEUlQ1Zm9yQmMtalNDY2JnMUwtQ3Q4UDFHTWc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wXy1oZmhUVktNYzI4Q0NLcUxFRVVTb0RkR3VvMVF3SE00Tml3UUR2MC1tYVlxd2tYZGhyaXBpNGRwS1U3QlpXRWt5enB6b1dxcjRBMEtOZkYtcWlEUlQ1Zm9yQmMtalNDY2JnMUwtQ3Q4UDFHTWc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "硕士创业把算法嵌入芯片实现离线识别 AI摄像机为铁路“站岗” - 武汉市人民政府",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrRlA5UGxBV1dUNUc2ekktUGd4TUM3Vzh6M2YyVlZSNjB5Vjl3X0RUU3BVWnVTOGhHZzVFcC1hZVRjcmdMVTZDdmU3dFNaYUpna3JPMklpdER4N21XT04za25hVjk5NlhEdmxzcC1kbTE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrRlA5UGxBV1dUNUc2ekktUGd4TUM3Vzh6M2YyVlZSNjB5Vjl3X0RUU3BVWnVTOGhHZzVFcC1hZVRjcmdMVTZDdmU3dFNaYUpna3JPMklpdER4N21XT04za25hVjk5NlhEdmxzcC1kbTE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "美国若想享受到AI的好处，离不开中国供应商 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uZnYzSEFwT0xHRF9OVl9oSjlkejM0Um5mMmZwdjVoekJiZDExcHNrQ1dhc0I5ZlloRXdpM25sWjJieWI1V0dIcXAyOWoyV0FGaWVZZmRWNDRheXJLb0NPN2Frb2E4V1FJWEhoZVJCRDUxSVk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uZnYzSEFwT0xHRF9OVl9oSjlkejM0Um5mMmZwdjVoekJiZDExcHNrQ1dhc0I5ZlloRXdpM25sWjJieWI1V0dIcXAyOWoyV0FGaWVZZmRWNDRheXJLb0NPN2Frb2E4V1FJWEhoZVJCRDUxSVk?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI微短剧《铁记得》第五集 - 中华人民共和国国防部",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fOUVpUVVHVjhUb3lJeHNpY2FCb0dROHk1TkpPeVRxTV9TRFFqSmtqRTZQekhzMTItdU9GZjM4WkVVSEdFRjBYc1BFLXJ4Vm5jVlRaQ2lmUzVZVWxocUZ6aFV3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fOUVpUVVHVjhUb3lJeHNpY2FCb0dROHk1TkpPeVRxTV9TRFFqSmtqRTZQekhzMTItdU9GZjM4WkVVSEdFRjBYc1BFLXJ4Vm5jVlRaQ2lmUzVZVWxocUZ6aFV3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "财经早知道｜事关人工智能等新质生产力，国务院发布重磅文件 - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ra29EVmdIQXlPcDNVR0NCcWNnM21fT1BoZUUyRFZKYVh5eVp3YXZCM0xXbi1QdkZEU0ExTWVYVlJoNU5PclQxcDBieWlCR0VsblB4X3VGd1d4RXlsdWsxYWV3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ra29EVmdIQXlPcDNVR0NCcWNnM21fT1BoZUUyRFZKYVh5eVp3YXZCM0xXbi1QdkZEU0ExTWVYVlJoNU5PclQxcDBieWlCR0VsblB4X3VGd1d4RXlsdWsxYWV3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "【科创之声】AI大战数学家，谁是赢家 - 中国经济网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pZWQzU1VDREd1bkFobG9BejdwNDZDQlVVcDBpMUwxN3JKQ3IxU29XWFUtR2paNEtlQnpTeW9oTlgwTURIYnBFbk9LdGlPSkE2WVo5MDdscmxJYXFWNEZR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pZWQzU1VDREd1bkFobG9BejdwNDZDQlVVcDBpMUwxN3JKQ3IxU29XWFUtR2paNEtlQnpTeW9oTlgwTURIYnBFbk9LdGlPSkE2WVo5MDdscmxJYXFWNEZR?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "英伟达据悉洽谈追加投资或收购AI初创公司Reflection AI - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yRDY0LTBNQ0tCSjlwUVE1S1dLQ2FGZDhKUlJVazlINURJQTllMjNreUg3dHBpTGdLMmRNZkJMaGk1OFlrNzJRd19OeENQcWtzVzRwaVktcGdjNEFlOUt6QVptNF93QQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8yRDY0LTBNQ0tCSjlwUVE1S1dLQ2FGZDhKUlJVazlINURJQTllMjNreUg3dHBpTGdLMmRNZkJMaGk1OFlrNzJRd19OeENQcWtzVzRwaVktcGdjNEFlOUt6QVptNF93QQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "丘成桐数学与人工智能实验室联盟在清华大学成立 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YVnp0OXVCR0pkVTduSl92UHJqRVBuTzNtS1AyckpCbFNGOVY5MHpFaFlCcnl3VE5BZnZ5TnR3WkRsay1KanNOa3dLSGJ3Z1FTV3lYSGMwYzhZSXJTb2pUWA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YVnp0OXVCR0pkVTduSl92UHJqRVBuTzNtS1AyckpCbFNGOVY5MHpFaFlCcnl3VE5BZnZ5TnR3WkRsay1KanNOa3dLSGJ3Z1FTV3lYSGMwYzhZSXJTb2pUWA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "有了AI，人的科研能力是否会退化：来自一线的讨论 - 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rbG13YmdPYUlEQVJ2VWRicTE1dndVd0JZV3FPZXZGNlY0Ymg3Vk9XZEFrSUpvZDBVQXFWNzBZcDBGaVZBSHJ2djhoa0NDbWZBdy1UNTZFZUlNb0NqX2RkR1V4Y1h1QQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rbG13YmdPYUlEQVJ2VWRicTE1dndVd0JZV3FPZXZGNlY0Ymg3Vk9XZEFrSUpvZDBVQXFWNzBZcDBGaVZBSHJ2djhoa0NDbWZBdy1UNTZFZUlNb0NqX2RkR1V4Y1h1QQ?oc=5"
+    }
+  ]
+}
