@@ -1,0 +1,411 @@
+{
+  "date": "2026-10-13",
+  "fetchedAt": "2026-10-13T03:02:25.832Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "score": 251,
+      "comments": 218,
+      "discuss": "https://news.ycombinator.com/item?id=50063427"
+    },
+    {
+      "source": "hackernews",
+      "title": "'AI' Is Not a Tool by Rich Hickey",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "score": 232,
+      "comments": 116,
+      "discuss": "https://news.ycombinator.com/item?id=50060269"
+    },
+    {
+      "source": "hackernews",
+      "title": "OpenFatigue™ – Open is the new closed",
+      "url": "https://openfatigue.ai/",
+      "score": 202,
+      "comments": 46,
+      "discuss": "https://news.ycombinator.com/item?id=50061278"
+    },
+    {
+      "source": "hackernews",
+      "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+      "score": 129,
+      "comments": 83,
+      "discuss": "https://news.ycombinator.com/item?id=50064318"
+    },
+    {
+      "source": "hackernews",
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "score": 92,
+      "comments": 36,
+      "discuss": "https://news.ycombinator.com/item?id=50063365"
+    },
+    {
+      "source": "hackernews",
+      "title": "Epic Games tells employees to use AI to get Disney game done",
+      "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+      "score": 78,
+      "comments": 62,
+      "discuss": "https://news.ycombinator.com/item?id=50062237"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI models may be capable of self-replicating without access to a datacenter",
+      "url": "https://www.anthropic.com/research/self-replicating-ai",
+      "score": 78,
+      "comments": 95,
+      "discuss": "https://news.ycombinator.com/item?id=50061603"
+    },
+    {
+      "source": "hackernews",
+      "title": "\"Today we're laying off a large part of the Airtable team \"",
+      "url": "https://twitter.com/fedesimio/status/2109713695165329511",
+      "score": 39,
+      "comments": 15,
+      "discuss": "https://news.ycombinator.com/item?id=50062076"
+    },
+    {
+      "source": "hackernews",
+      "title": "The CEO's of Broadcom and Intel Say the Quiet Part Out Loud about AI and ROI",
+      "url": "https://wolfstreet.com/2026/10/12/ceos-of-broadcom-intel-say-the-quiet-part-out-loud-about-ai-and-roi/",
+      "score": 20,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=50063707"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Is Making Us Dumber – Unless We Fight Back",
+      "url": "https://baromae.blogspot.com/2026/10/can-ai-really-make-us-smarter-what_01666148514.html",
+      "score": 11,
+      "comments": 12,
+      "discuss": "https://news.ycombinator.com/item?id=50063349"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Plays Slay the Spire",
+      "url": "https://ai-plays-slay-the-spire.com/",
+      "score": 11,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50059762"
+    },
+    {
+      "source": "hackernews",
+      "title": "SpaceXSI: Unified plans across Grok, Cursor, and X Premium",
+      "url": "https://x.ai/pricing",
+      "score": 10,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50064808"
+    },
+    {
+      "source": "hackernews",
+      "title": "Phishing emails are now baiting your AI assistant",
+      "url": "https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant",
+      "score": 10,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50061773"
+    },
+    {
+      "source": "hackernews",
+      "title": "Epic Games Delays Disney Project, Asks Developers to Use More AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-12/epic-games-delays-disney-project-asks-developers-to-use-more-ai",
+      "score": 10,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50061195"
+    },
+    {
+      "source": "hackernews",
+      "title": "What it felt like when I was interviewed by an AI assistant",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/13/dystopian-and-dehumanising-thats-what-it-felt-like-when-i-was-interviewed-by-an-ai-assistant",
+      "score": 9,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50064758"
+    },
+    {
+      "source": "arxiv",
+      "title": "Can Language Models Play the Wikipedia Game?",
+      "url": "http://arxiv.org/abs/2610.13948v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Alexander Hickey, Joanna Knight, James Bishop",
+      "discuss": "http://arxiv.org/abs/2610.13948v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+      "url": "http://arxiv.org/abs/2610.13935v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Bhanu Tokas, Rahul Nair, Rockwell Jackson",
+      "discuss": "http://arxiv.org/abs/2610.13935v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+      "url": "http://arxiv.org/abs/2610.13931v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Kosio Beshkov",
+      "discuss": "http://arxiv.org/abs/2610.13931v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "http://arxiv.org/abs/2610.13928v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Andis Draguns, Sumeet Ramesh Motwani, Raymond Douglas",
+      "discuss": "http://arxiv.org/abs/2610.13928v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+      "url": "http://arxiv.org/abs/2610.13924v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Tianyi Wu",
+      "discuss": "http://arxiv.org/abs/2610.13924v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2610.13923v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Sajjad Baghaeea, Aimin Lib, Shanmugarajan Balasubramanian",
+      "discuss": "http://arxiv.org/abs/2610.13923v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+      "url": "http://arxiv.org/abs/2610.13918v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Daniel Szelogowski",
+      "discuss": "http://arxiv.org/abs/2610.13918v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Designing Protein Structures from Natural Language",
+      "url": "http://arxiv.org/abs/2610.13917v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Joseph Lee, Yanjing Li, Bo Qiang",
+      "discuss": "http://arxiv.org/abs/2610.13917v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+      "url": "http://arxiv.org/abs/2610.13912v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Taoyong Cui, Pinxian Zeng, Wanghan Xu",
+      "discuss": "http://arxiv.org/abs/2610.13912v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
+      "url": "http://arxiv.org/abs/2610.13910v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Shubh Garg, Chen Shani",
+      "discuss": "http://arxiv.org/abs/2610.13910v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
+      "url": "http://arxiv.org/abs/2610.13909v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Danil Rudenko, Georgii Bulgakov, Nikolay Kartashev",
+      "discuss": "http://arxiv.org/abs/2610.13909v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Hitting-Time Bounds for Asynchronous Q-Learning",
+      "url": "http://arxiv.org/abs/2610.13901v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yang Peng",
+      "discuss": "http://arxiv.org/abs/2610.13901v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Structural Automata for Neural Semantic Parsing",
+      "url": "http://arxiv.org/abs/2610.13896v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Xiao Zhang",
+      "discuss": "http://arxiv.org/abs/2610.13896v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Task Context Shapes Component Roles in Language Models",
+      "url": "http://arxiv.org/abs/2610.13895v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Sovesh Mohapatra, Dani S Bassett",
+      "discuss": "http://arxiv.org/abs/2610.13895v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
+      "url": "http://arxiv.org/abs/2610.13889v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Weiliang Chen, Song Liao",
+      "discuss": "http://arxiv.org/abs/2610.13889v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+      "url": "http://arxiv.org/abs/2610.13886v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yeonsung Jung, Zhiyuan Wang, Zifan Wang",
+      "discuss": "http://arxiv.org/abs/2610.13886v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Prediction Is Not a Sufficient Memory State",
+      "url": "http://arxiv.org/abs/2610.13881v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Robert Jenkinson Alvarez",
+      "discuss": "http://arxiv.org/abs/2610.13881v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Partially Informed Stochastic Optimization via Zeroth-Order Residual Tracking",
+      "url": "http://arxiv.org/abs/2610.13871v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "El Mahdi Chayti, Alireza Mirrokni, Martin Jaggi",
+      "discuss": "http://arxiv.org/abs/2610.13871v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Finite-Sample Guarantees for Fully Discrete Conditional Diffusion Models",
+      "url": "http://arxiv.org/abs/2610.13851v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Qiuyun Zhu",
+      "discuss": "http://arxiv.org/abs/2610.13851v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Inference-Time Steering Across Scaffolds and Epitopes for Sample-Efficient De Novo Nanobody Design",
+      "url": "http://arxiv.org/abs/2610.13844v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Mason Minot, Simon Friedensohn, Cédric R. Weber",
+      "discuss": "http://arxiv.org/abs/2610.13844v1"
+    },
+    {
+      "source": "google-news",
+      "title": "AI“越界”？国际社会探索设立“护栏”（环球热点） --国际 - 人民网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sdTU3cnVBaTU5VWJLeHNaNi10QVNMcWJkaUM5bU5CS1FSVW42VWpRLUJucWc2bFN6N0VSVnRNTHR4T2VlYllZT1VrLS1Zc0RDWVFiT0tESTB3T21jX2xMNVljZmhXOXJtc0Fmbg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sdTU3cnVBaTU5VWJLeHNaNi10QVNMcWJkaUM5bU5CS1FSVW42VWpRLUJucWc2bFN6N0VSVnRNTHR4T2VlYllZT1VrLS1Zc0RDWVFiT0tESTB3T21jX2xMNVljZmhXOXJtc0Fmbg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能时代，搞科研的“远虑”与“近忧” - 求是",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0YktqRVcyOExqUHZGTndVYnI5bmpXZWpQUE1mbDNjcGtKdURHY3l0VEJOMHd2R0c1TWdWT3dPQW1XQ0MzN0FucFZ5bjFiV3hzVXRFcGRsLUpsc3liR3FRa3RuSVBySnlxM3hLWUtrME9oaHBxMURkZ2V1V0U?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0YktqRVcyOExqUHZGTndVYnI5bmpXZWpQUE1mbDNjcGtKdURHY3l0VEJOMHd2R0c1TWdWT3dPQW1XQ0MzN0FucFZ5bjFiV3hzVXRFcGRsLUpsc3liR3FRa3RuSVBySnlxM3hLWUtrME9oaHBxMURkZ2V1V0U?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "（活力中国）南宁“数字水闸”：中国AI从这里流向东盟 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0QlZsQndHUENiRlphdVNORmZQcHZTMWRtZ0hDbGJCNUdIeGhEN1lKMVR6Zkk4NFF4SUlHOGpZRmg1TDdLTUdocUJSWHRsWEJhY0VTZHM1RC1BRl9vVVlNM2NsZFo3YTM0QU5pdkJDd2dRSFUwSXhqQmNyZDk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0QlZsQndHUENiRlphdVNORmZQcHZTMWRtZ0hDbGJCNUdIeGhEN1lKMVR6Zkk4NFF4SUlHOGpZRmg1TDdLTUdocUJSWHRsWEJhY0VTZHM1RC1BRl9vVVlNM2NsZFo3YTM0QU5pdkJDd2dRSFUwSXhqQmNyZDk?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "比尔·盖茨再发警告！AI安全进入刚需期 融资客提前布局这些股(名单) - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jd1ZyMThJMTJ2ZF9SRDdjeW94bzVtV2ViRkNqREJFbUMyZzlLSFpDNFpLTGdEdC0zdnRIVnZZZV9Va2NBc3lPRXJKQ3duOHUtWXlyS3RkZjJvT2RjZ2JYQg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jd1ZyMThJMTJ2ZF9SRDdjeW94bzVtV2ViRkNqREJFbUMyZzlLSFpDNFpLTGdEdC0zdnRIVnZZZV9Va2NBc3lPRXJKQ3duOHUtWXlyS3RkZjJvT2RjZ2JYQg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“智”胜未来|“AI秒检” 赋能化纤产业智造升级 - 苏州新闻",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vb3Q2THBnX29xWFdiUU90bTBOXzUwTlFZQ2xqSnVGN0dBRHJlR3o3NGxVYzFTWHBWb3MzNTNqMWxoOEtGOXRubDBlLUJXT1pNR1pCbzhzaHBpdUQ2MURMS0xn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vb3Q2THBnX29xWFdiUU90bTBOXzUwTlFZQ2xqSnVGN0dBRHJlR3o3NGxVYzFTWHBWb3MzNTNqMWxoOEtGOXRubDBlLUJXT1pNR1pCbzhzaHBpdUQ2MURMS0xn?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "赓续场景实践、智创AI新图景！青岛市人工智能场景创新联盟2026年度大会召开 - 青岛日报",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBeThGZFNWSkZnZ3pFa3NOMXdPYy0yeDZ4MzJid3lNTXlvNjN5bmlvbnJzYTdhTy1XSkl6R3c4SVM4TmtDVUU0UWFfQzR3SDJTc29QOTI1Wk0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBeThGZFNWSkZnZ3pFa3NOMXdPYy0yeDZ4MzJid3lNTXlvNjN5bmlvbnJzYTdhTy1XSkl6R3c4SVM4TmtDVUU0UWFfQzR3SDJTc29QOTI1Wk0?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "活力中国调研行丨人工智能应用“出海”东盟市场 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQzNyd1lqbjlSdXZIRTh6ejZFYTNrNDdCMWY1YkNIaXVfMnBMSnlMSWVINGJPQUNpRnlldU90bnhBV3BuN2R6UkxvbHhTbWRoTWVpdHB2a1hZTVkxc3AtS1ZjOHZyNFZkakRZZnJxR01rMkliaEJ3Y19QREtKV3hBb1hR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQzNyd1lqbjlSdXZIRTh6ejZFYTNrNDdCMWY1YkNIaXVfMnBMSnlMSWVINGJPQUNpRnlldU90bnhBV3BuN2R6UkxvbHhTbWRoTWVpdHB2a1hZTVkxc3AtS1ZjOHZyNFZkakRZZnJxR01rMkliaEJ3Y19QREtKV3hBb1hR?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“我在雄安上‘AI大学’” - 人民雄安网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ScE1DMDRSNTBwR0FwMWo5OFlTMmpvNXdrakZZRktSMXZibE9QMnVhZTlhSXg2VGY5VTk0bDdGeTl3YzVZYVd3dlZBcmdFQ2lwelFqX2t2dVpGd09DMEtGSm1wUFF6bGx4QVNB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ScE1DMDRSNTBwR0FwMWo5OFlTMmpvNXdrakZZRktSMXZibE9QMnVhZTlhSXg2VGY5VTk0bDdGeTl3YzVZYVd3dlZBcmdFQ2lwelFqX2t2dVpGd09DMEtGSm1wUFF6bGx4QVNB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Anthropic发布研究报告称部分AI模型数月内或具备自我复制能力 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhZVlfOWtrTzRkbGc4V2ZKeGhfYVJLMVBzNWpKT0hTSUwtWV9hUWViTFNXVnFBNDcyc21PaWd3dFV1Z1BvMjJvTXhQOE9sTVhqcEh5aHI0QXhNQU8xUEsxWDdR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhZVlfOWtrTzRkbGc4V2ZKeGhfYVJLMVBzNWpKT0hTSUwtWV9hUWViTFNXVnFBNDcyc21PaWd3dFV1Z1BvMjJvTXhQOE9sTVhqcEh5aHI0QXhNQU8xUEsxWDdR?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Meta推出前沿级Muse Wonder模型，AI大模型迭代速度加快丨盘前线索 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeloxS04yU1FLaDRaTlZnYzgtdjFqNFUtVWpHdUlmRnBCSHNjREdsZEhsX0dlRXQ5WnU2bGI5c1dLZFg0Z3loaG9Xb3dULURQZXVETnNmQmRZbUxwUEtuOGt2LTMtVHBqbXcwb1Vic1lqRHhWUjJPc3VvZ2VGRDFrN2hHdll6S2FZRk1wTTdzMA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeloxS04yU1FLaDRaTlZnYzgtdjFqNFUtVWpHdUlmRnBCSHNjREdsZEhsX0dlRXQ5WnU2bGI5c1dLZFg0Z3loaG9Xb3dULURQZXVETnNmQmRZbUxwUEtuOGt2LTMtVHBqbXcwb1Vic1lqRHhWUjJPc3VvZ2VGRDFrN2hHdll6S2FZRk1wTTdzMA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "美中都表示要监管“超级智能”，但道路不同 - 美国之音",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTDZORGpocW95bHFFZnp3bjdBNnAtX0hpNy16RDhoa21OYzZIX1VEZVF3VFNaTVJCTXFSNHM5dTRJNDV4NEZWRU9rZkp0WnlNb1EtVHFsZkhkdVYxdEJLb1JUQlRzbG1NT2hRNExGck5qdFJwS1dRNEdGN2VEQlNIZklJN19qQVMxQ2FqVS04dXg3NWNZYVNXWV9TaFV4YjVVbTRxYWdNMWRLVjMwWWdiYUNRQXNncTJxbFBCUzFmU1I0Tml6N1VN0gHHAUFVX3lxTE1MNk5Eamhxb3lscUVmenduN0E2cC1fSGk3LXpEOGhrbU5jNkhfVURlUXdUU1pNUkJNcVI0czl1NEk0NXg0RlZFT2tmSnRaeU1vUS1UcWxmSGR1VjF0QktvUlRCVHNsbU1PaFE0TEZyTmp0UnBLV1E0R0Y3ZURCU0hmSUk3X2pBUzFDYWpVLTh1eDc1Y1lhU1dZX1NoVXhiNVVtNHFhZ00xZEtWMzBZZ2JhQ1FBc2dxMnFsUEJTMWZTUjROaXo3VU0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTDZORGpocW95bHFFZnp3bjdBNnAtX0hpNy16RDhoa21OYzZIX1VEZVF3VFNaTVJCTXFSNHM5dTRJNDV4NEZWRU9rZkp0WnlNb1EtVHFsZkhkdVYxdEJLb1JUQlRzbG1NT2hRNExGck5qdFJwS1dRNEdGN2VEQlNIZklJN19qQVMxQ2FqVS04dXg3NWNZYVNXWV9TaFV4YjVVbTRxYWdNMWRLVjMwWWdiYUNRQXNncTJxbFBCUzFmU1I0Tml6N1VN0gHHAUFVX3lxTE1MNk5Eamhxb3lscUVmenduN0E2cC1fSGk3LXpEOGhrbU5jNkhfVURlUXdUU1pNUkJNcVI0czl1NEk0NXg0RlZFT2tmSnRaeU1vUS1UcWxmSGR1VjF0QktvUlRCVHNsbU1PaFE0TEZyTmp0UnBLV1E0R0Y3ZURCU0hmSUk3X2pBUzFDYWpVLTh1eDc1Y1lhU1dZX1NoVXhiNVVtNHFhZ00xZEtWMzBZZ2JhQ1FBc2dxMnFsUEJTMWZTUjROaXo3VU0?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI浪潮下：有人真赚到，有人被“收割” - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnOEYwQW5ZVXg0NHlhbS1jeEFIOWFJcnFNbE0yUmwzVC1PMlB1UjdKRURJV0tRQjFYRHFYcEJUTnktQWtsUm1EcVN6MUtsM1poQXNBZFRqMFc5TzBEdzhOd21ldWp1SjJy?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnOEYwQW5ZVXg0NHlhbS1jeEFIOWFJcnFNbE0yUmwzVC1PMlB1UjdKRURJV0tRQjFYRHFYcEJUTnktQWtsUm1EcVN6MUtsM1poQXNBZFRqMFc5TzBEdzhOd21ldWp1SjJy?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "擅长数学的AI，能否成为“解密高手” - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BYVBjNk9rTTN0Qmsxd1U5c2ZlYVN3b19XMmNRVTdTRkpNeS0yZW9Vc2szZGtQVnlMRlJJdmFfM01FajJQSmdrMkowaDZGU0ZDVFFnc0poemhHYXpsRTU3b01TT3VEY29xYVlISTNfYWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BYVBjNk9rTTN0Qmsxd1U5c2ZlYVN3b19XMmNRVTdTRkpNeS0yZW9Vc2szZGtQVnlMRlJJdmFfM01FajJQSmdrMkowaDZGU0ZDVFFnc0poemhHYXpsRTU3b01TT3VEY29xYVlISTNfYWQ?oc=5"
+    }
+  ]
+}
