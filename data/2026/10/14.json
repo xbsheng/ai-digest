@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-14",
+  "fetchedAt": "2026-10-14T01:12:26.867Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+      "score": 243,
+      "comments": 146,
+      "discuss": "https://news.ycombinator.com/item?id=50073221"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "score": 42,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=50077619"
+    },
+    {
+      "source": "hackernews",
+      "title": "Scientists wonder: Is my AI stealing my ideas?",
+      "url": "https://www.scientificamerican.com/article/scientists-worry-ai-is-stealing-their-ideas/",
+      "score": 41,
+      "comments": 23,
+      "discuss": "https://news.ycombinator.com/item?id=50073926"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "score": 33,
+      "comments": 23,
+      "discuss": "https://news.ycombinator.com/item?id=50080275"
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
+      "url": "https://news.ycombinator.com/item?id=50073471",
+      "score": 33,
+      "comments": 16,
+      "discuss": "https://news.ycombinator.com/item?id=50073471"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Deslop – Oxlint rules for AI-generated TypeScript",
+      "url": "https://github.com/maharshi365/deslop",
+      "score": 25,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=50075809"
+    },
+    {
+      "source": "hackernews",
+      "title": "Palantir CTO:Some AI researchers taking up smoking;they expect AI to cure cancer",
+      "url": "https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10",
+      "score": 10,
+      "comments": 11,
+      "discuss": "https://news.ycombinator.com/item?id=50073279"
+    },
+    {
+      "source": "hackernews",
+      "title": "Kroger to lay off 3k corporate employees over 3 years as it leans into AI",
+      "url": "https://apnews.com/article/kroger-layoffs-grocery-job-cuts-30f0a5d88377e9969ce8994644e14498",
+      "score": 9,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50074766"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Agor, multiplayer AI – stop running agents alone",
+      "url": "https://github.com/preset-io/agor",
+      "score": 9,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50073109"
+    },
+    {
+      "source": "hackernews",
+      "title": "What we learned from building 1M+ cloud agents",
+      "url": "https://unreallabs.ai/blog/what-we-learned-from-building-cloud-agents/",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50074722"
+    },
+    {
+      "source": "hackernews",
+      "title": "ChatGPT and 18 = Chat18GPT",
+      "url": "https://news.ycombinator.com/item?id=50076748",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50076748"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: How do you review code nowadays?",
+      "url": "https://news.ycombinator.com/item?id=50076575",
+      "score": 6,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=50076575"
+    },
+    {
+      "source": "hackernews",
+      "title": "Linus Torvalds is using AI to develop Linux kernel code now",
+      "url": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
+      "score": 6,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50075926"
+    },
+    {
+      "source": "hackernews",
+      "title": "Chinese cheap LLMs could trigger trillion-dollar AI infrastructure reset",
+      "url": "https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50074453"
+    },
+    {
+      "source": "google-news",
+      "title": "IDC首发《中国AI安全技术发展路线图，2026》：23项AI安全技术加速落地，智能体安全成为核心战场 - IDC | Trusted Tech Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOa25faWU2RGl6NGYtdjd4d1hwS1pDZFhyeVNSa0VkWk5RdTVLZEZnc0REbXVuVFNkSk1yc3lxZ1AtMDBwb0VLeUVvTGN0eFU0ZENRbDJmWXBRNkFYcy1fVFZ5ZnhpQkI5VGVNUXM2Zk01NVp1cWFwanJFaDlUZmxNTmlVbndVNmIzb1hYWUNpaXhVRjAxNVZhQlJQZFFLVzRrNktKMVJFMmdlYkM0V2ZHd1owcFBYbk03Vnp3b3NvZko4WTNDalVMc1dYMkY1VjZ2ZzZIb3EtRDN6V3N3WkM5R2JQVjNKT1NOd21jY0lxLXRENFZfdV95VmE1eFlHVUNxTVJ2U0xfSF80QnhZU0YtcGJwbjZlaUtBbXJveHZEeEVsRElKdFlyYTBaYzItVTJRS1d5VmNycHA1R3RtVGlPUWZTQUdJNVlvdndUbGduT1dIX0EyMkE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOa25faWU2RGl6NGYtdjd4d1hwS1pDZFhyeVNSa0VkWk5RdTVLZEZnc0REbXVuVFNkSk1yc3lxZ1AtMDBwb0VLeUVvTGN0eFU0ZENRbDJmWXBRNkFYcy1fVFZ5ZnhpQkI5VGVNUXM2Zk01NVp1cWFwanJFaDlUZmxNTmlVbndVNmIzb1hYWUNpaXhVRjAxNVZhQlJQZFFLVzRrNktKMVJFMmdlYkM0V2ZHd1owcFBYbk03Vnp3b3NvZko4WTNDalVMc1dYMkY1VjZ2ZzZIb3EtRDN6V3N3WkM5R2JQVjNKT1NOd21jY0lxLXRENFZfdV95VmE1eFlHVUNxTVJ2U0xfSF80QnhZU0YtcGJwbjZlaUtBbXJveHZEeEVsRElKdFlyYTBaYzItVTJRS1d5VmNycHA1R3RtVGlPUWZTQUdJNVlvdndUbGduT1dIX0EyMkE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "全力以赴抓发展|AI赋能·一人公司 - 威海新闻网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yRlItWmlBT1FoSTFuRWJVc01RR3JEVzEzYnlzS3FfYW1rS21tSkFHd3BZdHZIbFoyTTI0UzlJTHh5eG4xd20zUjFEMjgzSTlpQjBETGRNSk81QTVpRlEwQm1SNF9ETTVka2dKQ21Zaw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yRlItWmlBT1FoSTFuRWJVc01RR3JEVzEzYnlzS3FfYW1rS21tSkFHd3BZdHZIbFoyTTI0UzlJTHh5eG4xd20zUjFEMjgzSTlpQjBETGRNSk81QTVpRlEwQm1SNF9ETTVka2dKQ21Zaw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能重塑软件业竞争格局 - 中国经济网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WaGczME9pNXQxWEV4QTVDM0JOM2pNeDF3T3oyTGJYanVhZjBsU0R6cENvOEhCRFFyZ19qTWpGSFB0amZjMWgtVUQtS3YyZl93cDVGdnI5Ym5HTHVZT0E0eC1EbEFkTllaR24ydHJpSQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WaGczME9pNXQxWEV4QTVDM0JOM2pNeDF3T3oyTGJYanVhZjBsU0R6cENvOEhCRFFyZ19qTWpGSFB0amZjMWgtVUQtS3YyZl93cDVGdnI5Ym5HTHVZT0E0eC1EbEFkTllaR24ydHJpSQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "研究发现：用10分钟AI，人类专注力就打折 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RbENLOXN5NGd3aWRHaGdqaEpIcFNQYV9aNHRsMVJ2Z2wwV19LWTl5NmJVdkVGWUFvcVl1a3NYamV5QUZ0R0l5ajR2MlJGaVFYOEI5dzZHVlkzVjFPcC1VYQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RbENLOXN5NGd3aWRHaGdqaEpIcFNQYV9aNHRsMVJ2Z2wwV19LWTl5NmJVdkVGWUFvcVl1a3NYamV5QUZ0R0l5ajR2MlJGaVFYOEI5dzZHVlkzVjFPcC1VYQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI独角兽Character.AI申请破产保护 高昂开发成本与诉讼压力夹击 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lSFlvMFdNY21YaGI1a3NJX1hzV3JQa1pOOERMcGcxLS1RcG9vY0M0dHJGd2hhRFpGWEFNRmJuMnJWQzVQN0V0T3JuaGFVOGZRZTd1YlBrOWtWaEE3eHVHTA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lSFlvMFdNY21YaGI1a3NJX1hzV3JQa1pOOERMcGcxLS1RcG9vY0M0dHJGd2hhRFpGWEFNRmJuMnJWQzVQN0V0T3JuaGFVOGZRZTd1YlBrOWtWaEE3eHVHTA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“我在雄安上‘AI大学’” - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GVHV4eG5aSWhaNzlJeHJiV0NKZXdQWGktX2RGMTJLcWlMT1d1ZzFoZ0NPSGh2SlMwOU9LeGtIQ1g4Sl9HQjRZZXRPeF94d0lQdlhFSDNodUVtTFFPdEtSd3cyZ2VHUzF1ajVKNFNkV1ZIUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GVHV4eG5aSWhaNzlJeHJiV0NKZXdQWGktX2RGMTJLcWlMT1d1ZzFoZ0NPSGh2SlMwOU9LeGtIQ1g4Sl9HQjRZZXRPeF94d0lQdlhFSDNodUVtTFFPdEtSd3cyZ2VHUzF1ajVKNFNkV1ZIUQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "腾讯发债逾57亿美元，为AI投资扩张筹集资金 - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OOTBrTkhvNXBBalVzNnJfWGpERF9EVmQ0WjlKQVZudXNKX2E3WndyT0VfME4xM3p6ODB5MkowT2k4QmFaNUpIcHpKSlJ3c0V6Q2l3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9OOTBrTkhvNXBBalVzNnJfWGpERF9EVmQ0WjlKQVZudXNKX2E3WndyT0VfME4xM3p6ODB5MkowT2k4QmFaNUpIcHpKSlJ3c0V6Q2l3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能应用“出海”东盟市场 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNHhJa0lweWZEZHRHODNGaW9HSzlPblZqSllqZEc4ZGVNMl8xQ212ZlJXQjJVOHBoTG5zSmpwbkV3UHFsWE8wczRmY0MxbURXcHdHZTE0N1lBMUxUalR1d3JiQms3NGdvbDZ6djdqX3gwdGxuSzNzVXo4SnJMZXRPU2hR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNHhJa0lweWZEZHRHODNGaW9HSzlPblZqSllqZEc4ZGVNMl8xQ212ZlJXQjJVOHBoTG5zSmpwbkV3UHFsWE8wczRmY0MxbURXcHdHZTE0N1lBMUxUalR1d3JiQms3NGdvbDZ6djdqX3gwdGxuSzNzVXo4SnJMZXRPU2hR?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "深圳发布AI眼镜、鸿蒙产业应用等标准体系实施路线图 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oS3laVnBRNEVPQVNRcFBUZXFVWmhoVk5peU5CbGwwSUFmUnFBV0xoSUVTTExsc2J2MWFDYkRSREtoMjBBQ3dDampCaEVOay1ha0JtM1FfZDhtTFg2S0N1ZEZR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oS3laVnBRNEVPQVNRcFBUZXFVWmhoVk5peU5CbGwwSUFmUnFBV0xoSUVTTExsc2J2MWFDYkRSREtoMjBBQ3dDampCaEVOay1ha0JtM1FfZDhtTFg2S0N1ZEZR?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "风向标·小海豹研究所| 会聊天的AI遍地都是，会干活的AI为什么在山东？_山东新闻 - 大众网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuMTNNN2xidXJZNzZoeWc5amQza2hPdk9hdnRKU2dvWjh3WDRnWDRpY3k3bHlqZW5VTW5sb3JYSlYtWUpWUTVLUzhZR0c1N1V0OTN1THMzTUNOU3VDNUd3RTlOdDN0SDI2?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuMTNNN2xidXJZNzZoeWc5amQza2hPdk9hdnRKU2dvWjh3WDRnWDRpY3k3bHlqZW5VTW5sb3JYSlYtWUpWUTVLUzhZR0c1N1V0OTN1THMzTUNOU3VDNUd3RTlOdDN0SDI2?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "上海开放大学打造全民AI通识教育新图景 - 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sWU5LbWRIek4xRnZadnlIVDgyU0NWMS0wX0Jla1VOdHdWWGxiX2FTM2pSLUVCdzh3QXhjZ25PLUJiNVdLOEJ1WFhKWTNPejZBalJ2UWpheVZrTlFkTFJSWnZfbUpuQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sWU5LbWRIek4xRnZadnlIVDgyU0NWMS0wX0Jla1VOdHdWWGxiX2FTM2pSLUVCdzh3QXhjZ25PLUJiNVdLOEJ1WFhKWTNPejZBalJ2UWpheVZrTlFkTFJSWnZfbUpuQQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "百分百AI创作，挑战了什么？ - 天津日报",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUtQNUdkWS1GUThIMEZDbnRWT1BRaEFVaU50YkE5X2pmUUZrMTV2UmQtVHR0QnNMXy1HU0tiamEta1JzNVlLQ3BkZ1Q4THgzSkEyeW5xUDRrVGt1TnEwYmhhNUFmS1YzemEyUWwxUURXVDg4YWI3SjZsQjhwZXIxZUFB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYUtQNUdkWS1GUThIMEZDbnRWT1BRaEFVaU50YkE5X2pmUUZrMTV2UmQtVHR0QnNMXy1HU0tiamEta1JzNVlLQ3BkZ1Q4THgzSkEyeW5xUDRrVGt1TnEwYmhhNUFmS1YzemEyUWwxUURXVDg4YWI3SjZsQjhwZXIxZUFB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Meta打出AI翻身牌：新模型并肩行业巨头 暗示接下来还要加速 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZVFlCRm9FTnVHREVNMlRGeGxYcmJtVElnRnF1MUt0bDhIWDlvckNjTFRDR1BwVUFLUzN6NHhmUkJUbmhSRGJ3YQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZVFlCRm9FTnVHREVNMlRGeGxYcmJtVElnRnF1MUt0bDhIWDlvckNjTFRDR1BwVUFLUzN6NHhmUkJUbmhSRGJ3YQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "千问发布三款AI穿戴个人智能体硬件 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nX2Y3dWdBNGhWMkh4T0J5dHotOVJENVYtZDFRQ2pVVnlFZWRMb0VVSTdSQmY0akFYOEdYeU5Ba2FNUnZSRDNzZXRIc0UxZ05xWk4zanZuOXRXYmticVFpeA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nX2Y3dWdBNGhWMkh4T0J5dHotOVJENVYtZDFRQ2pVVnlFZWRMb0VVSTdSQmY0akFYOEdYeU5Ba2FNUnZSRDNzZXRIc0UxZ05xWk4zanZuOXRXYmticVFpeA?oc=5"
+    }
+  ]
+}
