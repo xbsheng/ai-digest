@@ -1,0 +1,427 @@
+{
+  "date": "2026-10-16",
+  "fetchedAt": "2026-10-16T00:22:30.488Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "score": 585,
+      "comments": 327,
+      "discuss": "https://news.ycombinator.com/item?id=50107379"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why We're Banning AI",
+      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "score": 218,
+      "comments": 175,
+      "discuss": "https://news.ycombinator.com/item?id=50108131"
+    },
+    {
+      "source": "hackernews",
+      "title": "Call Center Jobs Are Declining, but 14,000 Calls Show Humans Still Outperform AI",
+      "url": "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
+      "score": 35,
+      "comments": 49,
+      "discuss": "https://news.ycombinator.com/item?id=50111112"
+    },
+    {
+      "source": "hackernews",
+      "title": "Companies rushed in on AI. Now some are pulling back",
+      "url": "https://www.theguardian.com/technology/2026/oct/13/ai-companies-rushed-workers-fallout",
+      "score": 23,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50108083"
+    },
+    {
+      "source": "hackernews",
+      "title": "Reproducing the Hugging Face Incident, Part I",
+      "url": "https://www.abundant.ai/blog/hugging-face-incident-part-1/",
+      "score": 17,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50108391"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bringing the magic: Google breaks open a bottleneck in quantum computing",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/",
+      "score": 16,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=50108036"
+    },
+    {
+      "source": "hackernews",
+      "title": "Linus Torvalds on AI contribution rules",
+      "url": "https://lkml.iu.edu/2610.1/13255.html",
+      "score": 11,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50107289"
+    },
+    {
+      "source": "hackernews",
+      "title": "Linus Torvalds: \"banning AI is stupid and so are you\"",
+      "url": "https://lkml.org/lkml/2026/10/13/3242",
+      "score": 8,
+      "comments": 11,
+      "discuss": "https://news.ycombinator.com/item?id=50111769"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
+      "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+      "score": 7,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50109627"
+    },
+    {
+      "source": "hackernews",
+      "title": "Liquid AI D1-Ultra",
+      "url": "https://www.liquid.ai/blog/d1-ultra",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50106907"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: RDST – A local agent that watches Postgres/MySQL for query regressions",
+      "url": "https://github.com/readysettech/rdst",
+      "score": 6,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50107729"
+    },
+    {
+      "source": "hackernews",
+      "title": "What causes AI fatigue for engineers and how to ease the strain",
+      "url": "https://thoughtbot.com/blog/what-causes-ai-fatigue-for-engineers-and-how-to-ease-the-strain",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50111887"
+    },
+    {
+      "source": "hackernews",
+      "title": "Decomp.dev Is Shutting Down",
+      "url": "https://decomp.dev/",
+      "score": 5,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50107134"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: My AI induced mania in embedded computer graphics engineering [video]",
+      "url": "https://www.youtube.com/watch?v=Ig2gYmOTuug",
+      "score": 4,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50111421"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Endo – A Higher-Order Harness",
+      "url": "https://github.com/longsurf-ai/endo",
+      "score": 4,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50110614"
+    },
+    {
+      "source": "arxiv",
+      "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+      "url": "http://arxiv.org/abs/2610.20606v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Huixuan Cheng, Bike Zhang, Shankar Sastry",
+      "discuss": "http://arxiv.org/abs/2610.20606v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+      "url": "http://arxiv.org/abs/2610.20607v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Zhefei Gong, Hefeifei Jiang, Zehao Wang",
+      "discuss": "http://arxiv.org/abs/2610.20607v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Co-Evolving Acting and Forecasting for Language Agents",
+      "url": "http://arxiv.org/abs/2610.20597v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Haofei Yu, Yixing Chen, Yining Zhao",
+      "discuss": "http://arxiv.org/abs/2610.20597v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Your Transformer Is Secretly Elastic",
+      "url": "http://arxiv.org/abs/2610.20588v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts",
+      "discuss": "http://arxiv.org/abs/2610.20588v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+      "url": "http://arxiv.org/abs/2610.20587v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal",
+      "discuss": "http://arxiv.org/abs/2610.20587v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Continuum Attention",
+      "url": "http://arxiv.org/abs/2610.20586v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Afshin Khadangi",
+      "discuss": "http://arxiv.org/abs/2610.20586v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
+      "url": "http://arxiv.org/abs/2610.20585v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Stavros Nousias, Akis Nousias, Konstantinos Gkrispanis",
+      "discuss": "http://arxiv.org/abs/2610.20585v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Player-1: Learning to Play from Synthetic Experience",
+      "url": "http://arxiv.org/abs/2610.20584v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Mingyu Ouyang, Yiran Wang, Siyuan Hu",
+      "discuss": "http://arxiv.org/abs/2610.20584v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Latent Compaction with Test-Time Training",
+      "url": "http://arxiv.org/abs/2610.20582v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yingfa Chen, Xingyu Shen, Chaojun Xiao",
+      "discuss": "http://arxiv.org/abs/2610.20582v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+      "url": "http://arxiv.org/abs/2610.20576v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Artin Tajdini, Manpreet Kaur, Peng Qi",
+      "discuss": "http://arxiv.org/abs/2610.20576v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
+      "url": "http://arxiv.org/abs/2610.20573v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Anna Mei, Michael R. Douglas",
+      "discuss": "http://arxiv.org/abs/2610.20573v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2610.20572v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Kaixiang Zhao, Tianrun Yu, Shangzhe Li",
+      "discuss": "http://arxiv.org/abs/2610.20572v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge",
+      "url": "http://arxiv.org/abs/2610.20570v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Bruno Leonardo Santos Menezes, Carlos Leonardo Souza Cardoso, Fabio André Machado Porto",
+      "discuss": "http://arxiv.org/abs/2610.20570v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Scaling Discovery Requires Forgetting",
+      "url": "http://arxiv.org/abs/2610.20563v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Shangyin Tan, Ben Zhou, Lakshya A Agrawal",
+      "discuss": "http://arxiv.org/abs/2610.20563v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition",
+      "url": "http://arxiv.org/abs/2610.20560v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Weichen Lyu, Chong Xia, Mingyu Dong",
+      "discuss": "http://arxiv.org/abs/2610.20560v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios",
+      "url": "http://arxiv.org/abs/2610.20548v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Ali Zamani, Soroush Esfahanian, Erfan Shahabi",
+      "discuss": "http://arxiv.org/abs/2610.20548v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Detection of Potato Plant Leaf Diseases using Convolutional Neural Networks",
+      "url": "http://arxiv.org/abs/2610.20544v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Haimanot Bitew Alemayehu, Simachew Melaku Ayalew, Chilotie Desalew Mengesha",
+      "discuss": "http://arxiv.org/abs/2610.20544v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis",
+      "url": "http://arxiv.org/abs/2610.20538v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Qiushi Sun, Jingyang Gong, Yang Liu",
+      "discuss": "http://arxiv.org/abs/2610.20538v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Revisiting Simple Baselines for Relational Deep Learning",
+      "url": "http://arxiv.org/abs/2610.20534v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Viet The Nguyen, Vijay Prakash Dwivedi, Gunther Gust",
+      "discuss": "http://arxiv.org/abs/2610.20534v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Generative Representation Learning for Scalable Latent Tokenization",
+      "url": "http://arxiv.org/abs/2610.20533v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Alan Baade, Kyle Sargent, Vincent Sitzmann",
+      "discuss": "http://arxiv.org/abs/2610.20533v1"
+    },
+    {
+      "source": "google-news",
+      "title": "【特别关注】人工智能浪潮：全球南方现代化的机遇与挑战 - 中国社会科学网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KLTNPYUk5RVItZk9rczc0OGNVLVk1cjJBSmFUUmpMUHI3a2lWZ3JkamFpTVZUeVlyX1l6aHNzYk04REFPOU9iWmNSYlBNVlpXbjhaMVBfLVJ0aGM3UEN4eW5FUFQ4Y3lCOXRvbw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KLTNPYUk5RVItZk9rczc0OGNVLVk1cjJBSmFUUmpMUHI3a2lWZ3JkamFpTVZUeVlyX1l6aHNzYk04REFPOU9iWmNSYlBNVlpXbjhaMVBfLVJ0aGM3UEN4eW5FUFQ4Y3lCOXRvbw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Meta推出强大开放AI模型 与中国企业展开竞争 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOeEQtRWF0eHBWT2xpMDNWZGx2aXlNN1l0SUxYOFBqWHlqZ1JKOS1uYUItTVV1dVR6RlpiNk90eEZMaVc1cHNfcVlkUmhmRWFrLURSZG5CZmI1S01wWlBCVkdPZ29lME42Ym5VSXBLMkhETGdpcnVYZ1otSEtqREw2WkplckJKaEZaTUc0c3JTd1FqTGhlRTdDWk5ESGMtdzZNVTVoMUotQWw1aF9DZHd2N3VnWHc0NXJYUW9Eb0tHU090bnFSbjNjLUpqLTk0R25LMkx1TW5QNkxOa1laRlVNUk0zUTRqaU9JSXJoWi1SX04ySTVsSDFpVjRLdlM5Z0Juc3U3UHFnWkgzZFZ6WmNGeWtLQWMxSGdXX0xHZmNtWmRpaWJzTXI4c1FFM1hjY0FWN1A3Tw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOeEQtRWF0eHBWT2xpMDNWZGx2aXlNN1l0SUxYOFBqWHlqZ1JKOS1uYUItTVV1dVR6RlpiNk90eEZMaVc1cHNfcVlkUmhmRWFrLURSZG5CZmI1S01wWlBCVkdPZ29lME42Ym5VSXBLMkhETGdpcnVYZ1otSEtqREw2WkplckJKaEZaTUc0c3JTd1FqTGhlRTdDWk5ESGMtdzZNVTVoMUotQWw1aF9DZHd2N3VnWHc0NXJYUW9Eb0tHU090bnFSbjNjLUpqLTk0R25LMkx1TW5QNkxOa1laRlVNUk0zUTRqaU9JSXJoWi1SX04ySTVsSDFpVjRLdlM5Z0Juc3U3UHFnWkgzZFZ6WmNGeWtLQWMxSGdXX0xHZmNtWmRpaWJzTXI4c1FFM1hjY0FWN1A3Tw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "联合国警告：人工智能、绿色能源和经济转型可能导致弱势群体被抛在后面 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCT043UDlCaVhYX2s4aXUtUkxTSk1KSGlNdWhrRzNxVkIzMkpGWlRtMWMyWmFEbW1PbG5PUjVBdHpjZ2ZuTWFYVDFoU3NLNnVYNEdQdDFRWQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCT043UDlCaVhYX2s4aXUtUkxTSk1KSGlNdWhrRzNxVkIzMkpGWlRtMWMyWmFEbW1PbG5PUjVBdHpjZ2ZuTWFYVDFoU3NLNnVYNEdQdDFRWQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "五年内违约概率高达63%！AI信贷的第一颗“雷”要爆？ - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LUTlFQmJDekZucG9WTjUyMW1pNlJHVGhvakEySjlyRmZBTTZCWngzQUhCd0RZVzJobVR6QnpJNXV2ZExBaFd0bg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LUTlFQmJDekZucG9WTjUyMW1pNlJHVGhvakEySjlyRmZBTTZCWngzQUhCd0RZVzJobVR6QnpJNXV2ZExBaFd0bg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "21评论丨以制度化AI合作抬升亚太增长曲线 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQnhZSkJuMDZZYkgxZ0hPUjZ3dEowV05VdG9kclQ2MlFucmp3TmFadGZLeEpIcjhXMmd5c2U2QnhHR3lPdUNrQlloYmJ3V0loSXc0djVxTjdTbUhiazhhTEtNZ1Jyb21GRE14NjFpVjcwSTBNLVhhYnM2WGNkdWU5NzdPWVJ3dw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQnhZSkJuMDZZYkgxZ0hPUjZ3dEowV05VdG9kclQ2MlFucmp3TmFadGZLeEpIcjhXMmd5c2U2QnhHR3lPdUNrQlloYmJ3V0loSXc0djVxTjdTbUhiazhhTEtNZ1Jyb21GRE14NjFpVjcwSTBNLVhhYnM2WGNkdWU5NzdPWVJ3dw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“未来数学计划”：一场AI与数学的双向奔赴 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2bUw4RFVFLUJLR1k1R0hFeVEyUm9pTzZRb1JFUG9LLURrbl9PaUFqbzh1M2hDczBGZzZwUGQ3SU5YeDdocG82VEFGZmtkYWwxODRfbG1BTjFyZ2RxRmFveEhoOHpqWWI0MXBqcTYyMDM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2bUw4RFVFLUJLR1k1R0hFeVEyUm9pTzZRb1JFUG9LLURrbl9PaUFqbzh1M2hDczBGZzZwUGQ3SU5YeDdocG82VEFGZmtkYWwxODRfbG1BTjFyZ2RxRmFveEhoOHpqWWI0MXBqcTYyMDM?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Meta发布开放AI模型 但将其最强技术保持闭源 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5adlQ5aUd0ZVF3VlQ3cHJBblVpNENMeWFGZF9YeUFaTnFCV1Q0NGFfX2hWYzZxTjZwUWdwWW5FZ2tSNnpxXzA0NFZIRGpjT3R5NUl4MXA5b0NZbjFReFhKVA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5adlQ5aUd0ZVF3VlQ3cHJBblVpNENMeWFGZF9YeUFaTnFCV1Q0NGFfX2hWYzZxTjZwUWdwWW5FZ2tSNnpxXzA0NFZIRGpjT3R5NUl4MXA5b0NZbjFReFhKVA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "重庆搭建人工智能“试验场” AI应用进车间、进医院、进火锅店 - 华龙网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10MVVtUXVtSFFDWEJUdmFJVFhuYjZLd2l4ZE5mc1c5c0U2ZExGUTJ4cWJPcGVibmZjcS1ucXUwZWhlbjA2cDRYR3JLUEo5R2QxSlRrVG5EaEt5TFRJaFV6WDFZU0M0Yl9rTFFV?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10MVVtUXVtSFFDWEJUdmFJVFhuYjZLd2l4ZE5mc1c5c0U2ZExGUTJ4cWJPcGVibmZjcS1ucXUwZWhlbjA2cDRYR3JLUEo5R2QxSlRrVG5EaEt5TFRJaFV6WDFZU0M0Yl9rTFFV?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "中国台湾海巡署接获美Shield AI首架制垂直起降无人机，加强海域态势感知 - 美国之音",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY1NXbXVzNG12N1dYekZwclRsc01XMHJOUGE0UUhnVWZ6YjR1N0lFVEhDdGczTC0xQ3BWZ1lJU0xVcFZpYWlvM1U2RmhqRTYwV2tia0FWU2ZpSms1TUFJSG5kd0prWHFjVU43a2lhSDdNQW9Ba0RkRjUwN08tSkZTNWFDZk00akw3Yk8xeUhOaVN0UzUtOG1EeV9pTkdyNTBVb1FMX1ZxaWtYNU5qZmNzTVN0aHBIZTl3bWpTcWRwa0hPRXVyT1JMRGEzeVJUUFJkY2NSUktBOVo3QVFiaUJ6aFBsT1PSAecBQVVfeXFMTUZHcHh3V3F6WFZhNkg4aHcwSXNNRllqVmhRdjhhcDlxTDg5YU9xcUp3QWJmdWE1bGhZOHdEZlQzb3o5LWNvRm15UktuVW9FWE02VXNEdzdndFVSVmN3N252Ui1HRnExaHRCMkdnYzcwc3ZJejRXUHNOWnc0SXZGRWtHc1BqQXVFcTBCdl9aSWVqTC0xd0Y2aTN4M1d4YUlSOU0xb2o3eFRDdnZQdUZ5dldsVHgwQmJlOVZ0RnFabDJKaU9sbEZDMHhud3dpeFF5VmtsaS1Ec1BCV1dhQTMxcG9Gb1ZuMzIw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY1NXbXVzNG12N1dYekZwclRsc01XMHJOUGE0UUhnVWZ6YjR1N0lFVEhDdGczTC0xQ3BWZ1lJU0xVcFZpYWlvM1U2RmhqRTYwV2tia0FWU2ZpSms1TUFJSG5kd0prWHFjVU43a2lhSDdNQW9Ba0RkRjUwN08tSkZTNWFDZk00akw3Yk8xeUhOaVN0UzUtOG1EeV9pTkdyNTBVb1FMX1ZxaWtYNU5qZmNzTVN0aHBIZTl3bWpTcWRwa0hPRXVyT1JMRGEzeVJUUFJkY2NSUktBOVo3QVFiaUJ6aFBsT1PSAecBQVVfeXFMTUZHcHh3V3F6WFZhNkg4aHcwSXNNRllqVmhRdjhhcDlxTDg5YU9xcUp3QWJmdWE1bGhZOHdEZlQzb3o5LWNvRm15UktuVW9FWE02VXNEdzdndFVSVmN3N252Ui1HRnExaHRCMkdnYzcwc3ZJejRXUHNOWnc0SXZGRWtHc1BqQXVFcTBCdl9aSWVqTC0xd0Y2aTN4M1d4YUlSOU0xb2o3eFRDdnZQdUZ5dldsVHgwQmJlOVZ0RnFabDJKaU9sbEZDMHhud3dpeFF5VmtsaS1Ec1BCV1dhQTMxcG9Gb1ZuMzIw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "J.S. Held 2026 年第三季度《AI 争议监测报告》揭示：AI 诉讼焦点从系统构建方式转向运行表现 - 美通社",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xcXJaeDI0cVZhZDhFYWIzNW00anZwNms5RFJHeWlyM3l3NC12OTEtQXJMcGRIUVN5d2R5XzJEU1A5UnRJbU1uRDBYVWhWMjRXLXVueDVBNA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xcXJaeDI0cVZhZDhFYWIzNW00anZwNms5RFJHeWlyM3l3NC12OTEtQXJMcGRIUVN5d2R5XzJEU1A5UnRJbU1uRDBYVWhWMjRXLXVueDVBNA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "观见 | 我们需要担心被AI替代吗？ - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JQlRpMEw3ZTZDdEpSVzNHUG44Tk9xTlB6aDdEcFVWMlg2d1NlbjlMb2w2b1JrbktydmNKaUp3YWF2dFI3TXZmOEdfUS1uUE12U2NMaTJlQmQyUGZPRk5VVmstcncxajNlZTNHRG5scmRlUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JQlRpMEw3ZTZDdEpSVzNHUG44Tk9xTlB6aDdEcFVWMlg2d1NlbjlMb2w2b1JrbktydmNKaUp3YWF2dFI3TXZmOEdfUS1uUE12U2NMaTJlQmQyUGZPRk5VVmstcncxajNlZTNHRG5scmRlUQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "第二十六届工博会：AI与绿色新科技装备成亮点 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZzZyazVFM3ppbEtJNW9CcWRSUDdUQzI0dEZneUdiLXRUeUREZ2xJTTBfVjZ5TThUMElSLWl6dmpBbnZjaW1oemp5Qjc4cVJlWjhfLW1RU0dsSDM5Sms0NGh4UkNIam1ZQ1Exbm54S0YyQWhLMmtIcHNQUllrWWVlUEZ4RThTdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZzZyazVFM3ppbEtJNW9CcWRSUDdUQzI0dEZneUdiLXRUeUREZ2xJTTBfVjZ5TThUMElSLWl6dmpBbnZjaW1oemp5Qjc4cVJlWjhfLW1RU0dsSDM5Sms0NGh4UkNIam1ZQ1Exbm54S0YyQWhLMmtIcHNQUllrWWVlUEZ4RThTdw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI催生“基本无人”工厂，日本制造业有望缩小对华成本差距 - 日经中文网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSTZMTFFyMVNkUTZRZC10MzRXVjZ5MUVGS0Faa3AxMDdmZHc1anNwdm9Lb3FVeVVfY3NKZ1JuYmxKNFdrU09jUTd3NE01c3dMaEstd19OYVN1Z0dxLXZmcENZQXF0LUM2cDFlSzk0bkdEbjZVN0J2Zk1vZ3dWb3Rxag?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSTZMTFFyMVNkUTZRZC10MzRXVjZ5MUVGS0Faa3AxMDdmZHc1anNwdm9Lb3FVeVVfY3NKZ1JuYmxKNFdrU09jUTd3NE01c3dMaEstd19OYVN1Z0dxLXZmcENZQXF0LUM2cDFlSzk0bkdEbjZVN0J2Zk1vZ3dWb3Rxag?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "口腔人工智能技术发展论坛暨同济口腔“十大人工智能场景”落地启动仪式举行 - 同济大学新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfTVFoMkVWS0NEQ09aeHJkcHZUT1FVUDluRWhTUVFPVjltdEZhd1ByZkVmZVk3enE5SlBDa1RvRm1fbWVVVmYwUkdxQll6MmtxR2lkT2RsUF8wUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfTVFoMkVWS0NEQ09aeHJkcHZUT1FVUDluRWhTUVFPVjltdEZhd1ByZkVmZVk3enE5SlBDa1RvRm1fbWVVVmYwUkdxQll6MmtxR2lkT2RsUF8wUQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "华尔街一哥辣评“AI狂欢”：不抱太大希望，但看好SpaceX太空数据中心！ - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZNXZrQlBTa2V4eGt6cXZJcTB0U3Z0SjFBWUlWX1d1dWlRVHZKc3pfazdzN1lNTTN4MzF2NUk1V1hDQ1gzVko1WQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ZNXZrQlBTa2V4eGt6cXZJcTB0U3Z0SjFBWUlWX1d1dWlRVHZKc3pfazdzN1lNTTN4MzF2NUk1V1hDQ1gzVko1WQ?oc=5"
+    }
+  ]
+}
