@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "fetchedAt": "2026-10-17T00:27:14.518Z",
+  "fetchedAt": "2026-10-17T23:58:34.383Z",
   "total": 50,
   "items": [
     {
@@ -406,6 +406,206 @@
       "score": 0,
       "comments": 0,
       "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jeXdhNE0wbjNBaWladmNZYlFadWx2eE1OdDRHUm5UMGtjeTcxV2ZFTmJzTVo1eHZQS1dIcWtvVHYwSUc1cjZCUg?oc=5"
+    },
+    {
+      "source": "hackernews",
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "score": 143,
+      "comments": 57,
+      "discuss": "https://news.ycombinator.com/item?id=50132278"
+    },
+    {
+      "source": "hackernews",
+      "title": "Codex Desktop continuously generates Crashpad pending dumps",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "score": 47,
+      "comments": 25,
+      "discuss": "https://news.ycombinator.com/item?id=50133231"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Can Write the Code. Who Verifies It?",
+      "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+      "score": 25,
+      "comments": 58,
+      "discuss": "https://news.ycombinator.com/item?id=50133713"
+    },
+    {
+      "source": "hackernews",
+      "title": "Israel makes propaganda video featuring AI generated IAMDDB without her consent",
+      "url": "https://twitter.com/beeechimblind/status/2111227318534279501",
+      "score": 23,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50134241"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+      "score": 17,
+      "comments": 11,
+      "discuss": "https://news.ycombinator.com/item?id=50132550"
+    },
+    {
+      "source": "hackernews",
+      "title": "Weak Links Start to Show in A.I. Borrowing",
+      "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html",
+      "score": 11,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=50135290"
+    },
+    {
+      "source": "hackernews",
+      "title": "Canadian AI company turns away from U.S. government work amid trade tensions",
+      "url": "https://globalnews.ca/news/12098107/canadian-ai-company-caseway-turns-away-u-s/",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50134108"
+    },
+    {
+      "source": "hackernews",
+      "title": "Torvalds calls AI disclosure rules 'utterly stupid' as Linux drops its tag",
+      "url": "https://thenextweb.com/news/torvalds-ai-assisted-by-tag-utterly-stupid-open-source-summit",
+      "score": 6,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50133555"
+    },
+    {
+      "source": "hackernews",
+      "title": "\"thegentlemanpervert\" producing AI CSAM is a NJ prosecutor, say cops",
+      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50131331"
+    },
+    {
+      "source": "hackernews",
+      "title": "Three LLM judges couldn't tell an AI agent's real memory from a counterfeit one",
+      "url": "https://kairos-experiment.com/checks.html",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50134298"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Pay-per-Crawl – make AI crawlers pay per page in USDC, for 10 stacks",
+      "url": "https://forgemesh.io/blog/pay-per-crawl-every-stack",
+      "score": 5,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50133559"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic says its AI model submitted a false case tip to Philadelphia police",
+      "url": "https://www.nbcnews.com/news/us-news/anthropic-says-model-submitted-false-cold-case-tip-philadelphia-police-rcna603213",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50133269"
+    },
+    {
+      "source": "hackernews",
+      "title": "US air traffic controllers to get 2.8% pay raise under FAA deal",
+      "url": "https://www.reuters.com/business/world-at-work/us-air-traffic-controllers-get-28-pay-raise-under-faa-deal-2026-10-16/",
+      "score": 5,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50133236"
+    },
+    {
+      "source": "hackernews",
+      "title": "The first vibe-coded gun is here",
+      "url": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
+      "score": 5,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=50130167"
+    },
+    {
+      "source": "hackernews",
+      "title": "How do you deal with AI Output of your boss?",
+      "url": "https://news.ycombinator.com/item?id=50135854",
+      "score": 4,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=50135854"
+    },
+    {
+      "source": "google-news",
+      "title": "活力中国调研行丨广西防城港：推动人工智能产业创新发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vY3RjczhtTTlWcXdzMlYzVEFGWUdIR0dLVFJhNXdyeFVtV1hfT3hLUWNVRjNaYnVUTGxWVVhBRWpzMVFtbjdvZkc5N0FTVnRoMDRNUlY0d1hvVmNzNWVWY1FOQmN2d3JvWFVSazRBSkNtQ2M2UzJEMTFfbjBLOGs?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vY3RjczhtTTlWcXdzMlYzVEFGWUdIR0dLVFJhNXdyeFVtV1hfT3hLUWNVRjNaYnVUTGxWVVhBRWpzMVFtbjdvZkc5N0FTVnRoMDRNUlY0d1hvVmNzNWVWY1FOQmN2d3JvWFVSazRBSkNtQ2M2UzJEMTFfbjBLOGs?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "中国联通亮相2026人工智能产业大会 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9meC05Y0RaZ0VnNzlOdlBITGl4N3lHS1BUdzdvX1VKQTcwMHc2QzJjaFk5dHpEMXFrWVBTRk92cDg4cTBkT3QtLTlsbllxV1ByUUkzb1hMODhLMFdlLVE5OXBjclhxbFRqam9BRnBUVmo?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9meC05Y0RaZ0VnNzlOdlBITGl4N3lHS1BUdzdvX1VKQTcwMHc2QzJjaFk5dHpEMXFrWVBTRk92cDg4cTBkT3QtLTlsbllxV1ByUUkzb1hMODhLMFdlLVE5OXBjclhxbFRqam9BRnBUVmo?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "西安高新区与百度智能云共建AI产业生态 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2Z3V0dE9lRlBKOTI2bkt1ZGJOQVNJS3M1OHlHWkZZa3ppRlJCMnd4dzFuUjRmTF90cE5sOVJmSEIwZ0tEM1d3LUl1ZHlnSTcwR05UNmFYYXoyODQ2QXlEd21vVDNhUUpDUHgwS1ItNjk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2Z3V0dE9lRlBKOTI2bkt1ZGJOQVNJS3M1OHlHWkZZa3ppRlJCMnd4dzFuUjRmTF90cE5sOVJmSEIwZ0tEM1d3LUl1ZHlnSTcwR05UNmFYYXoyODQ2QXlEd21vVDNhUUpDUHgwS1ItNjk?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "我国首个十万卡AI 超集群 “能装一个宇宙” - 新华报业网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QNFBzOWlIcVppemowZU5IclBBRUlBSm02cmhmdzZmcXpWaDNldF8yRzFEWk0wYVlydU9RSlFNSFFLbkVMeHotSU5feGREQ3lsSmN2TlVfSFRoak5FU1ZqUVhyYjNfQ0V2WDBZ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QNFBzOWlIcVppemowZU5IclBBRUlBSm02cmhmdzZmcXpWaDNldF8yRzFEWk0wYVlydU9RSlFNSFFLbkVMeHotSU5feGREQ3lsSmN2TlVfSFRoak5FU1ZqUVhyYjNfQ0V2WDBZ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "《人工智能赋能产业供需清单》在渝发布 为企业“开窗导航” - 重庆新闻",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44N285NnlsaFNib1JvdGxsaVpaN0FXOVlNbVBhNG96SmQ4RjBVYkplNUoxSGxPc2NScmlaSDVVTGNfbXI2c3JFTHJ2S0xjN2VzSXpkNWRhNFQ4Y193aXBCQUtObmtJOXRidDJEQg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44N285NnlsaFNib1JvdGxsaVpaN0FXOVlNbVBhNG96SmQ4RjBVYkplNUoxSGxPc2NScmlaSDVVTGNfbXI2c3JFTHJ2S0xjN2VzSXpkNWRhNFQ4Y193aXBCQUtObmtJOXRidDJEQg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "学校非教学科研人员AI素养培训（第一期）顺利举行 - 文澜新闻网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DdmQxNElNV09XeU9aMGY1V0FxMHlGR2gxVmxqOTZKek9JcGpCa2dzUTdNaVV3T0N4RjIyNTNoUDI5bXQxR3QxbFpOU1U5MlpPXzZnYmx6cjFEZkN1cm8wUDlkVEN0NnBPQnZZ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DdmQxNElNV09XeU9aMGY1V0FxMHlGR2gxVmxqOTZKek9JcGpCa2dzUTdNaVV3T0N4RjIyNTNoUDI5bXQxR3QxbFpOU1U5MlpPXzZnYmx6cjFEZkN1cm8wUDlkVEN0NnBPQnZZ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "辽宁省人民政府 - 辽宁省人民政府",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS3NPbEZ6cWpkZ29OS0lMOXlfTlBxVTdUVkpZdWVBX0U0dTNXN3UzMEs5RXlmSGtITTFDQjhaa2FIcGZGa2luSDlJZ0E5UFk0QTdfUWI4ZEFHZXlRRFNJU29JWGxud0g0QjhmcFYyb1pHNWZKOFMxQnBvT0JkNXZ5dEx1WQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS3NPbEZ6cWpkZ29OS0lMOXlfTlBxVTdUVkpZdWVBX0U0dTNXN3UzMEs5RXlmSGtITTFDQjhaa2FIcGZGa2luSDlJZ0E5UFk0QTdfUWI4ZEFHZXlRRFNJU29JWGxud0g0QjhmcFYyb1pHNWZKOFMxQnBvT0JkNXZ5dEx1WQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "朝鲜声称试射了新型人工智能辅助鱼雷武器系统 - 美国之音",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0RvWjBMQk43bHFYRWotd21seG0wRHJpMGNsNGlKbHJadlp6OEpHU1BKeEtZS0VaTkNPSjQ4RVdybk9BWmg4SEJINXB6RE9GWEFUXzBiZDhkTk9ITVhmay04Zm92ZlR4by1fcWFRX2ZqYkZ4WnRaTF85Q1Z3NEVjQ3V5V1l6OTZoc0JkbS1UaXdTd19tQjFlMjEwbGY5dVctTjV5Y2NueUxtN055RTlubEt6Q1NCUGs30gG7AUFVX3lxTE1GSUQ2VFlhYlN6eFFqRktDTnc4c0gwQnVXRzl3OFRQTkNqRHkwTWlaR0UxSWVTaFRtcDNZNVpERU53NFpTZnE0S18xb0dLNEphaXZvc2xqQlJWRTlmQmR1ckNDUlNTM19ZNHJfODY4OEdqaFR5UVE4VEFKT3JHMUxjQUJHc05mcEdMMXREZGQ0TkVMM3BHR2tTWDhKT0hpVW1CMzhCTGlLWENKUnc2bE9UUzNjbHVJODU4Zjg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX0RvWjBMQk43bHFYRWotd21seG0wRHJpMGNsNGlKbHJadlp6OEpHU1BKeEtZS0VaTkNPSjQ4RVdybk9BWmg4SEJINXB6RE9GWEFUXzBiZDhkTk9ITVhmay04Zm92ZlR4by1fcWFRX2ZqYkZ4WnRaTF85Q1Z3NEVjQ3V5V1l6OTZoc0JkbS1UaXdTd19tQjFlMjEwbGY5dVctTjV5Y2NueUxtN055RTlubEt6Q1NCUGs30gG7AUFVX3lxTE1GSUQ2VFlhYlN6eFFqRktDTnc4c0gwQnVXRzl3OFRQTkNqRHkwTWlaR0UxSWVTaFRtcDNZNVpERU53NFpTZnE0S18xb0dLNEphaXZvc2xqQlJWRTlmQmR1ckNDUlNTM19ZNHJfODY4OEdqaFR5UVE4VEFKT3JHMUxjQUJHc05mcEdMMXREZGQ0TkVMM3BHR2tTWDhKT0hpVW1CMzhCTGlLWENKUnc2bE9UUzNjbHVJODU4Zjg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "图灵奖得主：AI不会让数学家失业 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Vb2g1SUQyeUpObHdZdm9nM2Y1OEl4dmRlN242U3UyVWgxZXF5ZDV6Mk41UUFWQmp4cFVDU2djQTBtTzlicXl5a2NQSVhNZGpMZlBqSnExRkVHYnl6aW82MTdLZmp3UUpYdXJYeTE4OGU?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Vb2g1SUQyeUpObHdZdm9nM2Y1OEl4dmRlN242U3UyVWgxZXF5ZDV6Mk41UUFWQmp4cFVDU2djQTBtTzlicXl5a2NQSVhNZGpMZlBqSnExRkVHYnl6aW82MTdLZmp3UUpYdXJYeTE4OGU?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "聚焦具身智能 “瞭望·企业家AI大讲堂”正式开讲 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JN0hBa3FlRDBtNnlSNWk5ejhQZGhrREpUWU5rQlM1VjRfVGZTMDNZSWQydnUzYlVsQzV3d0ZQMEVNNzFrVXpzZk5vRmhLNlZraHg3b19oLU9FS2lHcGY0aUw0QkJXdHdnbndDVy1rN1hQUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JN0hBa3FlRDBtNnlSNWk5ejhQZGhrREpUWU5rQlM1VjRfVGZTMDNZSWQydnUzYlVsQzV3d0ZQMEVNNzFrVXpzZk5vRmhLNlZraHg3b19oLU9FS2lHcGY0aUw0QkJXdHdnbndDVy1rN1hQUQ?oc=5"
     }
   ]
 }
