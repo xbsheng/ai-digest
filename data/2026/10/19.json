@@ -1,0 +1,199 @@
+{
+  "date": "2026-10-19",
+  "fetchedAt": "2026-10-19T00:12:01.878Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "score": 239,
+      "comments": 82,
+      "discuss": "https://news.ycombinator.com/item?id=50137950"
+    },
+    {
+      "source": "hackernews",
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "score": 153,
+      "comments": 161,
+      "discuss": "https://news.ycombinator.com/item?id=50141429"
+    },
+    {
+      "source": "hackernews",
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "score": 133,
+      "comments": 125,
+      "discuss": "https://news.ycombinator.com/item?id=50141657"
+    },
+    {
+      "source": "hackernews",
+      "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+      "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+      "score": 89,
+      "comments": 144,
+      "discuss": "https://news.ycombinator.com/item?id=50143218"
+    },
+    {
+      "source": "hackernews",
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "url": "https://www.vals.ai/blogs/impossible-refund",
+      "score": 77,
+      "comments": 96,
+      "discuss": "https://news.ycombinator.com/item?id=50140462"
+    },
+    {
+      "source": "hackernews",
+      "title": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
+      "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly",
+      "score": 26,
+      "comments": 12,
+      "discuss": "https://news.ycombinator.com/item?id=50142772"
+    },
+    {
+      "source": "hackernews",
+      "title": "America's $10T AI infrastructure boom is starting to fray",
+      "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+      "score": 22,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50138511"
+    },
+    {
+      "source": "hackernews",
+      "title": "Hyper Optimizing Kimi K3 in vLLM",
+      "url": "https://vllm.ai/blog/2026-10-16-kimi-k3-megakernel",
+      "score": 20,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50140784"
+    },
+    {
+      "source": "hackernews",
+      "title": "World Bank says 'small AI' could transform developing countries",
+      "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+      "score": 17,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50141494"
+    },
+    {
+      "source": "hackernews",
+      "title": "'I'm on a War Footing': Terry Tao and the Crisis in Math",
+      "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
+      "score": 14,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=50142609"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: CallSitter – bot that answers my calls and wastes scammers' time",
+      "url": "https://github.com/szerintedmi/callsitter",
+      "score": 10,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=50140472"
+    },
+    {
+      "source": "hackernews",
+      "title": "US Air Force pilots used malware-laden USB drives to plan Afghanistan missions",
+      "url": "https://www.theregister.com/security/2026/10/15/us-air-force-pilots-used-malware-laden-usb-drives-to-plan-afghanistan-missions/5303156",
+      "score": 9,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50140621"
+    },
+    {
+      "source": "hackernews",
+      "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+      "url": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
+      "score": 7,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50144597"
+    },
+    {
+      "source": "hackernews",
+      "title": "LLM analyzed 150k Reddit posts to identify side effects of unapproved new GLP-1",
+      "url": "https://www.engineering.upenn.edu/stories/penn-engineers-use-ai-reddit-to-identify-potential-side-effects-of-unapproved-new-glp-1/",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50142726"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Landscape of Humanoids – 2,351 products, 788 companies",
+      "url": "https://airfold.co/humanoid-technology-map/",
+      "score": 6,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50139775"
+    },
+    {
+      "source": "google-news",
+      "title": "财经早知道｜深化拓展“人工智能+”，国常会最新部署 - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wdFFPTV93b3lCX3RVcDVVUkFGZDdIOF9rRnF2ODFORVlJeEw1LTRmY0swOGFzVDgzbmFUYjR1R1ZZUGxFUXE0SXhEd19TTk82LThsVU96cUJqay1YZDhOOFd3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wdFFPTV93b3lCX3RVcDVVUkFGZDdIOF9rRnF2ODFORVlJeEw1LTRmY0swOGFzVDgzbmFUYjR1R1ZZUGxFUXE0SXhEd19TTk82LThsVU96cUJqay1YZDhOOFd3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "作答｜如何干好“年轻的事业”，等你来作答！ - 中国江苏网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSVhwY1pnMHJhTVp0S18zVmxoNVpMQi1WX0tGT2VBQkdRZGFjdWtvbTdka0YwNW40alB6a2RGRHdha1VITExZVGFlc0IzaGVDd1ZISjg2VG83TU5IRVh3MjB2and2enpSbE45bVg0TVZXR1MzTkhVMEZ5MzBNUUkzYVlDUWNDTGdlaVRN?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSVhwY1pnMHJhTVp0S18zVmxoNVpMQi1WX0tGT2VBQkdRZGFjdWtvbTdka0YwNW40alB6a2RGRHdha1VITExZVGFlc0IzaGVDd1ZISjg2VG83TU5IRVh3MjB2and2enpSbE45bVg0TVZXR1MzTkhVMEZ5MzBNUUkzYVlDUWNDTGdlaVRN?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI是救世主，还是死神？ - 日经中文网",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGE3OWJBYmgwX1c5aTVOenJ0a2dINnlQWkJWMmZ0aVBRLVdnR0RtMlVNakNjTWphT0MzWkltZk9fRnFPUmZCWGxiSnZyRTR4YVBQVk81UmR4Rk5iMDZVdHU4T05XV3NSYjBETFZwd1hVVlR2b0pTYkNGYW93RVI2Sw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVGE3OWJBYmgwX1c5aTVOenJ0a2dINnlQWkJWMmZ0aVBRLVdnR0RtMlVNakNjTWphT0MzWkltZk9fRnFPUmZCWGxiSnZyRTR4YVBQVk81UmR4Rk5iMDZVdHU4T05XV3NSYjBETFZwd1hVVlR2b0pTYkNGYW93RVI2Sw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "第140届广交会：搭载人工智能技术新产品集中登场 - 中国网新闻中心",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NNmpFaUZTaDdQbHpQczlLUHJLS3ZHTnBLb2gwWVdTb2tuU19ZaWVRcGdyWWdXdDlLZjBPQnBoRVJVcFlPcEljaFhBc3BFT2hidFI3clctSk9lLXRVemp3ckpERUtKeVVsVE4w?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NNmpFaUZTaDdQbHpQczlLUHJLS3ZHTnBLb2gwWVdTb2tuU19ZaWVRcGdyWWdXdDlLZjBPQnBoRVJVcFlPcEljaFhBc3BFT2hidFI3clctSk9lLXRVemp3ckpERUtKeVVsVE4w?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI赋能，多国构建反恐防线 - 新浪军事",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HWm5XbzNQTE1kU3ZvYTlmQzlSc3JQbHBkMnBFYUVYMEs3U3dTaFc5ajA5Q1RxdjlnUXNONjhkTWdObDFuMVQ1OVJtQ3ppenBpUmRNaUplbHlIZUR1MlhNWXdwSWxNM1h2ZHNxQ1RKTENvV3c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HWm5XbzNQTE1kU3ZvYTlmQzlSc3JQbHBkMnBFYUVYMEs3U3dTaFc5ajA5Q1RxdjlnUXNONjhkTWdObDFuMVQ1OVJtQ3ppenBpUmRNaUplbHlIZUR1MlhNWXdwSWxNM1h2ZHNxQ1RKTENvV3c?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "投资于人才，打造未来就绪的员工队伍 | World Economic Forum - World Economic Forum",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm12N1JWOUNKVEZvQ1RpX3lkS0p6WmFJOFp2Yk40bW0xN20zZ0YzSGYxSThsS19VNjE5Z3l2dnNkY3Zsbkx3VmVfYXlzX3lPeDJTdldxU3VnQlZuWm1lLWZnclh4WkFBZUpULS1aS0lPeWVhT0ZfUVhsY19BMmoyWjJPV1hxWUVIRV9lSFJCNUpVVTJJRjNGekk3R1ZaQmlUX21nV0ptYWhJZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWm12N1JWOUNKVEZvQ1RpX3lkS0p6WmFJOFp2Yk40bW0xN20zZ0YzSGYxSThsS19VNjE5Z3l2dnNkY3Zsbkx3VmVfYXlzX3lPeDJTdldxU3VnQlZuWm1lLWZnclh4WkFBZUpULS1aS0lPeWVhT0ZfUVhsY19BMmoyWjJPV1hxWUVIRV9lSFJCNUpVVTJJRjNGekk3R1ZaQmlUX21nV0ptYWhJZw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "OpenAI发力人形机器人研发 将AI大脑作为核心突破口 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DN3hoc2RSZUlEUHVRa21DbF9RSmlodkpRdjVZS1RqbzhZcV81T1loYldsel9HeWVfcThhb1AyN29oZ21TTUx4Rl9uY3R0MU5Dc3dGUk9KT3ZOQ2h4THJNNQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DN3hoc2RSZUlEUHVRa21DbF9RSmlodkpRdjVZS1RqbzhZcV81T1loYldsel9HeWVfcThhb1AyN29oZ21TTUx4Rl9uY3R0MU5Dc3dGUk9KT3ZOQ2h4THJNNQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "温州如何用AI接住温州制造的未来-温州日报 - 温州新闻",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93b0RXN21seloteVBNTkJMUC01OWlzZS1xN0tvekVfM3ZYUnpibkl0b25jTUVkUVRhNkZiS2syQWdjaVIwQ0NsenJ0X1BLQktVbUlNZTBFbzM1WDNqOFBOM1JyNXFXX3k5SEc0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93b0RXN21seloteVBNTkJMUC01OWlzZS1xN0tvekVfM3ZYUnpibkl0b25jTUVkUVRhNkZiS2syQWdjaVIwQ0NsenJ0X1BLQktVbUlNZTBFbzM1WDNqOFBOM1JyNXFXX3k5SEc0?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI开始“抢跑”，科研规则面临新考验 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QUDZoN1hNMUxYX3pJR2hyMHNLeDJmYnlkTkpEV2NFa3lVTGlud2N6NWhwWTFiNzJzeXV0MnYxaUJ0Q1VyVTRjMGVqU3FEVG1VQ3hGX2JraUU2aG9DM2xWLQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QUDZoN1hNMUxYX3pJR2hyMHNLeDJmYnlkTkpEV2NFa3lVTGlud2N6NWhwWTFiNzJzeXV0MnYxaUJ0Q1VyVTRjMGVqU3FEVG1VQ3hGX2JraUU2aG9DM2xWLQ?oc=5"
+    }
+  ]
+}
