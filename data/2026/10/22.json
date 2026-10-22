@@ -1,0 +1,411 @@
+{
+  "date": "2026-10-22",
+  "fetchedAt": "2026-10-22T00:40:47.122Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/",
+      "score": 315,
+      "comments": 93,
+      "discuss": "https://news.ycombinator.com/item?id=50186129"
+    },
+    {
+      "source": "hackernews",
+      "title": "Google staff resign in backlash over its AI contracts with military",
+      "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+      "score": 107,
+      "comments": 19,
+      "discuss": "https://news.ycombinator.com/item?id=50186043"
+    },
+    {
+      "source": "hackernews",
+      "title": "Rust off Rails: The opinionated web stack for the AI era",
+      "url": "https://rustoffrails.org/",
+      "score": 67,
+      "comments": 74,
+      "discuss": "https://news.ycombinator.com/item?id=50183727"
+    },
+    {
+      "source": "hackernews",
+      "title": "Texas data center boom could erase decades of progress on air quality",
+      "url": "https://www.texastribune.org/2026/10/20/data-centers-texas-air-quality-report-pollution-health-risks/",
+      "score": 45,
+      "comments": 24,
+      "discuss": "https://news.ycombinator.com/item?id=50184712"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI agent fixed the bug, but what else did it change?",
+      "url": "https://blog.trailofbits.com/2026/10/21/your-ai-agent-fixed-the-bug-but-what-else-did-it-change/",
+      "score": 45,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=50183253"
+    },
+    {
+      "source": "hackernews",
+      "title": "Airbnb bans making guests do dishes and take out the trash",
+      "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+      "score": 33,
+      "comments": 18,
+      "discuss": "https://news.ycombinator.com/item?id=50189150"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Omnara – Open-Source Alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "score": 19,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=50183892"
+    },
+    {
+      "source": "hackernews",
+      "title": "Open-source, cross-harness memory for AI agents",
+      "url": "https://news.ycombinator.com/item?id=50182883",
+      "score": 15,
+      "comments": 11,
+      "discuss": "https://news.ycombinator.com/item?id=50182883"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI has 'potential' to turn script kiddies into sophisticated attackers",
+      "url": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
+      "score": 15,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50182358"
+    },
+    {
+      "source": "hackernews",
+      "title": "The AI-Hacking Apocalypse Began Last Night",
+      "url": "https://www.theatlantic.com/technology/2026/10/ai-hacking-apocalypse-began-last-night/689106/",
+      "score": 12,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50186699"
+    },
+    {
+      "source": "hackernews",
+      "title": "Airbnb bans hosts from making guests wash dishes or do laundry at checkout",
+      "url": "https://www.dexerto.com/entertainment/new-airbnb-rules-ban-hosts-from-making-guests-wash-dishes-do-laundry-other-checkout-chores-3420832/",
+      "score": 10,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50184881"
+    },
+    {
+      "source": "hackernews",
+      "title": "Did I just spent 6 months building a product that no one wants",
+      "url": "https://news.ycombinator.com/item?id=50189266",
+      "score": 8,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=50189266"
+    },
+    {
+      "source": "hackernews",
+      "title": "Archestra 1.4: OpenAPPA and Self Hosted Runtime for Claude Code and Codex",
+      "url": "https://github.com/archestra-ai/archestra/releases/tag/platform-v1.4.0",
+      "score": 8,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50185318"
+    },
+    {
+      "source": "hackernews",
+      "title": "Trump says AI data centres should pay 'dividends' in pre-midterm shift",
+      "url": "https://www.aljazeera.com/news/2026/10/21/trump-says-ai-data-centres-should-pay-dividends-in-pre-midterm-shift",
+      "score": 8,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50185117"
+    },
+    {
+      "source": "hackernews",
+      "title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
+      "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+      "score": 7,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50188774"
+    },
+    {
+      "source": "arxiv",
+      "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+      "url": "http://arxiv.org/abs/2610.28632v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Noam Rotstein, Yoad Tewel, Chen Tessler",
+      "discuss": "http://arxiv.org/abs/2610.28632v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+      "url": "http://arxiv.org/abs/2610.28629v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yazhuo Liu, Kunqing Ding, Xiaoguo Gong",
+      "discuss": "http://arxiv.org/abs/2610.28629v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+      "url": "http://arxiv.org/abs/2610.28628v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yuxuan Kuang, Jiashun Wang, Yixuan Sun",
+      "discuss": "http://arxiv.org/abs/2610.28628v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+      "url": "http://arxiv.org/abs/2610.28626v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Rahul Sajnani, Diego Romeres, Mingyuan Zhang",
+      "discuss": "http://arxiv.org/abs/2610.28626v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
+      "url": "http://arxiv.org/abs/2610.28624v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jad Yammine, Malek Wahidi, Abrar Anwar",
+      "discuss": "http://arxiv.org/abs/2610.28624v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Planning under Noise with Neural Operators",
+      "url": "http://arxiv.org/abs/2610.28623v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Michael Chen, Hong Chul Nam, Xi Deng",
+      "discuss": "http://arxiv.org/abs/2610.28623v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
+      "url": "http://arxiv.org/abs/2610.28622v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yanbo Wang, Siqi Luo, Siyu Zhang",
+      "discuss": "http://arxiv.org/abs/2610.28622v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Adaptive Multi-Token Prediction: How far should we go?",
+      "url": "http://arxiv.org/abs/2610.28619v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Emile Anand, Mohammed Rehan Parwani, Xinyuan Cao",
+      "discuss": "http://arxiv.org/abs/2610.28619v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Efficient Edge-aware Attention Network for Graph Generation",
+      "url": "http://arxiv.org/abs/2610.28618v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Vincent Jung, Alba Carballo-Castro, Yiming Qin",
+      "discuss": "http://arxiv.org/abs/2610.28618v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classification",
+      "url": "http://arxiv.org/abs/2610.28616v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Qingming Li, Ruiyan Sun, Satoshi Nakamura",
+      "discuss": "http://arxiv.org/abs/2610.28616v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Semantic Observability for Autonomous Systems Diagnostics",
+      "url": "http://arxiv.org/abs/2610.28611v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jitendra Solanki, Anand Todkar, Ziran Min",
+      "discuss": "http://arxiv.org/abs/2610.28611v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Benchmarking Arabic Dialects for Math Problems",
+      "url": "http://arxiv.org/abs/2610.28607v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Noor Abo Mokh, Teresa Lynn, Nizar Habash",
+      "discuss": "http://arxiv.org/abs/2610.28607v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debates",
+      "url": "http://arxiv.org/abs/2610.28604v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Maoyuan Li, Haoyuan Li, Zhongsheng Wang",
+      "discuss": "http://arxiv.org/abs/2610.28604v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Turning TS2Vec into a Foundation Model for Time Series Classification",
+      "url": "http://arxiv.org/abs/2610.28602v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Vasilii Feofanov, Zhenghan Tai, Andrei Ermakov",
+      "discuss": "http://arxiv.org/abs/2610.28602v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Evolving Agent Interfaces",
+      "url": "http://arxiv.org/abs/2610.28601v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Saaket Agashe, Yuzhe Yang, Gonzalo Gonzalez-Pumariega",
+      "discuss": "http://arxiv.org/abs/2610.28601v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Neural Implicit Energy Optimization for LiDAR Mapping",
+      "url": "http://arxiv.org/abs/2610.28598v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Hrishikesh Viswanath, Md Ashiqur Rahman, Chi Lin",
+      "discuss": "http://arxiv.org/abs/2610.28598v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "What Do RTL Repair Benchmarks Actually Measure?",
+      "url": "http://arxiv.org/abs/2610.28595v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yeyin Eva Zhu, Rishabh Ranawat",
+      "discuss": "http://arxiv.org/abs/2610.28595v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "PaPi: Parallel Picard-Duhamel Integration for Fast Neuro-Spectral Architectures",
+      "url": "http://arxiv.org/abs/2610.28591v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Arthur Bizzi, Márcio Marques, Kleyton Da Costa",
+      "discuss": "http://arxiv.org/abs/2610.28591v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "WildMAE: Structure-Aware Masked Autoencoding for Wildlife Image Reconstruction",
+      "url": "http://arxiv.org/abs/2610.28590v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yicheng Zhang, Yujie Jin, Ke Zhang",
+      "discuss": "http://arxiv.org/abs/2610.28590v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Two $\\operatorname{ReLU}$ Layers is All You Need",
+      "url": "http://arxiv.org/abs/2610.28587v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Florestan Brunck, Christoph Hertrich, Kilian Ruess",
+      "discuss": "http://arxiv.org/abs/2610.28587v1"
+    },
+    {
+      "source": "google-news",
+      "title": "全民AI造物潮来袭：“手搓”易 变现难 - 中青在线",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hQVZEMTNSVnMwMXNPTndqQUN2Q1JydzlxSk4yU2lFZUthT3lQT2VNeWs4NWx0TTFvQVpvSTc5YVpKNnU4Z0x6T09wYmVSY1JzX2JOSDRMVG01dmNiTmV5LWRYLUpadGV0RmlsRUNQVFJEbEZ6VC14dmllNGQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9hQVZEMTNSVnMwMXNPTndqQUN2Q1JydzlxSk4yU2lFZUthT3lQT2VNeWs4NWx0TTFvQVpvSTc5YVpKNnU4Z0x6T09wYmVSY1JzX2JOSDRMVG01dmNiTmV5LWRYLUpadGV0RmlsRUNQVFJEbEZ6VC14dmllNGQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "DeepSeek Is Hit by One of Chinese AI Champion’s Worst Outages This Year - 一财全球Yicai Global",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY3Z2SWdoSUZpMmN1eVFKMF81bURCVVk4cExFUkU1OC1NZmxGcmZPUVhGVXRrSVF1aHhOM2lKRVkydVZxMWVqcUpSX2RXOWpmMWs4bEFLMnBkcUQwUmJkRFNoQ1FQQmxMbHVadV82ZXV4Ml9NQ3ZXa3VhMHhDNjN3eVpjUGw4RWo0UjRaR0NQVVR1cFRJY1VUNjlNbE40LWM3d0tQNTBvRTc0R0FORUpTQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY3Z2SWdoSUZpMmN1eVFKMF81bURCVVk4cExFUkU1OC1NZmxGcmZPUVhGVXRrSVF1aHhOM2lKRVkydVZxMWVqcUpSX2RXOWpmMWs4bEFLMnBkcUQwUmJkRFNoQ1FQQmxMbHVadV82ZXV4Ml9NQ3ZXa3VhMHhDNjN3eVpjUGw4RWo0UjRaR0NQVVR1cFRJY1VUNjlNbE40LWM3d0tQNTBvRTc0R0FORUpTQQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能与计算机学院走进湖南大学无锡智能控制研究院，探寻智能控制产业新机遇 - 江南大学新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ORExYd3R1Zmpmb1BiVDktZEtjWnZ3WmFNUTJSTjFud004SXY4aFoyNHktS013X3RoamhFdnZ2SEV1dlBGWEJPYmtLeUZwSWJWaU1LS1R3OWR0NUZOZEE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ORExYd3R1Zmpmb1BiVDktZEtjWnZ3WmFNUTJSTjFud004SXY4aFoyNHktS013X3RoamhFdnZ2SEV1dlBGWEJPYmtLeUZwSWJWaU1LS1R3OWR0NUZOZEE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "中办、国办：全面实施“人工智能+”行动 推动人工智能全方位赋能千行百业 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5va3hoYXB6M2pzUVYzV0UycFlUZ0hTd1hmWUozd2FNQ25YR3BITndtMm5VX3N0d2Etdm1KYW1oRGZWZHpRN3hYLVEzSVg3ZDhkSF9hUnJkc1NNdllJLXkzZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5va3hoYXB6M2pzUVYzV0UycFlUZ0hTd1hmWUozd2FNQ25YR3BITndtMm5VX3N0d2Etdm1KYW1oRGZWZHpRN3hYLVEzSVg3ZDhkSF9hUnJkc1NNdllJLXkzZw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“我为自己的工作感到羞耻”：谷歌员工因AI军事化辞职 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5walFpX1k5cVFBemE5RWx6Rk1lX2xJTEZZd1hwejVJVW5PYjRpRGpfb2Z3dVc2ZlhPTGdWQzQxU1VxREFuMUE0VU1YeXdTNkRab3g2MThtdjFYckFubUYtZHQwa25Ta2JnaWxTaUZhNERORTA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5walFpX1k5cVFBemE5RWx6Rk1lX2xJTEZZd1hwejVJVW5PYjRpRGpfb2Z3dVc2ZlhPTGdWQzQxU1VxREFuMUE0VU1YeXdTNkRab3g2MThtdjFYckFubUYtZHQwa25Ta2JnaWxTaUZhNERORTA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "中共广东省委港澳工作办公室 - 中共广东省委港澳工作办公室",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xOUdXRGxuRGRjTm1neHpwak1wdG9ZRFVPaGJoWXRaME5QZFNCUXdaRldqRUJKNUdvSExWMmhXc2FxWmpuNHVNZXkxdklpdUNPMG52THJxdWtua084U2podnlidWVVaDBjb0FlUzZFQVQ4dw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xOUdXRGxuRGRjTm1neHpwak1wdG9ZRFVPaGJoWXRaME5QZFNCUXdaRldqRUJKNUdvSExWMmhXc2FxWmpuNHVNZXkxdklpdUNPMG52THJxdWtua084U2podnlidWVVaDBjb0FlUzZFQVQ4dw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "李飞飞丈夫、Salesforce首席科学家撰文：「AI agent黎明」之后，我们期待些什么？ - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zY3VvZ2V1R2tnYndpb3BEQU5KdW1KQVB0T2ZnQ2pGX2hBUjdBd3FTRXR5a29HblpabVh0YTk5TkU0NVdQUUIwM3RxSDR3YW5BUjJlMFhOVmJXUkJrYjd4enI5UVkza3JCOGtidE5xNDBmOGtUMWN6eE5LZzEtNEE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zY3VvZ2V1R2tnYndpb3BEQU5KdW1KQVB0T2ZnQ2pGX2hBUjdBd3FTRXR5a29HblpabVh0YTk5TkU0NVdQUUIwM3RxSDR3YW5BUjJlMFhOVmJXUkJrYjd4enI5UVkza3JCOGtidE5xNDBmOGtUMWN6eE5LZzEtNEE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻 - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53X2cxVFVtV1RpR3lfT1E5bDREejZlWHVBd0oyR2xfa3hGSW8xeWtQYXRwY3dyM0JPS3htR0xiMEE2TkZ0MTFDbk5Mc3lKVzdtNkVV?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53X2cxVFVtV1RpR3lfT1E5bDREejZlWHVBd0oyR2xfa3hGSW8xeWtQYXRwY3dyM0JPS3htR0xiMEE2TkZ0MTFDbk5Mc3lKVzdtNkVV?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "市场真慌了？AI相关CDS需求出现“井喷”！ - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1qMnY0clgxaXhicnlJZWJKUVQtR0hBNkdnS19aRUZjZ3o2YUZBS01pRFJwX0p3WmFia0JoakVJVmJYTXFfQlltSg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1qMnY0clgxaXhicnlJZWJKUVQtR0hBNkdnS19aRUZjZ3o2YUZBS01pRFJwX0p3WmFia0JoakVJVmJYTXFfQlltSg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "聚焦物理AI与世界模型 前沿科技成果集中亮相南京 - 中青在线",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrUmwxRURCWmF0QkprLU1XWVQ2SDd3SEktOGoydDkwS1pEcDlrdTlpcVVLcURSZi1VNzZzMTE1OTQ2WFM3eWY4UTF2eWpTTWdZQllJdU5KRFkwVDJ3MkpQVGJUQXc1RWh1djlxdENmRzJJU21TWGVZUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrUmwxRURCWmF0QkprLU1XWVQ2SDd3SEktOGoydDkwS1pEcDlrdTlpcVVLcURSZi1VNzZzMTE1OTQ2WFM3eWY4UTF2eWpTTWdZQllJdU5KRFkwVDJ3MkpQVGJUQXc1RWh1djlxdENmRzJJU21TWGVZUQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "黄仁勋柏林演讲实录：参考人形机器人、AI工厂、CUDA-X、自动驾驶、物理AI、医疗智能体多点发布 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjBkanEyWnJPTTBaMlNXMVkzdTJweGZua011RWdJYnNzM1BpandFQXlmNHVoV1V5Z3JwNGhsWUZtbGxURFVSemo5RUdHdWJLaUV4SHVlQXl4cE4yLUJnVW1iRk5RT2FMT1Z3S3l2WXd3Zkl6c180MWNqeG9HWTc5RmhaR3dnSWc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjBkanEyWnJPTTBaMlNXMVkzdTJweGZua011RWdJYnNzM1BpandFQXlmNHVoV1V5Z3JwNGhsWUZtbGxURFVSemo5RUdHdWJLaUV4SHVlQXl4cE4yLUJnVW1iRk5RT2FMT1Z3S3l2WXd3Zkl6c180MWNqeG9HWTc5RmhaR3dnSWc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "英伟达“百亿欧洲布局”进德国！黄仁勋：AI是新工具 不会替代专业 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kZnpFd3duY1gxSzloNXlHWEVLS3dPaGI3OUs1YklUdnpyUW1fWUdHU1pvOWV2MGM5WG9ORzJ1d3Q5UlhRbXJUZg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9kZnpFd3duY1gxSzloNXlHWEVLS3dPaGI3OUs1YklUdnpyUW1fWUdHU1pvOWV2MGM5WG9ORzJ1d3Q5UlhRbXJUZg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "CoreWeave引爆AI融资恐慌！华尔街集体“救火”：不足以动摇整体AI交易 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xcmZ6R1NXZU5SbVpOSU4tNmg3eERfN28zWGZYa0FEb3dHUzhGWDdzU0xLOWM0dVd2Nm00N2FGanBGNzhoTjhFVA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xcmZ6R1NXZU5SbVpOSU4tNmg3eERfN28zWGZYa0FEb3dHUzhGWDdzU0xLOWM0dVd2Nm00N2FGanBGNzhoTjhFVA?oc=5"
+    }
+  ]
+}
