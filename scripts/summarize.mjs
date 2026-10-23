@@ -7,7 +7,7 @@ import { existsSync, readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { randomUUID } from 'node:crypto';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { isSensitive, normalizeTaiwan, hash12 } from './text.mjs';
+import { isSensitive, normalizeTaiwan, hash12, frontmatter } from './text.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const mode = process.argv[2] ?? 'daily';
@@ -58,12 +58,6 @@ async function chat(system, user, { json = false } = {}) {
   return (await r.json()).choices[0].message.content.trim();
 }
 
-const frontmatter = (fields) => {
-  const esc = (v) => String(v).replace(/"/g, '\\"');
-  const lines = Object.entries(fields).map(([k, v]) => (v == null || v === '' ? null : `${k}: "${esc(v)}"`)).filter(Boolean);
-  return `---\n${lines.join('\n')}\n---\n\n`;
-};
-
 // data/ 与 content/daily/ 均为 年/月/日 层级目录
 const dateDir = (base, date) => {
   const [y, m, d] = date.split('-');
@@ -103,11 +97,20 @@ async function generateDetails(refItems) {
 function writeItemPage(item, detail, date) {
   const title = (detail?.title_zh && normalizeTaiwan(detail.title_zh)) || normalizeTaiwan(item.title);
   const slug = hash12(item.url);
+  const score = Number(item.score);
   const body =
     (detail?.summary ? `${detail.summary}\n\n` : `（AI 详述未生成，以下为原始条目信息。${item.score ? `热度 ${item.score}。` : ''}）\n\n`) +
     `> 本页摘要由 AI 自动生成，仅供参考，请以原文为准。`;
   const md =
-    frontmatter({ title, date, description: `${item.source} 的 AI 热点详述`, source: item.source, url: item.url, score: item.score == null ? undefined : Number(item.score), orig_title: item.title }) +
+    frontmatter({
+      title,
+      date,
+      description: `${item.source} 的 AI 热点详述`,
+      source: item.source,
+      url: item.url,
+      score: Number.isFinite(score) ? score : undefined,
+      orig_title: item.title,
+    }) +
     body +
     '\n';
   const outPath = join(ROOT, 'src', 'content', 'items', `${slug}.md`);

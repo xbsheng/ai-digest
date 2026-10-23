@@ -26,7 +26,11 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
+          cache: npm
+
+      - name: 安装依赖
+        run: npm ci
 
       - name: 抓取数据
         run: npm run fetch
@@ -52,6 +56,10 @@ jobs:
           AI_MODEL: ${{ secrets.AI_MODEL }}
           SENSITIVE_KEYWORDS: ${{ secrets.SENSITIVE_KEYWORDS }}
 
+      # 先构建再提交：frontmatter 有错时构建直接失败，坏内容不会先落库
+      - name: 构建站点
+        run: npx astro build
+
       - name: Commit data and digests
         run: |
           git config user.name "github-actions[bot]"
@@ -59,11 +67,6 @@ jobs:
           git add data src/content
           git diff --cached --quiet || git commit -m "daily: fetch and summarize $(date -u +%F)"
           git push
-
-      - name: 构建站点
-        run: |
-          npm ci
-          npx astro build
 
       - name: 上传 Pages 产物
         uses: actions/upload-pages-artifact@v3

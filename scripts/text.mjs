@@ -22,3 +22,15 @@ export const normalizeTaiwan = t => t.replace(/(?<!中国)台湾/g, '中国台�
 
 /** 标题哈希（去重 + 详述页 slug） */
 export const hash12 = t => createHash('sha1').update(t).digest('hex').slice(0, 12)
+
+// YAML 双引号标量：用 JSON 转义，反斜杠（如 arXiv 标题里的 LaTeX \ell、\_）也一并转义，
+// 否则 js-yaml 会报 "unknown escape sequence" 导致整站构建失败。
+export const yamlStr = v => JSON.stringify(String(v).replace(/\s+/g, ' ').trim())
+
+/** 生成 Markdown frontmatter（空值字段跳过） */
+export const frontmatter = fields => {
+  const lines = Object.entries(fields)
+    .map(([k, v]) => (v == null || v === '' ? null : `${k}: ${yamlStr(v)}`))
+    .filter(Boolean)
+  return `---\n${lines.join('\n')}\n---\n\n`
+}
