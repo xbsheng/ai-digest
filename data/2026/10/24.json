@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-24",
+  "fetchedAt": "2026-10-24T00:39:27.112Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "score": 686,
+      "comments": 433,
+      "discuss": "https://news.ycombinator.com/item?id=50212065"
+    },
+    {
+      "source": "hackernews",
+      "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
+      "url": "https://artificialanalysis.ai/models/kimi-k3-1-pro",
+      "score": 115,
+      "comments": 38,
+      "discuss": "https://news.ycombinator.com/item?id=50213337"
+    },
+    {
+      "source": "hackernews",
+      "title": "Kimi K3.1 Pro",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "score": 58,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50212246"
+    },
+    {
+      "source": "hackernews",
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "score": 54,
+      "comments": 81,
+      "discuss": "https://news.ycombinator.com/item?id=50212507"
+    },
+    {
+      "source": "hackernews",
+      "title": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors",
+      "url": "https://gizmodo.com/microsoft-says-its-new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors-2000829562",
+      "score": 36,
+      "comments": 29,
+      "discuss": "https://news.ycombinator.com/item?id=50214185"
+    },
+    {
+      "source": "hackernews",
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "score": 27,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=50216791"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Is Not a Tool",
+      "url": "https://twitter.com/frascafrasca/status/2113637581426671850",
+      "score": 18,
+      "comments": 35,
+      "discuss": "https://news.ycombinator.com/item?id=50212079"
+    },
+    {
+      "source": "hackernews",
+      "title": "The attack chain behind the v1.107.0 LiteLLM release",
+      "url": "https://docs.litellm.ai/blog/security-incident-oct-21-2026-attack-chain",
+      "score": 15,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50215317"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI devours a fifth of companies' IT budgets",
+      "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+      "score": 10,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50215950"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI is devastating higher education, but the system was broken",
+      "url": "https://theconversation.com/friday-essay-ai-is-devastating-higher-education-but-the-system-was-already-broken-292988",
+      "score": 10,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50215398"
+    },
+    {
+      "source": "hackernews",
+      "title": "Kimi K3.1 Pro puts open-source AI a month behind the best",
+      "url": "https://www.modelcompare.ai/blog/china-open-source-ai",
+      "score": 9,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50214701"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI models think humans are a bunch of amoral sheep",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123",
+      "score": 7,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=50213172"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tell HN: Don't use Fathom Analytics (founder is blocking criticism)",
+      "url": "https://news.ycombinator.com/item?id=50210534",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50210534"
+    },
+    {
+      "source": "hackernews",
+      "title": "Wall Street prepares for AI's \"day after\"",
+      "url": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50216307"
+    },
+    {
+      "source": "hackernews",
+      "title": "Where the last RTX 5090 Video Cards are Going",
+      "url": "https://videocardz.com/newz/heres-where-the-last-rtx-5090-cards-are-going-massive-ai-conversion-factory-exposed-in-china-founders-edition-included",
+      "score": 4,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50214241"
+    },
+    {
+      "source": "google-news",
+      "title": "图灵奖得主希发基思：警惕AI“要挟式”示强，AI闯祸必须对开发者追责 - 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uaWJmMFpJT0MxNW1fZV9hb0FxRFFyUVY0bEtDbkZsaVIzMmxVSXJNc3gwZEZqbWRSYmN3Q3paSHFUOVpldXZPZVRveVZ5NE4yVUdvTkNOV0FxdXIwQkFYaTdOTFdQUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uaWJmMFpJT0MxNW1fZV9hb0FxRFFyUVY0bEtDbkZsaVIzMmxVSXJNc3gwZEZqbWRSYmN3Q3paSHFUOVpldXZPZVRveVZ5NE4yVUdvTkNOV0FxdXIwQkFYaTdOTFdQUQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "法国世界报 - 中国手机微短剧的90%由AI制作，成本大幅下降，但创作者的收入却暴跌 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQYjE0LVFXYkxldElHeGh3WjJxVUs0VEg4VEZkQUNVbEZSNktIbF91NktkWmxVX1RzNkZLdEc3RlFsZEtQckQ5RDdjSlJSM2thSHBLRFZuTFB2VEw4TmQ3dGVTdUZDNzlqdGsta2trY05xVVc0MGZZSEVqU2FiWl9mSTVpSnl3TjFPTUlLTS11RWd5U1gwdDVVZ2xxU2xWUVJySlBkZkFJQ2ktd09tbUItUlNHWVB6b25oVVEyWDJ5V25EOElIRmN0X2piZmV4dTBMWTNZYUYtLWtjMFlhMHg0OWVJMlFuaGJIRDJZVTl3S2NkbzM0c285cFhlVlJkU3kzNG1fR2RZWXVqYTc0T2NBVE42cWVEeUwtNmtkZmRSZm9QN2tKaTkwbTZIczNJNHEtbzROcEljbTFQemhEVmhfYy1tTWJRSldoNUJXN3RWYXBPUnZVTWlyYk5MTVNmMjhzSHI4NWJZdnNiWEZvVG9CcmduR1dCdVdmMVJQZ3ZDZzNyemlfRklESTZ1OEpKSUJMeXc3QVJGdmhOMTBWcl9CSEt2UTcxRzJaSl9vN01sYTd5OFZxRkpQMjlVWFVCcU1sWF84X3RrR1M3TVRqTW1uRXd3ZTk1U2k1YS1hU0x2emxueHVLTkF1WUhxLVZteGFRMWlGdVFnMkQ2ODlvVXFLVlJ5elNCQ3Y4dVVCTEtmUDhzSE10c3o4?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQYjE0LVFXYkxldElHeGh3WjJxVUs0VEg4VEZkQUNVbEZSNktIbF91NktkWmxVX1RzNkZLdEc3RlFsZEtQckQ5RDdjSlJSM2thSHBLRFZuTFB2VEw4TmQ3dGVTdUZDNzlqdGsta2trY05xVVc0MGZZSEVqU2FiWl9mSTVpSnl3TjFPTUlLTS11RWd5U1gwdDVVZ2xxU2xWUVJySlBkZkFJQ2ktd09tbUItUlNHWVB6b25oVVEyWDJ5V25EOElIRmN0X2piZmV4dTBMWTNZYUYtLWtjMFlhMHg0OWVJMlFuaGJIRDJZVTl3S2NkbzM0c285cFhlVlJkU3kzNG1fR2RZWXVqYTc0T2NBVE42cWVEeUwtNmtkZmRSZm9QN2tKaTkwbTZIczNJNHEtbzROcEljbTFQemhEVmhfYy1tTWJRSldoNUJXN3RWYXBPUnZVTWlyYk5MTVNmMjhzSHI4NWJZdnNiWEZvVG9CcmduR1dCdVdmMVJQZ3ZDZzNyemlfRklESTZ1OEpKSUJMeXc3QVJGdmhOMTBWcl9CSEt2UTcxRzJaSl9vN01sYTd5OFZxRkpQMjlVWFVCcU1sWF84X3RrR1M3TVRqTW1uRXd3ZTk1U2k1YS1hU0x2emxueHVLTkF1WUhxLVZteGFRMWlGdVFnMkQ2ODlvVXFLVlJ5elNCQ3Y4dVVCTEtmUDhzSE10c3o4?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“人工智能+” 激活产业新动能 - 天津日报",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQUlZRmMxNmRDaVhjX3NwNXViLUlDNW9WTkpxSlZyTGJTcldreHFrYjh2ZVJnVGlvMHRoQXBQSml1cXI5dGF2ck9qVnBCZi12VlhwVU16MlRYTjBUbGxFNnY5TXNpTHQzendNS2tZN1BlaW1oYWdrR0RrUnllb2RXaFl3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQUlZRmMxNmRDaVhjX3NwNXViLUlDNW9WTkpxSlZyTGJTcldreHFrYjh2ZVJnVGlvMHRoQXBQSml1cXI5dGF2ck9qVnBCZi12VlhwVU16MlRYTjBUbGxFNnY5TXNpTHQzendNS2tZN1BlaW1oYWdrR0RrUnllb2RXaFl3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "国务院办公厅公布《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》 减缓岗位替代影响 建立失业缓冲机制 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50TmQ5alAzbFlERjA0azNwOWZIaVlFQkw5WlZ6dENWU3B5STRKTTB3eWFVUnpoWFhWVEE1VjlwcTBveU1ZRlFFZmlEbko4U2c1NUp1ZU50QWNXdTM0WTc2Ug?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50TmQ5alAzbFlERjA0azNwOWZIaVlFQkw5WlZ6dENWU3B5STRKTTB3eWFVUnpoWFhWVEE1VjlwcTBveU1ZRlFFZmlEbko4U2c1NUp1ZU50QWNXdTM0WTc2Ug?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "联合国敦促各国消除性别刻板印象，防范人工智能助长性别暴力 - UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByd1BjME5jX3pxQ3RKeVpkRVI4UTcwTFRVUjhTYUVHX01Cd2R4WTRsTDh2dmVXLWlyYTNwODNnQUlvRUpnVlFYb0cxTzBLVkZlQURKRlNCcw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByd1BjME5jX3pxQ3RKeVpkRVI4UTcwTFRVUjhTYUVHX01Cd2R4WTRsTDh2dmVXLWlyYTNwODNnQUlvRUpnVlFYb0cxTzBLVkZlQURKRlNCcw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWcHl4akNhbVNURl9EWjhtWmNVclo1djlIRlZSaEhBcUpXR2ZMZE9QV2IyUUp3VDQyY1FjMEpraW9RVDZhY0N5dzRfaHNTVWhQRHRERHhhSGplNDU0amwwRQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWcHl4akNhbVNURl9EWjhtWmNVclo1djlIRlZSaEhBcUpXR2ZMZE9QV2IyUUp3VDQyY1FjMEpraW9RVDZhY0N5dzRfaHNTVWhQRHRERHhhSGplNDU0amwwRQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "算力“跑起来”、AI“用起来”，这场展会藏着怎样的未来？ - 四川新闻",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hUmp2Q0NNbHdYVmJIOFpvaHU4NjUxTXF6Nk85TDl6TFBfaXY5SjZ0am50bVJHOG5rM2c3OFY3OFgtMTBJcFFFX3NUZjRTYWpGRl8wcnhYcXZvdXBBeE9GTEpzNA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hUmp2Q0NNbHdYVmJIOFpvaHU4NjUxTXF6Nk85TDl6TFBfaXY5SjZ0am50bVJHOG5rM2c3OFY3OFgtMTBJcFFFX3NUZjRTYWpGRl8wcnhYcXZvdXBBeE9GTEpzNA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "首部AI院线电影上映 从“挑模型”到“搭片场”影视制作全流程重构 - 光明网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VTHNWTlpMSFdXVHJYcE5oZldqbjFSZU9haTVkczN3YU9XNEdGcjRmaDczS1NQejBFcTU5cVIzRGRwTDJzSlBicmFxeExfRzE0MldnZmVyWG83SXMtMkpBSlhzcWFHUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VTHNWTlpMSFdXVHJYcE5oZldqbjFSZU9haTVkczN3YU9XNEdGcjRmaDczS1NQejBFcTU5cVIzRGRwTDJzSlBicmFxeExfRzE0MldnZmVyWG83SXMtMkpBSlhzcWFHUQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "早读｜国办通知：有效减缓人工智能应用就业替代影响 - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RQmtveVJNcFdTVXVHWHp1NnVWZHlxQWJ3bGd5RzdFYjBtUUZHc052VnNqTnR2VlRodVp2OGtDa2l1TFA1ZU1WeHZvZkI2aUp0bzRhWHlqTQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RQmtveVJNcFdTVXVHWHp1NnVWZHlxQWJ3bGd5RzdFYjBtUUZHc052VnNqTnR2VlRodVp2OGtDa2l1TFA1ZU1WeHZvZkI2aUp0bzRhWHlqTQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "湘金轩｜“人工智能+”：加快把“关键变量”变成“发展增量” - 华声在线",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fZ0o4Y29MSXBMcXZmYkRGUEtaOHdKOWpKZlhWazJocUtNVUlROE1kS25femNiWWxJSkdwdmFmbEdOXzMtNFIwNUU3bHI2RGVHM1lneTZDT0thXzhaWWd3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5fZ0o4Y29MSXBMcXZmYkRGUEtaOHdKOWpKZlhWazJocUtNVUlROE1kS25femNiWWxJSkdwdmFmbEdOXzMtNFIwNUU3bHI2RGVHM1lneTZDT0thXzhaWWd3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "2026华东AI 出海创业大赛总决赛在长宁举办2026-10-23 - 上海市人民政府",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUhjaWY0V29zYS1vX1VZb0g2WDNjTlU1bEFOMElmNURIOFVMbjBtdGNCUHF3d2NQTnZNb0VDVXFpZHRNT3FLdmVYTkZLSmNWRFVMYTBCelkwWmwxcC01aEdnY2JEX1h0NmFnem1OQXI4VVdBUUFFaUszelhPMlFmQ1BIWF9faGpqOGc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUhjaWY0V29zYS1vX1VZb0g2WDNjTlU1bEFOMElmNURIOFVMbjBtdGNCUHF3d2NQTnZNb0VDVXFpZHRNT3FLdmVYTkZLSmNWRFVMYTBCelkwWmwxcC01aEdnY2JEX1h0NmFnem1OQXI4VVdBUUFFaUszelhPMlFmQ1BIWF9faGpqOGc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "高管揭示Meta AI订阅变现新路：Muse免广告但企业服务收费，智能体购物抽成 - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KMFVrbEVRY0x1QWhIdGxCWXluc0V6a0FYLWkzUWxDUlo3c0RHMEFkUmdOR01BWGxTT3BqUWFWekN3OWtuSm83Q2Z3anFCMkZseDBv?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KMFVrbEVRY0x1QWhIdGxCWXluc0V6a0FYLWkzUWxDUlo3c0RHMEFkUmdOR01BWGxTT3BqUWFWekN3OWtuSm83Q2Z3anFCMkZseDBv?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "100个场景入围！2026年江苏省“人工智能+”典型应用场景发布 - 中国江苏网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEVZa3N5dEljcTFRNmt6OTZseDBvZmY0WlBUZ3A2WjN4VEhtbEQyMlVpSTlraklacVNNeFNpeXVUQzA2NTBtUTdjYUNfTlh5Sm91bHFhbGQxaG8yNkxZZFVlUloyY3NIQmtQWUxTLTBzWTlXczBkaERfVS15LTVXajVDeGYzTThDdlVN?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEVZa3N5dEljcTFRNmt6OTZseDBvZmY0WlBUZ3A2WjN4VEhtbEQyMlVpSTlraklacVNNeFNpeXVUQzA2NTBtUTdjYUNfTlh5Sm91bHFhbGQxaG8yNkxZZFVlUloyY3NIQmtQWUxTLTBzWTlXczBkaERfVS15LTVXajVDeGYzTThDdlVN?oc=5"
+    }
+  ]
+}
