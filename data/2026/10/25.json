@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-25",
+  "fetchedAt": "2026-10-25T00:15:59.395Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "score": 446,
+      "comments": 435,
+      "discuss": "https://news.ycombinator.com/item?id=50224463"
+    },
+    {
+      "source": "hackernews",
+      "title": "Dream-1",
+      "url": "https://dreamlabs.ai/research/dream-1/",
+      "score": 151,
+      "comments": 71,
+      "discuss": "https://news.ycombinator.com/item?id=50223785"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "score": 146,
+      "comments": 144,
+      "discuss": "https://news.ycombinator.com/item?id=50223647"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+      "score": 93,
+      "comments": 49,
+      "discuss": "https://news.ycombinator.com/item?id=50220204"
+    },
+    {
+      "source": "hackernews",
+      "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "score": 39,
+      "comments": 16,
+      "discuss": "https://news.ycombinator.com/item?id=50226419"
+    },
+    {
+      "source": "hackernews",
+      "title": "What's Wrong with AI?",
+      "url": "https://homepage.farm/ai.html",
+      "score": 12,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50220640"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Orisuji, a maze you solve by folding your phone",
+      "url": "https://apps.apple.com/us/app/orisuji/id6817092898",
+      "score": 11,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50222876"
+    },
+    {
+      "source": "hackernews",
+      "title": "Is AI just another get rich quick scheme?",
+      "url": "https://news.ycombinator.com/item?id=50220934",
+      "score": 10,
+      "comments": 12,
+      "discuss": "https://news.ycombinator.com/item?id=50220934"
+    },
+    {
+      "source": "hackernews",
+      "title": "DetectorScope: AI text detectors that show their work",
+      "url": "https://github.com/google-deepmind/detectorscope",
+      "score": 9,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50222061"
+    },
+    {
+      "source": "hackernews",
+      "title": "PSA: Do not use term \"vibe coding\"",
+      "url": "https://news.ycombinator.com/item?id=50220381",
+      "score": 7,
+      "comments": 10,
+      "discuss": "https://news.ycombinator.com/item?id=50220381"
+    },
+    {
+      "source": "hackernews",
+      "title": "Claude did not invent scorpion antivenom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50222339"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI gets more diagnoses right than generalist doctors in medical challenge",
+      "url": "https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50220694"
+    },
+    {
+      "source": "hackernews",
+      "title": "I'm creating my own OS system. Please rate this. There's a lot written in C",
+      "url": "https://news.ycombinator.com/item?id=50219838",
+      "score": 6,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=50219838"
+    },
+    {
+      "source": "hackernews",
+      "title": "Will Humans Become a Luxury?",
+      "url": "https://www.artfish.ai/p/will-humans-become-a-luxury",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50224739"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Narro – Read web pages and Kindle books using local AI voices",
+      "url": "https://github.com/swrdfish/narro",
+      "score": 5,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50224373"
+    },
+    {
+      "source": "google-news",
+      "title": "新闻周刊｜AI换脸明星带货泛滥，维权难点到底在哪？ - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxejlsNWdLTEdDdHVwSGZzNzhVT2NqMFRsbVdISlhIemltWjVucjZ4OHJxM05uRmJJbEFta3BIaVBuWFNYYThBZnNTMm53Ym13R0o5QzZSOTlCWVBFc0RLZkxQcHJRc3RtZDdhN19MRDZOTXc0TmVEcw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxejlsNWdLTEdDdHVwSGZzNzhVT2NqMFRsbVdISlhIemltWjVucjZ4OHJxM05uRmJJbEFta3BIaVBuWFNYYThBZnNTMm53Ym13R0o5QzZSOTlCWVBFc0RLZkxQcHJRc3RtZDdhN19MRDZOTXc0TmVEcw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "一会儿繁荣一会儿末日，美国政界受够AI巨头了 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hV2xDRElhU0lOWlJyeE9DWXR4T0kxOXFRTHFXb2hLZmZMenloMmJfMThXVjNDSDFOMHlsV2xFWHJRREVPNTBOR0FRcG9wcXRBWHpYOGt3ZlZJUjJ5UTlhd05Dc1dWdktEdzJ2NnhsRzRubWdmNnd6MGlDdjZwQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5hV2xDRElhU0lOWlJyeE9DWXR4T0kxOXFRTHFXb2hLZmZMenloMmJfMThXVjNDSDFOMHlsV2xFWHJRREVPNTBOR0FRcG9wcXRBWHpYOGt3ZlZJUjJ5UTlhd05Dc1dWdktEdzJ2NnhsRzRubWdmNnd6MGlDdjZwQQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "创业板指拉升涨超4% 机器人、物理AI、白酒、保险涨幅居前 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVVERYckdxRF8xNW9zWHppSl9aaWhRTjNkeHdvX2dLWEtiMlR2QTdQWU9TX2NySW1ycXJWZlNGN2RRQ1c4Q0pxVEk2TmNPYmdSSkRfeU1NNTRkVWhDQl9tTA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVVERYckdxRF8xNW9zWHppSl9aaWhRTjNkeHdvX2dLWEtiMlR2QTdQWU9TX2NySW1ycXJWZlNGN2RRQ1c4Q0pxVEk2TmNPYmdSSkRfeU1NNTRkVWhDQl9tTA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "国研院专题研究报告《中国的人工智能治理：理念、实践和意义》 - 中国国际问题研究院",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZeGRlNlQ2U3lLZ3ZUU1JPU3ZIbFotbU4yWS1QSm82UkdPYmNBcFZ3ZWE5d0VNclQ3dWctV1VmanUtM2tuTnl3WHRaMWZ4M2VEVTdZUnRXMDdrXzF4QW1jQlctaDZSM2hQcC1mZVE2cw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZeGRlNlQ2U3lLZ3ZUU1JPU3ZIbFotbU4yWS1QSm82UkdPYmNBcFZ3ZWE5d0VNclQ3dWctV1VmanUtM2tuTnl3WHRaMWZ4M2VEVTdZUnRXMDdrXzF4QW1jQlctaDZSM2hQcC1mZVE2cw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "信息“打码”背后有风险，记者实测：AI能轻松看穿模糊处理二维码，怎么破？ - 新华报业网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40NVZBRzhIbHhmeEFlQTd6QS1aYzlRV2l6M2xVM2djVU9MZWxfd0I5SEtsU1FDNHF4djh3T3hsenl3NFJnYm1Eek9ySE83eVNfTWQzWHc0QkxfTl9fckpqNVlYcWNaalJKV05N?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40NVZBRzhIbHhmeEFlQTd6QS1aYzlRV2l6M2xVM2djVU9MZWxfd0I5SEtsU1FDNHF4djh3T3hsenl3NFJnYm1Eek9ySE83eVNfTWQzWHc0QkxfTl9fckpqNVlYcWNaalJKV05N?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "拥抱AI时代，企业如何探索AI转型之道？ - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83VVRmVUJsM2EtcGlfRlBYMnA2QkRsTWxWMVJuNUZ1RlFFbzVrU2JPejVUX1dfWWFTamtVWGpNRVpUbE4zMDB6TGhoQVB4Z0NKbThId0NCLWZLd3JYc0M0RF9uWXkzN3du?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83VVRmVUJsM2EtcGlfRlBYMnA2QkRsTWxWMVJuNUZ1RlFFbzVrU2JPejVUX1dfWWFTamtVWGpNRVpUbE4zMDB6TGhoQVB4Z0NKbThId0NCLWZLd3JYc0M0RF9uWXkzN3du?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "放大“人工智能+制造”加速器作用 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KWjVqU083dGt0SHRsVEJDTmtXSzFsbVdlMXY0c0IwOUxZWE5MOUhiWjR3dFhFdWgtaG93cVBxVERpM1pyMTBBZzF3NFNzaUZ4eUdNanBQZTlyNFZIS1JqaWt2b1BKcGZkbk05VE5FanpUVVEzaFUwTw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KWjVqU083dGt0SHRsVEJDTmtXSzFsbVdlMXY0c0IwOUxZWE5MOUhiWjR3dFhFdWgtaG93cVBxVERpM1pyMTBBZzF3NFNzaUZ4eUdNanBQZTlyNFZIS1JqaWt2b1BKcGZkbk05VE5FanpUVVEzaFUwTw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "灵基落地“跑出”实效 AI正驶入企业经营管理深水区 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mZU9wQ3JfRTZ5QWh5WTQxUUlOZjVsRUlBVUtta3c0MUo4LUJHZzluZW9NWlJNV0VLRno0MUFzQndjVUJKcmxsTWdSeEhyV2tBVDR1QzJmdnBPWFpCV3ptOQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mZU9wQ3JfRTZ5QWh5WTQxUUlOZjVsRUlBVUtta3c0MUo4LUJHZzluZW9NWlJNV0VLRno0MUFzQndjVUJKcmxsTWdSeEhyV2tBVDR1QzJmdnBPWFpCV3ptOQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "首部AI院线电影上映！观众：超预期！ - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0puU204Q3ItSDRDcXBMUmFiUUU3bk9YbjhoRHJpNDBfRGVCNm04SmF3aTU0MW1iSnhOa0k1a00xSXZyWDZhRFFtQ0J4QjZzNWowM0U1T2ktNndISkNNdHhkc0VoMmZ3RVZCaTVtRm9MZ2RXRHMzOTdGX3RLM3NFU2pNd20?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV0puU204Q3ItSDRDcXBMUmFiUUU3bk9YbjhoRHJpNDBfRGVCNm04SmF3aTU0MW1iSnhOa0k1a00xSXZyWDZhRFFtQ0J4QjZzNWowM0U1T2ktNndISkNNdHhkc0VoMmZ3RVZCaTVtRm9MZ2RXRHMzOTdGX3RLM3NFU2pNd20?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI泡沫破裂有多恐怖？分析师推演：标普500暴跌30%，还有…… - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RaXczLXhkQk5jZ0hDUGFYVWo4QUhDMzdFbzhtTmdiZkZERnpnQzhycFJHc0huOUFramYxOGN2MkxCanVQUnpaeg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RaXczLXhkQk5jZ0hDUGFYVWo4QUhDMzdFbzhtTmdiZkZERnpnQzhycFJHc0huOUFramYxOGN2MkxCanVQUnpaeg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "全球AI股惨遭拋售？摩根大通：不要慌，本轮抛售可能已近尾声 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56YjFNdG12WFg4cnZaTjFQaTVsOHQ0ZTJBYWg0UnBWMjI0Rmh0ZHNNTTlaVDJzSEJxLXNkd0FCSmxrVmFKd2tQSQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56YjFNdG12WFg4cnZaTjFQaTVsOHQ0ZTJBYWg0UnBWMjI0Rmh0ZHNNTTlaVDJzSEJxLXNkd0FCSmxrVmFKd2tQSQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "玉渊谭天：“中国AI禁令”是怎么回事 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SQnlQRlpFUU9GSEFNQ0xtM3MxMVJaNVZDRTVRRkZQWGxEQlBnU0xTM0UtZjB4dzlwb2NMdXN5dDU3ZHFKVnZyWg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1SQnlQRlpFUU9GSEFNQ0xtM3MxMVJaNVZDRTVRRkZQWGxEQlBnU0xTM0UtZjB4dzlwb2NMdXN5dDU3ZHFKVnZyWg?oc=5"
+    }
+  ]
+}
