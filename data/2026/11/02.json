@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-02",
+  "fetchedAt": "2026-11-02T01:29:36.767Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Frontier Airlines Likely Breached",
+      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
+      "score": 171,
+      "comments": 63,
+      "discuss": "https://news.ycombinator.com/item?id=50327266"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "score": 156,
+      "comments": 40,
+      "discuss": "https://news.ycombinator.com/item?id=50325253"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "score": 153,
+      "comments": 127,
+      "discuss": "https://news.ycombinator.com/item?id=50330456"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "score": 149,
+      "comments": 72,
+      "discuss": "https://news.ycombinator.com/item?id=50325662"
+    },
+    {
+      "source": "hackernews",
+      "title": "It wasn't AI that flipped Proton's charge",
+      "url": "https://blog.raed.dev/posts/proton-loser-thinking/",
+      "score": 141,
+      "comments": 81,
+      "discuss": "https://news.ycombinator.com/item?id=50328488"
+    },
+    {
+      "source": "hackernews",
+      "title": "Muse AI agent is a commercial surveillance network disguised as an AI assistant",
+      "url": "https://paulfwalsh.substack.com/p/metas-muse-ai-agent-is-a-commercial",
+      "score": 31,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=50328293"
+    },
+    {
+      "source": "hackernews",
+      "title": "The question we should all be asking about AI",
+      "url": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
+      "score": 21,
+      "comments": 19,
+      "discuss": "https://news.ycombinator.com/item?id=50325107"
+    },
+    {
+      "source": "hackernews",
+      "title": "Proton's AI manifesto for software engineering",
+      "url": "https://proton.me/blog/ai-manifesto",
+      "score": 11,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=50330353"
+    },
+    {
+      "source": "hackernews",
+      "title": "A 90% Chance of AI Saving Humanity",
+      "url": "https://joshbocanegra.medium.com/a-90-chance-of-ai-saving-humanity-bf12fb7914ee",
+      "score": 11,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=50325398"
+    },
+    {
+      "source": "hackernews",
+      "title": "Are There Problems Beyond the Reach of AI [video]",
+      "url": "https://www.youtube.com/watch?v=NWNbAEivyvs",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50329218"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Software Clones Are Coming for Big-Name Companies Like Adobe",
+      "url": "https://www.engadget.com/2302459/ai-software-clones-coming-for-big-name-companies-adobe/",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50327750"
+    },
+    {
+      "source": "hackernews",
+      "title": "Opt out of AI use at work based on religious freedoms law",
+      "url": "https://fortune.com/2026/10/30/kentucky-administrator-ai-religious-exemption-title-vii-humanism/",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50326000"
+    },
+    {
+      "source": "hackernews",
+      "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
+      "url": "https://avartha.ai/blog/introducing-avartha/",
+      "score": 5,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50330585"
+    },
+    {
+      "source": "hackernews",
+      "title": "The AI bubble could expose your deepest secrets",
+      "url": "https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50328384"
+    },
+    {
+      "source": "hackernews",
+      "title": "DIY AI Lockpicking Robot: ESP32 and Claude AI Opens Any Lock [video]",
+      "url": "https://www.youtube.com/watch?v=o4AUKGdScNI",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50327831"
+    },
+    {
+      "source": "google-news",
+      "title": "新云端：人工智能泡沫将爆破？一群小公司正加剧担忧 - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wNE5wYWtPSGs0YjR1VG8yRF9SZkFTMnFXUzg5dkhqeU4wV2hKWXpBT1FUUjNTeHBKRVdQWXlNRHFfOHFZeU5HMDU3UjZXcHNTdENuVE03SFdYX3JXbzUwNjRmbEQ5MWfSAWxBVV95cUxNOWMzWFN2RmN5SzJBMmhmOE9tNkc4VDRsWGVIbzR5QWVtdmNjVEktb3p0Rk5MOVgyNTU5UU5JWHBIaS11aUlQOU53ekFqZmEweXVPMlpnS3JGYnVVd3lMVm9SVmdGenNvU0NMQzI?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wNE5wYWtPSGs0YjR1VG8yRF9SZkFTMnFXUzg5dkhqeU4wV2hKWXpBT1FUUjNTeHBKRVdQWXlNRHFfOHFZeU5HMDU3UjZXcHNTdENuVE03SFdYX3JXbzUwNjRmbEQ5MWfSAWxBVV95cUxNOWMzWFN2RmN5SzJBMmhmOE9tNkc4VDRsWGVIbzR5QWVtdmNjVEktb3p0Rk5MOVgyNTU5UU5JWHBIaS11aUlQOU53ekFqZmEweXVPMlpnS3JGYnVVd3lMVm9SVmdGenNvU0NMQzI?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能与计算机学院2026年“AI启新篇，青春向未来”迎新晚会暨“1024程序员节”智能之夜圆满落幕 - 江南大学新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlWnVBeVJuNHNJNmJqUHNqZlBQQS1vY3kyTnE1Q0p4NzF2b0pGUFU1UHgtMHZ2ZVhnUm9mZW9XUEdsdDVqaWU5MEtKMk4tR2NwTXRzWHNxei1yZGU1R2c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlWnVBeVJuNHNJNmJqUHNqZlBQQS1vY3kyTnE1Q0p4NzF2b0pGUFU1UHgtMHZ2ZVhnUm9mZW9XUEdsdDVqaWU5MEtKMk4tR2NwTXRzWHNxei1yZGU1R2c?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "237项成果集中发布，这场活动“串”起AI 产业创新链 - 山东省工业和信息化厅",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yV3ZZeDBwZmxUT2dId1ZyLW1RdHZqSTM0U2FQeVRMdHZtQXoxM3ZHMmJuSkdPRDY1UVhpcTlidzVFZjRmSkVpVW1POElpTXZjTWVDdWxxb1YwR2NLMjd6ZGp3MTM1OEg5NDVMRUtpeGluZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yV3ZZeDBwZmxUT2dId1ZyLW1RdHZqSTM0U2FQeVRMdHZtQXoxM3ZHMmJuSkdPRDY1UVhpcTlidzVFZjRmSkVpVW1POElpTXZjTWVDdWxxb1YwR2NLMjd6ZGp3MTM1OEg5NDVMRUtpeGluZw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "原油、AI与债券：过去一个月市场交易格局彻底生变？ - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrOUtOMElPN2R5SDBaZFNuNGJBcFhpREJhRm93c0hud29MenFCNFB1ZGI1c09KcHZUTmQ5ZEN5RkJmb0FQOEpyZQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrOUtOMElPN2R5SDBaZFNuNGJBcFhpREJhRm93c0hud29MenFCNFB1ZGI1c09KcHZUTmQ5ZEN5RkJmb0FQOEpyZQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI生成的旅游攻略，究竟靠谱吗？记者实测 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcEVVdUYybjc0ek1ha2dBbVhZTFV4aE5VYnRIbjZZRE5DV0tXVUZFVmdzdVp6QnVTNGFFZjN1TEFja2VfRkdOSE5GRlpWYlR1d3QxaFVFd3dISEpaT3V3MElkRXo3YjV3ZmYwZDB3Yk1zZFk5clRLZmF4V0hDbHpsYXlQVHdvUTdpYXdlUHhwTQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcEVVdUYybjc0ek1ha2dBbVhZTFV4aE5VYnRIbjZZRE5DV0tXVUZFVmdzdVp6QnVTNGFFZjN1TEFja2VfRkdOSE5GRlpWYlR1d3QxaFVFd3dISEpaT3V3MElkRXo3YjV3ZmYwZDB3Yk1zZFk5clRLZmF4V0hDbHpsYXlQVHdvUTdpYXdlUHhwTQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "上海人工智能行业协会秘书长钟俊浩：AI眼镜不能“无节制记录” 数据全部交由企业掌控已越隐私红线 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vWkxVV2otY0g1QzZTQ1pGemxhYXI0cUtFNVczT3ZodWxyMzdHa0JKd1lVektFU2xQSGZ5NHNtOVVxWTBtZ2VyQ21vTzFQZnNPYk85RGlMQnduUmhQNXZEdHc1UlFQQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vWkxVV2otY0g1QzZTQ1pGemxhYXI0cUtFNVczT3ZodWxyMzdHa0JKd1lVektFU2xQSGZ5NHNtOVVxWTBtZ2VyQ21vTzFQZnNPYk85RGlMQnduUmhQNXZEdHc1UlFQQQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "聪明的AI，会像司马光一样“砸缸”吗？ - 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tZXNqU1hmQU9OQ0VxaGJwLWt0bjI4Y1NsWGRBdVJyN0l1WGN4Unl0emZKZHZ3UkJqY2pVcFdiTTdVdkJudnRvRHBqZVZLdEJSUjJxR2lnZ3lDMFFSVmZhbVhpV2R4Zw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tZXNqU1hmQU9OQ0VxaGJwLWt0bjI4Y1NsWGRBdVJyN0l1WGN4Unl0emZKZHZ3UkJqY2pVcFdiTTdVdkJudnRvRHBqZVZLdEJSUjJxR2lnZ3lDMFFSVmZhbVhpV2R4Zw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“发展新质生产力 强劲增量看AI”论坛将在乌镇举行 - 光明网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xd1loWmlOX3ZMWmoyem9QQUlZZXRRdnF2dWRKQ2U4NF81TDFvQWxhb3pEbnVRaEw2SkVZTk5wdlE3dmdBTmtPZHhDNmxYTW1UblZRSncxQjlOX0VaN2lxb3BMOEl4UQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xd1loWmlOX3ZMWmoyem9QQUlZZXRRdnF2dWRKQ2U4NF81TDFvQWxhb3pEbnVRaEw2SkVZTk5wdlE3dmdBTmtPZHhDNmxYTW1UblZRSncxQjlOX0VaN2lxb3BMOEl4UQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能“闯祸”，保险赔吗 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IRk1LOFY3NjNYRTNmd0hNWlJpcW9YaGpMcGZHWmV2RHMwM3dhLXVoX1owRDJvR3pxZ3ZWLXJvdHlzMjBIZVgzYlhXbVdEN0JIY3o2RVVzWXFROXFsRm40Y1FhY01JVW1h?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IRk1LOFY3NjNYRTNmd0hNWlJpcW9YaGpMcGZHWmV2RHMwM3dhLXVoX1owRDJvR3pxZ3ZWLXJvdHlzMjBIZVgzYlhXbVdEN0JIY3o2RVVzWXFROXFsRm40Y1FhY01JVW1h?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "给AI智能体换零件：当工具箱变成了插件商店 - 科技行者",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WUTR1S21zOEtlVE44ZGZsaWNfQ3FfekIwa1I0eEk1YThMV1RVVWlra1NfeDdVWVVnRl9iNFgxRjBUc1A2OGljYUZKRVo2NXVybDhVQU02UUlHMmU5WDlN?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WUTR1S21zOEtlVE44ZGZsaWNfQ3FfekIwa1I0eEk1YThMV1RVVWlra1NfeDdVWVVnRl9iNFgxRjBUc1A2OGljYUZKRVo2NXVybDhVQU02UUlHMmU5WDlN?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "吴恩达：AI风险被夸大 - 日经中文网",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOamo2bEV6X3ZuZnlfMWJFdXdoM3pZUmpabWJiNXo0WTBEYk9tYlNWTHFaU29HTGRlOEZFa3FtcVA1NFV4dVZ6bUd5ZmxYM0NYNnVKVlJnb1RoSWlEUEg1T1djb1hjTXo1YmlnbUJGdlVvZHN0Q3V4REFmNktvckFSM1hpUXA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOamo2bEV6X3ZuZnlfMWJFdXdoM3pZUmpabWJiNXo0WTBEYk9tYlNWTHFaU29HTGRlOEZFa3FtcVA1NFV4dVZ6bUd5ZmxYM0NYNnVKVlJnb1RoSWlEUEg1T1djb1hjTXo1YmlnbUJGdlVvZHN0Q3V4REFmNktvckFSM1hpUXA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI玩具上新 “玩具礼品之都”广东澄海“圈粉”全球 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvQkRPNnFRWnpPdnNib1ZSTXlTRkF2OEJoZUpZVC1wYmU2LXNLNUs3UFBqSGMxV1hQa214UzRoQUtVeERpUko3VUZkV0lFWkJLTndxWXM2RVpFakxXbDhDa3N4TGV6TlFULWpqOUtpTzFLa0NqOUpiaFpQLXczQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBvQkRPNnFRWnpPdnNib1ZSTXlTRkF2OEJoZUpZVC1wYmU2LXNLNUs3UFBqSGMxV1hQa214UzRoQUtVeERpUko3VUZkV0lFWkJLTndxWXM2RVpFakxXbDhDa3N4TGV6TlFULWpqOUtpTzFLa0NqOUpiaFpQLXczQQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "张朝阳：AI更容易破解数学 但物理没那么简单 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nTEl3S2tIbklGbWhMem8zN2liVlJuZTl0SkRaY1pmblZHN3VLMXRhZEg0MldyR1RLZTFnMnNNekxwVy14anZWRnA0R0FsTDhiSnhUWkNWY2FHRmkyNzZzeXp3YXlwdlpSQVJNUlE3bXA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nTEl3S2tIbklGbWhMem8zN2liVlJuZTl0SkRaY1pmblZHN3VLMXRhZEg0MldyR1RLZTFnMnNNekxwVy14anZWRnA0R0FsTDhiSnhUWkNWY2FHRmkyNzZzeXp3YXlwdlpSQVJNUlE3bXA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI算力产业链维持高景气度 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQNGx0MG9WRTluSC1MSkxJd3l3WDZJaTdDOEJVTnlzMzE3c0k5MVp5TmNvUUY0c21XRUxMUVNwTC15dC1HRFU1YUwtWFJ1dzFmMGZTU1doTGR3NE0zS1UyN2JDeHRBUFdxdDF6R2trdmV0bHRmWW1zaEpEWEl2ZDYxdzY4REF0NWpOMHhGeXdMNVN3czQycVFkNzJsd21TbVdlY2hidGQ2TVp1NXRfX0Zhd3lfMmxKOERlRlBxOTd5R3hrWGRpU3cxRThQUkdfdVQ0OUdTcHUyZHoyUnlxaUVnMVNsSS14c3l3WjhIV1B0Z3VmVjJGZ3RqZm5xeUdSUFp4ZTRsTk9obzdxSzRfck9UVF9DNGgwVTRGY0hv?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQNGx0MG9WRTluSC1MSkxJd3l3WDZJaTdDOEJVTnlzMzE3c0k5MVp5TmNvUUY0c21XRUxMUVNwTC15dC1HRFU1YUwtWFJ1dzFmMGZTU1doTGR3NE0zS1UyN2JDeHRBUFdxdDF6R2trdmV0bHRmWW1zaEpEWEl2ZDYxdzY4REF0NWpOMHhGeXdMNVN3czQycVFkNzJsd21TbVdlY2hidGQ2TVp1NXRfX0Zhd3lfMmxKOERlRlBxOTd5R3hrWGRpU3cxRThQUkdfdVQ0OUdTcHUyZHoyUnlxaUVnMVNsSS14c3l3WjhIV1B0Z3VmVjJGZ3RqZm5xeUdSUFp4ZTRsTk9obzdxSzRfck9UVF9DNGgwVTRGY0hv?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI助力药企开拓“药品+数字服务”新空间 - 经济参考报",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUXRHRDllMVRKODRDcTZ0Q29pYVhQMnY2aGtTMjlwd3A4eEkwZHpfSC1QMVlrSWpOYl95aHdyQ1JEUGlNVVhiZGdSbWRMWjh5Z3N4VFdCVlozMDhwSVF3d21JbmJ6TnVGVmtKWVluME00UEZ3ZEVFNnFEeWhvdHZaSQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUXRHRDllMVRKODRDcTZ0Q29pYVhQMnY2aGtTMjlwd3A4eEkwZHpfSC1QMVlrSWpOYl95aHdyQ1JEUGlNVVhiZGdSbWRMWjh5Z3N4VFdCVlozMDhwSVF3d21JbmJ6TnVGVmtKWVluME00UEZ3ZEVFNnFEeWhvdHZaSQ?oc=5"
+    }
+  ]
+}
