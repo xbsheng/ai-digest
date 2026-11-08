@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "fetchedAt": "2026-11-08T01:20:02.806Z",
+  "fetchedAt": "2026-11-08T01:25:25.950Z",
   "total": 50,
   "items": [
     {
@@ -242,6 +242,38 @@
       "score": 0,
       "comments": 0,
       "discuss": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sdFh0bU9IU2pLLWVDeHFsVnRHNW96SDVzZDV1RW9CajRPU2lkYVA0S1Y5SU1LSjhpWmc4aldwdUJiMVVuaUtmbDJsWGJBUDV2RnJldjNTY3dtZ1ZFSjNjR0Q4REg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "以AI之眼凝望 画像之外是新闻现场 - 长沙晚报",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00U0wwWl83VDZlVjRCWkR5QlgtWkhEbjBZTmRiVzJLaEdnMnZ3ZjF0TGF3di1sWFNMVjNFUnpIdGotSEYwYUQwb2tKbGw0VGEzRThvSURJdjJGY25iZ0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00U0wwWl83VDZlVjRCWkR5QlgtWkhEbjBZTmRiVzJLaEdnMnZ3ZjF0TGF3di1sWFNMVjNFUnpIdGotSEYwYUQwb2tKbGw0VGEzRThvSURJdjJGY25iZ0E?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI生成负面动漫等 一批违法违规涉军“自媒体”账号被关闭 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10XzlZVWVXMmluZHhwYU1oM0xYY3g4cEE0cHVQU2RaN0RLXzlQRVExWS01eHNBV0ZmQkRVZXM0aGFDQ3d6dWxIdG10Zm1TRFhWOVRmWXppMW9YUERJemhuZWs5cFdDaEl6?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10XzlZVWVXMmluZHhwYU1oM0xYY3g4cEE0cHVQU2RaN0RLXzlQRVExWS01eHNBV0ZmQkRVZXM0aGFDQ3d6dWxIdG10Zm1TRFhWOVRmWXppMW9YUERJemhuZWs5cFdDaEl6?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "宠物口粮谁说了算？AI大模型当上“配方师”_山东新闻 - 大众网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1OFRWenViMjFHWlN6X0lRQ2MzTXk4TC1BQWhmd2xKNm1aMlVBc09CcUt0WTRoZVlCSlcwTktBaU1NQU5wTUtZT2tuT1NNWkFZNWJzYnV5WGhhZDh1UzVaeThFdGZ2czU1?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB1OFRWenViMjFHWlN6X0lRQ2MzTXk4TC1BQWhmd2xKNm1aMlVBc09CcUt0WTRoZVlCSlcwTktBaU1NQU5wTUtZT2tuT1NNWkFZNWJzYnV5WGhhZDh1UzVaeThFdGZ2czU1?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "《“人工智能+媒体”全球发展年度蓝皮书（2026）》智库报告发布 - 凤凰网山东",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqaVV3TnJEUVh0XzZkZEVNWm5nRVA0S2t5bzZpOHBaM2QtS1AwazcxMHJrQVE4QUZOYm9XZnZYeUM4S05TbjExNnB3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBqaVV3TnJEUVh0XzZkZEVNWm5nRVA0S2t5bzZpOHBaM2QtS1AwazcxMHJrQVE4QUZOYm9XZnZYeUM4S05TbjExNnB3?oc=5"
     }
   ]
 }
