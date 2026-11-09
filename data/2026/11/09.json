@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-09",
+  "fetchedAt": "2026-11-09T01:43:21.883Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "score": 150,
+      "comments": 127,
+      "discuss": "https://news.ycombinator.com/item?id=50416363"
+    },
+    {
+      "source": "hackernews",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "score": 89,
+      "comments": 108,
+      "discuss": "https://news.ycombinator.com/item?id=50415817"
+    },
+    {
+      "source": "hackernews",
+      "title": "Drones built to look like birds evaded detection at Air Force tech exercise",
+      "url": "https://taskandpurpose.com/news/drone-mimicking-bird-test/",
+      "score": 54,
+      "comments": 41,
+      "discuss": "https://news.ycombinator.com/item?id=50413885"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "score": 34,
+      "comments": 58,
+      "discuss": "https://news.ycombinator.com/item?id=50414021"
+    },
+    {
+      "source": "hackernews",
+      "title": "Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers",
+      "url": "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html",
+      "score": 15,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=50413229"
+    },
+    {
+      "source": "hackernews",
+      "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+      "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+      "score": 14,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50416103"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI stance is not binary",
+      "url": "https://carette.xyz/posts/ai-stance-is-not-binary/",
+      "score": 10,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50413632"
+    },
+    {
+      "source": "hackernews",
+      "title": "ThinkStream – AI generates the work. We still need to understand it",
+      "url": "https://thinkstream.app/",
+      "score": 10,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50411638"
+    },
+    {
+      "source": "hackernews",
+      "title": "I Resist Generative \"AI\"",
+      "url": "https://estherweidauer.com/articles/why-resist-generative-ai.html",
+      "score": 9,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50413357"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Email-like interface to review, decide, and annotate agent work",
+      "url": "https://plannotator.ai/inbox/",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50415476"
+    },
+    {
+      "source": "hackernews",
+      "title": "70% of Brits say please or thank you when speaking to AI, some even apologize",
+      "url": "https://www.techradar.com/pro/70-percent-of-brits-say-please-or-thank-you-when-speaking-to-ai-and-some-even-apologize",
+      "score": 7,
+      "comments": 10,
+      "discuss": "https://news.ycombinator.com/item?id=50410796"
+    },
+    {
+      "source": "hackernews",
+      "title": "Canada's AI translation tool keeps making hilarious mistakes",
+      "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes/",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50415905"
+    },
+    {
+      "source": "hackernews",
+      "title": "One of Classical Music's Biggest Stars Says AI Is Degrading Our Taste",
+      "url": "https://www.bloomberg.com/features/2026-max-richter-weekend-interview/",
+      "score": 6,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50414699"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Alignment Considered Harmful",
+      "url": "http://togelius.blogspot.com/2026/11/ai-alignment-considered-harmful.html",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50412294"
+    },
+    {
+      "source": "hackernews",
+      "title": "Torrents Are Perfect for Model Distribution",
+      "url": "https://pirateface.co/articles/every-ai-model-should-be-a-torrent",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50415720"
+    },
+    {
+      "source": "google-news",
+      "title": "某知名互联网公司限制员工使用外部AI？知情人士这样回应 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2RBY1N1TURubmpSTkpJaXp3ZGpVVkY1SXVVUHVZYnhacjlUeEhiT2o1S3gtMHpjMWNuQzJDWWNLWUdBcWN5SmNWVERRVEJHNEdsSm9xV3VKa1ZMLWxPRXJ3S1ZwYU5sRVlwVHUyekpXUndiV3FHZ1I4TDJpci1UX1J2NUtDbFBXVWpqMktIbVNHdkhCTkhsV3ZB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2RBY1N1TURubmpSTkpJaXp3ZGpVVkY1SXVVUHVZYnhacjlUeEhiT2o1S3gtMHpjMWNuQzJDWWNLWUdBcWN5SmNWVERRVEJHNEdsSm9xV3VKa1ZMLWxPRXJ3S1ZwYU5sRVlwVHUyekpXUndiV3FHZ1I4TDJpci1UX1J2NUtDbFBXVWpqMktIbVNHdkhCTkhsV3ZB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "CoreWeave债券收益率飙破16% AI狂潮最大的灰犀牛要来？ - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNdnRLZ0lTVnZ1WXFuNUxoSVVIdVQycmN3bGJWV2c3MTBRN3E3dWR6NDF1R0ZSYXloTDNNYU1BUGxIRWtaN1pqag?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNdnRLZ0lTVnZ1WXFuNUxoSVVIdVQycmN3bGJWV2c3MTBRN3E3dWR6NDF1R0ZSYXloTDNNYU1BUGxIRWtaN1pqag?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "书里长出“双头虾”，病根不在AI（纵横） - 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMm8yTVAtQmZLMHFSQjV2cDUxVE1SMjQxaVlnd0s5WWt1WUtxSTdmQ09GakdEZGc2bVpENXN3cFBxUXJRM1Fial9aenhTdEROY2lRaTEwRC1hcFRTUENzLWF4aDJUaW5iQWswamxGTWdoMHM5MXNhZUpjLVFJbjQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMm8yTVAtQmZLMHFSQjV2cDUxVE1SMjQxaVlnd0s5WWt1WUtxSTdmQ09GakdEZGc2bVpENXN3cFBxUXJRM1Fial9aenhTdEROY2lRaTEwRC1hcFRTUENzLWF4aDJUaW5iQWswamxGTWdoMHM5MXNhZUpjLVFJbjQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "第七届世界媒体峰会上 与会嘉宾热议智能变革中的媒体使命与合作行动 AI时代 值得信赖的新闻业更珍贵 - 北京市人民政府门户网站",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XT25tYmlfNmViMVRMRHB4NlpCcURTQU9ub0tJM2paRUlFQm9nN255V0RLWXg5LTVsZDlXSWNLeVVFRnZnTFY3aEU5cGRIZm9ILWgxRjJ6UVI2MmkzN1FMa0pHZU1lNDJuYXdlNW51NFBZS043?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XT25tYmlfNmViMVRMRHB4NlpCcURTQU9ub0tJM2paRUlFQm9nN255V0RLWXg5LTVsZDlXSWNLeVVFRnZnTFY3aEU5cGRIZm9ILWgxRjJ6UVI2MmkzN1FMa0pHZU1lNDJuYXdlNW51NFBZS043?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "香港对接「人工智能+」行动 蔡杰铭：北都以基建与产业协同推进创科发展 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Deno4cTZRY2ZoQVRHaXRCekdMNnpCbTJvOW9fUml4eXVDRlRsNnAtaWlJcXpXS21SYmhMZTZ2N2ZUcDJmVmtPd3ZuZlRNMG9KR2hNX3l5U3dBSHUydjNHOFZR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Deno4cTZRY2ZoQVRHaXRCekdMNnpCbTJvOW9fUml4eXVDRlRsNnAtaWlJcXpXS21SYmhMZTZ2N2ZUcDJmVmtPd3ZuZlRNMG9KR2hNX3l5U3dBSHUydjNHOFZR?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI短剧商业兑现提速 AI视频赛道景气向好 多股获资金青睐(名单) - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vdVVTVUxXY2p6RU82OGdjeGIzUG1hZnE1Q0JtZEM0SUh1TDBuUVN0b1ZKQkdvVTRlazJzdExlUmZMUTk0cWRyakEzd1c1QTd1bXJ6Vkg4Z005RzVpVEprTQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vdVVTVUxXY2p6RU82OGdjeGIzUG1hZnE1Q0JtZEM0SUh1TDBuUVN0b1ZKQkdvVTRlazJzdExlUmZMUTk0cWRyakEzd1c1QTd1bXJ6Vkg4Z005RzVpVEprTQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "新跃升、新变革，“人工智能+媒体”这样发展 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oSGY2VEtQVlNzS3pqcGJlVk9rdkdpRWY5cEF0b0pDU2NvbHhtWW50QkhSOFlzYkVFNHdCWGszMXAyVFdLOXVkblhoZ2lEVmRveUdwUzA2RWYyTFNFQjJzUWRTT3c2YWNXZl9xLVEtYXI4aDk2S3VJ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oSGY2VEtQVlNzS3pqcGJlVk9rdkdpRWY5cEF0b0pDU2NvbHhtWW50QkhSOFlzYkVFNHdCWGszMXAyVFdLOXVkblhoZ2lEVmRveUdwUzA2RWYyTFNFQjJzUWRTT3c2YWNXZl9xLVEtYXI4aDk2S3VJ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "新跃升、新变革，“人工智能+媒体”这样发展 - 中证网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45b2JObTN3bUxGQWxEOVUtRlA2UzhHcVlaMnktamdocWxaUTJ5QndaUjVMSXJRX0lpY29mbnNieUhYbHlUcDZ2QUJuNWhRNDM0M3pqUXZYbjBWbVVXRUpVQVcxRFRpMHBENHZWSXFMZkxydmFPRDc4Rg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45b2JObTN3bUxGQWxEOVUtRlA2UzhHcVlaMnktamdocWxaUTJ5QndaUjVMSXJRX0lpY29mbnNieUhYbHlUcDZ2QUJuNWhRNDM0M3pqUXZYbjBWbVVXRUpVQVcxRFRpMHBENHZWSXFMZkxydmFPRDc4Rg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能贸易正处于十字路口：谁将赢得人工智能革命的下一阶段？ - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3U0bkZtX3hwQ3VjR2pwWXR1ZFlBWVNwc1B5eVJqYzhaWVZiVnhRTVR3UW9hUVlOc3h3QmhqZ21YRzRfWFFtTzJJSjJBNHNINFlDR3hLOVcxVWdBLXFBMmtqMjV5MGp0WjJqMUlQazlGSTJzZmdidDYzN1RGVnhKSzRDLWY0U3pSRlhpbWYwZW15dDVGQ0VoRVdTUC01U3lkbS1ILUdB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3U0bkZtX3hwQ3VjR2pwWXR1ZFlBWVNwc1B5eVJqYzhaWVZiVnhRTVR3UW9hUVlOc3h3QmhqZ21YRzRfWFFtTzJJSjJBNHNINFlDR3hLOVcxVWdBLXFBMmtqMjV5MGp0WjJqMUlQazlGSTJzZmdidDYzN1RGVnhKSzRDLWY0U3pSRlhpbWYwZW15dDVGQ0VoRVdTUC01U3lkbS1ILUdB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI交易“风向标”：Meta发债“一波三折” - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UV21tSzM4UDJjQmNkN1E1dElieVZKbU12a3JQanpkQzV1RExHV3prTVh0Z0c4dXc0UHhxQmdfbGZQU1M4Qi1CdWtHTGpXOGFWUWR3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UV21tSzM4UDJjQmNkN1E1dElieVZKbU12a3JQanpkQzV1RExHV3prTVh0Z0c4dXc0UHhxQmdfbGZQU1M4Qi1CdWtHTGpXOGFWUWR3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "刷到停不下来但感觉“脑子变笨”：AI短剧“勾”住你了吗？ - 广州日报新花城",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWmpoVzJqYi1GMEpnQkNoMHo4ZE9iejI4ZVdIVzdBN2YwSjZ1b1JuRVExeW1iMjZ1bFpQdS16UVFLeTFRd24zQWFmMkFJSzVWQ3NrVTJLbVpIUlhINjVHV3JUZnFDN1Q2RVpMWUpQa3lzc2ZVS2F5QkVhaXY1cnV5ekNrOXdYZVF0V0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWmpoVzJqYi1GMEpnQkNoMHo4ZE9iejI4ZVdIVzdBN2YwSjZ1b1JuRVExeW1iMjZ1bFpQdS16UVFLeTFRd24zQWFmMkFJSzVWQ3NrVTJLbVpIUlhINjVHV3JUZnFDN1Q2RVpMWUpQa3lzc2ZVS2F5QkVhaXY1cnV5ekNrOXdYZVF0V0E?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "打蚊子、陪聊天、认小鸟 中国AI消费品海外走俏 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiVzB5WktXTHF1enVMM005RWtFRjVGc1BtX3RxaFF2dVBsVkdUREt3Y2M3UDFaQlR4Z3ktM1ZCRjRmVFRMdW1kNFNvam1ScmVhZDNKQTZBdVViSTBsMmZFeTJXNFNIblNa?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiVzB5WktXTHF1enVMM005RWtFRjVGc1BtX3RxaFF2dVBsVkdUREt3Y2M3UDFaQlR4Z3ktM1ZCRjRmVFRMdW1kNFNvam1ScmVhZDNKQTZBdVViSTBsMmZFeTJXNFNIblNa?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "徐飞谈AI时代的认知升级与能力培养 - 中国教育在线",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55dkQwaHNnYVM1WUxTVXFRUmxadndSWC1RUllkZ3pNbmFyRGVzQVRyVXJMQ1owXzRoVGMyZFo0OGpKVGRqYVY0b3dOZm5KclRjbi1WdG5LZ21YZjFPWURqOTJKSE1WMXFqR3FZ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55dkQwaHNnYVM1WUxTVXFRUmxadndSWC1RUllkZ3pNbmFyRGVzQVRyVXJMQ1owXzRoVGMyZFo0OGpKVGRqYVY0b3dOZm5KclRjbi1WdG5LZ21YZjFPWURqOTJKSE1WMXFqR3FZ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "晶泰控股：与皮尔法伯开展人工智能驱动药物发现合作 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JbVN2QW1xSnp3dG9oUjZMQVJUdURMVWRMakh6MHBudk5UOWY4dUFHYkkyNXNHSmI0aGVfbXJuVmdoZEQ3RmVzOThpS2p0SmQ0R1dIN1ZMUW0tdDlfVDM3OE9oNVI?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JbVN2QW1xSnp3dG9oUjZMQVJUdURMVWRMakh6MHBudk5UOWY4dUFHYkkyNXNHSmI0aGVfbXJuVmdoZEQ3RmVzOThpS2p0SmQ0R1dIN1ZMUW0tdDlfVDM3OE9oNVI?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Meta拟未来数周在英国推出Muse AI助手 将宣布零售商合作 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tR0NhbHhlamlsbkhsaURuM0UyenVsV2VMMEFVNF9USDBWWGpPRnoyOEhvYTI5bEJ3aDQzc0p1WGRfVHlDaWtweE9kSUtndkZyRVhiU3p0U3JQWU9aLUgxQUZR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tR0NhbHhlamlsbkhsaURuM0UyenVsV2VMMEFVNF9USDBWWGpPRnoyOEhvYTI5bEJ3aDQzc0p1WGRfVHlDaWtweE9kSUtndkZyRVhiU3p0U3JQWU9aLUgxQUZR?oc=5"
+    }
+  ]
+}
