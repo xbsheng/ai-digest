@@ -1,0 +1,427 @@
+{
+  "date": "2026-11-11",
+  "fetchedAt": "2026-11-11T01:55:01.815Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "score": 263,
+      "comments": 77,
+      "discuss": "https://news.ycombinator.com/item?id=50443812"
+    },
+    {
+      "source": "hackernews",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "score": 107,
+      "comments": 90,
+      "discuss": "https://news.ycombinator.com/item?id=50446520"
+    },
+    {
+      "source": "hackernews",
+      "title": "What objective is reasoning solving?",
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "score": 102,
+      "comments": 45,
+      "discuss": "https://news.ycombinator.com/item?id=50445013"
+    },
+    {
+      "source": "hackernews",
+      "title": "An Open Field Guide to Inference Engineering",
+      "url": "https://docs.modelplane.ai/guides/inference-guide",
+      "score": 71,
+      "comments": 8,
+      "discuss": "https://news.ycombinator.com/item?id=50443714"
+    },
+    {
+      "source": "hackernews",
+      "title": "Saltline: First-person shooter built by Fable 5.2",
+      "url": "https://claude.ai/artifact/BGY1SztrAYcJQHSsnHHGmp",
+      "score": 55,
+      "comments": 62,
+      "discuss": "https://news.ycombinator.com/item?id=50444850"
+    },
+    {
+      "source": "hackernews",
+      "title": "Work at the Frontier: AI's effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "score": 35,
+      "comments": 20,
+      "discuss": "https://news.ycombinator.com/item?id=50443838"
+    },
+    {
+      "source": "hackernews",
+      "title": "How do you keep up quality when you vibe-code?",
+      "url": "https://news.ycombinator.com/item?id=50444380",
+      "score": 23,
+      "comments": 19,
+      "discuss": "https://news.ycombinator.com/item?id=50444380"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: TheoremSmith: Mass-Producing Hard Proof Problems to Train LLMs",
+      "url": "https://charleshuang.me/2026/09/27/theoremsmith/",
+      "score": 10,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50444276"
+    },
+    {
+      "source": "hackernews",
+      "title": "Alice Huang reportedly instrumental in securing over $7.5B of Nvidia imports",
+      "url": "https://www.tomshardware.com/tech-industry/policy/alice-huang-reportedly-instrumental-in-securing-over-usd7-5-billion-of-nvidia-ai-gpu-imports-during-three-year-relationship-with-jensen-huang-helped-move-240-000-banned-chips-into-china-mostly-h100-and-h200",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50447605"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HR: Systems Engineering's Senior Pipeline Crisis",
+      "url": "https://news.ycombinator.com/item?id=50446617",
+      "score": 7,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=50446617"
+    },
+    {
+      "source": "hackernews",
+      "title": "My AI Agents Found an Unmapped Maya Site",
+      "url": "https://pietromiotti.com/latest/maya-site/",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50446316"
+    },
+    {
+      "source": "hackernews",
+      "title": "Australia considers criminal charges for AI companies that fail to prevent harm",
+      "url": "https://www.abc.net.au/news/2026-11-11/australia-considers-criminal-charges-for-ai-companies/107368676",
+      "score": 5,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50448271"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI is an information gateway. Audiences still don't want it making their news",
+      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "score": 5,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50448174"
+    },
+    {
+      "source": "hackernews",
+      "title": "I Am a Silicon Valley Pioneer. We Are Sabotaging Ourselves",
+      "url": "https://www.nytimes.com/2026/11/09/opinion/ai-anthropic-doom-conscious.html",
+      "score": 5,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50446673"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: AI agents that barter your stuff for things you want",
+      "url": "https://barterpilot.com/",
+      "score": 5,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50446649"
+    },
+    {
+      "source": "arxiv",
+      "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
+      "url": "http://arxiv.org/abs/2611.12884v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Zhaoying Pan, Yipei Wang, Shenyu Lu",
+      "discuss": "http://arxiv.org/abs/2611.12884v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
+      "url": "http://arxiv.org/abs/2611.12880v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Majdi Hassan, Marta Skreta, Dominique Beaini",
+      "discuss": "http://arxiv.org/abs/2611.12880v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
+      "url": "http://arxiv.org/abs/2611.12878v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Sreejeet Maity, Aritra Mitra",
+      "discuss": "http://arxiv.org/abs/2611.12878v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+      "url": "http://arxiv.org/abs/2611.12872v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Haozhen Zhang, Bohan Liu, Jianzhu Bao",
+      "discuss": "http://arxiv.org/abs/2611.12872v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection",
+      "url": "http://arxiv.org/abs/2611.12871v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Amey Pasarkar, Adji Bousso Dieng",
+      "discuss": "http://arxiv.org/abs/2611.12871v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
+      "url": "http://arxiv.org/abs/2611.12869v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Julia Herbst, Simon Roschmann, Quentin Bouniot",
+      "discuss": "http://arxiv.org/abs/2611.12869v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
+      "url": "http://arxiv.org/abs/2611.12865v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Xinjie Shen",
+      "discuss": "http://arxiv.org/abs/2611.12865v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Is Persona Generalization Predictable?",
+      "url": "http://arxiv.org/abs/2611.12864v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Olina Mukherjee, Arnav Goel, Aditi Raghunathan",
+      "discuss": "http://arxiv.org/abs/2611.12864v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+      "url": "http://arxiv.org/abs/2611.12856v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Zheng Jiang, Fang Niu, Bo Peng",
+      "discuss": "http://arxiv.org/abs/2611.12856v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching",
+      "url": "http://arxiv.org/abs/2611.12852v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Tianze Luo, Haofeng Huang, Yuan Yao",
+      "discuss": "http://arxiv.org/abs/2611.12852v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Mitigating Agentic Deception via Evaluation-Side Partially Observable Games",
+      "url": "http://arxiv.org/abs/2611.12835v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Hanxiao Li, Shutong Liu, Yongjia Ma",
+      "discuss": "http://arxiv.org/abs/2611.12835v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
+      "url": "http://arxiv.org/abs/2611.12834v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Priya Dhawka, Benjamin Wilson, Andrew Head",
+      "discuss": "http://arxiv.org/abs/2611.12834v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts",
+      "url": "http://arxiv.org/abs/2611.12832v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Chang Lu, Mengjiao Zhang",
+      "discuss": "http://arxiv.org/abs/2611.12832v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2611.12825v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jihwan Jeong, Guy Tennenholtz, Yinlam Chow",
+      "discuss": "http://arxiv.org/abs/2611.12825v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "How Well Does AI Peer Review Work? A Benchmark Built from 100 Planted Errors",
+      "url": "http://arxiv.org/abs/2611.12820v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Paul Litvak",
+      "discuss": "http://arxiv.org/abs/2611.12820v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation",
+      "url": "http://arxiv.org/abs/2611.12817v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Johanna Topalis, Yannick Lemaréchal, Gabriel Couture",
+      "discuss": "http://arxiv.org/abs/2611.12817v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Automated Knowledge Acquisition Pipeline for Disassembly Instructions: A Comparison of NLP and Generative AI Frameworks",
+      "url": "http://arxiv.org/abs/2611.12816v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Tim Schnieders, Tareq Maximilian Gabriel Ahrari, Oliver Petrovic",
+      "discuss": "http://arxiv.org/abs/2611.12816v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Inversion-Free High-Dimensional Counterfactual Inference",
+      "url": "http://arxiv.org/abs/2611.12815v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Saketh Vishnubhatla, Pingchuan Ma, Shu Wan",
+      "discuss": "http://arxiv.org/abs/2611.12815v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients",
+      "url": "http://arxiv.org/abs/2611.12814v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Matthew Flathers, Jill Noorily, Phuong Anh Nguyen",
+      "discuss": "http://arxiv.org/abs/2611.12814v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling",
+      "url": "http://arxiv.org/abs/2611.12805v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Aarya Bhave, Anushka Ajay Bhave",
+      "discuss": "http://arxiv.org/abs/2611.12805v1"
+    },
+    {
+      "source": "google-news",
+      "title": "外资企业“联合创新” 共享中国AI发展新机遇 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pLWdlT2Z6eTc0YTdqZDVBeklSbzFBVmhEQUNkbEF5ajJTUURIai0zSlB6d2s1LUV0QTJtTlVNNHh4UXdPNHZxNHU5TnFPNVRLU1lZN0NhTml1eVBRMTNqTFB1UzA0a1lFSldKLXgzTG80Y3lMaGQtMlljbUNTcnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pLWdlT2Z6eTc0YTdqZDVBeklSbzFBVmhEQUNkbEF5ajJTUURIai0zSlB6d2s1LUV0QTJtTlVNNHh4UXdPNHZxNHU5TnFPNVRLU1lZN0NhTml1eVBRMTNqTFB1UzA0a1lFSldKLXgzTG80Y3lMaGQtMlljbUNTcnc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能与计算机学院举行第三届“青马工程”培训班结营仪式 - 江南大学新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04elJlS2NrX1pCakZvUmQ2blB3TFRVYmJsWEVwOFFVSDRQV1BlSEtYNUZIbFoyVnlxZkF5b1BsVnJkWUFkSjdvOFEtZXhaNS1ka09ZYWJJVi1wNi03Ymc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04elJlS2NrX1pCakZvUmQ2blB3TFRVYmJsWEVwOFFVSDRQV1BlSEtYNUZIbFoyVnlxZkF5b1BsVnJkWUFkSjdvOFEtZXhaNS1ka09ZYWJJVi1wNi03Ymc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "治理AI换脸侵权迫在眉睫 - 中国经济网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UdkNGc1l2a3Jnc2NweDY0ZlJJMHV4SkRhdEl6QW5yMnRJQmFTZ3hMazRfMXQxYnVnTkJoUTZnNnJ6LUxJMVNjRVJRVFItcXM1ZG5SYm1Xc3RzZHlDYWtB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UdkNGc1l2a3Jnc2NweDY0ZlJJMHV4SkRhdEl6QW5yMnRJQmFTZ3hMazRfMXQxYnVnTkJoUTZnNnJ6LUxJMVNjRVJRVFItcXM1ZG5SYm1Xc3RzZHlDYWtB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "你囤Token了吗？“双十一”AI消费套路避坑指南 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxWm5ZbGJGOC14emhJQkczbjUzYmFCQnduVmE3S29sblVlcmQtRXZRR1gxSXk1TWY2amNlWFczaU45THZWbDJrNk5tNi10RUF0RTRQSnh6dzZWZms3dmdVMS1sZVNfYkJT?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxWm5ZbGJGOC14emhJQkczbjUzYmFCQnduVmE3S29sblVlcmQtRXZRR1gxSXk1TWY2amNlWFczaU45THZWbDJrNk5tNi10RUF0RTRQSnh6dzZWZms3dmdVMS1sZVNfYkJT?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "阿里确认分拆平头哥独立上市，国内AI芯片出货第二 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWVXFVaTI1Q3hRV1h2U2Q5VS1Ed01WY3FMdWQxM2p6Q3VaZWFnVnY5MENiY3EtY3VVczI2RjVZdUdOdEpFRXN3aUlSSDZ2ck8wbHZGeUVGX05OVEVoZUFMM2VMZHY?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWVXFVaTI1Q3hRV1h2U2Q5VS1Ed01WY3FMdWQxM2p6Q3VaZWFnVnY5MENiY3EtY3VVczI2RjVZdUdOdEpFRXN3aUlSSDZ2ck8wbHZGeUVGX05OVEVoZUFMM2VMZHY?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "IPO路演日加码企业办公市场！Anthropic推出多款AI工具，正面挑战微软Office - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBucXlqM0xCYXZYTWlwNE5SaU5VeTJQUWRSODh3WW5LclhpbHJCQW1BaFFVX3NfTzJQcnZQaExTNDVQbVhUUGVjZlhQcGpwdkhhaVJJ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBucXlqM0xCYXZYTWlwNE5SaU5VeTJQUWRSODh3WW5LclhpbHJCQW1BaFFVX3NfTzJQcnZQaExTNDVQbVhUUGVjZlhQcGpwdkhhaVJJ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "多位专家解读：AI之于人类文明 是危机还是助力？ - 中新经纬",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUF9Xc2JMbUNTbnlXZld1bW5rbTd4WnpQOVA3SGIxdEFqRkhMLTBUeU9DMmNxdFF1NGJiN0daa005WXdQbk1kOUZFcDRSNS1vYXRqZDEyV0x0ckFpUE5qOG52ZHM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRUF9Xc2JMbUNTbnlXZld1bW5rbTd4WnpQOVA3SGIxdEFqRkhMLTBUeU9DMmNxdFF1NGJiN0daa005WXdQbk1kOUZFcDRSNS1vYXRqZDEyV0x0ckFpUE5qOG52ZHM?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能+交通运输场景加速落地 - 新湖南",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBQUEwSTVoamZvNF9XU0UwVW9VY1hkNWZPdHpFaHJKbDVyMzI3UjNtcXdISWlPd0o4WkpfVl8xTkZ1OVdzb1pycFRpTWFIRHBlSXRNeTdNR3ktNUxiM0VV?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBQUEwSTVoamZvNF9XU0UwVW9VY1hkNWZPdHpFaHJKbDVyMzI3UjNtcXdISWlPd0o4WkpfVl8xTkZ1OVdzb1pycFRpTWFIRHBlSXRNeTdNR3ktNUxiM0VV?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "23部门联合发文！浙江加快“人工智能+消费”发展 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5QUFFmem9wb2lSbHpzOWJ4UjZyZUkwUy02WW5vSkxKMXJWNmp1eDIweXYzWTAtTEFqbG5ZSWVtcTllNVFwTUJ5M2l3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5QUFFmem9wb2lSbHpzOWJ4UjZyZUkwUy02WW5vSkxKMXJWNmp1eDIweXYzWTAtTEFqbG5ZSWVtcTllNVFwTUJ5M2l3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI时代的电与网 - 浙江新闻",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mR0xlRE1NV0p0ck9rWVp0WEo4T3JPTUJ4cXFjc0wyVzRaNTR3UTlkUTQ0ZWRVYlRVRW8wa3RaNHVORUl1cjhEcGo0NTNJeU1TeGQzeU5Da042ZEJZQmZyNmtybFlxQWdydS1OQlc0dlJybUk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mR0xlRE1NV0p0ck9rWVp0WEo4T3JPTUJ4cXFjc0wyVzRaNTR3UTlkUTQ0ZWRVYlRVRW8wa3RaNHVORUl1cjhEcGo0NTNJeU1TeGQzeU5Da042ZEJZQmZyNmtybFlxQWdydS1OQlc0dlJybUk?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "6人草台小队AI短剧《持械入宋》播放量破120亿次 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlLTM1VThqc2lQMnhURXJoejhWTUV2d0VhMGhyclk5WDl2OVFDRGVZbTBweVN1RjE0NXRibnZVUi1HVVZtLUVLcTJvWGdqR0ZBMU5lSVRpWXlibVJZRXFydWlB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlLTM1VThqc2lQMnhURXJoejhWTUV2d0VhMGhyclk5WDl2OVFDRGVZbTBweVN1RjE0NXRibnZVUi1HVVZtLUVLcTJvWGdqR0ZBMU5lSVRpWXlibVJZRXFydWlB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "10月出口延续高增：AI拉动近四成增长，明年芯片涨价效应或减弱 - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84S0JncjFsT0N0eW5abjB6UGdYbFdPUFhrU3NaR0gwVWJGTEJIZExROTRGS3h3U3lQazh4NzZoeHVBckw2dG9TWnFHWjZhX2NVanZrbVV0UFZQejQ4d2VFVm5R?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84S0JncjFsT0N0eW5abjB6UGdYbFdPUFhrU3NaR0gwVWJGTEJIZExROTRGS3h3U3lQazh4NzZoeHVBckw2dG9TWnFHWjZhX2NVanZrbVV0UFZQejQ4d2VFVm5R?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "规则做减法 AI做加法 今年“双11”，安静下来 理性起来 - 每日甘肃网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44VV9HbkhXWFRSTDBXYy1SLW1nR2F6dWJRQ3k0N0x4Y1pTand1M1VVa2xCSE5ldmtxTGJ5UG83NDRiMUhLeURpR0VxMVBYdGd5ZnNURE51NDQ0QVFjZ3ZncU5RQnBnVW9mSzRKeUxOQ0NMYU0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44VV9HbkhXWFRSTDBXYy1SLW1nR2F6dWJRQ3k0N0x4Y1pTand1M1VVa2xCSE5ldmtxTGJ5UG83NDRiMUhLeURpR0VxMVBYdGd5ZnNURE51NDQ0QVFjZ3ZncU5RQnBnVW9mSzRKeUxOQ0NMYU0?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "记者亲测：AI“卖家秀”和实物，竟然“一模不一样” - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nallueDYzVUZDNEZJODJMbmp4cHB1WDY5TTZ2QW5LaGFWWE9JVXRuNkpLV3R2WVM0RjJ0aC1CTm5JVjJxWGlMREFQMGNPRUZPU001MGh4X1o0dzNwT3c?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nallueDYzVUZDNEZJODJMbmp4cHB1WDY5TTZ2QW5LaGFWWE9JVXRuNkpLV3R2WVM0RjJ0aC1CTm5JVjJxWGlMREFQMGNPRUZPU001MGh4X1o0dzNwT3c?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "全球人工智能创新治理中心受邀参加2026越南国际数字周活动 - 复旦发展研究院",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83SGVQaldZMThBODBobkRhM1E3bnRkOEEwbHhTR3NVWGtaVEQ4d1VHUklXX0hSQVBnV05zMnpmTW1GU0w5NEdKVm9tVWFIWUoxQXpFSlJfYmtxNExLWG1RZVIwNEs?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83SGVQaldZMThBODBobkRhM1E3bnRkOEEwbHhTR3NVWGtaVEQ4d1VHUklXX0hSQVBnV05zMnpmTW1GU0w5NEdKVm9tVWFIWUoxQXpFSlJfYmtxNExLWG1RZVIwNEs?oc=5"
+    }
+  ]
+}
