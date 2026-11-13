@@ -1,0 +1,239 @@
+{
+  "date": "2026-11-13",
+  "fetchedAt": "2026-11-13T02:36:56.888Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "score": 472,
+      "comments": 300,
+      "discuss": "https://news.ycombinator.com/item?id=50471431"
+    },
+    {
+      "source": "hackernews",
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "score": 179,
+      "comments": 51,
+      "discuss": "https://news.ycombinator.com/item?id=50474883"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "score": 110,
+      "comments": 105,
+      "discuss": "https://news.ycombinator.com/item?id=50474311"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why You Should Expect an AI Crash",
+      "url": "https://www.economist.com/leaders/2026/11/12/why-you-should-expect-an-ai-crash",
+      "score": 82,
+      "comments": 67,
+      "discuss": "https://news.ycombinator.com/item?id=50475735"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "score": 79,
+      "comments": 18,
+      "discuss": "https://news.ycombinator.com/item?id=50471650"
+    },
+    {
+      "source": "hackernews",
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "score": 68,
+      "comments": 18,
+      "discuss": "https://news.ycombinator.com/item?id=50475713"
+    },
+    {
+      "source": "hackernews",
+      "title": "Chicago schools to Google – we'd rather lose Search than be forced to accept AI",
+      "url": "https://www.techspot.com/news/114532-chicago-schools-tell-google-they-can-live-without.html",
+      "score": 54,
+      "comments": 18,
+      "discuss": "https://news.ycombinator.com/item?id=50476586"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Kapso – Iterative learning from enterprise data",
+      "url": "https://news.ycombinator.com/item?id=50471281",
+      "score": 38,
+      "comments": 10,
+      "discuss": "https://news.ycombinator.com/item?id=50471281"
+    },
+    {
+      "source": "hackernews",
+      "title": "Relate – the agent-native graph database",
+      "url": "https://relatedb.ai/",
+      "score": 21,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=50472738"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
+      "url": "https://blog.cip.org/p/ai-models-know-what-women-peace-and",
+      "score": 21,
+      "comments": 25,
+      "discuss": "https://news.ycombinator.com/item?id=50470975"
+    },
+    {
+      "source": "hackernews",
+      "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "score": 18,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50471673"
+    },
+    {
+      "source": "hackernews",
+      "title": "The internet won't necessarily go dark. It could simply stop working",
+      "url": "https://www.washingtonpost.com/opinions/2026/11/12/ai-is-exposing-internets-cybersecurity-vulnerabilities/",
+      "score": 16,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=50473978"
+    },
+    {
+      "source": "hackernews",
+      "title": "Washing dishes at Denny's to rockstar of AI, the rise and fall of Jensen Huang",
+      "url": "https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile",
+      "score": 15,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50471652"
+    },
+    {
+      "source": "hackernews",
+      "title": "Top Chinese AI labs built their newest models on Nvidia's Blackwell chips",
+      "url": "https://twitter.com/willdepue/status/2120992457630326841",
+      "score": 11,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=50474813"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能时代，技能人才何为（连线评论员） - 人民日报",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQakUzNjNkeERKYlhGTmpCSXVpa2FTQVp1YW1xS29ibEdBdktkeVFKWnZmbnNpTmg2UThVYVBGWEFKbGxyVDZfSWs0RFk0eG9IMXQ2SGdYRmtTNGhYYUN3anNrUFhucUNiNjE2UnlJb1BjVUs1SFZFeU5iYjdoeE1oRA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQakUzNjNkeERKYlhGTmpCSXVpa2FTQVp1YW1xS29ibEdBdktkeVFKWnZmbnNpTmg2UThVYVBGWEFKbGxyVDZfSWs0RFk0eG9IMXQ2SGdYRmtTNGhYYUN3anNrUFhucUNiNjE2UnlJb1BjVUs1SFZFeU5iYjdoeE1oRA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI黑灯实验室，不止于“无人做实验” - 南京信息工程大学",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WFlrbG9vU2w0VFRxOXVkS1JoempsMGhDeUNDVlAwU1E4Rk14WDFDYnN4SDRJWDhGU3ZPc0Y4WFd1SHhZT3ZFSllNSUlCcDJWNXNnV3NoUENRZw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14WFlrbG9vU2w0VFRxOXVkS1JoempsMGhDeUNDVlAwU1E4Rk14WDFDYnN4SDRJWDhGU3ZPc0Y4WFd1SHhZT3ZFSllNSUlCcDJWNXNnV3NoUENRZw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI“读单员”让订单效率提升90倍，武汉“小巨人”数智化全链条突围 - 武汉市人民政府",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84TVZXeGs4Uk5CTFNLVEtqVm9nQ2pwMW9qUHlBMjNhT0ZBVlljYTgtWlN2dmlSaUJ5b2trd191MllkejJQc3ZEV21vaFFLVXZtNjFORTZ1dUQ3cUZ3NGZ6Wk9YdzloWXFyUTV4WFp5V1Q?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84TVZXeGs4Uk5CTFNLVEtqVm9nQ2pwMW9qUHlBMjNhT0ZBVlljYTgtWlN2dmlSaUJ5b2trd191MllkejJQc3ZEV21vaFFLVXZtNjFORTZ1dUQ3cUZ3NGZ6Wk9YdzloWXFyUTV4WFp5V1Q?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "巨头持续涌入！谷歌新一代AI眼镜来了 端侧AI打开想象空间(附股) - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DSEk1OGcxQkQ3cVNOV0Y1d2RXYmpndHlUek9vN0FiNExmN2ZwNFRsbDV6SHhxWjg3Wl9lUTN3Ukl2SGdBdUZGN3F4dzFoT3R6a245SC1NLVV0c21KZVZDQg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DSEk1OGcxQkQ3cVNOV0Y1d2RXYmpndHlUek9vN0FiNExmN2ZwNFRsbDV6SHhxWjg3Wl9lUTN3Ukl2SGdBdUZGN3F4dzFoT3R6a245SC1NLVV0c21KZVZDQg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI的冲击变成现实！全球就业格局加快重塑 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pNm5FNDd2YllzbWRvQ05zSTBIRkxvRXp4NUdMOHlOUWZCM0hZTzE4aHNQcklRT3A1VmwyR2FPWVlaWHRjMXVzWmdsUm5vZFZsVk02dTZZTTF1XzBPZ0x5c0twTEpycGxf?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pNm5FNDd2YllzbWRvQ05zSTBIRkxvRXp4NUdMOHlOUWZCM0hZTzE4aHNQcklRT3A1VmwyR2FPWVlaWHRjMXVzWmdsUm5vZFZsVk02dTZZTTF1XzBPZ0x5c0twTEpycGxf?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "苏州打造AI创业生态 赋能青年创客逐梦 - 苏州新闻",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QT2VrM055U0pjcS1XVHprc2NVMzlVLUJiNU51R19iRkNiUE1ZYlM1SFZQR29KUDJidk56cHIyeDJHY2RYLWJHZ1Z1OEtZVGc3WFBOYXZnc0RzT1B1OFZ2Y2pR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QT2VrM055U0pjcS1XVHprc2NVMzlVLUJiNU51R19iRkNiUE1ZYlM1SFZQR29KUDJidk56cHIyeDJHY2RYLWJHZ1Z1OEtZVGc3WFBOYXZnc0RzT1B1OFZ2Y2pR?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "APEC中国年丨在这里，AI跑出加速度 - 新华网广东",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdDNyX2lWMXZfWl9ENHVDTVpIbWcycDVodkR6Ylc2a2I0a1VtNnVTUHRtaEIyZzVkVmxia3NKMlpWMFB6WWxXNXBtUGxSd0xhNFZlRml6NC14dUUtWjNPVWZmNm5JX2RFRTg4NjBZVUFQdDdBTlVfdS1vNlc4MFdTWUhB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdDNyX2lWMXZfWl9ENHVDTVpIbWcycDVodkR6Ylc2a2I0a1VtNnVTUHRtaEIyZzVkVmxia3NKMlpWMFB6WWxXNXBtUGxSd0xhNFZlRml6NC14dUUtWjNPVWZmNm5JX2RFRTg4NjBZVUFQdDdBTlVfdS1vNlc4MFdTWUhB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“世界科先声”编译：AI学什么已公开，但真正重要的一步还是秘密 - 观察者网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10SXVHeWw0ckE0RHRGNVhFVnJac0N4a0E3RFdSRlpSMm9ZSDl6ZndUMDB1ZmlNb0FGeURyYlZMc2tvMUR5RWE2cktrNFJrQ1pTQ1B2MVlycldSQ1dpZWFtRk0zVDhHYWp2cFdSOUc2d2g2UQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMickFVX3lxTE10SXVHeWw0ckE0RHRGNVhFVnJac0N4a0E3RFdSRlpSMm9ZSDl6ZndUMDB1ZmlNb0FGeURyYlZMc2tvMUR5RWE2cktrNFJrQ1pTQ1B2MVlycldSQ1dpZWFtRk0zVDhHYWp2cFdSOUc2d2g2UQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "福建“人工智能 +”方案出炉，布局绿色低碳大模型、产品碳足迹数字化管理 - https://www.gdshe.org/",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uV0hyQjRvVEJfc05xOTZaZWFvemw5ZWQ2TjEydUt6V1Ric0VOWkZaT1laZUZkWklqajY3WTFuN3Vlb245ZDRmaHVBOUYxMW83MVE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9uV0hyQjRvVEJfc05xOTZaZWFvemw5ZWQ2TjEydUt6V1Ric0VOWkZaT1laZUZkWklqajY3WTFuN3Vlb245ZDRmaHVBOUYxMW83MVE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "【校团委】举办首届“丰禾杯”科幻主题视频AI创作大赛 - 西北农林科技大学",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qeVg2OWphaHNBR0xpWWVwQzVOVXFlNnJZOGk1ZVRnVGhzRnJ0M2hzamhKWV9qZnhkbjA4REJ5azNJLVBVVFd5OGxyWEExeU5MVTdIaXhDVHYtd0dvbVV4Sng5VjJzMHpqVG1mN2FZb2pvbmJnRTI0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qeVg2OWphaHNBR0xpWWVwQzVOVXFlNnJZOGk1ZVRnVGhzRnJ0M2hzamhKWV9qZnhkbjA4REJ5azNJLVBVVFd5OGxyWEExeU5MVTdIaXhDVHYtd0dvbVV4Sng5VjJzMHpqVG1mN2FZb2pvbmJnRTI0?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "黄仁勋卸任英伟达CEO，全球AI产业或迎来关键分水岭 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWSE9IUXU4VTNKRlhGSmk0VjVzY0t5VnlxTjhBZ25MV3kxenRDM3I5OGpUTlpqQmY2VXNWVHBfT1V1VWxFUEZpX0hEcXZGMml4SUR1UTAyOV9WOGV4VHBuTUNZOFVBVWxWVDZ6Y2FSLWhyMWRTNFVwVG8yNlY?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWSE9IUXU4VTNKRlhGSmk0VjVzY0t5VnlxTjhBZ25MV3kxenRDM3I5OGpUTlpqQmY2VXNWVHBfT1V1VWxFUEZpX0hEcXZGMml4SUR1UTAyOV9WOGV4VHBuTUNZOFVBVWxWVDZ6Y2FSLWhyMWRTNFVwVG8yNlY?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI漫剧方向震荡拉升，GPU概念股再度活跃 - 中国基金报",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45REpIOXhJQkk4X1hmdVRwLW52YzBZVU8tYzRHNEhraVJLX1lhQ0x1a0dESG9pNnM5MkJsSFk4M1g0VWt0RHpETTJ0UHl5alFoNEF4UVNZX2VuNVVyZDFwNDc5UDA1bUstdElrLXdzdHI2eXlLbHhFTlpB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45REpIOXhJQkk4X1hmdVRwLW52YzBZVU8tYzRHNEhraVJLX1lhQ0x1a0dESG9pNnM5MkJsSFk4M1g0VWt0RHpETTJ0UHl5alFoNEF4UVNZX2VuNVVyZDFwNDc5UDA1bUstdElrLXdzdHI2eXlLbHhFTlpB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "实测用四款AI工具合成赵丽颖肖像，“AI偷脸”有多容易？ - 华龙网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ySDgzbUhlU2UtMmZ6d0R1RUJPT3htWEh1M2NEb0lsZ1FaWmY1Tmg2TmVPRVpLSHJXM3o5T19lb1ZHUS1SSF9Ca2tZenA4ZWF3X2ZGVzJxZEs0WUV0YzdxTkhFN1UzbGNtOFhz?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8ySDgzbUhlU2UtMmZ6d0R1RUJPT3htWEh1M2NEb0lsZ1FaWmY1Tmg2TmVPRVpLSHJXM3o5T19lb1ZHUS1SSF9Ca2tZenA4ZWF3X2ZGVzJxZEs0WUV0YzdxTkhFN1UzbGNtOFhz?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "高通孟樸：AI 基础设施仍将持续发展端云协同为下阶段重点 - 财新",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PT1M3d255TjNXLXpiLWFFM2dYdXRDdnN6cTBUc2oxX2NGTmNvMmR1RWdGTEZ4Z3Z2d3ljMHNfVnJPSTRtaEM4andidWZkczVEUVplclotTUZoUk5XZ1Z2TkkwME0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PT1M3d255TjNXLXpiLWFFM2dYdXRDdnN6cTBUc2oxX2NGTmNvMmR1RWdGTEZ4Z3Z2d3ljMHNfVnJPSTRtaEM4andidWZkczVEUVplclotTUZoUk5XZ1Z2TkkwME0?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI产业见顶了吗？缪延亮：短期预期调整，不意味着长期趋势逆转 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3RYVW5ZdnFxaTVIaEsxUXVDWHpES3U3cm4zOFJEUnlWNm8zUUtMeDg3Y0dzUFBNNG8taEwtdElfNm04dk1WVVRmUGlmQTBocUhuNW1CTjczUS1zZjc3Rmc3eEU4Y3dBVTAyV01idGY5alJ1YWh4MGhUU2V5RUU5NW5rVjMzNFdCNXRna1ZyVQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3RYVW5ZdnFxaTVIaEsxUXVDWHpES3U3cm4zOFJEUnlWNm8zUUtMeDg3Y0dzUFBNNG8taEwtdElfNm04dk1WVVRmUGlmQTBocUhuNW1CTjczUS1zZjc3Rmc3eEU4Y3dBVTAyV01idGY5alJ1YWh4MGhUU2V5RUU5NW5rVjMzNFdCNXRna1ZyVQ?oc=5"
+    }
+  ]
+}
