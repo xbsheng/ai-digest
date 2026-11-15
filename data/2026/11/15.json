@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "fetchedAt": "2026-11-15T01:48:44.982Z",
+  "fetchedAt": "2026-11-15T01:52:55.172Z",
   "total": 50,
   "items": [
     {
@@ -242,6 +242,14 @@
       "score": 0,
       "comments": 0,
       "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tV3paZllFYVBiN0VEMm4wMDBoNXFhY1lHX1Z6ZmJ4QVo2dnExc1dXakR3am1hMVFpVWU0R25pYXV1aWxKQkdQWA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "刷屏硅谷！AGI早已降临，万亿AI「孩子」繁衍、突变、互相淘汰 - 智源社区",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pRC04NjdPeDRldEF1Sk5oLUZNREV0NkNBX2ZjdzFJX1lyQ3hsc3RqTGJVeHZCWlZROFQxZTZHODN3dERQSVgtRQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pRC04NjdPeDRldEF1Sk5oLUZNREV0NkNBX2ZjdzFJX1lyQ3hsc3RqTGJVeHZCWlZROFQxZTZHODN3dERQSVgtRQ?oc=5"
     }
   ]
 }
