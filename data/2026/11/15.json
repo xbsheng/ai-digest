@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-15",
+  "fetchedAt": "2026-11-15T01:48:44.982Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "score": 137,
+      "comments": 28,
+      "discuss": "https://news.ycombinator.com/item?id=50497132"
+    },
+    {
+      "source": "hackernews",
+      "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
+      "score": 47,
+      "comments": 32,
+      "discuss": "https://news.ycombinator.com/item?id=50498051"
+    },
+    {
+      "source": "hackernews",
+      "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
+      "score": 43,
+      "comments": 62,
+      "discuss": "https://news.ycombinator.com/item?id=50499114"
+    },
+    {
+      "source": "hackernews",
+      "title": "Open-source AI without Jensen",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "score": 17,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=50496590"
+    },
+    {
+      "source": "hackernews",
+      "title": "Why platform teams fail (and AI makes it worse)",
+      "url": "https://willdady.com/why-platform-teams-fail",
+      "score": 15,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=50496525"
+    },
+    {
+      "source": "hackernews",
+      "title": "New 'Access to Justice' Benchmark: Leading AI Models Miss Critical Legal Details",
+      "url": "https://epyhia.com/new-access-to-justice-benchmark-finds-leading-ai-models-miss-critical",
+      "score": 10,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50497161"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents",
+      "url": "https://www.shotoku.dev/",
+      "score": 8,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50496705"
+    },
+    {
+      "source": "hackernews",
+      "title": "Air-Traffic Resilience Portfolio",
+      "url": "https://tilt.now/tilt/MTwqny",
+      "score": 8,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50496544"
+    },
+    {
+      "source": "hackernews",
+      "title": "Can the AI boom make enough money to sustain itself?",
+      "url": "https://www.economist.com/briefing/2026/11/12/can-the-ai-boom-make-enough-money-to-sustain-itself",
+      "score": 7,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50503034"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Company Employees Should Unionize",
+      "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50500137"
+    },
+    {
+      "source": "hackernews",
+      "title": "Another Linux kernel developer steps back from some duties due to overload",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/13/another-linux-kernel-developer-steps-back-from-some-duties-due-to-overload/5309628",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50499646"
+    },
+    {
+      "source": "hackernews",
+      "title": "Thousands turn out in Edinburgh to protest against AI data centres",
+      "url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50499627"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jensen Huang's departure blasts big hole in AI startup funding",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50498492"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Timon, an open-source AI workstation for coordinating agents",
+      "url": "https://github.com/ai-timon/timon",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50496631"
+    },
+    {
+      "source": "hackernews",
+      "title": "Do what must be done",
+      "url": "https://news.ycombinator.com/item?id=50496383",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50496383"
+    },
+    {
+      "source": "google-news",
+      "title": "Edge AI Daily 早报（11月15日） - 钛媒体",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sX1lCZmVVR21jSG1oU1FPbTZGVFVIR1VIeDdQTGdQOEd1aXRrSWhMVDc2VjdUZkRFSWhteE5pZTdLMGhKWUY1ZzNQdGs?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5sX1lCZmVVR21jSG1oU1FPbTZGVFVIR1VIeDdQTGdQOEd1aXRrSWhMVDc2VjdUZkRFSWhteE5pZTdLMGhKWUY1ZzNQdGs?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "上海高校课堂，“AI浓度”越来越高了 - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pall5Wm5SWUlzNndtRXYzcW5HSWl1SHpfcWFKeDRxOFFHTEFLYkNMcEtkMDU4dkN3eWVNUWl5X2w4bGR1cy1XLU1DT3c3c0FyZU9CR3RwYjZTemhl?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pall5Wm5SWUlzNndtRXYzcW5HSWl1SHpfcWFKeDRxOFFHTEFLYkNMcEtkMDU4dkN3eWVNUWl5X2w4bGR1cy1XLU1DT3c3c0FyZU9CR3RwYjZTemhl?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "APEC带火深圳“落地签” 1小时看遍全球AI硬件 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejRFaC16c2hNbk1JZzVyTFNNd1luX2ZxRm11aEFQMVRiLXJ2bGpabGpWd2FrZENCS29GYjdnWEYwd3lUWjFZQVZMSGFVTTA3QTA5Vno3X2U4aUpEMl8xRVE4d1FuSWN2WHo3blRZcHdiZ2k4RXd5Ty1rXzhHSUQxSVBILVVPTGM0ZW9kMnFRQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejRFaC16c2hNbk1JZzVyTFNNd1luX2ZxRm11aEFQMVRiLXJ2bGpabGpWd2FrZENCS29GYjdnWEYwd3lUWjFZQVZMSGFVTTA3QTA5Vno3X2U4aUpEMl8xRVE4d1FuSWN2WHo3blRZcHdiZ2k4RXd5Ty1rXzhHSUQxSVBILVVPTGM0ZW9kMnFRQQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "一个人+AI开公司，雄安中关村把算力资金场景送到手边 - 京报网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkQzVyeHByNFQ0VmpBd2JfanFVNzYxbWZnbUF1UXFaZmtNcGk4LWRfTXIyRDJ1R2VXNVVCVTBMeXN2UGxmTHZPZUVTSXJLUW9VdmJwWGZpTUt3Q0t1VkZaMEYySW5pNGJkMnBXaDZNTlZMQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkQzVyeHByNFQ0VmpBd2JfanFVNzYxbWZnbUF1UXFaZmtNcGk4LWRfTXIyRDJ1R2VXNVVCVTBMeXN2UGxmTHZPZUVTSXJLUW9VdmJwWGZpTUt3Q0t1VkZaMEYySW5pNGJkMnBXaDZNTlZMQQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "当AI剧集走上领奖台，中国科幻作家如何思考未来？ - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmb3FDUC1qTUY2Q3dzNjVhdWpxWXJYaXJ6cHk4VjEzY3NHdTRhUXZlcnFOUGxzVGhDWFZYck0yc0ZTREVXSlliTFVSSy1SU1UyU2xJTUU2dmo4aW11WkJCT2pPUGtBYzFpTXc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmb3FDUC1qTUY2Q3dzNjVhdWpxWXJYaXJ6cHk4VjEzY3NHdTRhUXZlcnFOUGxzVGhDWFZYck0yc0ZTREVXSlliTFVSSy1SU1UyU2xJTUU2dmo4aW11WkJCT2pPUGtBYzFpTXc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "中科院工业人工智能研究所：给产线装上“AI大脑” 可重构柔性制造技术体系 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbUVValRfVUxFaXBiMXk3RGU3Z20xUXdYb0FfZmVndTFTdTBWV3BPMERwWF92cUhMd282YVNQVEt0WllxUUFNVlFLVk9fcmRfLXNtRjUyRnJwZGllSnE5WXpDSjdLMWx5cGNFTEgwSS1wSFAtcDFzbVBRcDNTNkdRZ1YzNERPUXpYMW92UE1hTQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbUVValRfVUxFaXBiMXk3RGU3Z20xUXdYb0FfZmVndTFTdTBWV3BPMERwWF92cUhMd282YVNQVEt0WllxUUFNVlFLVk9fcmRfLXNtRjUyRnJwZGllSnE5WXpDSjdLMWx5cGNFTEgwSS1wSFAtcDFzbVBRcDNTNkdRZ1YzNERPUXpYMW92UE1hTQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "华西二院请“AI考官”给基层医生当“陪练” - 四川日报",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUaW5pUjJZbGZ4QjFZRXUtalhtOHlCQnVHVUE5cjlsZmZlVU1YaUkzZl9NR2dHbk1jdjVUYjAyVTdSTl9VRklGcUp0bjVLRUJmeG9teW5SZFRnWng0d2hGbE1TMGs0NFFvdHc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUaW5pUjJZbGZ4QjFZRXUtalhtOHlCQnVHVUE5cjlsZmZlVU1YaUkzZl9NR2dHbk1jdjVUYjAyVTdSTl9VRklGcUp0bjVLRUJmeG9teW5SZFRnWng0d2hGbE1TMGs0NFFvdHc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "华语科幻AI影像联盟在成都成立何夕《天年》等四部科幻作品启动影视化|成都市|刘慈欣|程婧波|萧星寒|江波_手机新浪网 - 新浪财经_金融信息服务商",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDluYlh4ZU8xUUFhS0drdEhsdnk1M1kxVG5UUGZKRUEzdUNRSXR1LURHMHlnMXhqeTdLendxenFzUGdvaUg5bVZrV21xSlpJQXVBSFFaWDl6U0otWTZEN2p1VVhIVElCdDA5LUhoSFdmcWhOYUFBUS1neHg3VzN1N0JaNA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDluYlh4ZU8xUUFhS0drdEhsdnk1M1kxVG5UUGZKRUEzdUNRSXR1LURHMHlnMXhqeTdLendxenFzUGdvaUg5bVZrV21xSlpJQXVBSFFaWDl6U0otWTZEN2p1VVhIVElCdDA5LUhoSFdmcWhOYUFBUS1neHg3VzN1N0JaNA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "黄仁勋闪辞是否冲击AI产业链？多家A股上市公司回应 - 新湖南",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaeUxGSmdRb081MWlRWmJxYjhncDhEeHNqd1ZCOVlWSHp3dFVuTzk2QVRBb3FYMVluT1JEbjRnU0Zjb2UxY1RMVi1lMFNIWnJfMFJQMGhRSlc0OHF3bTJv?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaeUxGSmdRb081MWlRWmJxYjhncDhEeHNqd1ZCOVlWSHp3dFVuTzk2QVRBb3FYMVluT1JEbjRnU0Zjb2UxY1RMVi1lMFNIWnJfMFJQMGhRSlc0OHF3bTJv?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "艾媒报告｜AI微短剧驶入精品化转型深水区，《2026-2027年中国AI微短剧行业趋势白皮书》发布！ - AgeClub",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xUlhZSUlZMUZFbWItUTJsSFNPTVl5cGg1S1lyUExXQkNvSVV4em1aTDZQTG4xRHlkenFRbGRWRG1GWG84d1p3NE90WFJCVmVUQmkwaDg2OA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xUlhZSUlZMUZFbWItUTJsSFNPTVl5cGg1S1lyUExXQkNvSVV4em1aTDZQTG4xRHlkenFRbGRWRG1GWG84d1p3NE90WFJCVmVUQmkwaDg2OA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "对话艾伦·麦克法兰：在变化中生活——人类学视角下的AI时代 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZLWlvX1JEaGtjRkI2THdRbGlaWkgyN1FkX0x6QW5ZWXpFd0lQQ3VzM1o4V2tjcTB0dERfdUhRNUYzb1liR0hDbFVyQzVza3loU0FRLWVMMjdMbWZWVC1CVw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZLWlvX1JEaGtjRkI2THdRbGlaWkgyN1FkX0x6QW5ZWXpFd0lQQ3VzM1o4V2tjcTB0dERfdUhRNUYzb1liR0hDbFVyQzVza3loU0FRLWVMMjdMbWZWVC1CVw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "您的 AI 预算是个数据定义问题：面向 CFO 的数据现代化策略 - IBM",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xbXBhems2SHJzc3Mzallac0pnd2RTX2VBM0RTNXdOQVZsSzJFLXFfaWUxUDNFTkZpanFpbVduUDRWV05KcktBalJCQ2F3RER4LTd6azJFWjhUQkRJZkVsQVBuRzRXWHZaS0NwTjh3c2JhVGhaRVhucEcxNHY?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xbXBhems2SHJzc3Mzallac0pnd2RTX2VBM0RTNXdOQVZsSzJFLXFfaWUxUDNFTkZpanFpbVduUDRWV05KcktBalJCQ2F3RER4LTd6azJFWjhUQkRJZkVsQVBuRzRXWHZaS0NwTjh3c2JhVGhaRVhucEcxNHY?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "安徽如何把算力写成千行万业的答案 - 安徽新闻联播",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84dmI5N1h5dXVqbXN2MDJlblIzR2JqZkVOd1ZiZ0JWSXlxbXloOHpicjVYdkF3RkhaaW1RWnowUml1WmxzdnVQdHdMaU1kdzVRVUU5b1RGYWZxckpTY2c1VXNJUGVMeHkxTXc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84dmI5N1h5dXVqbXN2MDJlblIzR2JqZkVOd1ZiZ0JWSXlxbXloOHpicjVYdkF3RkhaaW1RWnowUml1WmxzdnVQdHdMaU1kdzVRVUU5b1RGYWZxckpTY2c1VXNJUGVMeHkxTXc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "学校召开“人工智能+教育”重点工作推进会 - 中国海洋大学",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MYmJtbjVmcVRBWDVtdDhBQUxKa3M1REljTUZhcnlGVEpNZWNrRlpmSGJhYkdsVjA5eEpTdDdmRzNKQWYtRTJJV1BSbk50QkRJUkZwTU43WW5oSVFZM1RnVFBB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MYmJtbjVmcVRBWDVtdDhBQUxKa3M1REljTUZhcnlGVEpNZWNrRlpmSGJhYkdsVjA5eEpTdDdmRzNKQWYtRTJJV1BSbk50QkRJUkZwTU43WW5oSVFZM1RnVFBB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "破解企业Agent落地困局：文朵朵打造安全可控的全场景智能体平台！ - 品玩",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tV3paZllFYVBiN0VEMm4wMDBoNXFhY1lHX1Z6ZmJ4QVo2dnExc1dXakR3am1hMVFpVWU0R25pYXV1aWxKQkdQWA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5tV3paZllFYVBiN0VEMm4wMDBoNXFhY1lHX1Z6ZmJ4QVo2dnExc1dXakR3am1hMVFpVWU0R25pYXV1aWxKQkdQWA?oc=5"
+    }
+  ]
+}
