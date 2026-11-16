@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-16",
+  "fetchedAt": "2026-11-16T02:01:21.043Z",
+  "total": 30,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "score": 1093,
+      "comments": 595,
+      "discuss": "https://news.ycombinator.com/item?id=50507303"
+    },
+    {
+      "source": "hackernews",
+      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+      "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+      "score": 63,
+      "comments": 61,
+      "discuss": "https://news.ycombinator.com/item?id=50509953"
+    },
+    {
+      "source": "hackernews",
+      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "url": "https://www.hntrends.com/2026/november.html",
+      "score": 23,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50512950"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "score": 20,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50512441"
+    },
+    {
+      "source": "hackernews",
+      "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+      "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+      "score": 13,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50512047"
+    },
+    {
+      "source": "hackernews",
+      "title": "What Picasso taught me about building AI Agents",
+      "url": "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/",
+      "score": 10,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=50508076"
+    },
+    {
+      "source": "hackernews",
+      "title": "Top scorer on South Korean tax exam confesses to cheating with AI",
+      "url": "https://www.reuters.com/world/asia-pacific/top-scorer-south-korean-tax-exam-confesses-cheating-with-ai-2026-11-15/",
+      "score": 9,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=50507331"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: What do coding interviews look like in the age of AI?",
+      "url": "https://news.ycombinator.com/item?id=50510540",
+      "score": 7,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50510540"
+    },
+    {
+      "source": "hackernews",
+      "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+      "url": "https://finance.biggo.com/news/71888475bad974d6",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50512000"
+    },
+    {
+      "source": "hackernews",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "score": 6,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50511793"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Attest – Test what AI agents do, not just what they say",
+      "url": "https://attest-framework.github.io/",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50509107"
+    },
+    {
+      "source": "hackernews",
+      "title": "The single router in southern Arkansas that ground air travel to a halt",
+      "url": "https://www.msn.com/en-us/news/other/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt/ar-AA2hs7wV",
+      "score": 6,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50507305"
+    },
+    {
+      "source": "hackernews",
+      "title": "'It's like the Wild West': how AI has rocked the literary world",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+      "score": 5,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50512682"
+    },
+    {
+      "source": "hackernews",
+      "title": "OBR: Britain faces 'painful' job losses from AI",
+      "url": "https://www.telegraph.co.uk/business/2026/11/13/britain-faces-very-painful-job-losses-from-ai-obr-chief-war/",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50510133"
+    },
+    {
+      "source": "hackernews",
+      "title": "First pre-2020 long-form writing detected as 100% AI by Pangram",
+      "url": "https://twitter.com/max_spero_/status/2122032840204226687",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50509938"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能创新生态“聚光成炬” - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAybnZPeG5OUTlXems3TmY1TzR3TjdGMWFpRmZnd3ZoaXl2dm5Rem5tUThDb1RGV3JxREdJWlhrQnBjZjhUd1ZoY01aVXhrQUN1UTlkeFBtYXFCb0NNendaRTJ4UGlLNWgtMUlpdjZnYVJZMXp3cEY1V1JDWDk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAybnZPeG5OUTlXems3TmY1TzR3TjdGMWFpRmZnd3ZoaXl2dm5Rem5tUThDb1RGV3JxREdJWlhrQnBjZjhUd1ZoY01aVXhrQUN1UTlkeFBtYXFCb0NNendaRTJ4UGlLNWgtMUlpdjZnYVJZMXp3cEY1V1JDWDk?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "链式金融赋能人工智能产业 - 中国经济网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NLXdER1pSdmlvSm4wSU5vMHpLOFN0dF9SbXdyVThybjdacmdVN1dqb2xuSnYxNDNjak9OMDFja3h3ckNHUFhPLW91ZGV0LVJPQ0FuVkVyZXFuU1pNMUJtRDFQMFNMckx2YjlV?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NLXdER1pSdmlvSm4wSU5vMHpLOFN0dF9SbXdyVThybjdacmdVN1dqb2xuSnYxNDNjak9OMDFja3h3ckNHUFhPLW91ZGV0LVJPQ0FuVkVyZXFuU1pNMUJtRDFQMFNMckx2YjlV?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "每日消息（共同社） - 高市体验物理AI技术 称赞陪伴型机器人“可爱” - 客观日本",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrX1FPemtYbzk1V1NaenFtZmF6VWpIX3k2dWFYdy1fN0ZhVzF2QUVfSjRhTWowajZKRG1qWkxZaW1hcGFZMDh5SHBFeHBDUlJwNG9tSEVNN3NtSnJMUkNOYUlzcF9MbzE2WThJSQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrX1FPemtYbzk1V1NaenFtZmF6VWpIX3k2dWFYdy1fN0ZhVzF2QUVfSjRhTWowajZKRG1qWkxZaW1hcGFZMDh5SHBFeHBDUlJwNG9tSEVNN3NtSnJMUkNOYUlzcF9MbzE2WThJSQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI时代，文科可以这样“开疆拓土” - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTVjFDVndIcS1aRmhxX21mNHpabjJKSE43V3RMOEE0RkRQMk9rV05scFIwRUU4WldBN1N6VmZwcUJQVno0OXVodUxGNGFnNzFpWmd5NDVYZDRlQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTVjFDVndIcS1aRmhxX21mNHpabjJKSE43V3RMOEE0RkRQMk9rV05scFIwRUU4WldBN1N6VmZwcUJQVno0OXVodUxGNGFnNzFpWmd5NDVYZDRlQQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“数智赋能强履职，AI引领‘三茶’新境界”专题座谈会在市政协新时代协商民主实践中心举行 - 杭州政协",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzbHhhemtGY1R3cUJJUkYzQ3dXU3BEZ2pNeUdJdi1mNHBMQkNiYU5RNHpOREhaa25LNkJra1I4Zmk4SmJ4M3lYSUZ0X0FlbGtscDZhV0o3X1JfdkdabDJKTGJRMjJoSER5Z1l1dk43eEtrd1hsQnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzbHhhemtGY1R3cUJJUkYzQ3dXU3BEZ2pNeUdJdi1mNHBMQkNiYU5RNHpOREhaa25LNkJra1I4Zmk4SmJ4M3lYSUZ0X0FlbGtscDZhV0o3X1JfdkdabDJKTGJRMjJoSER5Z1l1dk43eEtrd1hsQnc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "第三届人工智能赋能思想政治教育高质量发展论坛暨四川省高等学校思想政治教育研究会2026年学术年会举行 - 电子科技大学",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nWExjWEh2ZGxqRkdnQUQxMmx3R2RDNUo0ckMwa0RoT1lGWU9oV1pzb21LTnNxWGdsbzA1VnktUUF0Y1JqUVZ3UHJKRDR3cmNfT190ZTU3c2Q?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nWExjWEh2ZGxqRkdnQUQxMmx3R2RDNUo0ckMwa0RoT1lGWU9oV1pzb21LTnNxWGdsbzA1VnktUUF0Y1JqUVZ3UHJKRDR3cmNfT190ZTU3c2Q?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "记者直击！APEC新闻中心AI浓度有点高 AI助手帮记者整理素材 出稿效率更高 - 中新经纬",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zY1NvMkF3SS1ON1VhV1hfU2JHZ3U5S3FBWHRSU3BWbWNfM1BrU25oTlpyQWxZYUNWRXJzdFg0a3ptLWlxSXA1b19ISXBHYkZGcUhXZFlMbkNucHJ1ZXJtMlowZDk?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zY1NvMkF3SS1ON1VhV1hfU2JHZ3U5S3FBWHRSU3BWbWNfM1BrU25oTlpyQWxZYUNWRXJzdFg0a3ptLWlxSXA1b19ISXBHYkZGcUhXZFlMbkNucHJ1ZXJtMlowZDk?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "（11月17日）AI提示词工程及辅助学习的技巧 - 同济大学新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12TDRkRGhiOXRJdk9MVEZqYUlNbkwxOVJSZEJCTGxGRXFUaE1KQnptbk1qRXM0Z29TeGU3R1hVYlE2VHV5Z2tjOGZpZHlCTnplT25TZHh5R3ZsUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12TDRkRGhiOXRJdk9MVEZqYUlNbkwxOVJSZEJCTGxGRXFUaE1KQnptbk1qRXM0Z29TeGU3R1hVYlE2VHV5Z2tjOGZpZHlCTnplT25TZHh5R3ZsUQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI赋能求职路 智慧服务促就业 - 华商网",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44R3VLOWlPNHVnMnlJRThnM3UwbDFualZRdU5vWFVCYmtkNUh1U2lGZDdURU83SVhVVkRvLURNeDl4NEROTGgwa3ItMU1xQ1RkUTA3R2pnQnpWejha?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44R3VLOWlPNHVnMnlJRThnM3UwbDFualZRdU5vWFVCYmtkNUh1U2lGZDdURU83SVhVVkRvLURNeDl4NEROTGgwa3ItMU1xQ1RkUTA3R2pnQnpWejha?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "美国及盟友同意签署协议以保护 AI 供应链免受中国影响 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxORUFueHJWMVhqbWhSQ3ZDRVpjTFFId0ZQYi1WRkN3SnRMWlV2WE1nb3VmdmZETW5aR3R6MTJXbHpXYVlKTW9BVUw1ZVktMU53R3E0UjF5cW5XTlBnTmFDSzBENF9tbVVyMktpQXBMcUd4N1NyTTFBUk96UTVHeFo4dFVwQ19kU0ZJc3RmS2NiYUIzRjlaZ0o2TzdCTmtCWEpsZVlHT3VsSGI5SHRaSUdSd0tTc0xYR3ozYllGMno0ZS11bDRuUmQ1MG9KMkcteG1tdWppRDE2ZTZzU0Zwdy1jU2NaRld4Z3NLLU5vZnlJVG10X0lidXJzcDZ6NDdHMjRVdzlnLXhkbGR4SEN0eWtXempvVWN5NUt1Mk1fS1VaZmNLeXBpZG1QOVhTZDBoN00tNmFDdnV1bnVyVXM1VTFtQzlveTJoMGNaVFdfWHlvSkQzbzM1WnpUcm5iQ0VGclBJ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxORUFueHJWMVhqbWhSQ3ZDRVpjTFFId0ZQYi1WRkN3SnRMWlV2WE1nb3VmdmZETW5aR3R6MTJXbHpXYVlKTW9BVUw1ZVktMU53R3E0UjF5cW5XTlBnTmFDSzBENF9tbVVyMktpQXBMcUd4N1NyTTFBUk96UTVHeFo4dFVwQ19kU0ZJc3RmS2NiYUIzRjlaZ0o2TzdCTmtCWEpsZVlHT3VsSGI5SHRaSUdSd0tTc0xYR3ozYllGMno0ZS11bDRuUmQ1MG9KMkcteG1tdWppRDE2ZTZzU0Zwdy1jU2NaRld4Z3NLLU5vZnlJVG10X0lidXJzcDZ6NDdHMjRVdzlnLXhkbGR4SEN0eWtXempvVWN5NUt1Mk1fS1VaZmNLeXBpZG1QOVhTZDBoN00tNmFDdnV1bnVyVXM1VTFtQzlveTJoMGNaVFdfWHlvSkQzbzM1WnpUcm5iQ0VGclBJ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Edge AI Daily 早报（11月16日） - 钛媒体",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pWjNPRUFseFZZVGt2TmtqNks2OUV1cWlSSFMzcTh4TVpBZFZZbjhna0RJMEtsOWljMDYyTWRfLXVkWEJRcGJfUXVWSXY?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9pWjNPRUFseFZZVGt2TmtqNks2OUV1cWlSSFMzcTh4TVpBZFZZbjhna0RJMEtsOWljMDYyTWRfLXVkWEJRcGJfUXVWSXY?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "首批354项清单发布 “人工智能+交通运输”应用场景丰富多样 - 湖南红网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SbnpJNlJENnVxSm10b1Q4RzQ4YS1vNzMtNmRHbjA4RzNEalphcmtCSnJhVzhaaXM3Rkc2QnRoWkUzdU84M1FFc2g4dmpVZlJTZEUtX3E4aGJHdzBnWU50Um9R?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SbnpJNlJENnVxSm10b1Q4RzQ4YS1vNzMtNmRHbjA4RzNEalphcmtCSnJhVzhaaXM3Rkc2QnRoWkUzdU84M1FFc2g4dmpVZlJTZEUtX3E4aGJHdzBnWU50Um9R?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI硬件板块震荡加剧 基金调仓迹象显现 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeEN1OUVRTzJ5d2w4QS1Uc3V1OTY1RmVrOFN4dkVKcDI5NmRMd0h6RG40V3dwVXUydXJGTkhpdlNQY2wzVzdVYnVZMnZCY3pmWjU4dm1QVjVlVURIbDZmem81ZlVOcG1lNEluSFcwOFpLQXVBVnhCYkpkLXFkbmFaWUJSUWRlUDN5Z0hHM0VyUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeEN1OUVRTzJ5d2w4QS1Uc3V1OTY1RmVrOFN4dkVKcDI5NmRMd0h6RG40V3dwVXUydXJGTkhpdlNQY2wzVzdVYnVZMnZCY3pmWjU4dm1QVjVlVURIbDZmem81ZlVOcG1lNEluSFcwOFpLQXVBVnhCYkpkLXFkbmFaWUJSUWRlUDN5Z0hHM0VyUQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "从卖工具到卖结果，工业AI商业模式的拐点到了吗？ - 川观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0U0liX25JUXctLURZdEF2Qmd3SFFjTzE3TFM1U1hVbFgzRXc1eTVOWG01R21iQnJOSjZmWS1GZ3puT0lmLTBsRVh5UVI3UQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0U0liX25JUXctLURZdEF2Qmd3SFFjTzE3TFM1U1hVbFgzRXc1eTVOWG01R21iQnJOSjZmWS1GZ3puT0lmLTBsRVh5UVI3UQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Anthropic超级IPO本周“出鞘” 美股AI信仰面临最严苛大考？ - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wbjZmRFhvNmk4dDB2cFEya0hRWWF1TldDT2xUUHAzZHpIX3lBekZLRDU1YXdPZFdjNF9rYTUzWGNTcE1UQkhBU0U0R1lvdy14Q3BEVU5pV2hnMDJaclQ1dw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wbjZmRFhvNmk4dDB2cFEya0hRWWF1TldDT2xUUHAzZHpIX3lBekZLRDU1YXdPZFdjNF9rYTUzWGNTcE1UQkhBU0U0R1lvdy14Q3BEVU5pV2hnMDJaclQ1dw?oc=5"
+    }
+  ]
+}
