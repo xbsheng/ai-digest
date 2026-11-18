@@ -1,0 +1,427 @@
+{
+  "date": "2026-11-18",
+  "fetchedAt": "2026-11-18T03:42:27.473Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "score": 308,
+      "comments": 140,
+      "discuss": "https://news.ycombinator.com/item?id=50535885"
+    },
+    {
+      "source": "hackernews",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "score": 152,
+      "comments": 105,
+      "discuss": "https://news.ycombinator.com/item?id=50540178"
+    },
+    {
+      "source": "hackernews",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "score": 81,
+      "comments": 125,
+      "discuss": "https://news.ycombinator.com/item?id=50538303"
+    },
+    {
+      "source": "hackernews",
+      "title": "Human.md",
+      "url": "https://www.human-md.ai/",
+      "score": 79,
+      "comments": 53,
+      "discuss": "https://news.ycombinator.com/item?id=50537962"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tencent Hy4 Flash",
+      "url": "https://hy.tencent.ai/research/hy4-flash",
+      "score": 72,
+      "comments": 11,
+      "discuss": "https://news.ycombinator.com/item?id=50538184"
+    },
+    {
+      "source": "hackernews",
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "url": "https://starsling.dev",
+      "score": 60,
+      "comments": 34,
+      "discuss": "https://news.ycombinator.com/item?id=50536468"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cerebras Disaggregated Inference",
+      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+      "score": 38,
+      "comments": 12,
+      "discuss": "https://news.ycombinator.com/item?id=50540472"
+    },
+    {
+      "source": "hackernews",
+      "title": "Bank CEOs, NSA Tell Congress That AI-Driven Patches Are Behind Outages",
+      "url": "https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages",
+      "score": 26,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=50540836"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Aren't the current cyber attacks suspicious?",
+      "url": "https://news.ycombinator.com/item?id=50538449",
+      "score": 15,
+      "comments": 15,
+      "discuss": "https://news.ycombinator.com/item?id=50538449"
+    },
+    {
+      "source": "hackernews",
+      "title": "Sudo L7: Can Coding Agents Act Like Staff Engineers?",
+      "url": "https://surgehq.ai/blog/sudo-l7",
+      "score": 12,
+      "comments": 4,
+      "discuss": "https://news.ycombinator.com/item?id=50537739"
+    },
+    {
+      "source": "hackernews",
+      "title": "Isomorphic Labs $5B Series C",
+      "url": "https://www.cnbc.com/2026/11/17/isomorphic-labs-series-c-ai-drug-discovery-.html",
+      "score": 11,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50537890"
+    },
+    {
+      "source": "hackernews",
+      "title": "Nvidia Beats Estimates, Raises Guidance After Huang's Ouster",
+      "url": "https://www.wsj.com/tech/ai/nvidia-nvda-3q-2027-earnings-report-stock-6e642303",
+      "score": 10,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50539397"
+    },
+    {
+      "source": "hackernews",
+      "title": "LanceDB Raises $57.5M as AI Research Outgrows the Modern Data Stack",
+      "url": "https://www.lancedb.com/blog/lancedb-series-b-funding",
+      "score": 9,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50535645"
+    },
+    {
+      "source": "hackernews",
+      "title": "IMF warns global economy is standing on one leg as AI circular financing surges",
+      "url": "https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html",
+      "score": 8,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50540491"
+    },
+    {
+      "source": "hackernews",
+      "title": "Jensen Huang was building an open AI ecosystem that threatened Anthropic",
+      "url": "https://www.businessinsider.com/jensen-huang-nvidia-ouster-removes-major-threat-to-anthropic-ipo-2026-11",
+      "score": 7,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50534745"
+    },
+    {
+      "source": "arxiv",
+      "title": "Know When to Zoom: How Small Is Too Small for Vision-Language Models?",
+      "url": "http://arxiv.org/abs/2611.22709v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Siddharth Vohra, Min Xu",
+      "discuss": "http://arxiv.org/abs/2611.22709v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Cross-cultural Adaptation of Recipes for Low-Resource Languages: A Benchmark and Multilingual Culinary Lexicon for Hausa, Yorùbá, and Igbo",
+      "url": "http://arxiv.org/abs/2611.22708v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Nuhu Ibrahim, Maryam Abdulazeez, Fatsuma Jauro",
+      "discuss": "http://arxiv.org/abs/2611.22708v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Route Optimization under Port Congestion and Carbon Reduction: An NSGA-II Approach",
+      "url": "http://arxiv.org/abs/2611.22705v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Guanxi Liang, Sanglin Zhao",
+      "discuss": "http://arxiv.org/abs/2611.22705v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Social Signal Bench: Evidence-Weighted Evaluation of Co-occurring Social Signals in Video and Audio",
+      "url": "http://arxiv.org/abs/2611.22704v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Siddharth Ravi, Anders R. Bargum, Hugo Anselme",
+      "discuss": "http://arxiv.org/abs/2611.22704v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Remembered as Brief: Stored Preferences SilentlyRemove Decision-Critical Information",
+      "url": "http://arxiv.org/abs/2611.22697v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Joshua Adrian Cahyono",
+      "discuss": "http://arxiv.org/abs/2611.22697v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Making the World React Realistically: A Closed-Loop Interactive World Model for Autonomous Driving",
+      "url": "http://arxiv.org/abs/2611.22691v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Jia Hu, Yang Chang, Panqu Wang",
+      "discuss": "http://arxiv.org/abs/2611.22691v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Visibility Graph Representations of Word Embeddings for Text Classification",
+      "url": "http://arxiv.org/abs/2611.22685v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Elif Dorukbaşı, İlker Türker",
+      "discuss": "http://arxiv.org/abs/2611.22685v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "CULypso: A Clustered Federated Unlearning paradigm for Vehicular Ad-Hoc Networks",
+      "url": "http://arxiv.org/abs/2611.22682v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Eleftheria Chini, George Margaritis, Dimitrios Katsaros",
+      "discuss": "http://arxiv.org/abs/2611.22682v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "FVScore: Specification-Driven Neuro-Symbolic Video Evaluation",
+      "url": "http://arxiv.org/abs/2611.22673v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Do Xuan Long, Long T. Le, Yiwen Song",
+      "discuss": "http://arxiv.org/abs/2611.22673v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Worldviews in Large Language Models",
+      "url": "http://arxiv.org/abs/2611.22670v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Edmundo Lopez-Sola, Shamil Chandaria, Ruben Laukkonen",
+      "discuss": "http://arxiv.org/abs/2611.22670v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Contract-Explicit Evaluation: From Auditing Learned Readers to Scoped Certificates",
+      "url": "http://arxiv.org/abs/2611.22665v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Hao Lu, Weixing Zhu, Ruiyang Li",
+      "discuss": "http://arxiv.org/abs/2611.22665v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "The Between-Round Decision in Autonomous Research: An LLM Controller That Reads the Whole Trajectory",
+      "url": "http://arxiv.org/abs/2611.22661v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Caoxin Wang, Shengkai Gan, Xiang Hu",
+      "discuss": "http://arxiv.org/abs/2611.22661v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "AlignedHPO: Efficient Surrogate-Guided Loss Hyperparameter Optimization",
+      "url": "http://arxiv.org/abs/2611.22658v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Ivan Karpukhin, Andrey Savchenko",
+      "discuss": "http://arxiv.org/abs/2611.22658v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "EDA: Observe, Verify, and Assess for Evidence-Grounded Multimodal Depression Analysis",
+      "url": "http://arxiv.org/abs/2611.22648v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Changzeng Fu, Ming Shang, Xinyi Zhang",
+      "discuss": "http://arxiv.org/abs/2611.22648v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "The Price of Hard Coverage Constraints in Online Conformal Prediction",
+      "url": "http://arxiv.org/abs/2611.22646v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Mingrui Liu",
+      "discuss": "http://arxiv.org/abs/2611.22646v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Hierarchical Control of Antiphase Synchronization in Biomorphic Spiking Neural Architectures for Locomotor Control",
+      "url": "http://arxiv.org/abs/2611.22639v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Artem Guba, Nikolay Kovalev, Alexey Zharinov",
+      "discuss": "http://arxiv.org/abs/2611.22639v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Sub-Meter Canopy Height Synthesis from Sentinel-2 via Anchored Residual Flow",
+      "url": "http://arxiv.org/abs/2611.22636v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Kiarie Ndegwa, Tony Chang, Andreas Gros",
+      "discuss": "http://arxiv.org/abs/2611.22636v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "A Quantum Support Vector Regression Framework for Missing Data Imputation in Ship Performance Data",
+      "url": "http://arxiv.org/abs/2611.22635v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Daniel Maroto Sanchez, Christian Velasco-Gallego, Miriam Bastante Chichon",
+      "discuss": "http://arxiv.org/abs/2611.22635v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Understanding Cross-Modal Inconsistency through Representation Subspaces in Omni Models",
+      "url": "http://arxiv.org/abs/2611.22619v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Seonghyeon Cho, Chanjun Park",
+      "discuss": "http://arxiv.org/abs/2611.22619v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Right Diagnosis, Unsafe Route: Auditing Clinical AI Decision Trajectories and Corrective Oversight for Validity and Potential Harm",
+      "url": "http://arxiv.org/abs/2611.22612v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Guanqiao Chen, Wei Jiang, Shu Zhang",
+      "discuss": "http://arxiv.org/abs/2611.22612v1"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能训练师“解锁”具身智能产业新图景（组图） - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXX1hYdVlFdVJSdlVQZUNVZWc5RkVXUmFaMWdrbGp1U2tjNmhaMDB5Q29wTHYtR3hWSV9rbVI1RjBzWG1fM0syTDNwTXdWRGpOZDBVaEJaVkxoNjVVVm1pMUVCR0xTQU5ZUmwtaEdMYXFiNHEzQ09pbjJLeVM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXX1hYdVlFdVJSdlVQZUNVZWc5RkVXUmFaMWdrbGp1U2tjNmhaMDB5Q29wTHYtR3hWSV9rbVI1RjBzWG1fM0syTDNwTXdWRGpOZDBVaEJaVkxoNjVVVm1pMUVCR0xTQU5ZUmwtaEdMYXFiNHEzQ09pbjJLeVM?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "【理响中国·幸福有“理”】把人工智能技术真正转换成新质生产力 - 光明网理论",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0S2dUWGtpc0xXWWZXSUl2QzhicU83WF95S21IdTVPTG96b0ZCR1liZU1xci1wSVNyNW9jcTBYQ29vb0lhZThWSldHcm93T1c2QS1Kc1RBQURfc0V2TDA0NU9tVQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA0S2dUWGtpc0xXWWZXSUl2QzhicU83WF95S21IdTVPTG96b0ZCR1liZU1xci1wSVNyNW9jcTBYQ29vb0lhZThWSldHcm93T1c2QS1Kc1RBQURfc0V2TDA0NU9tVQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能学院召开助理教授董胤蓬入党发展会 - 清华大学",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uMEQ5SE5VZnhMM3RYeE10dnRrdGJTNWVZSUxRXy1rZHVHS205cEZ4RmJLRmQ3WVpTRnlNdl9YWUQ1SkZSY3ozcW1xSWJXRUVPNUs1RDJOZTZVdEk5?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uMEQ5SE5VZnhMM3RYeE10dnRrdGJTNWVZSUxRXy1rZHVHS205cEZ4RmJLRmQ3WVpTRnlNdl9YWUQ1SkZSY3ozcW1xSWJXRUVPNUs1RDJOZTZVdEk5?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "【中国科学报】组织25位“AI科学家” 开跨学科研讨会 - 中国科学院",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLbjlxaHhEWllPbHVET3NLelpxT2tDRlU0QWxlS1dFY0hHMGVCQ1NjWTZIME1ObFRBWFgyQ1h6cUJPME9hV3RqN2loTzRMSGZDNm9wZF85WkdpZU1SQmt1ZEh3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLbjlxaHhEWllPbHVET3NLelpxT2tDRlU0QWxlS1dFY0hHMGVCQ1NjWTZIME1ObFRBWFgyQ1h6cUJPME9hV3RqN2loTzRMSGZDNm9wZF85WkdpZU1SQmt1ZEh3?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能赋能城市治理与科研创新——浙江人文大讲堂·未来讲堂第十七讲开讲 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RbWJvTno2UUYzWUtKM05UaENzLWtrRHdNVHNmOWFDdWNLc1dhWWRlbTZGX21va1FZWmRyTDRETVZnYTFlZXdVUjZtVFQ3a0JEcmFMc3pTeWI0bmhTZU91amtmX3FrQldreHROWGUzYnZ2VHBzNENWQU9uSkM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RbWJvTno2UUYzWUtKM05UaENzLWtrRHdNVHNmOWFDdWNLc1dhWWRlbTZGX21va1FZWmRyTDRETVZnYTFlZXdVUjZtVFQ3a0JEcmFMc3pTeWI0bmhTZU91amtmX3FrQldreHROWGUzYnZ2VHBzNENWQU9uSkM?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "在深圳，亚太工商界给AI合作画了一张“普惠”的图--经济·科技 - 人民网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uRzJkMnY2b1dvYmZ3QzczdVNUbmtyWG4zT0tkdFpMWkRINjhlbXRJSXdDMjVLQzBKbC0xSGRYTGp5a1ZfU0Z4UWVOLUtvMVFvbFJPZlFQcjViWGRjVFlMSmpJQmNIcXNialBhTVRB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uRzJkMnY2b1dvYmZ3QzczdVNUbmtyWG4zT0tkdFpMWkRINjhlbXRJSXdDMjVLQzBKbC0xSGRYTGp5a1ZfU0Z4UWVOLUtvMVFvbFJPZlFQcjViWGRjVFlMSmpJQmNIcXNialBhTVRB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“科学智算+教育”：把前沿科研带进青少年课堂 - 新华网客户端",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdVZNbm1HRFlweGlHNG9mcjMyWEx0dmJKOGxOMTZlbXNjajJrZmZ6MmxUSjVMUzQwaGtERTllTWVGRzhEU0ZFZHFYQ1lWLXpRM1BSWVVUR3MwYThKbXNzLTZlY0d2LW5vY1ZsU2xGbWRSdUtILW1Ga0JOYmlfanUxTW1OeFQwbnItd3R0bGIwYWRRWURjQVNqa1dR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdVZNbm1HRFlweGlHNG9mcjMyWEx0dmJKOGxOMTZlbXNjajJrZmZ6MmxUSjVMUzQwaGtERTllTWVGRzhEU0ZFZHFYQ1lWLXpRM1BSWVVUR3MwYThKbXNzLTZlY0d2LW5vY1ZsU2xGbWRSdUtILW1Ga0JOYmlfanUxTW1OeFQwbnItd3R0bGIwYWRRWURjQVNqa1dR?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "刷新AI制药单笔融资纪录！Isomorphic Labs为何获明星资本青睐？ - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9EMXNHOS1ZUGRYRWZnaUc3UUktQ1NOeDJSbWx3SjRMNnQwbU5jTFZ6MGhVbnhhQXZoVUwzVEFFYWRyVHZ1ZVc3Qg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9EMXNHOS1ZUGRYRWZnaUc3UUktQ1NOeDJSbWx3SjRMNnQwbU5jTFZ6MGhVbnhhQXZoVUwzVEFFYWRyVHZ1ZVc3Qg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "成电讲坛 | AI语境下的道德判断(Moral Judgment in the Context of AI) - 电子科技大学",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XUVZGNDVoa3E1YnpmQ3Jvd1hQakRZLWNJTm9TRlBUbGtfNjQ4X1FDZHZSdUg5TlQ1elhDUm0td244a3RGekgta2FxOVlta3d0YzcyMWdmSjE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XUVZGNDVoa3E1YnpmQ3Jvd1hQakRZLWNJTm9TRlBUbGtfNjQ4X1FDZHZSdUg5TlQ1elhDUm0td244a3RGekgta2FxOVlta3d0YzcyMWdmSjE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "高中生携“手搓”游戏参加创作大赛 “人人造游”理想丰满 商业化仍待破局 - 北京市人民政府门户网站",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjSHl2MVgwM29PWnpBeG44VjI4ZV9naDRmb1BkbFJMeTlBRTlNeHZ3MEdTR1VwRjBaOG85M1lGNXkzQ3d3TFRyTWpnZHp1bjg2X2YyaEx1S01IMkhUa0VYQVZSZjBwZng2Y0tqVTZlV1A4b3l5?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjSHl2MVgwM29PWnpBeG44VjI4ZV9naDRmb1BkbFJMeTlBRTlNeHZ3MEdTR1VwRjBaOG85M1lGNXkzQ3d3TFRyTWpnZHp1bjg2X2YyaEx1S01IMkhUa0VYQVZSZjBwZng2Y0tqVTZlV1A4b3l5?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "A股三大股指早盘集体转跌，AI硬件侧局部回暖，创新药、贵金属调整，恒指、恒科指齐跌，京东大跌8% - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGMlY1bEhiYkVBdFY2Rm44OHFKbHlhdG1vOG5jNDhXNWF1X3JZWHdpdEpwMG9jVHViUC1LY0doLUV1U3dpU3M0N1NldTk3SktyM1dB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGMlY1bEhiYkVBdFY2Rm44OHFKbHlhdG1vOG5jNDhXNWF1X3JZWHdpdEpwMG9jVHViUC1LY0doLUV1U3dpU3M0N1NldTk3SktyM1dB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "在云桥大会上，看工业AI的未来十年 - 杭州政协",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pdnlHZ0xEWjZqVXhZRnlJcWdDSURUQ1BHQmI3cERjYXAzc0RQaWRPcEttcUl0REsxSEp1VHd3cVRYelh5SDVESmVfc0hRZ3FNNWdFdUtwWmxaRFB2c2RLN19ac1FBdjR2TVNqQVBDUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1pdnlHZ0xEWjZqVXhZRnlJcWdDSURUQ1BHQmI3cERjYXAzc0RQaWRPcEttcUl0REsxSEp1VHd3cVRYelh5SDVESmVfc0hRZ3FNNWdFdUtwWmxaRFB2c2RLN19ac1FBdjR2TVNqQVBDUQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "四川推进“人工智能＋”一号创新工程 打造智能经济新形态 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJdEljQUsweE5jX213RGlGM0E1eHFGZXV4NFZ3MHQ0Z1ZZck9ZVG9ZSnQ5Q2pPcEpvTjJSQWR1MzQ3SWg4TURJaUI5YzUxaGlBaXhhUHdsR1pQQ1NlbDNGYW9n?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJdEljQUsweE5jX213RGlGM0E1eHFGZXV4NFZ3MHQ0Z1ZZck9ZVG9ZSnQ5Q2pPcEpvTjJSQWR1MzQ3SWg4TURJaUI5YzUxaGlBaXhhUHdsR1pQQ1NlbDNGYW9n?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "对接义务教育阶段人工智能课程刚需！“无界方舟”首期“云南省专项”培训举办 - 华龙网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92MXh2MVNWX2NxeGVrNkZTa2dfcWtRWnVodGhNUllqNy1id3B0aGdoRUptdGl6TjMyRzk3UUx0d2ZqZjFnZEtJLXNtdjFpcFc0MEVjWExTaFVvaHNyMUoxVzEtY3RVSWpoSGsw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92MXh2MVNWX2NxeGVrNkZTa2dfcWtRWnVodGhNUllqNy1id3B0aGdoRUptdGl6TjMyRzk3UUx0d2ZqZjFnZEtJLXNtdjFpcFc0MEVjWExTaFVvaHNyMUoxVzEtY3RVSWpoSGsw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "建设惠及美国的 AI 基础设施 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yYVBMSG05NnZTRWtuZzlaTEx3R2ZTNHZhVG5PelZ4ZW4yLTBUYnExekpoZ3BLZS1wa3ZCTU1sNk8zRjFYbExmekY2bXFnVzhPc1ZiOTFnR2I?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yYVBMSG05NnZTRWtuZzlaTEx3R2ZTNHZhVG5PelZ4ZW4yLTBUYnExekpoZ3BLZS1wa3ZCTU1sNk8zRjFYbExmekY2bXFnVzhPc1ZiOTFnR2I?oc=5"
+    }
+  ]
+}
