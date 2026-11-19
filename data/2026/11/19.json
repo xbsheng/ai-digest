@@ -1,0 +1,299 @@
+{
+  "date": "2026-11-19",
+  "fetchedAt": "2026-11-19T03:22:21.334Z",
+  "total": 35,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Gemini 4 Neon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "score": 528,
+      "comments": 482,
+      "discuss": "https://news.ycombinator.com/item?id=50552424"
+    },
+    {
+      "source": "hackernews",
+      "title": "Genie 4 is now available",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "score": 203,
+      "comments": 143,
+      "discuss": "https://news.ycombinator.com/item?id=50550415"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI will not make you rich (2025)",
+      "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+      "score": 61,
+      "comments": 35,
+      "discuss": "https://news.ycombinator.com/item?id=50555093"
+    },
+    {
+      "source": "hackernews",
+      "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "score": 51,
+      "comments": 68,
+      "discuss": "https://news.ycombinator.com/item?id=50551601"
+    },
+    {
+      "source": "hackernews",
+      "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+      "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+      "score": 45,
+      "comments": 11,
+      "discuss": "https://news.ycombinator.com/item?id=50554641"
+    },
+    {
+      "source": "hackernews",
+      "title": "US charges Irishman with destroying a $60M Air Force C-130",
+      "url": "https://taskandpurpose.com/news/c-130-damage-ireland-daithi-ocorrain/",
+      "score": 32,
+      "comments": 40,
+      "discuss": "https://news.ycombinator.com/item?id=50553236"
+    },
+    {
+      "source": "hackernews",
+      "title": "SRE-1: 27B model for Production Investigations",
+      "url": "https://resolve.ai/labs/sre-1/paper",
+      "score": 30,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50551487"
+    },
+    {
+      "source": "hackernews",
+      "title": "Octopus, Gecko and Tortoise: the 3 scanners hunting your AI keys",
+      "url": "https://tin.computer/blog/fake-ai-crawler-secrets-scanners",
+      "score": 27,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=50550461"
+    },
+    {
+      "source": "hackernews",
+      "title": "Horizon Labs Report",
+      "url": "https://horizon-labs.ai/",
+      "score": 23,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=50551509"
+    },
+    {
+      "source": "hackernews",
+      "title": "We asked AI the same 210 buying questions 2 days in a row,84% of answers changed",
+      "url": "https://supercite.ai/blog/ai-answers-change-every-day",
+      "score": 22,
+      "comments": 30,
+      "discuss": "https://news.ycombinator.com/item?id=50549677"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Robotics needs better CAD, so I wrote a B-rep kernel and 3,487 tests",
+      "url": "https://springcraft-ai.github.io/springrep/",
+      "score": 21,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50552140"
+    },
+    {
+      "source": "hackernews",
+      "title": "Multi Agent Coordination Benchmark",
+      "url": "https://benchmarks.bespokelabs.ai/multi-agent-coordination-bench/",
+      "score": 15,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50550085"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Beat – a to-do list that completes its own tasks",
+      "url": "https://gobeat.ai/auth/login",
+      "score": 12,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=50551356"
+    },
+    {
+      "source": "hackernews",
+      "title": "Thomas Nagel says that it's criminal to build AI that feigns consciousness",
+      "url": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/",
+      "score": 11,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50554179"
+    },
+    {
+      "source": "arxiv",
+      "title": "RSIBench-Infra: Can Agents Optimize Their Own Training and Inference Infrastructure at Production Scale?",
+      "url": "http://arxiv.org/abs/2611.24395v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Hanlin Wu, Yifei Wang, Zhicheng Cai",
+      "discuss": "http://arxiv.org/abs/2611.24395v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Temporal Rank in Recurrent Neural Networks",
+      "url": "http://arxiv.org/abs/2611.24394v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Leo Dobson, Anton Ragni",
+      "discuss": "http://arxiv.org/abs/2611.24394v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Enhancing Active Learning Performance with Initial Data Selection Based on Foundation Models",
+      "url": "http://arxiv.org/abs/2611.24384v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Mohammad Mirzaee, Mehrshad Fallah Estalkhzir, Mohammad Reza Mohammadi",
+      "discuss": "http://arxiv.org/abs/2611.24384v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "What Majority Labels Hide: Annotator Disagreement and Model Errors in Multi-Dialect Arabic Sexism Detection",
+      "url": "http://arxiv.org/abs/2611.24383v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Alaa Bazaid, Arkaitz Zubiaga",
+      "discuss": "http://arxiv.org/abs/2611.24383v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "How to Turn an Attention Neural Network into an Interpretable Hard-Logic Predicate Circuit: Truth-Table Predicate Extraction and State-Machine Merging under Ship-of-Theseus Replacement",
+      "url": "http://arxiv.org/abs/2611.24381v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yuchen Li, Zongqi Fan, Xintong Li",
+      "discuss": "http://arxiv.org/abs/2611.24381v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "MoE-Context: Show the Model Only What It Needs",
+      "url": "http://arxiv.org/abs/2611.24379v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Vedant Navale",
+      "discuss": "http://arxiv.org/abs/2611.24379v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "LLM-Assisted Multi-Fidelity Bayesian Optimization: Fusing Expert Knowledge with Numerical Data",
+      "url": "http://arxiv.org/abs/2611.24377v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Dongjun Han, Mingyu Lee, Ikjin Lee",
+      "discuss": "http://arxiv.org/abs/2611.24377v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "VAFL: A Vertical Analytic Federated Learning Mechanism for Efficient Crowdsourced Services via Closed-Form Solutions",
+      "url": "http://arxiv.org/abs/2611.24367v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yajiang Huang, Anfeng Liu, Tian Wang",
+      "discuss": "http://arxiv.org/abs/2611.24367v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents",
+      "url": "http://arxiv.org/abs/2611.24362v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Lipeng He, Yihan Wang, Jiawen Zhang",
+      "discuss": "http://arxiv.org/abs/2611.24362v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Towards Pose-Robust Few-Shot Vision-Language-Action Models",
+      "url": "http://arxiv.org/abs/2611.24360v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Wenhao Li, Zhongyi Han, Yuhao Wei",
+      "discuss": "http://arxiv.org/abs/2611.24360v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Semantic Context Handoff with On-Demand Evidence for Long-Horizon Agents",
+      "url": "http://arxiv.org/abs/2611.24357v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Guolong Zheng, Chen Hou, Xu Yang",
+      "discuss": "http://arxiv.org/abs/2611.24357v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "When Figures Disagree with Text: Evaluating Autonomous Visual Evidence Verification in Scientific Papers",
+      "url": "http://arxiv.org/abs/2611.24353v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Guijia Zhang, Hongbo Qiu, Jiajun Zha",
+      "discuss": "http://arxiv.org/abs/2611.24353v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "OCTR2A: Real-Time RGB-to-BEV Trajectory Projection and Forecasting at Urban Intersections",
+      "url": "http://arxiv.org/abs/2611.24352v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Emanuele Iacobelli, Simone Teglia, Francesco Pro",
+      "discuss": "http://arxiv.org/abs/2611.24352v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Tell Me How Sure You Are: Communicating Uncertainty in Auxiliary Evidence to Foundation Models",
+      "url": "http://arxiv.org/abs/2611.24351v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Soumyajit Chatterjee, Baturalp Buyukates, Abhirup Ghosh",
+      "discuss": "http://arxiv.org/abs/2611.24351v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "automodel: A Skill for Agentic Model Discovery",
+      "url": "http://arxiv.org/abs/2611.24347v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Marco Virgolin, Harry Desmond, Ester Bergantin",
+      "discuss": "http://arxiv.org/abs/2611.24347v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Exploring Daily Emotional Well-Being through Personalized Data Analysis",
+      "url": "http://arxiv.org/abs/2611.24342v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Adriana Rodríguez Rodríguez",
+      "discuss": "http://arxiv.org/abs/2611.24342v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "OpenGNS: An Open Dataset of the Gradient Noise Scale across Vision, Language, and Diffusion Models",
+      "url": "http://arxiv.org/abs/2611.24331v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Marcel Aach, Jiangtao Wang, Stefan Kesselheim",
+      "discuss": "http://arxiv.org/abs/2611.24331v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Can Weight-Space Programming Alter Learned Ethical Priorities?",
+      "url": "http://arxiv.org/abs/2611.24330v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Kai Yi Ji",
+      "discuss": "http://arxiv.org/abs/2611.24330v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Distribution-Free Uncertainty Quantification for Weather Forecasting: Conformal Prediction Under Spatiotemporal Dependence",
+      "url": "http://arxiv.org/abs/2611.24329v1",
+      "score": 0,
+      "comments": 0,
+      "authors": " Mariya",
+      "discuss": "http://arxiv.org/abs/2611.24329v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Structure-Preserving Neural Approximation of Convex, Semiconvex, and Quasiconvex Functions",
+      "url": "http://arxiv.org/abs/2611.24325v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yeachan Park, Yeoneung Kim",
+      "discuss": "http://arxiv.org/abs/2611.24325v1"
+    }
+  ]
+}
