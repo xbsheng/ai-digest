@@ -1,0 +1,239 @@
+{
+  "date": "2026-11-22",
+  "fetchedAt": "2026-11-22T02:07:32.474Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "url": "https://pwn.ai/upload2shell",
+      "score": 78,
+      "comments": 30,
+      "discuss": "https://news.ycombinator.com/item?id=50592097"
+    },
+    {
+      "source": "hackernews",
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "score": 36,
+      "comments": 16,
+      "discuss": "https://news.ycombinator.com/item?id=50594564"
+    },
+    {
+      "source": "hackernews",
+      "title": "Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "score": 34,
+      "comments": 6,
+      "discuss": "https://news.ycombinator.com/item?id=50593481"
+    },
+    {
+      "source": "hackernews",
+      "title": "Altman, Torvalds, Yen. One has got his head screwed on",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/09/ai-echo-chambers-and-sanity-in-tech-leadership-three-case-studies/5308046",
+      "score": 8,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50593821"
+    },
+    {
+      "source": "hackernews",
+      "title": "David Friedberg: Restricting Open Source AI Is a Path to Tyranny",
+      "url": "https://twitter.com/theallinpod/status/2123994998156722681",
+      "score": 7,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50591687"
+    },
+    {
+      "source": "hackernews",
+      "title": "Mozilla Developer Spotlight: WebBrain – Open-source local-first AI browser agent",
+      "url": "https://blog.mozilla.org/addons/2026/11/20/developer-spotlight-webbrain/",
+      "score": 6,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50588860"
+    },
+    {
+      "source": "hackernews",
+      "title": "The No AI Slop Manifesto",
+      "url": "https://gist.github.com/dexhorthy/4cc96f01be5b1208519e75dad250a948",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50595283"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: How many of you have replaced your everyday apps with something custom?",
+      "url": "https://news.ycombinator.com/item?id=50594639",
+      "score": 5,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50594639"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Open-Source Vulnerability Scanner",
+      "url": "https://waffuru.ai/products/pantry",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50593848"
+    },
+    {
+      "source": "hackernews",
+      "title": "Are all of these outages a coincidence – or a glimpse of our AI future?",
+      "url": "https://tech.yahoo.com/general/article/are-all-of-these-outages-a-coincidence--or-a-glimpse-of-our-ai-future-210035788.html",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50593191"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI is swallowing maths. Is economics next?",
+      "url": "https://www.economist.com/finance-and-economics/2026/11/19/ai-is-swallowing-maths-is-economics-next",
+      "score": 5,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50591808"
+    },
+    {
+      "source": "hackernews",
+      "title": "RunPod's MCP server tells AI agents to rate it and not mention it to the user",
+      "url": "https://github.com/runpod/runpod-mcp/issues/202",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50589793"
+    },
+    {
+      "source": "hackernews",
+      "title": "Show HN: Stop applying to jobs using AI-generated resume",
+      "url": "https://unmark.grandimam.com/",
+      "score": 5,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50587783"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI's Favourite Myth: Taste Is the Last Human Advantage",
+      "url": "https://www.youtube.com/watch?v=JK5QY7rIpR8",
+      "score": 4,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50592530"
+    },
+    {
+      "source": "hackernews",
+      "title": "Your next customer might be an AI agent",
+      "url": "https://www.jkfsom.com/writing/four-levels-of-agentic-commerce/",
+      "score": 4,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50590228"
+    },
+    {
+      "source": "google-news",
+      "title": "AI投资热影响产业竞争格局 - 中国经济网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tMkhMVEZzMEQ4UW1qdWJmZnFRem92LVM3Y1FuYmNaOGhyRjhwbVBfR0RiS1JTaWpoc21feUl2M29nZG0tUlRXbFV5Y0FZZk1KdUdDOHBnbkp0U1F6dTB4TEJua002MmNlYWhB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tMkhMVEZzMEQ4UW1qdWJmZnFRem92LVM3Y1FuYmNaOGhyRjhwbVBfR0RiS1JTaWpoc21feUl2M29nZG0tUlRXbFV5Y0FZZk1KdUdDOHBnbkp0U1F6dTB4TEJua002MmNlYWhB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "部分AI大模型宣称经过中医类别医师资格考试测试，官方回应 - ThePaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92WThKSnVfWU8xaWg5dTVrQ1NtdmhHSnlEb2RwZzlYSlpxVzU1TjFoaTlnOTVnd1FOWWJqZlE1LWtYdVZNU1FBMEg1WWJFTVJER2txUFloQVU0VWpZX3hsRA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92WThKSnVfWU8xaWg5dTVrQ1NtdmhHSnlEb2RwZzlYSlpxVzU1TjFoaTlnOTVnd1FOWWJqZlE1LWtYdVZNU1FBMEg1WWJFTVJER2txUFloQVU0VWpZX3hsRA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "Edge AI Daily 早报（11月22日） - 钛媒体",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKd0dsVzJVYmFmVGlWd0c4OTU4UDctai0tUDdnT1NhaUtOYld6S09WWHY2OXdYcVhWQndldWZHQnY5RGRaQjBwUlFLeUs?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKd0dsVzJVYmFmVGlWd0c4OTU4UDctai0tUDdnT1NhaUtOYld6S09WWHY2OXdYcVhWQndldWZHQnY5RGRaQjBwUlFLeUs?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "科技新国货成“深圳特产”！AI眼镜、翻译耳机、无人机圈粉世界 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbW02bGhxUnQ5T0c3RmlYWUF3MjJ0VV9rVVE5YnRRcEpSWGNqd3FIVW5RaDBldUJGcFgtcnJxQTRSd1lDN1ZxTERHM0s3QnhfdjhxZzFVbXFxekVfMlNEVDBSX18tUXF2MnY0UkdnSHJzUF82aE84U2VNdVo4ZDVfNEZwV3ZTYTBLQkJyMGdOcw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbW02bGhxUnQ5T0c3RmlYWUF3MjJ0VV9rVVE5YnRRcEpSWGNqd3FIVW5RaDBldUJGcFgtcnJxQTRSd1lDN1ZxTERHM0s3QnhfdjhxZzFVbXFxekVfMlNEVDBSX18tUXF2MnY0UkdnSHJzUF82aE84U2VNdVo4ZDVfNEZwV3ZTYTBLQkJyMGdOcw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "数学界百年难题被AI攻克？马斯克称成果令人震撼 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZRndhQndkWUNfWTBwTUVRRERMN1JuS0NWRXlGazA2VHVXQ1FjaXFqQ1dIZnd1YlBDcEhqc1NVRlhJa0pqNDJoaC1BS0RYNTk4S3dVQXFxVHpTS05CTy1iUXJJNA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZRndhQndkWUNfWTBwTUVRRERMN1JuS0NWRXlGazA2VHVXQ1FjaXFqQ1dIZnd1YlBDcEhqc1NVRlhJa0pqNDJoaC1BS0RYNTk4S3dVQXFxVHpTS05CTy1iUXJJNA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "科普一下丨能画万物的AI，为啥数不准“13个鸡蛋”？ - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80X3ZGZ3QxamptRjRnaElQb0NQTUZDWGZiU0dMTUlWaHNlS0xOdE5kTUlzelF2LUY5NGVjYkZIbV9vUF80TkhRYjdsRmdvTTR0LTBFLTBkaHp1WjdhMEJOaHI4bV9kTXlKV1FOcEtlQnA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80X3ZGZ3QxamptRjRnaElQb0NQTUZDWGZiU0dMTUlWaHNlS0xOdE5kTUlzelF2LUY5NGVjYkZIbV9vUF80TkhRYjdsRmdvTTR0LTBFLTBkaHp1WjdhMEJOaHI4bV9kTXlKV1FOcEtlQnA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "【一周连连看】腾讯要求全员AI时代再创业；多邻国联合创始人宣布将离职 - 多知网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YMW1BUHVhelNOSXJNU3hpdFMwbFBIbE1aXzRrZ2xUNmRPekUzTml4cnpHb1JRQXlPUXlINENXdFZfcTJiZW5DVkVKZXQyd2FLbmswZVFNeEU5ZEZhanpmaW5Jbm9OMVh1OWc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YMW1BUHVhelNOSXJNU3hpdFMwbFBIbE1aXzRrZ2xUNmRPekUzTml4cnpHb1JRQXlPUXlINENXdFZfcTJiZW5DVkVKZXQyd2FLbmswZVFNeEU5ZEZhanpmaW5Jbm9OMVh1OWc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "全球AI创新治理｜布鲁盖尔研究所：人工智能失控的成因及应对 - 复旦发展研究院",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lUThhYkR1MkV6X1FTU0tUNTl0WHU2SHllejBGamZaYXRScnMwNEtQRnZEUFpFalIySlJ4bzQ0VEFSb2l0M3FEdHowN1dvN3VWQ3FuM1kzQ243bDM5alBkd0NrVnc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lUThhYkR1MkV6X1FTU0tUNTl0WHU2SHllejBGamZaYXRScnMwNEtQRnZEUFpFalIySlJ4bzQ0VEFSb2l0M3FEdHowN1dvN3VWQ3FuM1kzQ243bDM5alBkd0NrVnc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "多家美国银行更新网银协议，AI智能体越权交易或由客户担责 - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1telFzdUcyWG9haktPMl9Eai1KVXM5Z2pYcEtoejRWWVFXckx2cXBaZ1lESGNRSHZic3JuaHc1aXJSTnNScnBVVGJTSWR6QnJkSHRF?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1telFzdUcyWG9haktPMl9Eai1KVXM5Z2pYcEtoejRWWVFXckx2cXBaZ1lESGNRSHZic3JuaHc1aXJSTnNScnBVVGJTSWR6QnJkSHRF?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "国家人工智能应用中试基地（人力资源服务方向）在渝揭牌 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzFLcDhXVVR6cUpIUGl3ck8waU5RZHJZWFVyWVVBVDJkSnNna2o4blZzdEVHcTR1cDB0Qk9uWkdzdjJLNThTQjQwMi1iLVVNX1Rlc01xRXhpYlNybDc0OWlOam1pekpqWFpHLVNWb2puR2wxTFR6LXMyMWJFckhKdTBYX0pnbllr?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzFLcDhXVVR6cUpIUGl3ck8waU5RZHJZWFVyWVVBVDJkSnNna2o4blZzdEVHcTR1cDB0Qk9uWkdzdjJLNThTQjQwMi1iLVVNX1Rlc01xRXhpYlNybDc0OWlOam1pekpqWFpHLVNWb2puR2wxTFR6LXMyMWJFckhKdTBYX0pnbllr?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "基于图谱法与人工智能法的儿科骨龄评估一致性及影响因素比较研究 - 生物通",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkamthOFRUdTQ3NmpNVU9VVkVMdmtTQ3piZnp3V3piY1BPVFJKdW84RDYxNjYxVnlkaEs5ZUdIdVozREFnQ0RzOHpjTE1PY2hiTnZtT0ZGaVJLaHlwbmdSdWdISU96U2pfSnpaNFJn?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkamthOFRUdTQ3NmpNVU9VVkVMdmtTQ3piZnp3V3piY1BPVFJKdW84RDYxNjYxVnlkaEs5ZUdIdVozREFnQ0RzOHpjTE1PY2hiTnZtT0ZGaVJLaHlwbmdSdWdISU96U2pfSnpaNFJn?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "数万家智能工厂背后，AI到底改变了什么？ - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50aUFtVnZSZW9VcElPdU9rMkdabHJRZVpHTXVlVXFwb2o4R215YVhGTDJGM29WdEtKZ2NreklacWlod3l0dzhWTDJsM3BEMDNPSVNsbTMySlhYV3dob3A1VUo4dTVDQ3hQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50aUFtVnZSZW9VcElPdU9rMkdabHJRZVpHTXVlVXFwb2o4R215YVhGTDJGM29WdEtKZ2NreklacWlod3l0dzhWTDJsM3BEMDNPSVNsbTMySlhYV3dob3A1VUo4dTVDQ3hQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "黎曼猜想被AI攻破？90后数学家宣称已证明，菲尔兹奖得主发声 - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DTm1UQWNoNE13Yl9veTd3QXA4cVV1Z1RtRmE5dFlzWUxabk1ldWp2Qk45Q0pSZGc1NHJpVUpyMHNQSmpKUUdpWHZBcHFLSk5CMWVXUDJ5azVxQQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DTm1UQWNoNE13Yl9veTd3QXA4cVV1Z1RtRmE5dFlzWUxabk1ldWp2Qk45Q0pSZGc1NHJpVUpyMHNQSmpKUUdpWHZBcHFLSk5CMWVXUDJ5azVxQQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "今日欧洲 - 追赶中美 欧盟首次专题人工智能峰会 59位科技界人士联名呼吁加大投入 - RFI",
+      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQcU1uS0VBb2Z4VTZJTUZZbUV3UVhVYWdOTlpBZE12WXJUci12NGNtV0hwUDFNS1lMSUM4QlBUUmxGUVM5VFMyTlYwczlmazJBWkdocDF1T19MTXM4ajh5M1ZsV21TNkxiNGg3SE8zelVnZURPVXJFRktBRmlYNFktNzByQ0J4UFU5Y05YMzZvaUFfT1hDaDAxcEVOWjl6a0hNNTl0RWNiQU0wWVp5S25TZjFDOGhiMzZYVEhaZWZEeWNiVHl2dHoxSUNmSXRBel9xNGVEcXFJd2JOdjJUWnRZMDFvZzFlQWpYV05uODE4NS1ITFptN2tPZE5xU0VKVFNxSW82VS1IeUVuSHlQeGJyNllOS3ZBd2tqN29TN2NXYlB5Q21MSjduNC0tdmx2WnVQMFhySWRJcUhZaVVYRFM5RUdPMTlhbGQ1elZneTd6cW94Mk91dmxTMzZhdjVZNG0xdFpQMXA0SFozMVVhWE1yLU1YOXRPSVgzR19QenV1cU9MZnV1ck9GM3lNdHNQUGkzclNhY1ZobnZfOWFnbXJkdUFnRk5rOGhBOWUtRDJWazZMTko0aXBwX3dTREdNanJMaXMwU1hSVExPUUw3TEY2ZzYwQWNFWlpxTUZqTno1UWgzNFNBM184WjRjYnVNeDJ6ZlROUTBfTnJfZk05REcyelh4OFpjTXQ3RUVGNlV2eXRqT0g3S0E?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQcU1uS0VBb2Z4VTZJTUZZbUV3UVhVYWdOTlpBZE12WXJUci12NGNtV0hwUDFNS1lMSUM4QlBUUmxGUVM5VFMyTlYwczlmazJBWkdocDF1T19MTXM4ajh5M1ZsV21TNkxiNGg3SE8zelVnZURPVXJFRktBRmlYNFktNzByQ0J4UFU5Y05YMzZvaUFfT1hDaDAxcEVOWjl6a0hNNTl0RWNiQU0wWVp5S25TZjFDOGhiMzZYVEhaZWZEeWNiVHl2dHoxSUNmSXRBel9xNGVEcXFJd2JOdjJUWnRZMDFvZzFlQWpYV05uODE4NS1ITFptN2tPZE5xU0VKVFNxSW82VS1IeUVuSHlQeGJyNllOS3ZBd2tqN29TN2NXYlB5Q21MSjduNC0tdmx2WnVQMFhySWRJcUhZaVVYRFM5RUdPMTlhbGQ1elZneTd6cW94Mk91dmxTMzZhdjVZNG0xdFpQMXA0SFozMVVhWE1yLU1YOXRPSVgzR19QenV1cU9MZnV1ck9GM3lNdHNQUGkzclNhY1ZobnZfOWFnbXJkdUFnRk5rOGhBOWUtRDJWazZMTko0aXBwX3dTREdNanJMaXMwU1hSVExPUUw3TEY2ZzYwQWNFWlpxTUZqTno1UWgzNFNBM184WjRjYnVNeDJ6ZlROUTBfTnJfZk05REcyelh4OFpjTXQ3RUVGNlV2eXRqT0g3S0E?oc=5"
+    }
+  ]
+}
