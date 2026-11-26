@@ -1,0 +1,427 @@
+{
+  "date": "2026-11-26",
+  "fetchedAt": "2026-11-26T04:08:05.426Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "score": 256,
+      "comments": 205,
+      "discuss": "https://news.ycombinator.com/item?id=50647673"
+    },
+    {
+      "source": "hackernews",
+      "title": "Spending 35B Opus 5.5 Tokens to Write a Symphony",
+      "url": "https://danprice.ai/blog/opus-symphony",
+      "score": 53,
+      "comments": 64,
+      "discuss": "https://news.ycombinator.com/item?id=50646662"
+    },
+    {
+      "source": "hackernews",
+      "title": "New York bans AI toys, including those using internet to talk to children",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+      "score": 48,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=50644909"
+    },
+    {
+      "source": "hackernews",
+      "title": "When the Air Force Needed a Supercomputer, They Built It Out of PS3 Consoles",
+      "url": "https://www.warhistoryonline.com/war-articles/ps3-supercomputer.html",
+      "score": 16,
+      "comments": 7,
+      "discuss": "https://news.ycombinator.com/item?id=50646073"
+    },
+    {
+      "source": "hackernews",
+      "title": "Deliberately run your time, energy and resources below 80% capacity",
+      "url": "https://twitter.com/Voxyz_ai/status/2125591320341229890/photo/1",
+      "score": 12,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=50646910"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
+      "url": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai/",
+      "score": 11,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50648668"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Nobel Prizes for OpenAI and Anthropic: When?",
+      "url": "https://news.ycombinator.com/item?id=50647893",
+      "score": 11,
+      "comments": 12,
+      "discuss": "https://news.ycombinator.com/item?id=50647893"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Where are all the amazing AI-generated software?",
+      "url": "https://news.ycombinator.com/item?id=50643767",
+      "score": 8,
+      "comments": 14,
+      "discuss": "https://news.ycombinator.com/item?id=50643767"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: If you had no limitations what would you build in AI?",
+      "url": "https://news.ycombinator.com/item?id=50643310",
+      "score": 8,
+      "comments": 17,
+      "discuss": "https://news.ycombinator.com/item?id=50643310"
+    },
+    {
+      "source": "hackernews",
+      "title": "The Last Boring Slide",
+      "url": "https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah#questions-3",
+      "score": 6,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50646914"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: Is RSA in Jeopardy?",
+      "url": "https://news.ycombinator.com/item?id=50645915",
+      "score": 6,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50645915"
+    },
+    {
+      "source": "hackernews",
+      "title": "Cloudflare AI Search for Agents",
+      "url": "https://blog.cloudflare.com/search-for-agents/",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50649149"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI Chief of Staff",
+      "url": "https://airbots.ai/",
+      "score": 5,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50647456"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: For professional Mathematicians –- about your career in the future",
+      "url": "https://news.ycombinator.com/item?id=50647440",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50647440"
+    },
+    {
+      "source": "hackernews",
+      "title": "LinkedIn CEO warns the job market is 'frozen'",
+      "url": "https://fortune.com/2026/11/23/linkedin-ceo-warns-job-market-is-frozen-gen-z-could-have-the-upper-hand-thanks-to-ai/",
+      "score": 5,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50644274"
+    },
+    {
+      "source": "arxiv",
+      "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+      "url": "http://arxiv.org/abs/2611.34942v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Yalin E. Sagduyu, Tugba Erpek",
+      "discuss": "http://arxiv.org/abs/2611.34942v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Tokenisation is not in APX",
+      "url": "http://arxiv.org/abs/2611.34938v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Violeta Kastreva, Philip Whittington, Dennis Komm",
+      "discuss": "http://arxiv.org/abs/2611.34938v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Can image generation help visual reasoning? An empirical study",
+      "url": "http://arxiv.org/abs/2611.34935v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Xueyang Yu, Yifan Jing, Taiming Lu",
+      "discuss": "http://arxiv.org/abs/2611.34935v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+      "url": "http://arxiv.org/abs/2611.34934v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Charlie Griffin, Oliver Makins, Asa Cooper Stickland",
+      "discuss": "http://arxiv.org/abs/2611.34934v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "A gene informed benchmark for BioScoring of pathology foundation models",
+      "url": "http://arxiv.org/abs/2611.34930v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Paul Vilars, Vincent Quoc-Huy Trinh, Maria Vakalopoulou",
+      "discuss": "http://arxiv.org/abs/2611.34930v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+      "url": "http://arxiv.org/abs/2611.34928v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Lukas Aichberger, Adam Golinski, Arno Blaas",
+      "discuss": "http://arxiv.org/abs/2611.34928v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Mixture-of-Loops Transformer",
+      "url": "http://arxiv.org/abs/2611.34923v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Lianghui Zhu, Shijie Wang, Xinggang Wang",
+      "discuss": "http://arxiv.org/abs/2611.34923v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+      "url": "http://arxiv.org/abs/2611.34920v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Qihao Lin, Guanxu Chen, Shuhang Zheng",
+      "discuss": "http://arxiv.org/abs/2611.34920v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Enhancing Maritime Domain Awareness using Latent Space Representations",
+      "url": "http://arxiv.org/abs/2611.34899v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Rikard Vinge, Miguel A. Belenguer-Plomer, Isabelle Wittmann",
+      "discuss": "http://arxiv.org/abs/2611.34899v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from Video",
+      "url": "http://arxiv.org/abs/2611.34894v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Ziyue Peng, Yanxi Hu, Junyoung Kim",
+      "discuss": "http://arxiv.org/abs/2611.34894v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Interpretable and Accurate Hybrid Decision Trees with Selective Case-Based Splits",
+      "url": "http://arxiv.org/abs/2611.34887v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Cristiano Landi, Alessio Cascione, Riccardo Guidotti",
+      "discuss": "http://arxiv.org/abs/2611.34887v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Stranger Things: When Objects Appear Without Their Typical Neighbors",
+      "url": "http://arxiv.org/abs/2611.34881v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Siddhartha Gairola, Jiahao Xie, Anna Kukleva",
+      "discuss": "http://arxiv.org/abs/2611.34881v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "How Much Do Coding Agents Over-Edit, and Why? An Empirical Study of Unneeded Edits in Repository-Level Agent Patches",
+      "url": "http://arxiv.org/abs/2611.34875v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Aakash Goel, Benjamin Steenhoek, Yu Hu",
+      "discuss": "http://arxiv.org/abs/2611.34875v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Shape-Aware Three-Way Merge for RDF Knowledge Graphs: The schema defines the conflict: an implementation and evaluation",
+      "url": "http://arxiv.org/abs/2611.34870v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Steve Brown",
+      "discuss": "http://arxiv.org/abs/2611.34870v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom",
+      "url": "http://arxiv.org/abs/2611.34868v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Joy Bose, Srinivas Adyapak",
+      "discuss": "http://arxiv.org/abs/2611.34868v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies",
+      "url": "http://arxiv.org/abs/2611.34864v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Insup Lee, Hojin Jeon, Sunguk Shin",
+      "discuss": "http://arxiv.org/abs/2611.34864v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Focus Only on What's Important: Training-Free Focus Maps for Frozen Vision Transformers in Long-Video Object Segmentation",
+      "url": "http://arxiv.org/abs/2611.34863v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Harsha Karipineni, Rajesh Reddy Chintha",
+      "discuss": "http://arxiv.org/abs/2611.34863v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "BOP-Refer: Benchmark for Monocular 3D and 2D Object Grounding",
+      "url": "http://arxiv.org/abs/2611.34862v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Tomas Hodan, Vineet Bhat, Martin Sundermeyer",
+      "discuss": "http://arxiv.org/abs/2611.34862v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "Model Weights, Airlocks and Sandboxes: A Call for Technical Validation of Re-identification Tests under the EDPB Anonymisation Guidelines",
+      "url": "http://arxiv.org/abs/2611.34859v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Rickard Brännvall, Henrik Forsgren, Erik Ylipää",
+      "discuss": "http://arxiv.org/abs/2611.34859v1"
+    },
+    {
+      "source": "arxiv",
+      "title": "From Prediction to Decision: Decision-Focused Fine-Tuning of Autoregressive Tabular Transformers for Cost-Sensitive Financial Events",
+      "url": "http://arxiv.org/abs/2611.34858v1",
+      "score": 0,
+      "comments": 0,
+      "authors": "Ashkan Golgoon, Giacomo Domeniconi, Samuel Atkins",
+      "discuss": "http://arxiv.org/abs/2611.34858v1"
+    },
+    {
+      "source": "google-news",
+      "title": "上合组织秘书长参观中国—上合组织国家人工智能应用合作中心 - sectsco.org",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kRmV3UU5kMDhQS2NuRkZXYmxQZ09LN0Z2UTdscVoyakluWGZKQS1ncFA2VEJ3TGRIN1R3V1VtMldfM2NOVDV2TmU1Zjc1cC05LVBWUWZfQ0k?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kRmV3UU5kMDhQS2NuRkZXYmxQZ09LN0Z2UTdscVoyakluWGZKQS1ncFA2VEJ3TGRIN1R3V1VtMldfM2NOVDV2TmU1Zjc1cC05LVBWUWZfQ0k?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "朱光耀：把握人工智能与上链双重变革的机遇，塑造亚洲的共同未来 - 习近平外交思想和新时代中国外交",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nUTM2QkVoclhnTmtFTFJxSHlQQmhGRHNIZnp5YTJKUkdtN0pWUk5FMzFoUlNTcGM2YmNaNkZDdk04eVB6MEo1NEw2MkE3cE1Ga05jVGtDejRDQUlrZm13MXN2ZkxWc1l4NTl5Wmd4bzZJTFdEUXc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nUTM2QkVoclhnTmtFTFJxSHlQQmhGRHNIZnp5YTJKUkdtN0pWUk5FMzFoUlNTcGM2YmNaNkZDdk04eVB6MEo1NEw2MkE3cE1Ga05jVGtDejRDQUlrZm13MXN2ZkxWc1l4NTl5Wmd4bzZJTFdEUXc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "人工智能与生命科学交叉中心揭牌-树立和践行正确政绩观学习教育 - 中国科大新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vTE1rb0hsbW05N3ZCeW56TDBXcGxCQnRWN2EwVGtXTGprS0dsRzd5MGs0NVRMQnlGa2NPaDdsd1gyOV9YckszeDVaZVN6SXVfZ0JVWXRWdHNHYWxjanc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vTE1rb0hsbW05N3ZCeW56TDBXcGxCQnRWN2EwVGtXTGprS0dsRzd5MGs0NVRMQnlGa2NPaDdsd1gyOV9YckszeDVaZVN6SXVfZ0JVWXRWdHNHYWxjanc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "孙宏艳 | 中小学生使用人工智能的影响因素与核心能力 - 中国教育新闻网",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GeHJycGk3d01IbmEyZUNWSURuN0tGbE5CR2ZGcGJxZ2lwd25XTHNlMzcxZFlISHp5clpqNnFpZ2NyUnVGeW11R1dqRFdGMHg5VjlGVWk3d25hQW9yQ1hjS2xQMTJrNzA5SzBKekR6RkMwWmpV?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GeHJycGk3d01IbmEyZUNWSURuN0tGbE5CR2ZGcGJxZ2lwd25XTHNlMzcxZFlISHp5clpqNnFpZ2NyUnVGeW11R1dqRFdGMHg5VjlGVWk3d25hQW9yQ1hjS2xQMTJrNzA5SzBKekR6RkMwWmpV?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "八部门发文：云计算、大模型等AI服务将稳妥有序出海 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUxmT0dMSjh0OXFnb05QaDdXeTc2b01VWE9oV1J4a05va05iLXJfeGxwWmNFdmZNYVpfaGw1bU9NdVlCdlctZUtyVGJBUUVtaUg4VUNwczVhUFhtT3JjZWs2VGdLVkJLT1BUYUhHRjhzT0cxVVNIR1ZmeEtITHpsSXUzTXJ3OHEtTEZfeDBERQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeUxmT0dMSjh0OXFnb05QaDdXeTc2b01VWE9oV1J4a05va05iLXJfeGxwWmNFdmZNYVpfaGw1bU9NdVlCdlctZUtyVGJBUUVtaUg4VUNwczVhUFhtT3JjZWs2VGdLVkJLT1BUYUhHRjhzT0cxVVNIR1ZmeEtITHpsSXUzTXJ3OHEtTEZfeDBERQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "门头沟区举办AI留学人才会客厅活动 - 国际科技创新中心",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HX0pIMGlWcXhzX0xoamh4NnJPWlM5aXZZTlEyREJENmM2TGRWZ2VveWVpLXVpNGI4Z0hkUTRtSDE0US1JaUw5Q3hCZGI0ZmZOR1RLRUFWa2g1QkJhV0ZlblA1U2lBTG9LODdYWU5PZGRqbjV5bVhR?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HX0pIMGlWcXhzX0xoamh4NnJPWlM5aXZZTlEyREJENmM2TGRWZ2VveWVpLXVpNGI4Z0hkUTRtSDE0US1JaUw5Q3hCZGI0ZmZOR1RLRUFWa2g1QkJhV0ZlblA1U2lBTG9LODdYWU5PZGRqbjV5bVhR?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "红熊AI创始人温德亮：未来AI的形态将进化出超级智能 - 新华网浙江",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMzhWTjRNc3NvbVlzVXVLOFh2YXpBOTlNNGg1ajRwdFRWSmkyQjFYRHc1aEhIY3VIYk5WRTJHWUZJMGNRRXM0cjNfTzJWX0RHOXZBNEZvWFJINTcxbF82Q1kwNmNBUGRsUmRjeVh0R0RDWGRaR05JbnkwMFAtWjVQRU13?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMzhWTjRNc3NvbVlzVXVLOFh2YXpBOTlNNGg1ajRwdFRWSmkyQjFYRHc1aEhIY3VIYk5WRTJHWUZJMGNRRXM0cjNfTzJWX0RHOXZBNEZvWFJINTcxbF82Q1kwNmNBUGRsUmRjeVh0R0RDWGRaR05JbnkwMFAtWjVQRU13?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "两大AI公司同日公布“VP≠VNP”问题证明 - 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mdEYteEZta1phYmpJa3AxMFQ3eTN5N3ZQRzcwQ1o4VzlNdzlnb0EwV1FySWhZcmJDV0xzYzNkenZZM0ViV2lrS3pCUGJ1V201Um1MSGhoRVA4ZnFkY2p3RnlvMUV5UQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mdEYteEZta1phYmpJa3AxMFQ3eTN5N3ZQRzcwQ1o4VzlNdzlnb0EwV1FySWhZcmJDV0xzYzNkenZZM0ViV2lrS3pCUGJ1V201Um1MSGhoRVA4ZnFkY2p3RnlvMUV5UQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "受AI冲击险丢近半营收，计算机博士向AI学习单笔订单增千万元 - 武汉市人民政府",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQUtHaS1rR1lVZmRaN3FfRGxJMGY4ZzVVR3MzdDlQUllCLU9XdE54SUoxSktfd2s4VGJRNFlSbkcxdWtCV19ma09ISjRxXy1xZ3g4Q1BBRXRDbmx5OGNnS2xUUkJRLUZGZ0lBa1NGZWE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uQUtHaS1rR1lVZmRaN3FfRGxJMGY4ZzVVR3MzdDlQUllCLU9XdE54SUoxSktfd2s4VGJRNFlSbkcxdWtCV19ma09ISjRxXy1xZ3g4Q1BBRXRDbmx5OGNnS2xUUkJRLUZGZ0lBa1NGZWE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI视觉圈最豪华创作者圆桌集结Hyperiad新超创大会即将登陆龙岗-政务动态 - 龙岗政府在线",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92S0tpejhCcEd0R0liRHljZUNuUUZxTVFXbGNFejR1cHEycmZMYUlDSnBQdGV2WHJnbnB0MHZQVzV6Zm1xRnB0TkFpcENpMkRtX1ptTUhreXE1SnhhazBndWlMdGt2bVU0RXJ0YmtlUE0?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92S0tpejhCcEd0R0liRHljZUNuUUZxTVFXbGNFejR1cHEycmZMYUlDSnBQdGV2WHJnbnB0MHZQVzV6Zm1xRnB0TkFpcENpMkRtX1ptTUhreXE1SnhhazBndWlMdGt2bVU0RXJ0YmtlUE0?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "织灵Coda Loom 2.5发布：构建AI时代研发生产力 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96Vy14V3RWSFh3WTlFUW5fam1qbnhUdWJ1aW40TmxNVVVzY0t0Yk40QU1Dc3FHYzZJdTJpczJfVWhNZmhGQjVDU2dpMURwLVFZZzdZV1ZIZmtyLU9NYzJwaS0xMVgxbzI2WF9TRUtrOUc?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96Vy14V3RWSFh3WTlFUW5fam1qbnhUdWJ1aW40TmxNVVVzY0t0Yk40QU1Dc3FHYzZJdTJpczJfVWhNZmhGQjVDU2dpMURwLVFZZzdZV1ZIZmtyLU9NYzJwaS0xMVgxbzI2WF9TRUtrOUc?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "无人陪诊？别着急，北京世纪坛医院AI伴诊机器人来帮您！ - 北京市卫生健康委员会",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xNlFJd3JHQnczeU5GeEJNRDBXZ0NXaTJlR1pvYzRmdUxYSDJXNkItNVFPZXU0SE1tckJldFRVMUI0YWc1NnZCZDdGZWIzV0ZweGpCUUdvMlg3a2xZb1ZxMlUwVHVIOUVoNGQzRFVsSmNjU1d5blEzN1hWQkM?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xNlFJd3JHQnczeU5GeEJNRDBXZ0NXaTJlR1pvYzRmdUxYSDJXNkItNVFPZXU0SE1tckJldFRVMUI0YWc1NnZCZDdGZWIzV0ZweGpCUUdvMlg3a2xZb1ZxMlUwVHVIOUVoNGQzRFVsSmNjU1d5blEzN1hWQkM?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "黄立明：以“三智一体”战略 加速向AI原生机器人企业转型 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSGF6bldndEUxUmVLd05kMjBpMjh6VllUZUxqRjBNSzlna1hucTFsUVN1bXBKMGpMQjBsOFVycDdaNjJUWDlFWkEtc0JtSXY4eGZocnNkeWtSQVpuV1dHemFpSGFZaGx3M2dyNW1BN05vXzdCZG9ZTU9ibkNMM0hFYzlsSURMUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSGF6bldndEUxUmVLd05kMjBpMjh6VllUZUxqRjBNSzlna1hucTFsUVN1bXBKMGpMQjBsOFVycDdaNjJUWDlFWkEtc0JtSXY4eGZocnNkeWtSQVpuV1dHemFpSGFZaGx3M2dyNW1BN05vXzdCZG9ZTU9ibkNMM0hFYzlsSURMUQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "浦江中国AI词元业务进入试运行阶段 已接入首批客户 - 东方财富网",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MMTJtNTZrdWg0VUMwMUlncVplNGhoSnhDYlZrMUtlRTQ3Y19BR1dnM3J1MUlYaWk5M2hGUDVTRExYUVAxRTFOSVVrR0lxT25SMmFIaUZoeDhIYnhqRmNVdmh2SGktdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MMTJtNTZrdWg0VUMwMUlncVplNGhoSnhDYlZrMUtlRTQ3Y19BR1dnM3J1MUlYaWk5M2hGUDVTRExYUVAxRTFOSVVrR0lxT25SMmFIaUZoeDhIYnhqRmNVdmh2SGktdw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "取证难、界定难，AI融脸该守住怎样的边界？ - 央视网",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpcGtiWTBGZG52UUJVUGNBdXFlRzgzRU5xZm1PU2I4MU1LbVNaeURDUmVZVnNFVzR1clBDT1ptMExEa0g2cGtNMmdkVlhkNVJVQXFDc3A2akY1R3hJZS15M3VaU2xiSERvVUlVWGVydEI1T0ZnamZ3?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpcGtiWTBGZG52UUJVUGNBdXFlRzgzRU5xZm1PU2I4MU1LbVNaeURDUmVZVnNFVzR1clBDT1ptMExEa0g2cGtNMmdkVlhkNVJVQXFDc3A2akY1R3hJZS15M3VaU2xiSERvVUlVWGVydEI1T0ZnamZ3?oc=5"
+    }
+  ]
+}
