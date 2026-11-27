@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-27",
+  "fetchedAt": "2026-11-27T04:13:43.075Z",
+  "total": 50,
+  "items": [
+    {
+      "source": "hackernews",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "score": 419,
+      "comments": 227,
+      "discuss": "https://news.ycombinator.com/item?id=50660180"
+    },
+    {
+      "source": "hackernews",
+      "title": "Tracking Diseases Cured by AI",
+      "url": "https://diseasescuredbyai.com/",
+      "score": 306,
+      "comments": 183,
+      "discuss": "https://news.ycombinator.com/item?id=50657307"
+    },
+    {
+      "source": "hackernews",
+      "title": "The USA as a Civilizations-esque map",
+      "url": "https://karpathy.ai/usaciv/",
+      "score": 70,
+      "comments": 55,
+      "discuss": "https://news.ycombinator.com/item?id=50658997"
+    },
+    {
+      "source": "hackernews",
+      "title": "Ask HN: How do you find meaning of life at 41?",
+      "url": "https://news.ycombinator.com/item?id=50657957",
+      "score": 56,
+      "comments": 99,
+      "discuss": "https://news.ycombinator.com/item?id=50657957"
+    },
+    {
+      "source": "hackernews",
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "score": 42,
+      "comments": 20,
+      "discuss": "https://news.ycombinator.com/item?id=50661218"
+    },
+    {
+      "source": "hackernews",
+      "title": "Top-cited AI scientists at four US companies compared",
+      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+      "score": 38,
+      "comments": 22,
+      "discuss": "https://news.ycombinator.com/item?id=50658910"
+    },
+    {
+      "source": "hackernews",
+      "title": "'AI' might be the end of our careers",
+      "url": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
+      "score": 34,
+      "comments": 39,
+      "discuss": "https://news.ycombinator.com/item?id=50657452"
+    },
+    {
+      "source": "hackernews",
+      "title": "Poland to create no-fly zone at border after repeated airspace violations",
+      "url": "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
+      "score": 31,
+      "comments": 9,
+      "discuss": "https://news.ycombinator.com/item?id=50658549"
+    },
+    {
+      "source": "hackernews",
+      "title": "Z.ai clarifies GLM-5.5 has not been delayed, scheduled for December launch",
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1y6260i/zai_clarifies_glm55_has_not_been_delayed/",
+      "score": 26,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50657724"
+    },
+    {
+      "source": "hackernews",
+      "title": "The US Government Is Under AI Cyberattack",
+      "url": "https://www.forbes.com/sites/the-wiretap/2026/11/25/us-government-under-ai-cyberattack",
+      "score": 20,
+      "comments": 2,
+      "discuss": "https://news.ycombinator.com/item?id=50660004"
+    },
+    {
+      "source": "hackernews",
+      "title": "Linus Torvalds: \"Tell Your AI Companion to Get Its Act Together\"",
+      "url": "https://www.phoronix.com/news/Linus-Torvalds-EXT4-AI-Big",
+      "score": 15,
+      "comments": 0,
+      "discuss": "https://news.ycombinator.com/item?id=50662164"
+    },
+    {
+      "source": "hackernews",
+      "title": "Banks look to dump AI debt",
+      "url": "https://www.semafor.com/article/11/26/2026/banks-look-to-dump-ai-debt",
+      "score": 12,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50659634"
+    },
+    {
+      "source": "hackernews",
+      "title": "US proposes 10% tariff on Brazilian aircraft in new Section 301 action",
+      "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-invites-public-comment-proposed-modifications-section-301-action-regarding-brazils-unreasonable",
+      "score": 12,
+      "comments": 5,
+      "discuss": "https://news.ycombinator.com/item?id=50656728"
+    },
+    {
+      "source": "hackernews",
+      "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
+      "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+      "score": 9,
+      "comments": 3,
+      "discuss": "https://news.ycombinator.com/item?id=50662153"
+    },
+    {
+      "source": "hackernews",
+      "title": "New research suggests AI bubble bursting and to expect major market collapse",
+      "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+      "score": 9,
+      "comments": 1,
+      "discuss": "https://news.ycombinator.com/item?id=50656893"
+    },
+    {
+      "source": "google-news",
+      "title": "国家数据局拟进一步完善数据规则赋能人工智能创新发展_中央部委动态_首都之窗 - 北京市人民政府门户网站",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SbktaY2FBOFJnaUJWclFuWFMtY1U0OWFoaTVTQk9vX1NvRmh5T2FqLUNVNS14Z1N4UXZxVDliUTZDMWFGNHFZOEJnYVhCX0hTMFZJdDFGUU9Yc3hhOWlTUlpCNnEyeGRsR2FHenY4UWVXb2dyYXUw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SbktaY2FBOFJnaUJWclFuWFMtY1U0OWFoaTVTQk9vX1NvRmh5T2FqLUNVNS14Z1N4UXZxVDliUTZDMWFGNHFZOEJnYVhCX0hTMFZJdDFGUU9Yc3hhOWlTUlpCNnEyeGRsR2FHenY4UWVXb2dyYXUw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "美股AI风向变了：软件>硬件？ - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MenlQVzVTRUk1dXFYQTBWTmZVdGJ1dWFmSXdOaTdtb0h4U0pFeHZROHZDaC1NeFE4VXVMbGszOEYwbi1xTGp1aQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MenlQVzVTRUk1dXFYQTBWTmZVdGJ1dWFmSXdOaTdtb0h4U0pFeHZROHZDaC1NeFE4VXVMbGszOEYwbi1xTGp1aQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "百亿播放量AI漫剧走进影院，你愿意买票看吗？ - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02Y1BYbzd0SG5UMmZJcmpyRlZTbzhtYXlUR0c5NGNFVHRYeWxhZ2dDcnF2ckZoUlFhWFBSVkYyWnB1aGJ0MG9WOUJYQ3FTX29ZRXdVcjJSblFVLXNjeURteG91N0VfNnpzdGhiVXZNbGFHSDFPVmk0Q2JTZWlzdw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02Y1BYbzd0SG5UMmZJcmpyRlZTbzhtYXlUR0c5NGNFVHRYeWxhZ2dDcnF2ckZoUlFhWFBSVkYyWnB1aGJ0MG9WOUJYQ3FTX29ZRXdVcjJSblFVLXNjeURteG91N0VfNnpzdGhiVXZNbGFHSDFPVmk0Q2JTZWlzdw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "华南理工大学加入联合国大学全球人工智能网络 - 华南理工大学新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00QXo1NjZoX25VN19XeG44RFJ6eWdKMURlRVM4UWM5ekhjNElNQk03bERPOTY1dVhpTXVPOHFXSlVNRTNyODJlc0dlT3hibjRDSkpReDV6bGJJRTVOWVVLUE5Jcw?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00QXo1NjZoX25VN19XeG44RFJ6eWdKMURlRVM4UWM5ekhjNElNQk03bERPOTY1dVhpTXVPOHFXSlVNRTNyODJlc0dlT3hibjRDSkpReDV6bGJJRTVOWVVLUE5Jcw?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "中联重科高端装备物理AI创新成果亮相2026上海宝马展 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02TVRIR3BhakMyVlF2aGxob1F1d2hiYWg4RzVIakUzUTBWOGtkd2tuNGM4WjEydUFzQkk0OEJIR0diT0NOUnhINTNFSTZmcGh4LWU5M1hzRm5Dd2pLb1JtNU1vdTI4YTIzcGc0ZmoxTFQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02TVRIR3BhakMyVlF2aGxob1F1d2hiYWg4RzVIakUzUTBWOGtkd2tuNGM4WjEydUFzQkk0OEJIR0diT0NOUnhINTNFSTZmcGh4LWU5M1hzRm5Dd2pLb1JtNU1vdTI4YTIzcGc0ZmoxTFQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "国家数据局拟完善数据规则！AI用数确权与付费机制有望明确(附股) - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1md1lmalpRd1ZTUkFmbXBBRWxraVpQdjVkQ0RkMm1iSjFtc3N1YXdZd2ZOQm9makRWdnl3cVlQNzJkTnp4ZlFuYU1wQVcxUHRzMFBVbVNveFJWWjd2Y04tLQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1md1lmalpRd1ZTUkFmbXBBRWxraVpQdjVkQ0RkMm1iSjFtc3N1YXdZd2ZOQm9makRWdnl3cVlQNzJkTnp4ZlFuYU1wQVcxUHRzMFBVbVNveFJWWjd2Y04tLQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "我国加速推进“人工智能+制造”专项行动 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pTy1RZjc4LUxBRTIwLVhLTTNEZkNsWDF2QWZjWFFRZGh6Q3dtU1lyMWJkNVJxdUJmVTdfWU02UE85dWQyRUJsdGh1R3FzZzV6Mm43TWx1cndMLTNGMnIxMlBCY3otd2lE?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pTy1RZjc4LUxBRTIwLVhLTTNEZkNsWDF2QWZjWFFRZGh6Q3dtU1lyMWJkNVJxdUJmVTdfWU02UE85dWQyRUJsdGh1R3FzZzV6Mm43TWx1cndMLTNGMnIxMlBCY3otd2lE?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "“321，上Token”：购物车里的AI - 半月谈",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmxWMm9ONWNaOXZHQlk5NUU3SUtiYzFia25kMVVEZzc2VFhxRWlXMnZjOHJRSFI4OWNJZlM5bmx0eVc3UVVoQUw4Q0JPUWFNUU0tWWRjX0FpM3NzeUNYY0ljUlVpdEdXenowN0NDU0NYcnVDdlRoU3F5UHpPUkFnNUxtdVFDTEplSU1udlFxOA?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmxWMm9ONWNaOXZHQlk5NUU3SUtiYzFia25kMVVEZzc2VFhxRWlXMnZjOHJRSFI4OWNJZlM5bmx0eVc3UVVoQUw4Q0JPUWFNUU0tWWRjX0FpM3NzeUNYY0ljUlVpdEdXenowN0NDU0NYcnVDdlRoU3F5UHpPUkFnNUxtdVFDTEplSU1udlFxOA?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "完整视频！重磅嘉宾热议工业AI大趋势：从概念验证走向价值兑现 - 中国经营网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VV3owTGlpWjBPZDlkUG5tUHFPMFQ3STNFTDUxMkUyWVlXUXc4RDFZT3BFSVprQ3RxcGZqSWRLaElTWkpyNVFyYzBDS1Y4bzRwcnY4c3I5N3VQcnBMR0huWGtB?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VV3owTGlpWjBPZDlkUG5tUHFPMFQ3STNFTDUxMkUyWVlXUXc4RDFZT3BFSVprQ3RxcGZqSWRLaElTWkpyNVFyYzBDS1Y4bzRwcnY4c3I5N3VQcnBMR0huWGtB?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI进课堂，带来哪些新变化 - 红网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjR04tZ1NiSjExUDVPRjVjN1RkamZ5LWRyVXYxeVFwN2MzYnlWNzYwSHgxNVQyTXoyUkNOdUZvbmRhRTVCSUJweU5pV0Y1UFRaVUEyZW82WWFhSC15TVBremFJRQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjR04tZ1NiSjExUDVPRjVjN1RkamZ5LWRyVXYxeVFwN2MzYnlWNzYwSHgxNVQyTXoyUkNOdUZvbmRhRTVCSUJweU5pV0Y1UFRaVUEyZW82WWFhSC15TVBremFJRQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "论文“质检”不能过多倚靠AI检测 - 中国教育新闻网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNczMwTElBZFRIbnhrZlV2S29lLURBYW9sUGFjV0RLR1lncUlfWW5aSTV3VWFwUy1sTnhkTURHLTVTSkJKZE5Qb3c3cGhsZW5SYUctTllJZ3NDekZjUXZ6S3NnVVMzSW5hcTRF?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNczMwTElBZFRIbnhrZlV2S29lLURBYW9sUGFjV0RLR1lncUlfWW5aSTV3VWFwUy1sTnhkTURHLTVTSkJKZE5Qb3c3cGhsZW5SYUctTllJZ3NDekZjUXZ6S3NnVVMzSW5hcTRF?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "【机电学院】依托AI激活课堂互动与过程评价专题实战工作坊举办 - 西北农林科技大学",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pSzZScE5IRUxCSjQzRDFNTHdSV054UHpPcGRMZy11LVE0UjhPT1lrZjBpTjVMdW1GSGl0TFJGSGZWUGVOYTBlNXZPemZLNnNCc2IyV2xCaEdpVjkzZXVPdE1qVnN4VUdBNXFqdzQtSEY2SV9kS1pr?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pSzZScE5IRUxCSjQzRDFNTHdSV054UHpPcGRMZy11LVE0UjhPT1lrZjBpTjVMdW1GSGl0TFJGSGZWUGVOYTBlNXZPemZLNnNCc2IyV2xCaEdpVjkzZXVPdE1qVnN4VUdBNXFqdzQtSEY2SV9kS1pr?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "AI智能体来“买买买”！沃尔玛接入Meta Muse 并为AI代购划定边界 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UZXBJYVdJS2hPNGZISHNrX3JRcVNzcUhIU0xYNC0yaGVxNHdCNG5XWVlDaTFhLXBkZ01kYU5aQ25STENQRFpIMg?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9UZXBJYVdJS2hPNGZISHNrX3JRcVNzcUhIU0xYNC0yaGVxNHdCNG5XWVlDaTFhLXBkZ01kYU5aQ25STENQRFpIMg?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "台青“新片场”丨AI短剧，爱续文脉 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qOVltLWhWWVZUamxzU3JOYWs1N0pRUDItM2kwM3RVaVlnOGNoV2o3dWtHUHhpelE5UGg1QWdtSzZyX20yR3NmTVlnNUpfU3lQc3BvNWk0VXJiM3d5NWQxR2dIWUZiYk9zYXRWNk9fdW1pdHY5U1M1NUdzUQ?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qOVltLWhWWVZUamxzU3JOYWs1N0pRUDItM2kwM3RVaVlnOGNoV2o3dWtHUHhpelE5UGg1QWdtSzZyX20yR3NmTVlnNUpfU3lQc3BvNWk0VXJiM3d5NWQxR2dIWUZiYk9zYXRWNk9fdW1pdHY5U1M1NUdzUQ?oc=5"
+    },
+    {
+      "source": "google-news",
+      "title": "国家数据局就《关于完善数据规则 赋能人工智能创新发展的若干意见》公开征求意见 - 中国新闻网",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93VjhsT2RtTFFLSmhZY0hkVl9pMlhzUmFHNlpta2h3MGFYcVFHQ0o0LTZRUWJ1bWgzN2JkMmFtVVoxYm1UNzhtRU94UWoxNTRTR1YyWDcwMkZzU0RpNFZQdGdwdVA1NE9n?oc=5",
+      "score": 0,
+      "comments": 0,
+      "discuss": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93VjhsT2RtTFFLSmhZY0hkVl9pMlhzUmFHNlpta2h3MGFYcVFHQ0o0LTZRUWJ1bWgzN2JkMmFtVVoxYm1UNzhtRU94UWoxNTRTR1YyWDcwMkZzU0RpNFZQdGdwdVA1NE9n?oc=5"
+    }
+  ]
+}
